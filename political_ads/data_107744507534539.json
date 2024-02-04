@@ -1,0 +1,229 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=884152709590099&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-29",
+        "ad_creative_bodies": [
+            "Finanční informace tohoto rozsahu šokovaly celou Českou republiku.\" Platforma, díky které budou obyčejní Češi bohatší"
+        ],
+        "ad_creative_link_captions": [
+            "imanhost.xyz"
+        ],
+        "ad_creative_link_titles": [
+            "Více informací👉"
+        ],
+        "ad_delivery_start_time": "2023-11-30",
+        "ad_delivery_stop_time": "2023-11-30",
+        "currency": "USD",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000361",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.046243",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.141618",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.088512",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.057442",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.033237",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.046604",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.050939",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.051662",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.108382",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.044798",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.064668",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.109465",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.120303",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.035766",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001456",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000728",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.010557",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002184",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.284674",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.243174",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.194394",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.035675",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.044412",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.016746",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.044776",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.077903",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.041136",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002184",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "2000",
+            "upper_bound": "2999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "107744507534539",
+        "page_name": "Lazynâni Official",
+        "publisher_platforms": [
+            "facebook",
+            "instagram",
+            "audience_network",
+            "messenger"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "30",
+            "65"
+        ],
+        "eu_total_reach": 2790,
+        "beneficiary_payers": [
+            {
+                "payer": "شركة الرحمن 3",
+                "beneficiary": "شركة الرحمن 3",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 668,
+                        "female": 113,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 782,
+                        "female": 122,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 534,
+                        "female": 98,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 214,
+                        "female": 46
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 123,
+                        "female": 29,
+                        "unknown": 2
+                    }
+                ]
+            }
+        ],
+        "_id": "884152709590099"
+    }
+]

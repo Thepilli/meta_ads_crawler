@@ -1,0 +1,157 @@
+[
+    {
+        "id": "984259719979081",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=984259719979081&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-02-01",
+        "ad_creative_bodies": [
+            "Dovolujeme si Vás pozvat na připomínku 2. výročí ruské invaze na Ukrajinu. Na akci promluví veřejní představitelé České republiky a Ukrajiny a další hosté. Vstup zdarma."
+        ],
+        "ad_delivery_start_time": "2024-02-01",
+        "bylines": "ODS Kolín",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.005063",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.03038",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.068354",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.24557",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.16962",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.197468",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.108861",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.055696",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.098734",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.012658",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.005063",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002532",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "332018473557072",
+        "page_name": "ODS Kolín",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Kolín, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "64"
+        ],
+        "eu_total_reach": 393,
+        "beneficiary_payers": [
+            {
+                "payer": "Michal Zapletal - Předseda ODS Kolín",
+                "beneficiary": "Michal Zapletal - Předseda ODS Kolín",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 27,
+                        "female": 2
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 39,
+                        "female": 5,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 78,
+                        "female": 12
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 97,
+                        "female": 22
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 67,
+                        "female": 43,
+                        "unknown": 2
+                    }
+                ]
+            }
+        ]
+    }
+]

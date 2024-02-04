@@ -1,0 +1,472 @@
+[
+    {
+        "id": "1137665774087879",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1137665774087879&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-02-01",
+        "ad_creative_bodies": [
+            "Zajímavý rodinný dům vyrostl v městské části Pardubice–Svítkov. Investor měl dvě hlavní přání, navrhnout moderní dům s členitou formou a uvnitř vytvořit výraznou betonovou stěnu. Výsledkem je kompaktní dům, který má tři základní prvky - přízemí, horizontální stropní desku a odlehčené ustupující patro. Toto členění je podtrhnuto využitím rozdílných fasádních materiálů. Výrazným prvkem architektury domu je horizontální deska s přesahem kolem celého obvodu. Tvoří zádveří, krytou terasu směrem do zahrady a podporuje charakter stavby.\nZa inspiraci děkujeme architektonickému studiu @0.5_studio\n#inspirace #bydleni #domov #living #tvbydleni #tvbydlenicz #home #architektura #inspiracebydleni"
+        ],
+        "ad_delivery_start_time": "2024-02-01",
+        "ad_delivery_stop_time": "2024-02-02",
+        "bylines": "Living Media s.r.o.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.046903",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.269912",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.10177",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.058407",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.040708",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.024779",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.029204",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.043363",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.099115",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.037168",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.046903",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.09292",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.059292",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.049558",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.007937",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.010582",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000882",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.024691",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.025573",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.060847",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.114638",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.112875",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.263668",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.178131",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.052028",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.069665",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.059965",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.014109",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.004409",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "213802435698566",
+        "page_name": "TVbydleni.cz",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 1134,
+        "beneficiary_payers": [
+            {
+                "payer": "Living Media s.r.o.",
+                "beneficiary": "Living Media s.r.o.",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 202,
+                        "female": 299,
+                        "unknown": 16
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 130,
+                        "female": 128,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 79,
+                        "female": 68,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 59,
+                        "female": 69
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 29,
+                        "female": 28
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 9,
+                        "female": 12
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "910320153885485",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=910320153885485&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-23",
+        "ad_creative_bodies": [
+            "Při výběru vodovodní baterie se nemusíte omezovat pouze na klasické chromové povrchy. Zkuste sáhnout třeba po měděném, bronzovém nebo zlatém odstínu v lesku či matu.🤩\n#bydleni #inspirace #tvbydleni #tvbydlenicz #design #koupelna #inspiracebydleni #home #bathroom #bathroomdesign #bathroomdecor #bydlime"
+        ],
+        "ad_delivery_start_time": "2024-01-24",
+        "ad_delivery_stop_time": "2024-01-27",
+        "bylines": "Living Media s.r.o.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.0584",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.0192",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.0552",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.0464",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.2464",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.1032",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.0552",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.0352",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.0272",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.0344",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.0808",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.0408",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.056",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.0816",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.06",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.007438",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.328099",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.015702",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002479",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.03719",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.079339",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.109091",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.033058",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.008264",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.009091",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.084298",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.17438",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.077686",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001653",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.030579",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000826",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000826",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "213802435698566",
+        "page_name": "TVbydleni.cz",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 1203,
+        "beneficiary_payers": [
+            {
+                "payer": "Living Media s.r.o.",
+                "beneficiary": "Living Media s.r.o.",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "65+",
+                        "male": 9,
+                        "female": 19,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 40,
+                        "female": 102,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 11,
+                        "female": 45
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 37,
+                        "female": 94,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 132,
+                        "female": 397,
+                        "unknown": 10
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 96,
+                        "female": 211,
+                        "unknown": 2
+                    }
+                ]
+            }
+        ]
+    }
+]

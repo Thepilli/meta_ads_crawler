@@ -1,0 +1,3073 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=718386919806322&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-21",
+        "ad_creative_bodies": [
+            "Pojizeří máme zkrátka v krvi! Po 5 letech jsme konečně v cíli a lávka stojí. 😊 \nSe starostou Kláštera Jiřím Navrátilem jsme se před pěti lety hecli a slíbili jsme si, že v místech, kde kdysi stál most přes Jizeru, postavíme lávku pro pěší a cyklisty a Mnichovo Hradiště tak opět v tomto bodu propojíme s Klášterem Hradiště nad Jizerou. 🌉\n\nPodepsali jsme proto memorandum, začali přesvědčovat naše zastupitele a shánět peníze. Trvalo to 5 let, ale podařilo se. Prostě, když máte odhodlání a vizi, sny se plnit dají."
+        ],
+        "ad_delivery_start_time": "2023-11-21",
+        "ad_delivery_stop_time": "2023-11-28",
+        "bylines": "Ondřej Lochman",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.004381",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.002115",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.993505",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000758",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.041408",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000758",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00091",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000303",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00182",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.046413",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.027908",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.167905",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.052935",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.068254",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.078872",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.199454",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.12756",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.059457",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.033824",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.090854",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000607",
+                "age": "18-24",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "page_id": "1771562699724929",
+        "page_name": "Ondřej Lochman",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "target_locations": [
+            {
+                "name": "Repin, Středočeský Kraj, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Chocnejovice, Liberec, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Mladá Boleslav, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 6611,
+        "beneficiary_payers": [
+            {
+                "payer": "STAROSTOVÉ A NEZÁVISLÍ",
+                "beneficiary": "STAROSTOVÉ A NEZÁVISLÍ",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 392,
+                        "female": 184,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 841,
+                        "female": 599,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 223,
+                        "female": 306,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 273,
+                        "female": 349,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 1107,
+                        "female": 520,
+                        "unknown": 12
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 1315,
+                        "female": 450,
+                        "unknown": 5
+                    }
+                ]
+            }
+        ],
+        "_id": "718386919806322"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=288964367183674&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-09-14",
+        "ad_creative_bodies": [
+            "🚧 Stavba zahájena! 🚧 \nMimoúrovňová kruhová křižovatka vyroste u Kosmonos. Její výstavba je klíčem pro ulehčení všem řidičům nejen na  mladoboleslavské \"Jičínce\", ale také pro Plazy, Židněves, Březno, Kolomuty, Řepov, Sukorady, Dlouhou Lhotu a mnoho dalších obcí, kterým komplikuje život dopravou na silnici I/16 z Mladé Boleslavi na Jičín. Na tuto křižovatku se totiž následně napojí Martinovická spojka. Kratší Jízdu to bude znamenat také pro občany Město Kosmonosy.  \n\n1️⃣ Kapacitní propojení: Hlavní uzel je klíčem pro dostatečně kapacitní propojení těchto důležitých silnic. To znamená plynulejší a bezpečnější cestování pro všechny.\n2️⃣ Zvýšení bezpečnosti: Zvýšení bezpečnosti dopravy v rámci napojení silnic vyšších tříd, včetně dálnice D10 a silnic I. třídy.\n3️⃣ Ulehčení všem řidičům: Stavba, na kterou se v budoucnu napojí Martinovická spojka, bude mít pozitivní dopad nejen na dopravu v Mladé Boleslavi, zejména v ulici Jičínská, ale také pro Plazy, Židněves, Březno, Kolomuty, Řepov, Dlouhou Lhotu nebo Sukorady.\n\nhttps://crzpravy.cz/doprava/ridice-na-dalnici-d10-ceka-omezeni-zacina-stavba-obri-krizovatky-u-kosmonos/?fbclid=IwAR0RZMtiGuj76wmextAAhsbufJ7mula1wh6BBTDmQmhTe_oCGDTwlCjst-g\n\nZdroj foto: ŘSD / Eurovia as"
+        ],
+        "ad_delivery_start_time": "2023-09-14",
+        "ad_delivery_stop_time": "2023-09-29",
+        "bylines": "Starostové a nezávislí",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.006061",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.001212",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.992727",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.00017",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.048428",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00068",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002209",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.034155",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.051147",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.025828",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.013254",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.086831",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.015123",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.028717",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.31079",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.233985",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.13237",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.014613",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001189",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00051",
+                "age": "18-24",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "8000",
+            "upper_bound": "8999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1771562699724929",
+        "page_name": "Ondřej Lochman",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "target_locations": [
+            {
+                "name": "Mladá Boleslav, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 5779,
+        "beneficiary_payers": [
+            {
+                "payer": "STAROSTOVÉ A NEZÁVISLÍ",
+                "beneficiary": "STAROSTOVÉ A NEZÁVISLÍ",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 1829,
+                        "female": 285,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 1377,
+                        "female": 301,
+                        "unknown": 13
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 152,
+                        "female": 78,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 169,
+                        "female": 89
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 779,
+                        "female": 201,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 511,
+                        "female": 86,
+                        "unknown": 3
+                    }
+                ]
+            }
+        ],
+        "_id": "288964367183674"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=693391272181772&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-09-14",
+        "ad_creative_bodies": [
+            "🚧 Zahájili jsme stavbu nové mimoúrovňové kruhové křižovatky Kosmonosy na dálnici D10 🛣️\n\nDnes jsme společně položili základní kámen pro budoucnost! Stát, Středočeský kraj a společnost Škoda Auto spojily své síly a pracují na stavbě hlavního uzlu, který propojí silnice I/16 (směr Jičín) a I/38 (směr Česká Lípa) a reálně řidičům ulehčí.\n\n1️⃣ Kapacitní propojení: Hlavní uzel je klíčem pro dostatečně kapacitní propojení těchto důležitých silnic. To znamená plynulejší a bezpečnější cestování pro všechny.\n\n2️⃣ Zvýšení bezpečnosti: Zvýšení bezpečnosti dopravy v rámci napojení silnic vyšších tříd, včetně dálnice D10 a silnic I. třídy.\n\n3️⃣ Ulehčení všem řidičům: Stavba, na kterou se v budoucnu napojí Martinovická spojka, bude mít pozitivní dopad nejen na dopravu v Mladé Boleslavi, zejména v ulici Jičínská, ale také pro Plazy, Židněves, Březno, Kolomuty, Řepov, Dlouhou Lhotu nebo Sukorady.\n\nhttps://crzpravy.cz/doprava/ridice-na-dalnici-d10-ceka-omezeni-zacina-stavba-obri-krizovatky-u-kosmonos/?fbclid=IwAR3VzepBdj-5Bevt4vgehgrawptFk-d4aGdOTxEELEQaHhJWAfYMFTvaCdw\n\nFoto vizualizace zdroj: Eurovia"
+        ],
+        "ad_delivery_start_time": "2023-09-14",
+        "ad_delivery_stop_time": "2023-09-15",
+        "bylines": "Starostové a nezávislí",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.004292",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.004292",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.991416",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.002128",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002128",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.038298",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.055319",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.108511",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.176596",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.059574",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.031915",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.204255",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.153191",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.046809",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.044681",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.019149",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.053191",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.004255",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1771562699724929",
+        "page_name": "Ondřej Lochman",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Mladá Boleslav, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 464,
+        "beneficiary_payers": [
+            {
+                "payer": "STAROSTOVÉ A NEZÁVISLÍ",
+                "beneficiary": "STAROSTOVÉ A NEZÁVISLÍ",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 51,
+                        "female": 9,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 96,
+                        "female": 21
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 83,
+                        "female": 18,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 72,
+                        "female": 25
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 22,
+                        "female": 26,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 15,
+                        "female": 28
+                    }
+                ]
+            }
+        ],
+        "_id": "693391272181772"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=763934382171736&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-09-06",
+        "ad_creative_bodies": [
+            "V Horním Slivně bylo rušno, slavilo se 800 let obce. Vyborné kapely, program pro malé i velké, ale hlavně se místní společně potkali a oslavili pořádné narozeniny svého domova. Moc rád jsem dorazil pogratulovat s podporou od Středočeský kraj - oficiální stránka, který oslavy podpořil padesáti tisíci. Díky za pozvání panu starostovi a díky všem co oslavy připravovali, skvělá práce! Všem Hornoslivenským hodně zdraví a obci vše nejlepší do dalších let. Obec Horní Slivno oficiální."
+        ],
+        "ad_delivery_start_time": "2023-09-06",
+        "ad_delivery_stop_time": "2023-09-09",
+        "bylines": "Starostové a nezávislí",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.00132",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00165",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.089439",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.067987",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.170957",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.127063",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.024422",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.10165",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.080528",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.162706",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.017492",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.092739",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.017492",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.043564",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00099",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "5000",
+            "upper_bound": "5999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1771562699724929",
+        "page_name": "Ondřej Lochman",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "300",
+            "upper_bound": "399"
+        },
+        "target_locations": [
+            {
+                "name": "Meceriz, Středočeský Kraj, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Horní Slivno, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 2990,
+        "beneficiary_payers": [
+            {
+                "payer": "STAROSTOVÉ A NEZÁVISLÍ",
+                "beneficiary": "STAROSTOVÉ A NEZÁVISLÍ",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 53,
+                        "female": 53
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 244,
+                        "female": 281,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 385,
+                        "female": 518,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 308,
+                        "female": 493,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 132,
+                        "female": 271
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 74,
+                        "female": 206
+                    }
+                ]
+            }
+        ],
+        "_id": "763934382171736"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=813486853537969&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-06-14",
+        "ad_creative_bodies": [
+            "Od začátku příštího roku bude možné nelegálně umístěné reklamní konstrukce odstraňovat efektivněji a rychleji. 🛣 Ale pokud vás nebo vaši obec trápí na černo umístěné billboardy už teď, můžete se kouknout do \"kuchařky pro obce\", do které jsme sepsali možnosti, které máte už dnes. 👍\n\nVice na www.ondrejlochman.cz/nelegalnireklama/"
+        ],
+        "ad_delivery_start_time": "2023-06-14",
+        "ad_delivery_stop_time": "2023-06-19",
+        "bylines": "Starostové a nezávislí",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.03647",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.065125",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.345164",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.240964",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.228264",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.077499",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.003256",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001954",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001303",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "5000",
+            "upper_bound": "5999"
+        },
+        "page_id": "1771562699724929",
+        "page_name": "Ondřej Lochman",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "500",
+            "upper_bound": "599"
+        },
+        "_id": "813486853537969"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=675370007400123&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-12-16",
+        "ad_creative_bodies": [
+            "Reklamní šmejdi u našich silnic. Jak s nimi bojovat? \n➡️ Bohužel některé společnosti objevily cestu, jak znepříjemnit život obcím, městům, krajům i majitelům pozemků a vydělávat podvodem na černo umístěných reklamních plochách. Hledají kličky mezi zákony, využívají bílé koně a zneužívají nejasných postupů, jak tyto situace řešit. Zároveň pronajímají reklamní plochu na nepovolených místech a tím obelhávají i ty, co si reklamu zadali.\n\nCelý tento problém mě štve a mrzí jako poslance a bývalého starostu. Mrzí mě to ale především za samosprávy – obce, města a kraje, které musí zdlouhavě s těmito šmejdy bojovat.  \n\n➡️ Sezval jsem proto zástupce Ministerstva průmyslu a obchodu, Ministerstva dopravy a Policie ČR, abychom našli efektivní nástroje, jak těmto praktikám zamezit.  \n\nVýsledkem našich diskusí by měla být přehledná „kuchařka“, která by obcím představila jasné a legální možnosti, jak tyto situace řešit. Věřím, že ji budu moci samosprávám poskytnout na začátku nového roku.  \n\n➡️ To však není vše. Situaci budeme řešit i po legislativní stránce. Ti, kteří jsou poškozeni mají být v právu a nemůžou se bát nelegální reklamu odstraňovat. Aby to tak mohlo být, musí mít oporu v zákoně."
+        ],
+        "ad_delivery_start_time": "2022-12-16",
+        "ad_delivery_stop_time": "2022-12-20",
+        "bylines": "Starostové a nezávislí",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.045593",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.175616",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.114826",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.050321",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.047281",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.024654",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.047619",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.055049",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.089159",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.043229",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.064505",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.127322",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.07565",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.039176",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.588012",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.411988",
+                "age": "45-54",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "500001",
+            "upper_bound": "1000000"
+        },
+        "impressions": {
+            "lower_bound": "4000",
+            "upper_bound": "4999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1771562699724929",
+        "page_name": "Ondřej Lochman",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "500",
+            "upper_bound": "599"
+        },
+        "_id": "675370007400123"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=4289230241191580&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2021-10-06",
+        "ad_creative_bodies": [
+            "Mladoboleslavská nemocnice konečně nabídne kvalitní jídlo pro pacienty a personál. Dočkají se nové kuchyně a jídelny pro 21. století 🏥\n\nPrávě dnes byla zahájena stavba nové zaměstnanecké jídelny Klaudiánova nemocnice, a.s. v Mladé Boleslavi, nemocniční personál se tak dočká příjemného stravovacího provozu a pacienti kvalitního jídla až k lůžku. Navíc vyroste v areálu nemocnice pěkný objekt se zelenou střechou. Jsem rád, že se nám s kolegy z krajského zastupitelstva daří posouvat péči o zdraví nás všech kupředu. Díky kolegům z předstvenstva nemocnice, Daniel Marek a Ladislavovi Řípovi, a také krajskému radnímu pro oblast zdravotnictví Pavel Pavlík.\n\nNemocnici v současnosti kapacitní gastro provoz schází. Personál, kuchaři a kuchařky a lidé, kteří jídlo v nemocni připravují, tak budou mít do roka ty nejlepší podmínky pro vaření.  Změní se to nejen díky výstavbě stravovacího pavilonu, ale také díky nové tabletové lince a tabletovému kontejneru. Ty přinesou komfort všem pacientům, kteří budou mít jídlo servírované v termoboxech v odpovídající dietě, gramáži, teplotě, a tak i kvalitě. Omezí se zároveň počet osob, který s jídlem manipuluje.\n\nSnažíme se, aby nemocnice i pacienti měli co nejpříjemnější podmínky pro práci i léčbu. Dalším společným milníkem, na kterém teď pracujeme, musí být nové zázemí porodnice, gynekologie a dětského oddělení, tedy pavilon pro matku a dítě. Držte nám palce, uděláme maximum, aby náš region měl pro maminky a děti kvalitní a příjemné zázemí.\n\nℹ Další informace a fotografie ze zahájení stavby naleznete zde: http://www.klaudianovanemocnice.cz/vismo/dokumenty2.asp?id=2518&n=zahajili-jsme-stavbu-noveho-stravovaciho-provozu"
+        ],
+        "ad_delivery_start_time": "2021-10-06",
+        "ad_delivery_stop_time": "2021-10-10",
+        "bylines": "Starostové a nezávislí",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.0056",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.012091",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.982309",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001806",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000387",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000258",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000258",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.034185",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.076238",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.249871",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.151961",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.156218",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.177761",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.095072",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.017931",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.022446",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.015609",
+                "age": "55-64",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1771562699724929",
+        "page_name": "Ondřej Lochman",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "_id": "4289230241191580"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=151509977185766&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2021-09-30",
+        "ad_creative_bodies": [
+            "Roky pečuji o rodné město a Pojizeří. Obnovuji a starám se o naše tradice. Rozdávám české vlajky, aby se do našeho kraje vrátila hrdost. Do Středočeského kraje, regionu Mnichovohradišťska, do Českého ráje. Celý život věřím, že má tahle země na víc, než jen oligarchy a papaláše v čele, kteří si z Česká tvoří vlastní podnikatelský byznys.\nJsem Ondřej Lochman a vrátím nám důvěru ve stát, na který budeme společně hrdí.\n\n#vratmezemibudoucnost #piratiastarostove\nhttps://www.piratiastarostove.cz/kandidati/mgr-ondrej-lochman-phd/\n\nZadavatel/zpracovatel: Piráti a Starostové"
+        ],
+        "ad_creative_link_titles": [
+            "Jsem Ondřej Lochman a vrátím nám důvěru ve stát, na který budeme společně hrdí"
+        ],
+        "ad_delivery_start_time": "2021-10-03",
+        "ad_delivery_stop_time": "2021-10-09",
+        "bylines": "Starostové a nezávislí",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000284",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.058329",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002049",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.078329",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.149031",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.053759",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.120615",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.113034",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.086304",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000709",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.04238",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.054563",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.174988",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.04476",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.019165",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000867",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000315",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00052",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "500001",
+            "upper_bound": "1000000"
+        },
+        "impressions": {
+            "lower_bound": "100000",
+            "upper_bound": "124999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1771562699724929",
+        "page_name": "Ondřej Lochman",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "_id": "151509977185766"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=393434205585456&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2021-09-30",
+        "ad_creative_bodies": [
+            "V pondělí se uslyšíme 👂🏻📞 na lince callcentra Pirátů a Starostů, kde budu společně s Klára Kocmanová od 10 do 12 hodin odpovídat na to, co vás zajímá, trápí, o čem máte pochybnosti nebo čemu fandíte. Brnkněte nám na 227 272 760.\n\nVolby jsou už za pár dní, v pátek 8. a v sobotu 9. října přijďte do volebních místností. Jakou další kapitolu Česko napíše bude záležet právě na vás, vašich hlasech, vaší účasti. Vraťme zemi budoucnost!\n.\n.\n.\nZadavatel/zpracovatel: Piráti a Starostové"
+        ],
+        "ad_delivery_start_time": "2021-10-01",
+        "ad_delivery_stop_time": "2021-10-04",
+        "bylines": "Starostové a nezávislí",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.057827",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.135095",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.205384",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.148554",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.224826",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.224826",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000997",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000997",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001496",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "3000",
+            "upper_bound": "3999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1771562699724929",
+        "page_name": "Ondřej Lochman",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "_id": "393434205585456"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1544299409241724&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2021-09-02",
+        "ad_creative_bodies": [
+            "Opravdová Brána do Českého ráje, neboli sen mnoha Hradištáků o lávce přes dálnici na Horku je zase o kus blíže. Ateliér architekta Josefa Pleskota předložil finální studii lávky přes D10. A tady je!\n\nVrháme se do projektování a shánění potřebných financí. Držte nám palce. A Nadační fond ŠKODA AUTO děkujeme za finance, kterými byla podpořena projektová příprava, děkujeme i za nadále nabízenou spolupráci a stejně tak spolupráci v případě celé řady dalších investic.\n\nO lávce píšeme i v dnes vydaném zářijovém čísle Kamelotu: https://zpravodaj.mobilnirozhlas.cz/mnhradiste/zari-2021/"
+        ],
+        "ad_delivery_start_time": "2021-09-02",
+        "ad_delivery_stop_time": "2021-09-09",
+        "bylines": "Starostové a nezávislí",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.003151",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.000191",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.002101",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.994557",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000571",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.187065",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.094771",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.026193",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002191",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.090485",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.026002",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.225641",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.026288",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00019",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.104962",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.099819",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.058958",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.036861",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000762",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000286",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.018954",
+                "age": "65+",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "20000",
+            "upper_bound": "24999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1771562699724929",
+        "page_name": "Ondřej Lochman",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "_id": "1544299409241724"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=3051695858446753&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2021-08-09",
+        "ad_creative_bodies": [
+            "V pátek do regionu přijel ministr Havlíček. Stát nedal peníze kraji na propady příjmů v dopravě, tedy i lokálek, a teď se po něm vozí. A takhle se na návštěvu ministra připravovali v Boleslavi. Co mi to jenom připomíná, pane Potěmkine? Jinak jsem se na výlet pana ministra jel podívat a takhle to dopadlo: https://www.facebook.com/ondrejlochmanstarosta/videos/518815432527889\n\nhttps://zdopravy.cz/mladoboleslavske-zanedbane-nadrazi-necekane-prokouklo-pred-navstevou-ministra-88444/"
+        ],
+        "ad_creative_link_captions": [
+            "zdopravy.cz"
+        ],
+        "ad_creative_link_descriptions": [
+            "Drobné opravy probíhaly i na nádraží ve Mšeně. Ministr jede na Mladoboleslavsko řešit redukci provozu na lokálních tratích, kraj k debatě nepřizval."
+        ],
+        "ad_creative_link_titles": [
+            "Zanedbané mladoboleslavské nádraží nečekaně prokouklo před návštěvou ministra - Zdopravy.cz"
+        ],
+        "ad_delivery_start_time": "2021-08-09",
+        "ad_delivery_stop_time": "2021-08-12",
+        "bylines": "Starostové a nezávislí",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000624",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.046816",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.027466",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000312",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.093633",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.069288",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.02965",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.080212",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.166355",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000936",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.114544",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.084582",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.037141",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.060237",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.186017",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000312",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000936",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000936",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "4000",
+            "upper_bound": "4999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1771562699724929",
+        "page_name": "Ondřej Lochman",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "300",
+            "upper_bound": "399"
+        },
+        "_id": "3051695858446753"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=343332884120323&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2021-08-02",
+        "ad_creative_bodies": [
+            "Komunitní centrum v Mírové ulici usiluje o titul Stavba roku, pojďme ho podpořit! 🏆 Hlasovat můžete v kategorii StavbaRoku.cz a Stavba roku Středočeského kraje. Multifunkční objekt, který jsme dokončili v minulém roce 2020 nabízí zázemí jak pro sociální služby a volnočasové aktivity v prvním patře, tak v přízemí pro školní kuchyni a jídelnu základní školy a školky.\n\nStavba vzešla z architektonické soutěže, z pera Projektil architekti (oficiální profil). Pojďme společně hlasy vyhoupnout naše Komunitko výš, pojďme tím podpořit a prezentovat naše město Mnichovo Hradiště v konkurenci staveb z celé republiky.\n\n→ Hlasovat můžete v obou kategoriích zde: http://www.stavbaroku.cz/homepage.jsp"
+        ],
+        "ad_delivery_start_time": "2021-08-03",
+        "ad_delivery_stop_time": "2021-08-08",
+        "bylines": "Starostové a nezávislí",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.025848",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.011395",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.962757",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000561",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000281",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.003647",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.084993",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.057504",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.127069",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.14979",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.221879",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.093408",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.22216",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.03871",
+                "age": "45-54",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "6000",
+            "upper_bound": "6999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1771562699724929",
+        "page_name": "Ondřej Lochman",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "300",
+            "upper_bound": "399"
+        },
+        "_id": "343332884120323"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=2985393971705317&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2021-08-02",
+        "ad_creative_bodies": [
+            "Velká, velká radost. Lávka přes Jizeru z Mnichovo Hradiště na Klášter Hradiště nad Jizerou bude! \n\nNa lávku pro cyklisty a pěší, která je součástí cyklotrasy Greenway Jizera se nám podařilo získat 10,2 milionu Kč ze Státní fond dopravní Infrastruktury. Přípravu projektu již dříve podpořil Nadační fond ŠKODA AUTO - Nové Boleslavsko 500 tisíci Kč.\n\nStavbu lávky připravuje společně s obcí Klášter Hradiště nad Jizerou. Díky zastupitelům obou obcí a Jiřímu Navrátilovi, kolegovi starostovi z Kláštera, že do toho s námi šli. \n\nPříští rok tak může lávka sloužit lidem. Držte nám palce ať se vše podaří. \n\n📁 Popis stavebního záměru zde: https://www.mnhradiste.cz/radnice/investice-a-projekty/pripravovane/lavka-u-cerne-silnice-pres-jizeru\n\nℹ Informace k přiznané dotaci zde: \nhttps://www.sfdi.cz/soubory/prispevky/c-prisp_1-schvalene/prispevky_cyklo_2021.pdf"
+        ],
+        "ad_delivery_start_time": "2021-08-02",
+        "ad_delivery_stop_time": "2021-08-08",
+        "bylines": "Starostové a nezávislí",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000415",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.003318",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.119453",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.219826",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.117379",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.173787",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.157611",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.060971",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.068436",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.078391",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000415",
+                "age": "18-24",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "5001",
+            "upper_bound": "10000"
+        },
+        "impressions": {
+            "lower_bound": "5000",
+            "upper_bound": "5999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1771562699724929",
+        "page_name": "Ondřej Lochman",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "300",
+            "upper_bound": "399"
+        },
+        "_id": "2985393971705317"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=325895175405949&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2020-09-25",
+        "ad_creative_bodies": [
+            "Kraj potřebuje změnu. Záleží nám na krajině, kde jsme doma. Máme skvělý a zkušený tým starostek a starostů, který ví, jak se starat o obce a jak pečovat o své občany. Kraj nás všechny zaštiťuje, a k tomu potřebuje ve svém čele odpovědné a zkušené lidi – své zkušenosti proto jako Starostové a nezávislí nabízíme pro milion občanů celého Středočeského kraje. Pojďte to říct svým hlasem 2. a 3. října k volbám.\n#KrajPotrebujeZmenu"
+        ],
+        "ad_creative_link_captions": [
+            "starostovestrednicechy.cz"
+        ],
+        "ad_creative_link_titles": [
+            "Kraj potřebuje změnu – Ondřej Lochman, starosta Mnichova Hradiště"
+        ],
+        "ad_delivery_start_time": "2020-09-25",
+        "ad_delivery_stop_time": "2020-10-02",
+        "bylines": "Starostové a nezávislí",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000333",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.999667",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000402",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.110798",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.131778",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.101951",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.083048",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.036061",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.165427",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.050003",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.045915",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000402",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.045445",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.137945",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.022924",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.064951",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001341",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001005",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000268",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000335",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "35000",
+            "upper_bound": "39999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1771562699724929",
+        "page_name": "Ondřej Lochman",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "3000",
+            "upper_bound": "3499"
+        },
+        "_id": "325895175405949"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=788537748581294&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2020-09-07",
+        "ad_creative_bodies": [
+            "Komunitní centrum otevřeno!"
+        ],
+        "ad_delivery_start_time": "2020-09-07",
+        "ad_delivery_stop_time": "2020-09-09",
+        "bylines": "Starostové a nezávislí",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.022732",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.977268",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001193",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000477",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000239",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000716",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.026724",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.010021",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.11644",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.11477",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.087091",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.188022",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.176569",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.079456",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.141971",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.056311",
+                "age": "45-54",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "8000",
+            "upper_bound": "8999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1771562699724929",
+        "page_name": "Ondřej Lochman",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "500",
+            "upper_bound": "599"
+        },
+        "_id": "788537748581294"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1707701566071592&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2020-08-18",
+        "ad_creative_bodies": [
+            "Za jediný rok 7 nehod na jedné křižovatce. 😱 To je katastrofální bilance! Budu dál usilovat o to, aby kraj namísto nebezpečné křižovatky vybudoval kruháč a konečně se tudy dalo jezdit bezpečně.\n\nNatočili jsme mimo jiné k celému problému s touhle křižovatkou video se Starostka Petra Pecková: https://www.facebook.com/ondrejlochmanstarosta/posts/2848690948678760"
+        ],
+        "ad_creative_link_captions": [
+            "boleslavsky.denik.cz"
+        ],
+        "ad_creative_link_descriptions": [
+            "Situace na nebezpečné křižovatce u sjezdu z dálnice (u čerpací stanice KM Prona) v Mnichově Hradišti se jen tak nezlepší. Přestože běžela příprava projektu, podle něhož by zde vznikla okružní křižovatka, kraj v těchto místech silnici jen opravil. Tím se zamýšlený projekt..."
+        ],
+        "ad_creative_link_titles": [
+            "Za rok sedm nehod. Kraj místo výstavby kruhového objezdu opravil křižovatku"
+        ],
+        "ad_delivery_start_time": "2020-08-18",
+        "ad_delivery_stop_time": "2020-08-20",
+        "bylines": "Starostové a nezávislí",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.001381",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.998619",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.002237",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.115049",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.0378",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.136717",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.213495",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.069713",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.095855",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.067829",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.202073",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.02155",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.035563",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000824",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000236",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00106",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1771562699724929",
+        "page_name": "Ondřej Lochman",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "800",
+            "upper_bound": "899"
+        },
+        "_id": "1707701566071592"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1000158180421647&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2020-08-03",
+        "ad_creative_bodies": [
+            "Vzpomínáte na televizní pořad Občanské judo? Tím vás dříve provázela dnešní starostka Mnichovic u Prahy, Petra Pecková. Dorazila za námi do Mnichova Hradiště i na víkendovou Anenskou pouť a Benefici pro Honzíka.\n\nStarostka Petra Pecková je vždy na straně občanů, dříve jako novinářka, dnes v roli starostky svých rodných Mnichovic, a já věřím, že od října jako budoucí hejtmanka Středočeského kraje.\n\nTenhle kraj potřebuje změnu a Petra je pro mě garancí, že je to změna, která má smysl. #krajpotrebujezmenu\n\nZadavatel/zpracovatel: Starostové a nezávislí · STAN"
+        ],
+        "ad_delivery_start_time": "2020-08-03",
+        "ad_delivery_stop_time": "2020-08-05",
+        "bylines": "Starostové a nezávislí",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.0031",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.9969",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001423",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000259",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.008149",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.005562",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.11124",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001293",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.091709",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.073988",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.17294",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.12327",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.133101",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.136593",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.140085",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000388",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "15000",
+            "upper_bound": "19999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1771562699724929",
+        "page_name": "Ondřej Lochman",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "_id": "1000158180421647"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1043067196113547&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2020-07-28",
+        "ad_creative_bodies": [
+            "Těšil jsem se na slavnostní výkop s Honzou Kollerem jako malý kluk. A nakonec mi výkop vyfoukl ten můj malý kluk. ❤️\n\nDíky Mnichovohradišťský SK za organizaci úžasné víkendové benefiční akce na podporu Honzíka Hanuše – Benefice pro Honzíka. Přijet našemu Hradišťákovi, který se bez pomoci druhých bohužel neobejde, dorazily hvězdy fotbalové, hvězdy hudební, televizní. Díky za vaši energii nejen na hřišti!\n\nNejvětší boj tu mimo zelené pole svádí sám Honzík Hanuš, narodil se totiž s vývojovou vadou a ve svém malém těle zápasí s tzv. Westovým syndromem. Potřebuje absolvovat rehabilitace, které jsou však finančně velmi nákladné – a tady můžeme Honzíkovi pomoct k co nejlepšímu skóre proti těžkému soupeři právě my, a to příspěvkem na transparentním účtu 2901825500/2010\n\nDalší podrobnosti najdete i na https://mnichovohradistsky-sportovni-klub.webnode.cz\n\nDíky všem, že jste přispěli a přispíváte.\nDíky za fotku se synkem."
+        ],
+        "ad_delivery_start_time": "2020-07-28",
+        "ad_delivery_stop_time": "2020-07-30",
+        "bylines": "Starostové a nezávislí",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.003191",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.996809",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.004426",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.092422",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.142705",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.148725",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.222025",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.039483",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.098442",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.163775",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.080737",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.005312",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001416",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000354",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000177",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "9000",
+            "upper_bound": "9999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1771562699724929",
+        "page_name": "Ondřej Lochman",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "_id": "1043067196113547"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=354383168909265&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2020-07-28",
+        "ad_creative_bodies": [
+            "Těšil jsem se na slavnostní výkop s Honzou Kollerem jako malý kluk. A nakonec mi výkop vyfoukl ten můj malý kluk. ❤️\n\nDíky Mnichovohradišťský SK za organizaci úžasné víkendové benefiční akce na podporu Honzíka Hanuše – Benefice pro Honzíka. Přijet našemu Hradišťákovi, který se bez pomoci druhých bohužel neobejde, dorazily hvězdy fotbalové, hvězdy hudební, televizní... Díky všem, že jste přispěli svou částkou, energií, svou účastí. Díky za fotku se synkem."
+        ],
+        "ad_delivery_start_time": "2020-07-28",
+        "ad_delivery_stop_time": "2020-07-28",
+        "bylines": "Starostové a nezávislí",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.108434",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.148594",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.064257",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.032129",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.140562",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.261044",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.15261",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.084337",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.008032",
+                "age": "55-64",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1771562699724929",
+        "page_name": "Ondřej Lochman",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "_id": "354383168909265"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=298952507931190&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2020-05-29",
+        "ad_creative_bodies": [
+            "Černý den pro obce se stává dneškem krutou realitou. 🏴\n\nVláda ANO, ČSSD a KSČM ukousla ještě větší sousto demokracie. Bere nám svobodu a možnost pomáhat v regionech, rozdělovat samosprávně finance tam, kde to je nejvíce lokálně potřeba. Teď se bude stát řídit ještě více z Prahy. Obce ničí ekonomický dopad pandemie koronaviru, a teď vláda za bílého dne vyloupila obecní a krajské kasy.\n\nTenhle bonus nás, 6250 obcí, vyjde draho. Na více než 11 miliard.\nPříjmy našeho města Mnichovo Hradiště budou už letos směřovat do mínusu, kolem 30 až 35 milióny Kč (viz https://www.smscr.cz/kalkulacka/rud/index.html ).\n\nBude to znamenat nutné zastavení investic, nutné zastavení běžných oprav. Ušetřené peníze, které jsme za poslední roky nastřádali na opravy škol, školek, silnic, sídliště, náměstí, padnou na vládní sliby, o kterých se bez nás Hradišťáků rozhodlo v Praze na záplatování výpadku ekonomiky. Politickými dotacemi pak budou jednotlivá ministerstva nutit jednotlivé zástupce obcí k poslušnosti nebo převlečení trika do „správného“ týmu.\n\nZastupitelstvo se bude rozhodovat v průběhu roku, co všechno seškrtat letos, a co příští rok. \n\nANO, bude hůř. #cernydenproobce"
+        ],
+        "ad_delivery_start_time": "2020-05-29",
+        "ad_delivery_stop_time": "2020-05-31",
+        "bylines": "Starostové a nezávislí",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000398",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.014938",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000126",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000188",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000921",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.093456",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.018599",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.124106",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.030796",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000983",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.066718",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.131135",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.116888",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.127641",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.196577",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.013494",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.062911",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000126",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "500001",
+            "upper_bound": "1000000"
+        },
+        "impressions": {
+            "lower_bound": "45000",
+            "upper_bound": "49999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1771562699724929",
+        "page_name": "Ondřej Lochman",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "1500",
+            "upper_bound": "1999"
+        },
+        "_id": "298952507931190"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1906235489510907&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2020-05-22",
+        "ad_creative_bodies": [
+            "Díky Věslav Michalik za výzvu v rámci štafety „Poděkuj hrdinům obce“\n\nMé poděkování patří více než 100 dobrovolníkům, kteří během stavu nouze pomáhali. Jeden příklad za všechny: na začátku stavu nouze jsme nutně potřebovali řidiče, kteří budou rozvážet nákupy seniorům, roušky, dezinfekci... Michal Šosvald reagoval jako první a k dispozici byl každý den více než měsíc. Michale, obrovské díky za stovky dobrovolnicky ujetých kilometrů k seniorům, ke starostům v menších obcích, k lékařům!\n\nNominuji starostu Jiřího Beneše z Přerov nad Labem a Martin Exner z Obec Nová Ves. \n#StarostoveDekuji #SkutecniHrdinove #Hrdinovednesnichdni"
+        ],
+        "ad_delivery_start_time": "2020-05-23",
+        "ad_delivery_stop_time": "2020-05-24",
+        "bylines": "Starostové a nezávislí",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000228",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.145747",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.02164",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.013392",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.063701",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.109295",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.08755",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.118042",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.080214",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000167",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.171173",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.018143",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.133117",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000894",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000736",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "9.6E-5",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000298",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.035567",
+                "age": "55-64",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "500001",
+            "upper_bound": "1000000"
+        },
+        "impressions": {
+            "lower_bound": "100000",
+            "upper_bound": "124999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1771562699724929",
+        "page_name": "Ondřej Lochman",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "5000",
+            "upper_bound": "5999"
+        },
+        "_id": "1906235489510907"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=202842517809299&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2020-03-23",
+        "ad_creative_bodies": [
+            "Tohle byl nejtěžší týden mého starostování za celých 6 let. \n\nMinulou neděli ráno jsem si uvědomil, že je fakt zle. Došlo mi, že nemoc je kolem nás, nemáme žádné ochranné pomůcky a v lidech se začíná stupňovat strach z nákazy, o které víme tak málo. Začal jsem dělat to, co umím: zapojil jsem lidi, nasadil tempo o několik stupňů rychlejší. Na stovky telefonátů si zvyknete raz dva, stejně tak jako na nedostatek spánku, ale na komentáře – na nás nezbylo vy blbci – když prostě roušek nemáte dostatek, přitom se snažíte zajistit rovným dílem ty nejohroženější: zdravotníky, policisty, hasiče, seniory, dobrovolníky nosící nákupy babičkám a dědečkům domů, na tuhle nenávist kapacitu nemáte... Mockrát jsem se v týdnu probudil a měl pocit, že to celé není pravda. Mockrát jsem byl během týdne blízko slzám a křiku z frustrace, neuvěření z toho, do jak absolutně absurdní situace jsme se dostali. \n\nJe 21. století, století technologií, a my se zachraňujeme šicími stroji a mícháním desinfekcí jak u materialisty ve filmech pro pamětníky. Dopadli jsme tvrdě na zem. Pro současnou generaci musí být tato zkušenost prostorem pro zastavení se, přehodnocení toho, kam dále směřovat. Toho, že ekonomický výkon a nekonečný růst prostě není možný, jinak vede k vnitřnímu zhroucení systému do sebe. \n\nK zhodnocení bude ještě dost času v dalších týdnech, jsme totiž teprve na začátku boje. To první ale víme jistě. V kritické chvíli kdy stát selže, dokáží lidé, spolky, firmy a radnice zatáhnout pořádně za jeden provaz. Moc děkuji za vaši energii, nadšení, odhodlání v uplynulém týdnu. Jsem na vás hrdý!\n\nOndřej \nVáš starosta"
+        ],
+        "ad_delivery_start_time": "2020-03-23",
+        "ad_delivery_stop_time": "2020-03-25",
+        "bylines": "Starostové a nezávislí",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.001361",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.018768",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.01555",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.964321",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000377",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000293",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.199531",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.066734",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.142588",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.081921",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.086398",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.104096",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.164177",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.143843",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.0041",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.003849",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001297",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000795",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "20000",
+            "upper_bound": "24999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1771562699724929",
+        "page_name": "Ondřej Lochman",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "600",
+            "upper_bound": "699"
+        },
+        "_id": "202842517809299"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=541040719852252&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2020-03-19",
+        "ad_creative_bodies": [
+            "1000 roušek denně vyrobí švadleny v Mnichově Hradišti, které doteď šily pracovní kalhoty. Dáváme je lékařům, ošetřovatelkám, lékárníkům, hasičů, prodavačkám, … všem, kteří jsou v první linii. Jako starosta jsem měl na výběr. Sedět a čekat, než stát něco pošle nebo hledat řešení. Našli jsme ho! Švadleny, živnostníci a dobrovolníci jsou s lékaři hrdiny dnešních dní. Děkuji Vám, jsem na vás hrdý!"
+        ],
+        "ad_delivery_start_time": "2020-03-19",
+        "ad_delivery_stop_time": "2020-03-22",
+        "bylines": "Starostové a nezávislí",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.00257",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.018422",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.017051",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.961957",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.191944",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.142641",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.089385",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.146873",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.098915",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.083163",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.168932",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.067466",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001205",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.004373",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000364",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.003532",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00028",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000925",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "35000",
+            "upper_bound": "39999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1771562699724929",
+        "page_name": "Ondřej Lochman",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "_id": "541040719852252"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=496986474314318&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2020-03-11",
+        "ad_creative_bodies": [
+            "Nový stadion Josefa Hrona, po 66 letech nový dopravní terminál, dokončujeme chytrou krabičku Komunitního centra a začínat brzy budeme s rekonstrukcí Masarykova náměstí. 🏗 V loňském roce se nám povedlo obnovit cestu od zámku do Hoškovic v rámci projektu Starostové a nezávislí • STAN 1000 + 1 cesta pro krajinu, tu jsme doplnili o nově vysázenou třešňovkou. \n\nMěsto Mnichovo Hradiště krok po kroku měníme, do ovlivňování jeho rozvoje zapojujeme veřejnost a snažíme se jít s trendy – ladíme veškeré nástroje smart cities, které usnadní komunikaci města s občany a naopak. Starostování je radost, když máte skvělý tým a můžete vidět ovoce vaší práce. Kdo jste v Hradišti ještě neměl tu čest, srdečně vás do brány Českého ráje zvu! 🙂"
+        ],
+        "ad_creative_link_titles": [
+            "Mnichovo Hradiště se pyšní mnoha úspěšnými projekty"
+        ],
+        "ad_delivery_start_time": "2020-03-12",
+        "ad_delivery_stop_time": "2020-03-13",
+        "bylines": "Starostové a nezávislí",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.017198",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.010226",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.972534",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "4.2E-5",
+                "region": "Unknown"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.177639",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.170189",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.070803",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.136597",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.166779",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.109657",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.095344",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.057754",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.006609",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000842",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001473",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.005514",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000547",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000253",
+                "age": "18-24",
+                "gender": "unknown"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "60000",
+            "upper_bound": "69999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1771562699724929",
+        "page_name": "Ondřej Lochman",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "3500",
+            "upper_bound": "3999"
+        },
+        "_id": "496986474314318"
+    }
+]

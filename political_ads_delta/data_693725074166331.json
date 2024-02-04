@@ -1,0 +1,3420 @@
+[
+    {
+        "id": "335842392772530",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=335842392772530&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-31",
+        "ad_creative_bodies": [
+            "Užíváte někdy léky proti bolesti? 💊 Jak často? A víte, jak je máte správně užívat?"
+        ],
+        "ad_creative_link_captions": [
+            "nasezdravotnictvi.page.link"
+        ],
+        "ad_creative_link_descriptions": [
+            "Mírnější průběh, rychlá úleva od bolesti nebo sražení horečky. To jsou jen některé důvody, proč lidé poměrně často sáhnou po volně prodejných lécích proti bolesti jako jsou acylpirin, paracetamol nebo ibuprofen."
+        ],
+        "ad_creative_link_titles": [
+            "Až polovina Čechů užívá léky proti bolesti na měsíční bázi. Často ale o nich mají nebezpečné mylné představy"
+        ],
+        "ad_delivery_start_time": "2024-02-01",
+        "ad_delivery_stop_time": "2024-02-01",
+        "bylines": "Naše zdravotnictví",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.042292",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.123465",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.120055",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.068213",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.034789",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.034106",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.042974",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.058663",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.129604",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.044338",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.055935",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.091405",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.098909",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.055252",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001366",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.004098",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.012978",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.043716",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.21653",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.006831",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.087432",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.325137",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.034153",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.152322",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.035519",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.057377",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.021175",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000683",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000683",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "5001",
+            "upper_bound": "10000"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "693725074166331",
+        "page_name": "Naše zdravotnictví",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 1499,
+        "beneficiary_payers": [
+            {
+                "payer": "Naše zdravotnictví",
+                "beneficiary": "Naše zdravotnictví",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 2,
+                        "female": 10
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 50,
+                        "female": 84
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 52,
+                        "female": 128,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 64,
+                        "female": 476,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 31,
+                        "female": 317,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 19,
+                        "female": 223
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "921898436178049",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=921898436178049&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-31",
+        "ad_creative_bodies": [
+            "Už jste letos nebo na konci loňského roku chřipku prodělali? Nebo zrovna ležíte s nějakým respiračním onemocněním v posteli? I statistiky ukazují, že chřipková sezóna je v plném proudu 🤒"
+        ],
+        "ad_creative_link_captions": [
+            "nasezdravotnictvi.page.link"
+        ],
+        "ad_creative_link_descriptions": [
+            "Nemocnost akutními respiračními infekcemi v Česku vzrostla ve čtvrtém kalendářním týdnu letošního roku o 22,2 procenta oproti minulému týdnu na 1750 nemocných na 100 000 osob."
+        ],
+        "ad_creative_link_titles": [
+            "Nemocnost akutními respiračními infekcemi v Česku překročila hranici epidemie. Dominuje chřipka"
+        ],
+        "ad_delivery_start_time": "2024-02-01",
+        "bylines": "Naše zdravotnictví",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.042785",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.152917",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.114638",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.056437",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.041022",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.023058",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.036906",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.057025",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.123522",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.03867",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.065386",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.121105",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.066562",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.059965",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000131",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.004536",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001118",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002696",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002301",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.024458",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.021302",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.010322",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.031098",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000592",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.081197",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.320513",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.023669",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.474162",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "6.6E-5",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000657",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001118",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "6.6E-5",
+                "age": "18-24",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "5001",
+            "upper_bound": "10000"
+        },
+        "impressions": {
+            "lower_bound": "20000",
+            "upper_bound": "24999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "693725074166331",
+        "page_name": "Naše zdravotnictví",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 15494,
+        "beneficiary_payers": [
+            {
+                "payer": "Naše zdravotnictví",
+                "beneficiary": "Naše zdravotnictví",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 41,
+                        "female": 360,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 69,
+                        "female": 1235,
+                        "unknown": 10
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 17,
+                        "female": 157,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 9,
+                        "female": 372,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 324,
+                        "female": 4875,
+                        "unknown": 35
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 473,
+                        "female": 7212,
+                        "unknown": 17
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1762729257474520",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1762729257474520&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-31",
+        "ad_creative_bodies": [
+            "♥ Zástava srdce může nastat náhle a většinou za ní stojí infarkt myokardu. Rozhodně se však netýká jen starších lidí. Vzhledem k tomu, že příčin existuje mnoho včetně dlouhodobého stresu, může potkat i mladé jedince v plné síle. Jako například pětačtyřicetiletého Lukáše Bílka. V takové chvíli rozhoduje rychlost. Jak vypadá cesta pacienta s infarktem od první poskytnuté pomoci, přes zákrok na operačním sále až po rekonvalescenci? 🏥"
+        ],
+        "ad_creative_link_captions": [
+            "nasezdravotnictvi.page.link"
+        ],
+        "ad_creative_link_descriptions": [
+            "Zástava srdce může nastat náhle a většinou za ní stojí infarkt myokardu. Rozhodně se však netýká jen starších lidí."
+        ],
+        "ad_creative_link_titles": [
+            "Jak vypadá cesta pacienta s infarktem od zástavy srdce až po rekonvalescenci?"
+        ],
+        "ad_delivery_start_time": "2024-02-01",
+        "bylines": "Naše zdravotnictví",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.037886",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.111085",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.129794",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.065248",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.038821",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.031338",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.039289",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.061272",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.134705",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.038821",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.057297",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.105472",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.091674",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.057297",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000941",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000471",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000941",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.108235",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.067294",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.108",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.044",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.063059",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.194353",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.108235",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.192706",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.016",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.021412",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.057176",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000941",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.016235",
+                "age": "18-24",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "5001",
+            "upper_bound": "10000"
+        },
+        "impressions": {
+            "lower_bound": "5000",
+            "upper_bound": "5999"
+        },
+        "page_id": "693725074166331",
+        "page_name": "Naše zdravotnictví",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 4130,
+        "beneficiary_payers": [
+            {
+                "payer": "Naše zdravotnictví",
+                "beneficiary": "Naše zdravotnictví",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "55-64",
+                        "male": 91,
+                        "female": 459,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 460,
+                        "female": 460,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 187,
+                        "female": 69
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 826,
+                        "female": 268,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 286,
+                        "female": 819,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 68,
+                        "female": 243
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "299095126471426",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=299095126471426&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-02-01",
+        "ad_creative_bodies": [
+            "Co je třeba vědět o práci přesčas? Jak je upraveno náhradní volno za práci přesčas? A jaká jsou pravidla rozvržení pracovní doby pro lékaře a lékařky?"
+        ],
+        "ad_creative_link_captions": [
+            "nasezdravotnictvi.page.link"
+        ],
+        "ad_creative_link_descriptions": [
+            "Výsledkem společného úsilí České lékařské komory (zejména Sekce mladých lékařů ČLK) a zdravotnických odborů (LOK-SČL a OSZSP ČR) bylo, vedle uzavření dohody z 8. 12. 2023 o navýšení odměn zdravotníkům, přijetí „zdravotnické“ novely zákoníku práce provedené zák..."
+        ],
+        "ad_creative_link_titles": [
+            "Na co si dát pozor v souvislosti s aplikací „zdravotnické“ novely zákoníku práce"
+        ],
+        "ad_delivery_start_time": "2024-02-01",
+        "bylines": "Naše zdravotnictví",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.058618",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.199922",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.113354",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.067158",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.031056",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.029503",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.027562",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.059394",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.10986",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.029115",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.054348",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.095109",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.074146",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.050854",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000777",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.026418",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.033023",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.019037",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.006605",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.042735",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.050894",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.108392",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.167444",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.220668",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.083528",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.229604",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.008159",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000389",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001166",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001166",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "5001",
+            "upper_bound": "10000"
+        },
+        "impressions": {
+            "lower_bound": "4000",
+            "upper_bound": "4999"
+        },
+        "page_id": "693725074166331",
+        "page_name": "Naše zdravotnictví",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 2550,
+        "beneficiary_payers": [
+            {
+                "payer": "Naše zdravotnictví",
+                "beneficiary": "Naše zdravotnictví",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 68,
+                        "female": 131
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 279,
+                        "female": 568,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 110,
+                        "female": 431,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 49,
+                        "female": 591,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 17,
+                        "female": 215,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 21,
+                        "female": 85
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1604383816963063",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1604383816963063&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-31",
+        "ad_creative_bodies": [
+            "Užíváte někdy léky proti bolesti? 💊 Jak často? A víte, jak je máte správně užívat?"
+        ],
+        "ad_creative_link_captions": [
+            "nasezdravotnictvi.page.link"
+        ],
+        "ad_creative_link_descriptions": [
+            "Mírnější průběh, rychlá úleva od bolesti nebo sražení horečky. To jsou jen některé důvody, proč lidé poměrně často sáhnou po volně prodejných lécích proti bolesti jako jsou acylpirin, paracetamol nebo ibuprofen."
+        ],
+        "ad_creative_link_titles": [
+            "Až polovina Čechů užívá léky proti bolesti na měsíční bázi. Často ale o nich mají nebezpečné mylné představy"
+        ],
+        "ad_delivery_start_time": "2024-01-31",
+        "ad_delivery_stop_time": "2024-02-01",
+        "bylines": "Naše zdravotnictví",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.037422",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.142412",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.127859",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.058212",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.035343",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.037422",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.037422",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.057173",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.123701",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.04262",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.043659",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.097713",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.10499",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.054054",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.00104",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.011435",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.045738",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.238046",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.049896",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.265073",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.045738",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.012474",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.024948",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.072765",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.161123",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.04158",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.029106",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00104",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "5001",
+            "upper_bound": "10000"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "693725074166331",
+        "page_name": "Naše zdravotnictví",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 987,
+        "beneficiary_payers": [
+            {
+                "payer": "Naše zdravotnictví",
+                "beneficiary": "Naše zdravotnictví",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 11,
+                        "female": 12
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 44,
+                        "female": 48
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 44,
+                        "female": 70,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 40,
+                        "female": 255,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 28,
+                        "female": 229
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 24,
+                        "female": 155
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "768815565290828",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=768815565290828&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-30",
+        "ad_creative_bodies": [
+            "Už jste letos nebo na konci loňského roku chřipku prodělali? Nebo zrovna ležíte s nějakým respiračním onemocněním v posteli? I statistiky ukazují, že chřipková sezóna je v plném proudu 🤒"
+        ],
+        "ad_creative_link_captions": [
+            "nasezdravotnictvi.page.link"
+        ],
+        "ad_creative_link_descriptions": [
+            "Nemocnost akutními respiračními infekcemi v Česku vzrostla ve čtvrtém kalendářním týdnu letošního roku o 22,2 procenta oproti minulému týdnu na 1750 nemocných na 100 000 osob."
+        ],
+        "ad_creative_link_titles": [
+            "Nemocnost akutními respiračními infekcemi v Česku překročila hranici epidemie. Dominuje chřipka"
+        ],
+        "ad_delivery_start_time": "2024-01-30",
+        "ad_delivery_stop_time": "2024-01-31",
+        "bylines": "Naše zdravotnictví",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.045081",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.131663",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.128481",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.05529",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.041899",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.027977",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.034739",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.057544",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.125298",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.041368",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.062185",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.114956",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.070141",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.063378",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000267",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.049793",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00307",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.003204",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002269",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.025764",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.006141",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.039114",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.287812",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000934",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.022961",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.416366",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.113336",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.026031",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000801",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002002",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000133",
+                "age": "18-24",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "5001",
+            "upper_bound": "10000"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "693725074166331",
+        "page_name": "Naše zdravotnictví",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "600",
+            "upper_bound": "699"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 7681,
+        "beneficiary_payers": [
+            {
+                "payer": "Naše zdravotnictví",
+                "beneficiary": "Naše zdravotnictví",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 23,
+                        "female": 193,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 46,
+                        "female": 849,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 17,
+                        "female": 172
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 24,
+                        "female": 373,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 195,
+                        "female": 2156,
+                        "unknown": 15
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 293,
+                        "female": 3119,
+                        "unknown": 6
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "379866541404563",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=379866541404563&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-29",
+        "ad_creative_bodies": [
+            "♥ Zástava srdce může nastat náhle a většinou za ní stojí infarkt myokardu. Rozhodně se však netýká jen starších lidí. Vzhledem k tomu, že příčin existuje mnoho včetně dlouhodobého stresu, může potkat i mladé jedince v plné síle. Jako například pětačtyřicetiletého Lukáše Bílka. V takové chvíli rozhoduje rychlost. Jak vypadá cesta pacienta s infarktem od první poskytnuté pomoci, přes zákrok na operačním sále až po rekonvalescenci? 🏥"
+        ],
+        "ad_creative_link_captions": [
+            "nasezdravotnictvi.page.link"
+        ],
+        "ad_creative_link_descriptions": [
+            "Zástava srdce může nastat náhle a většinou za ní stojí infarkt myokardu. Rozhodně se však netýká jen starších lidí."
+        ],
+        "ad_creative_link_titles": [
+            "Jak vypadá cesta pacienta s infarktem od zástavy srdce až po rekonvalescenci?"
+        ],
+        "ad_delivery_start_time": "2024-01-29",
+        "ad_delivery_stop_time": "2024-01-31",
+        "bylines": "Naše zdravotnictví",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.049913",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.120425",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.116305",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.057836",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.041673",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.034701",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.041198",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.057994",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.12296",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.045159",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.065441",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.10141",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.092695",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.05229",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.00016",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.032918",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.018217",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.134388",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.104027",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.011345",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.159476",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.22627",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.018217",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001278",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.095078",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.049377",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.09396",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.053212",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001119",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000639",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00032",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "5001",
+            "upper_bound": "10000"
+        },
+        "impressions": {
+            "lower_bound": "7000",
+            "upper_bound": "7999"
+        },
+        "page_id": "693725074166331",
+        "page_name": "Naše zdravotnictví",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 6219,
+        "beneficiary_payers": [
+            {
+                "payer": "Naše zdravotnictví",
+                "beneficiary": "Naše zdravotnictví",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 206,
+                        "female": 114,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 333,
+                        "female": 1416,
+                        "unknown": 8
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 71,
+                        "female": 309
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 114,
+                        "female": 595,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 651,
+                        "female": 841,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 998,
+                        "female": 588,
+                        "unknown": 4
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1088862382248181",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1088862382248181&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-25",
+        "ad_creative_bodies": [
+            "eŽádanka nebo také tzv. eZkarta. Jaké další novinky přinese chystaná novela o elektronizaci zdravotnictví?"
+        ],
+        "ad_creative_link_captions": [
+            "nasezdravotnictvi.page.link"
+        ],
+        "ad_creative_link_descriptions": [
+            "Elektronizace zdravotnictví míří do další fáze rozvoje a její součástí bude nejen zavedení eŽádanky, ale také tzv. eZkarty, která umožní pacientům nahlížet do jejich zdravotnické dokumentace a dostat se do několika zdravotnických registrů."
+        ],
+        "ad_creative_link_titles": [
+            "Pacienti dostanou prostřednictvím eZkarty přístup do své zdravotnické dokumentace"
+        ],
+        "ad_delivery_start_time": "2024-01-25",
+        "ad_delivery_stop_time": "2024-01-31",
+        "bylines": "Naše zdravotnictví",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.048916",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.155422",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.107229",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.06241",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.035422",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.036386",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.04",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.056867",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.117108",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.040241",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.058313",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.101205",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.089639",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.050843",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001437",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.032096",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.016048",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.020838",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.140838",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.166946",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.051976",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.015808",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.278802",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.021796",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.12982",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.107784",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00024",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000479",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001198",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000479",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.013413",
+                "age": "18-24",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "5001",
+            "upper_bound": "10000"
+        },
+        "impressions": {
+            "lower_bound": "8000",
+            "upper_bound": "8999"
+        },
+        "page_id": "693725074166331",
+        "page_name": "Naše zdravotnictví",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "700",
+            "upper_bound": "799"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 4196,
+        "beneficiary_payers": [
+            {
+                "payer": "Naše zdravotnictví",
+                "beneficiary": "Naše zdravotnictví",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "55-64",
+                        "male": 67,
+                        "female": 697,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 134,
+                        "female": 588,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 66,
+                        "female": 450,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 91,
+                        "female": 1164,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 217,
+                        "female": 542,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 56,
+                        "female": 87
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "381534271127206",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=381534271127206&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-24",
+        "ad_creative_bodies": [
+            "Co výzkum zkoumá a na jaké pacienty cílí? Dozvíte se v článku."
+        ],
+        "ad_creative_link_captions": [
+            "nasezdravotnictvi.page.link"
+        ],
+        "ad_creative_link_descriptions": [
+            "Národní ústav duševního zdraví (NÚDZ) se zapojí mezi konsorcium 19 evropských organizací z devíti zemí, které získalo více než 6,5 milionu eur (přes 160 milionů korun) od Evropské unie na výzkum využití psilocybinu pro léčbu psychologického distresu u nevyléčitelně nemocn..."
+        ],
+        "ad_creative_link_titles": [
+            "Začíná průlomový výzkum psychedelické terapie se zapojením NÚDZ. EU ho podpoří 6,5 miliony eur"
+        ],
+        "ad_delivery_start_time": "2024-01-24",
+        "ad_delivery_stop_time": "2024-01-30",
+        "bylines": "Naše zdravotnictví",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.038213",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.206238",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.13206",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.063501",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.033155",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.027255",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.028379",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.060972",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.128407",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.028941",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.050857",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.078112",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.069963",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.053948",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000279",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.17275",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.011981",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.045138",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.078852",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.145444",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.138479",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.188911",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001672",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002508",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.01226",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.079131",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.039844",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.045695",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000836",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000279",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.035943",
+                "age": "45-54",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "5001",
+            "upper_bound": "10000"
+        },
+        "impressions": {
+            "lower_bound": "5000",
+            "upper_bound": "5999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "693725074166331",
+        "page_name": "Naše zdravotnictví",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 3690,
+        "beneficiary_payers": [
+            {
+                "payer": "Naše zdravotnictví",
+                "beneficiary": "Naše zdravotnictví",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "55-64",
+                        "male": 43,
+                        "female": 283,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 284,
+                        "female": 522,
+                        "unknown": 9
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 44,
+                        "female": 164,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 129,
+                        "female": 678,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 620,
+                        "female": 497,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 162,
+                        "female": 143
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1056297218977169",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1056297218977169&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-23",
+        "ad_creative_bodies": [
+            "Pohotovostní služba pro děti a dorost se potýká s kritickým nedostatkem lékařů. Proto se lékaři rozhodli napsat otevřený dopis ✉ ministru zdravotnictví Vlastimilovi Válkovi. V čem vidí největší problém a jaké navrhují řešení? Přečtěte si celý dopis."
+        ],
+        "ad_creative_link_captions": [
+            "nasezdravotnictvi.page.link"
+        ],
+        "ad_creative_link_descriptions": [
+            "Pohotovostní služba pro děti a dorost se potýká s kritickým nedostatkem lékařů. Proto se lékaři rozhodli napsat otevřený dopis ministru zdravotnictví Vlastimilovi Válkovi. V čem vidí největší problém a jaké navrhují řešení? Přečtěte si celý dopis."
+        ],
+        "ad_creative_link_titles": [
+            "Lékařská pohotovostní služba pro děti se rozpadá. Pediatři napsali otevřený dopis ministru zdravotnictví"
+        ],
+        "ad_delivery_start_time": "2024-01-23",
+        "ad_delivery_stop_time": "2024-01-29",
+        "bylines": "Naše zdravotnictví",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "8.0E-5",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.046156",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.190275",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.118176",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.05674",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.038994",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.024829",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.031912",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.05682",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.114117",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.037482",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.06637",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.097804",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.061913",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.058332",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001048",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.034675",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001693",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000161",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00129",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.013547",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.031127",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.009999",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.003548",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.054996",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.358439",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.062092",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.235707",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.134183",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.053544",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00379",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000161",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "5001",
+            "upper_bound": "10000"
+        },
+        "impressions": {
+            "lower_bound": "20000",
+            "upper_bound": "24999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "693725074166331",
+        "page_name": "Naše zdravotnictví",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 12663,
+        "beneficiary_payers": [
+            {
+                "payer": "Naše zdravotnictví",
+                "beneficiary": "Naše zdravotnictví",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "55-64",
+                        "male": 47,
+                        "female": 664,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 124,
+                        "female": 1664,
+                        "unknown": 13
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 44,
+                        "female": 430,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 386,
+                        "female": 2923,
+                        "unknown": 21
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 770,
+                        "female": 4445,
+                        "unknown": 16
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 168,
+                        "female": 682
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "24945042555109928",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=24945042555109928&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-22",
+        "ad_creative_bodies": [
+            "Zatímco dříve mělo Bechtěrevovu nemoc deset mužů ku jedné ženě, dnes je poměr v podstatě vyrovnaný. Jak se Bechtěrevova nemoc projevuje a jak se léčí? Vypráví v rozhovoru ředitel Revmatologického ústavu v Praze a přednosta Kliniky revmatologie 1. lékařské fakulty UK prof. dr. Ing. Karel Pavelka."
+        ],
+        "ad_creative_link_captions": [
+            "nasezdravotnictvi.page.link"
+        ],
+        "ad_creative_link_descriptions": [
+            "Zatímco dříve mělo Bechtěrevovu nemoc deset mužů ku jedné ženě, dnes je poměr v podstatě vyrovnaný."
+        ],
+        "ad_creative_link_titles": [
+            "Bechtěrevova nemoc už trápí podobné procento populace jako revmatoidní artritida, poukazuje na vývoj v revmatologii prof. Karel Pavelka"
+        ],
+        "ad_delivery_start_time": "2024-01-22",
+        "ad_delivery_stop_time": "2024-01-25",
+        "bylines": "Naše zdravotnictví",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.044922",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.125782",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.116554",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.061677",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.038609",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.034541",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.037455",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.060402",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.126328",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.041887",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.062162",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.103381",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.088448",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.057852",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000181",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.051957",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001269",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001148",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.022173",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.068511",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.124517",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.015406",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.21798",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000181",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.287579",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.110379",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.006283",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.051655",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.031114",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.009304",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000362",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "5001",
+            "upper_bound": "10000"
+        },
+        "impressions": {
+            "lower_bound": "20000",
+            "upper_bound": "24999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "693725074166331",
+        "page_name": "Naše zdravotnictví",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "1500",
+            "upper_bound": "1999"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 16888,
+        "beneficiary_payers": [
+            {
+                "payer": "Naše zdravotnictví",
+                "beneficiary": "Naše zdravotnictví",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "55-64",
+                        "male": 154,
+                        "female": 1827,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 515,
+                        "female": 4760,
+                        "unknown": 19
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 104,
+                        "female": 855,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 860,
+                        "female": 3608,
+                        "unknown": 21
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 255,
+                        "female": 367
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 1134,
+                        "female": 2061,
+                        "unknown": 6
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "2613388478837882",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=2613388478837882&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-18",
+        "ad_creative_bodies": [
+            "Ve velkém lednovém rozhovoru s doktorem Janem Přádou jsme nejen zhodnotili akci „Nebuď mýval“ 🦝, tedy co se povedlo a co by naopak zpětně udělal jinak. Probrali jsme také možné změny, které podle něj zdravotnictví potřebuje, a plány k jeho působení v České lékařské komoře."
+        ],
+        "ad_creative_link_captions": [
+            "nasezdravotnictvi.page.link"
+        ],
+        "ad_creative_link_descriptions": [
+            "Zdravotnictví se v posledních 20 letech vyhýbaly jakékoli větší reformy, což se začíná projevovat v mnoha ohledech. V nedostatku lékařů, v delších čekacích lhůtách, v diskriminačním jednání v průběhu postgraduálního vzdělávání a mnoha dalších oblastech."
+        ],
+        "ad_creative_link_titles": [
+            "Velký rozhovor s viceprezidentem ČLK Přádou: Jak zpětně hodnotí jednání s ministrem a jaké změny zdravotnictví potřebuje?"
+        ],
+        "ad_delivery_start_time": "2024-01-18",
+        "ad_delivery_stop_time": "2024-01-24",
+        "bylines": "Naše zdravotnictví",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.058215",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.241483",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.12721",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.055627",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.032773",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.019405",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.025442",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.055627",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.119017",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.037085",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.047434",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.072876",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.058215",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.04959",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001715",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002144",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000858",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.080189",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.025729",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.139794",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.219554",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.139794",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.078473",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002144",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.02916",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.066895",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.036878",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.147513",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.01458",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.01458",
+                "age": "55-64",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "5001",
+            "upper_bound": "10000"
+        },
+        "impressions": {
+            "lower_bound": "4000",
+            "upper_bound": "4999"
+        },
+        "page_id": "693725074166331",
+        "page_name": "Naše zdravotnictví",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 2310,
+        "beneficiary_payers": [
+            {
+                "payer": "Naše zdravotnictví",
+                "beneficiary": "Naše zdravotnictví",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 60,
+                        "female": 68
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 326,
+                        "female": 512,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 156,
+                        "female": 326,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 86,
+                        "female": 344,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 34,
+                        "female": 187,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 34,
+                        "female": 183
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "7001415016639054",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=7001415016639054&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-18",
+        "ad_creative_bodies": [
+            "Alzheimerovu chorobu vyléčit nelze, je ale možné zpomalit její nástup a prodloužit tak soběstačný život nemocného. Důležité je však nemoc diagnostikovat včas. Jaké jsou nové diagnostiky a aplikace k odhalení nemoci? A jaké první příznaky nepodcenit?"
+        ],
+        "ad_creative_link_captions": [
+            "nasezdravotnictvi.page.link"
+        ],
+        "ad_creative_link_descriptions": [
+            "Začíná nenápadně. Člověk nejprve začne zapomínat jména, naplánované schůzky nebo některé informace opakuje hned několikrát, protože zapomněl, že je už dříve řekl."
+        ],
+        "ad_creative_link_titles": [
+            "Nepodceňujte občasné zapomínání. Včasný záchyt Alzheimerovy nemoci vám může prodloužit soběstačný život"
+        ],
+        "ad_delivery_start_time": "2024-01-18",
+        "ad_delivery_stop_time": "2024-01-23",
+        "bylines": "Naše zdravotnictví",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.042792",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.157815",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.111988",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.060774",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.037026",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.030577",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.032929",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.054856",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.122307",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.039757",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.061988",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.106677",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.080501",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.060015",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001557",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.090457",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000519",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000148",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001186",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.006154",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.033884",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.01342",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.032105",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.010455",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.038185",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.164158",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.333803",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.167643",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.014681",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.091125",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000519",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "5001",
+            "upper_bound": "10000"
+        },
+        "impressions": {
+            "lower_bound": "20000",
+            "upper_bound": "24999"
+        },
+        "page_id": "693725074166331",
+        "page_name": "Naše zdravotnictví",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "1500",
+            "upper_bound": "1999"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 13266,
+        "beneficiary_payers": [
+            {
+                "payer": "Naše zdravotnictví",
+                "beneficiary": "Naše zdravotnictví",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "65+",
+                        "male": 141,
+                        "female": 1220,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 457,
+                        "female": 2214,
+                        "unknown": 16
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 181,
+                        "female": 2261,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 433,
+                        "female": 4502,
+                        "unknown": 21
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 515,
+                        "female": 1229,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 83,
+                        "female": 198
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "358116006837254",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=358116006837254&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-11",
+        "ad_creative_bodies": [
+            "Vyhledávali jste si někdy informace na internetu 📱, když jste byli nemocní, nebo když vám lékaři řekli nějakou diagnózu? S velkou pravděpodobností ano. Celkem 95 % lidí v Česku si totiž informace o zdraví vyhledává. Vyhledávání diagnózy může ale přinášet rizika. Jaká?"
+        ],
+        "ad_creative_link_captions": [
+            "nasezdravotnictvi.page.link"
+        ],
+        "ad_creative_link_descriptions": [
+            "Vyhledávali jste si někdy informace na internetu, když jste byli nemocní, nebo když vám lékaři řekli nějakou diagnózu?"
+        ],
+        "ad_creative_link_titles": [
+            "Celkem 95 procent lidí v Česku vyhledává informace o zdraví na internetu. Na co si dát ale pozor?"
+        ],
+        "ad_delivery_start_time": "2024-01-11",
+        "ad_delivery_stop_time": "2024-01-22",
+        "bylines": "Naše zdravotnictví",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.048487",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.18777",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.115812",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.061149",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.037678",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.031501",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.031192",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.051575",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.122298",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.038604",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.052193",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.086782",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.083076",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.051884",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001245",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000622",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001867",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000934",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.041706",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.047308",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.186741",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.184563",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.120448",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.111111",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.144102",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.088702",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.029879",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.018052",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.010271",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.012449",
+                "age": "55-64",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "5001",
+            "upper_bound": "10000"
+        },
+        "impressions": {
+            "lower_bound": "5000",
+            "upper_bound": "5999"
+        },
+        "page_id": "693725074166331",
+        "page_name": "Naše zdravotnictví",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "500",
+            "upper_bound": "599"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 3265,
+        "beneficiary_payers": [
+            {
+                "payer": "Naše zdravotnictví",
+                "beneficiary": "Naše zdravotnictví",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "male": 96,
+                        "female": 600,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 40,
+                        "female": 387,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 285,
+                        "female": 593,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 58,
+                        "female": 152
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 134,
+                        "female": 463,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 33,
+                        "female": 357
+                    }
+                ]
+            }
+        ]
+    }
+]

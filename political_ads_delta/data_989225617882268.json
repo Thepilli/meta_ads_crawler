@@ -1,0 +1,572 @@
+[
+    {
+        "id": "933873174291360",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=933873174291360&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-25",
+        "ad_creative_bodies": [
+            "🔴PSOE díl III. - Když si musíte věci vymyslet, trvá to.\n\n☝️Dnes jsme se dozvěděli na jednání pražského zastupitelstva, že v organizaci PSOE nebyli schopni od 14. prosince do dnešního dne připravit k předložení doklady o své činnosti a hospodaření.\n\nŘada zastupitelů tak nabyla podezření, že dokumenty neexistují a vlastně je v organizaci teprve dávají dohromady. Co tedy společnost skutečně dělala a jak hospodařila, je doteď nejasné. 🧐\n\nS kolegy z ANO jsme na návrh mého kolegy Radomír Nepil - místostarosta Osmičky požadovali zrušení organizace a přechod jejích aktivit a závazků na společnost Technologie hl. m. Prahy, a.s., která je schopna se s tímto velice jednoduše, rychle a efektivně vypořádat.\n\nNo, a co myslíte, že se stalo? Pražská koalice tento návrh zamítla. PSOE tak dál bude platit nájem v soukromém objektu, mzdy a další provozní náklady a nic se dít nebude. 😠"
+        ],
+        "ad_delivery_start_time": "2024-01-25",
+        "ad_delivery_stop_time": "2024-01-31",
+        "bylines": "Martin Benkovič, 1. místostarosta Prahy 17 - Řepy",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.908014",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.091986",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.003908",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000355",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002487",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001776",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.006039",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.011368",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.046892",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.007105",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.24476",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.128597",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.201421",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.044405",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.180107",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.114742",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.006039",
+                "age": "25-34",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "500001",
+            "upper_bound": "1000000"
+        },
+        "impressions": {
+            "lower_bound": "4000",
+            "upper_bound": "4999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "989225617882268",
+        "page_name": "Martin Benkovič, 1. místostarosta Prahy 17 - Řepy",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "600",
+            "upper_bound": "699"
+        },
+        "target_locations": [
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 2855,
+        "beneficiary_payers": [
+            {
+                "payer": "Martin Benkovič, 1. místostarosta Prahy 17 - Řepy",
+                "beneficiary": "Martin Benkovič, 1. místostarosta Prahy 17 - Řepy",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "55-64",
+                        "male": 507,
+                        "female": 362,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 567,
+                        "female": 689,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 20,
+                        "female": 11
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 32,
+                        "female": 17
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 125,
+                        "female": 17
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 323,
+                        "female": 132,
+                        "unknown": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "395920413100191",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=395920413100191&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-23",
+        "ad_creative_bodies": [
+            "Několikrát jsme s kolegy z ANO upozorňovali na výběr dodavatele další etapy metra D, který dal o 2 mld. Kč vyšší nabídku než konkurence. Dočkali jsme se jen arogance a úšklebků Zdeněk Hřib - náměstek pro dopravu. Vítězný dodavatel navíc vyhrál díky bodům za kvalifikaci osob, kterou ale podle Úřadu na ochranu hospodářské soutěže nedostatečně doložil. 🙌 Čekání na Metro D se tak díky ignorantství náměstka Hřiba opět o pár let protáhne. \n\n❌Myslím, že po uzavření dvou mostů v havarijním stavu a nesmyslných cyklostupátkách, doložil exprimátor Hřib narozdíl od Subterry zcela dostatečně a přesvědčivě, že je kompetentní na funkci exnáměstka.\n\nCo na to koaliční partneři? Petr Hlaváček - náměstek pro rozvoj, Tomáš Portlík, starosta Devítky, Jiří Pospíšil, Jan Wolf - Zastupitel Prahy za Kdu-Čsl"
+        ],
+        "ad_delivery_start_time": "2024-01-24",
+        "ad_delivery_stop_time": "2024-01-29",
+        "bylines": "Martin Benkovič, 1. místostarosta Prahy 17 - Řepy",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.938078",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.061922",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000253",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.288133",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000632",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000379",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.007456",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.088462",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.029951",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.016176",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.502085",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.003791",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002148",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.036143",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.016176",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001137",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.004423",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002527",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000126",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "500001",
+            "upper_bound": "1000000"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "989225617882268",
+        "page_name": "Martin Benkovič, 1. místostarosta Prahy 17 - Řepy",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "500",
+            "upper_bound": "599"
+        },
+        "target_locations": [
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 7656,
+        "beneficiary_payers": [
+            {
+                "payer": "Martin Benkovič, 1. místostarosta Prahy 17 - Řepy",
+                "beneficiary": "Martin Benkovič, 1. místostarosta Prahy 17 - Řepy",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "male": 128,
+                        "female": 9,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 2280,
+                        "female": 237,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 59,
+                        "female": 30
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 286,
+                        "female": 20,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 3973,
+                        "female": 700,
+                        "unknown": 17
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 128,
+                        "female": 35,
+                        "unknown": 3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1112401866459559",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1112401866459559&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-23",
+        "ad_creative_bodies": [
+            "Měli dohlížet na klimaplán za stovky miliard, ale nedělali nic 🙅‍♂️- PSOE II. díl\n\n👉 Na konci minulého roku jsem začal rozplétat nejasnosti ohledně fungování organizace \"Pražské společenství obnovitelné energie\". \n👉 Organizace vznikla pod vedením Pirátů, STAN, TOP 09, KDU-ČSL a Praha Sobě.\n👉 Současné zastupitelstvo na můj popud schválilo zadání auditu na fungování celé organizace, která měla tento rok stát občany přes 20 mil. Kč. \n👉 Podle mých informací organizace neplnila ani svoji základní úlohu, natož aby zvládla zajišťovat realizaci klimatického plánu za téměř čtvrt bilionu korun.\n\n☝️ Dnes pod tíhou faktů rezignoval její ředitel Jaroslav Klusák. Co byste tipovali, že se stane v PSOE III. díl?"
+        ],
+        "ad_delivery_start_time": "2024-01-24",
+        "ad_delivery_stop_time": "2024-01-29",
+        "bylines": "Martin Benkovič, 1. místostarosta Prahy 17 - Řepy",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.922808",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.077192",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001762",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.084981",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000587",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002154",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.066575",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.016448",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.162718",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.12708",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.172704",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002546",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.142941",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.162718",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.033483",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.005091",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.016252",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000392",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001371",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000196",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "500001",
+            "upper_bound": "1000000"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "989225617882268",
+        "page_name": "Martin Benkovič, 1. místostarosta Prahy 17 - Řepy",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "1500",
+            "upper_bound": "1999"
+        },
+        "target_locations": [
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 5124,
+        "beneficiary_payers": [
+            {
+                "payer": "Martin Benkovič, 1. místostarosta Prahy 17 - Řepy",
+                "beneficiary": "Martin Benkovič, 1. místostarosta Prahy 17 - Řepy",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 171,
+                        "female": 26,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 831,
+                        "female": 340,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 730,
+                        "female": 831,
+                        "unknown": 11
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 882,
+                        "female": 649,
+                        "unknown": 9
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 434,
+                        "female": 83,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 84,
+                        "female": 13,
+                        "unknown": 2
+                    }
+                ]
+            }
+        ]
+    }
+]

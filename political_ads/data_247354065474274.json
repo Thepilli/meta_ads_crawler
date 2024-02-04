@@ -1,0 +1,4609 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=328388400053442&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-05",
+        "ad_creative_bodies": [
+            "Kfar Aza - kibuc napadený 7. října 2023 teroristy Hamásu\n\nPříběh dvou mladých lidí, dvou životů… To nechcete zažít.\n\n#staywithisrael 🇮🇱\nAJC - American Jewish Committee"
+        ],
+        "ad_creative_link_titles": [
+            "Kfar Aza - útok Hamásu na Izrael 7. října 2023"
+        ],
+        "ad_delivery_start_time": "2023-12-07",
+        "ad_delivery_stop_time": "2023-12-13",
+        "bylines": "Petr Beitl",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.001166",
+                "region": "Lower Silesian Voivodeship"
+            },
+            {
+                "percentage": "0.193624",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.522939",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.217341",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.063375",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.001555",
+                "region": "Sachsen"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000396",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.249406",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001188",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.041172",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.121932",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.043151",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.197941",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.180523",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.113618",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000792",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.015439",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001979",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.007522",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.005542",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000396",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000396",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.018606",
+                "age": "18-24",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "3000",
+            "upper_bound": "3999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "247354065474274",
+        "page_name": "Petr Beitl",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Jablonec nad Nisou, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 2603,
+        "beneficiary_payers": [
+            {
+                "payer": "Petr Beitl",
+                "beneficiary": "Petr Beitl",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 308,
+                        "female": 14,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 498,
+                        "female": 19,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 287,
+                        "female": 109,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 454,
+                        "female": 103,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 630,
+                        "female": 39,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 47,
+                        "unknown": 1
+                    }
+                ]
+            },
+            {
+                "country": "DE",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "55-64",
+                        "male": 2,
+                        "female": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 1
+                    }
+                ]
+            },
+            {
+                "country": "PL",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "55-64",
+                        "male": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 2
+                    }
+                ]
+            }
+        ],
+        "_id": "328388400053442"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=393241319701612&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-06",
+        "ad_creative_bodies": [
+            "V listopadu jsem na pozvání @AJC - American Jewish Committee spolu s dalšími poslanci z Evropy navštívil Izrael 🇮🇱. Ukázali nám napadené kibucy, mluvili jsme s očitými svědky i pozůstalými. Příběh izraelského lékaře Rona Lobela je výmluvný.\n👇👇\nNávštěva Barzilai Medical Centre v Aškelonu. Setkání s doktorem Ronem Lobelem, koordinátorem první pomoci v nemocnici a přeživší masakru v mošavu (což je něco jako kibuc) Netiv HaAsara.\n\nNemocnice v Aškelonu byla v rámci prvního raketového útoku, který nebyla schopná izraelská vzdušná obrana Iron Dome vykrýt, zasažena dvěma raketami. Následně čelila stovkám případů těžkých zranění obyvatel z příhraničí. Stala se prvním třídícím bodem, ze kterého byli zranění rozdělováni do ostatních nemocnic. Tristní je, že tento útok Hamásu na nemocnici nikdo nekomentoval. \n\nDoktor Lobel vyprávěl o svých zažítcích. Probudily ho sirény, což nebylo nic neobvyklého. Tentokrát se ke zvuku raket přidaly další výbuchy a palba z ručních zbraní. Poté co zjistil, že je jejich kibuc napaden teroristy z Hamásu, ukryl se se ženou do svého krytu. V něm přečkal 10 hodin, snažili se nepoužívat WC, protože i zvuk splachování je mohl prozradit. Sousedy teroristé objevili a větrákem jim hodili do krytu granát. Za štěstí považoval, že jeho vnuk, který u nich běžně tráví víkendy, zůstal s matkou. Své přežití přičítá i tomu, že neměl zbraň. Všichni kdo je měli a bránili se, podlehli přesile teroristů.\nV jeho domě je dnes základna izraelské armády.\n\nDoktor Lobel je člověk, který věnoval svůj profesní život nemocnici v Aškelonu. Zúčastnil se řady společných projektů s Palestinci jak v Gaze, tak v Aškelonu. Zvyklý běžně operovat u jednoho stolu s Palestinci i izraelskými Araby. Před předáním moci Hamásu bylo zdravotních společných projektů stovky, po roce 2005 toto číslo kleslo na desítky. Vzpomínal na své zavražděné sousedy z kibucu, kteří svůj život věnovali rozvíjení spolupráce s Gazou a Palestinci. Zakládali společná družstva a připravovali průmyslovou zónu. Palestincům dávali práci a perspektivu. Chtěli vytvořit pásmo spolupráce. Tito lidé byli mezi prvními zavražděnými."
+        ],
+        "ad_creative_link_titles": [
+            "Nemocnice v Aškelonu - Dr. Ron Lobel"
+        ],
+        "ad_delivery_start_time": "2023-12-06",
+        "ad_delivery_stop_time": "2023-12-10",
+        "bylines": "Petr Beitl",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.001255",
+                "region": "Sachsen"
+            },
+            {
+                "percentage": "0.084405",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.644493",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.191716",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.07813",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000628",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.145997",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.003454",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00157",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.063736",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.070016",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.104239",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.15102",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.035793",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00157",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.173312",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.021978",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.017268",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.197174",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00157",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.009733",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000942",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "3000",
+            "upper_bound": "3999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "247354065474274",
+        "page_name": "Petr Beitl",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "target_locations": [
+            {
+                "name": "Reichenberg, Liberecký Kraj, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 3144,
+        "beneficiary_payers": [
+            {
+                "payer": "Petr Beitl",
+                "beneficiary": "Petr Beitl",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "DE",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "55-64",
+                        "male": 2,
+                        "female": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "female": 1
+                    }
+                ]
+            },
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "35-44",
+                        "male": 481,
+                        "female": 54,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 465,
+                        "female": 332,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 550,
+                        "female": 222,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 628,
+                        "female": 114,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 203,
+                        "female": 31
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 70,
+                        "female": 11,
+                        "unknown": 5
+                    }
+                ]
+            }
+        ],
+        "_id": "393241319701612"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=286317130734622&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-07-14",
+        "ad_creative_bodies": [
+            "Manželství pro všechny - tolik diskutované téma, které budí celou řadu emocí. Dnes jsme změnu občanského zákoníku v tomto ohledu posunuli do dalšího projednávání ve výborech a pak do druhého čtení. \n\nJako konzervativní politik trvám na tom, že manželství je svazek muže a ženy.\n\nVůbec se ale nebráním diskuzi a jsem ochoten podpořit změnu legislativy, která usnadní život stejnopohlavním párům žijícím v registrovaném partnerství. Mám na mysli podávání informací o zdravotním stavu partnera, dědictví, atd.  O dětech je potřeba ještě hodně diskutovat."
+        ],
+        "ad_delivery_start_time": "2023-07-17",
+        "ad_delivery_stop_time": "2023-07-21",
+        "bylines": "Petr Beitl",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000216",
+                "region": "Lower Silesian Voivodeship"
+            },
+            {
+                "percentage": "0.09806",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.636853",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.046983",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.217672",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.000216",
+                "region": "Sachsen"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.143799",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.404793",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.451407",
+                "age": "35-44",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "247354065474274",
+        "page_name": "Petr Beitl",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Ceska Lipa, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Liberec, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Semily, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "Women",
+        "target_ages": [
+            "35",
+            "59"
+        ],
+        "eu_total_reach": 4616,
+        "beneficiary_payers": [
+            {
+                "payer": "Petr Beitl",
+                "beneficiary": "Petr Beitl",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "PL",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "35-44",
+                        "female": 1
+                    }
+                ]
+            },
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "35-44",
+                        "female": 2053
+                    },
+                    {
+                        "age_range": "45-54",
+                        "female": 1841
+                    },
+                    {
+                        "age_range": "55-64",
+                        "female": 654
+                    }
+                ]
+            },
+            {
+                "country": "DE",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "35-44",
+                        "female": 1
+                    }
+                ]
+            }
+        ],
+        "_id": "286317130734622"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1100090407447578&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-06-06",
+        "ad_creative_bodies": [
+            "Vládní konsolidační balíček jistě není ideálem, jak si ho pravicový volič představuje. Je to ale dobré řešení, jak zastavit zadlužování naší země. \n\nJe to řešení, které představila vláda složená z pět koaličních stran. To je potřeba si uvědomit při hodnocení, zda je moc, či málo úsporný. \n\n👎 Bývalá ministryně financí navrhovala v roce 2021 v rozpočtovém výhledu na letošní rok schodek ve výši 370 miliard.  Z krize se prý dostaneme rozhazováním půjčených peněz. \n\n👍 Vláda Petra Fialy sestavila rozpočet se schodkem menším než 300 miliard. Začala šetřit. Není a nebude to bezbolestné a bezproblémové. Ale je to nutné.\n\nTématu se obšírněji věnuji na svém webu, máte-li zájem si to přečíst. Odkaz najdete v komentáři pod tímto postem.👇👇👇"
+        ],
+        "ad_delivery_start_time": "2023-06-07",
+        "ad_delivery_stop_time": "2023-06-12",
+        "bylines": "Petr Beitl",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.00105",
+                "region": "Lower Silesian Voivodeship"
+            },
+            {
+                "percentage": "0.098278",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.649832",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.173562",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.076438",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.00084",
+                "region": "Sachsen"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000633",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001794",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001055",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.058662",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.117113",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.064993",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.255434",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.041464",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.02912",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.135472",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.173349",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.047478",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.071851",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001055",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000528",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "9000",
+            "upper_bound": "9999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "247354065474274",
+        "page_name": "Petr Beitl",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "_id": "1100090407447578"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=256997820245915&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-06-05",
+        "ad_creative_bodies": [
+            "Tihle 4 stateční zachránili v lednu 1943 obce Rovensko pod Troskami a Veselá před zničením a její obyvatele před vyvražděním. \nSněmovna v pátek schválila můj návrh na udělení státního vyznamenání za hrdinství🎖\n\nČlenové skupiny Antimony:\n- Lubomír JASÍNEK\n- Stanislav SRAZIL\n- František ZÁVORKA\na\nstarosta města Rovensko pod Troskami:\n- Josef KOUŘIL.\n\nANTIMONY - výsadková skupina. Její úkol spočíval zejména v navázání kontaktu s odbojovými organizacemi v Čechách, předání vysílaček a obnovení přerušeného spojení s Londýnem. \nK zatčení členů skupiny nadporučíka Závorky a svobodníka Jasínka došlo v noci z 15. na 16. ledna 1943 v domku na rovenské plovárně, kde se ukrývali. Zemřeli okamžitě, rozkousli kapsli s jedem. Starosta Kouřil vzal vinu za ukrývání parašutistů na sebe, zemřel za 3 měsíce. Četaře Srazila zatklo Gestapo v Dolní Kalné a byl popraven v dubnu téhož roku Terezíně. Stihl ale Londýn varovat.\n\n(Na obrázku j domek plavčíka Lukeše na rovenské plovárně. Fotka je z oslav 75. výročí události v Rovensku.)"
+        ],
+        "ad_delivery_start_time": "2023-06-05",
+        "ad_delivery_stop_time": "2023-06-10",
+        "bylines": "Petr Beitl",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.10394",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.65305",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.170252",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.070985",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.000967",
+                "region": "Lower Silesian Voivodeship"
+            },
+            {
+                "percentage": "0.000806",
+                "region": "Sachsen"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.047447",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.087909",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.229608",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.040864",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.115286",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.201028",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.057241",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.08534",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.116089",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.015896",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001044",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000562",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000401",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000562",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000723",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "247354065474274",
+        "page_name": "Petr Beitl",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "_id": "256997820245915"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=815725342943581&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-09-21",
+        "ad_creative_bodies": [
+            "Lídr kandidátky ODS Jablonec Ing. Miloš Vele  je dobrým strážcem městské kasy i zkušeným a nenahraditelným manažerem strategických projektů. \n\nSe vší zodpovědností říkám, že kandidátku pro letošní komunální volby jsme složili dobře. \n\nMáme tým na vysoké odborné úrovni složený z lidí, kteří rozumí potřebám města a nemám pochybnosti o tom, že zvládneme složité období, pokud dostaneme důvěru voličů."
+        ],
+        "ad_delivery_start_time": "2022-09-21",
+        "ad_delivery_stop_time": "2022-09-24",
+        "bylines": "Petr Beitl",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Liberec Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.049734",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.015986",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.035524",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001776",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001776",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001776",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.092362",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.060391",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.149201",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.092362",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.087034",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.12611",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.106572",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.101243",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.078153",
+                "age": "18-24",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "247354065474274",
+        "page_name": "Petr Beitl",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "_id": "815725342943581"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1186792651908706&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-09-20",
+        "ad_creative_bodies": [
+            "Volební místnosti se otevřou v pátek ve 14 hodin. Budu velmi rád, pokud podpoříte naše kandidáty ODS Jablonec 👇👇👇"
+        ],
+        "ad_delivery_start_time": "2022-09-20",
+        "ad_delivery_stop_time": "2022-09-23",
+        "bylines": "Petr Beitl",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Liberec Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001318",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.105402",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.011858",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.044796",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.003953",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.131752",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.067194",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.114625",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.163373",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.085639",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.106719",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.108037",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001318",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.039526",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.013175",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001318",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "247354065474274",
+        "page_name": "Petr Beitl",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "_id": "1186792651908706"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=587931696365858&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-09-18",
+        "ad_creative_bodies": [
+            "Začíná poslední předvolební týden, dovolte, abych vám představil naše kandidáty za ODS Jablonec. \n\nJsou to profesionálové zkušení ve svých oborech, kteří mají chuť a sílu pokračovat v nastaveném trendu rozumného hospodaření a zodpovědného přístupu.\n\nBěžte v pátek a v sobotu k volbám. Podpořte zodpovědnost, zkušenost a důvěryhodnost našich kandidátů. Volte č. 6️⃣\n\n#zodpovednypristup @ods_jablonec #volby2022"
+        ],
+        "ad_delivery_start_time": "2022-09-19",
+        "ad_delivery_stop_time": "2022-09-22",
+        "bylines": "Petr Beitl",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.050898",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.023453",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.091816",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.053892",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.057884",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.036427",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.157685",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.048902",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.13024",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.054391",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.053393",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.078842",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.102794",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.059381",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000994",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.114257",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000994",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.008942",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.029806",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.164431",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.015897",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.17536",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.052658",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000497",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.224044",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.107303",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.074516",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.023845",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000994",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.003477",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001987",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "2000",
+            "upper_bound": "2999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "247354065474274",
+        "page_name": "Petr Beitl",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "_id": "587931696365858"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1125428045070130&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-09-16",
+        "ad_creative_bodies": [
+            "Volby se blíží. Kandidátka ODS Jablonec  je složená z kvalitních lidí s odborností a zkušeností. \n\nVěřím v zodpovědný přístup a tvrdím, že není čas na experimenty. \n\nChci do práce na radnici opět zapojit. Tentokrát ne jako kandidát na primátora, ale jako člen týmu Ing. Miloš Vele . Rád bych jemu i ostatním vrátil pomoc a podporu, kterou mi dávali v letech mého primátorování. \n\n#zodpovednypristup @ods_jablonec"
+        ],
+        "ad_delivery_start_time": "2022-09-16",
+        "ad_delivery_stop_time": "2022-09-20",
+        "bylines": "Petr Beitl",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Liberec Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.015355",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.086372",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.12476",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.041267",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.095969",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.087332",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.150672",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.142035",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.069098",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.119962",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.047985",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.003839",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.013436",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00096",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00096",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "247354065474274",
+        "page_name": "Petr Beitl",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "_id": "1125428045070130"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1827284237475495&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-09-15",
+        "ad_creative_bodies": [
+            "Volby se blíží. Kandidátka ODS Jablonec  je složená z kvalitních lidí s odborností a zkušeností. \n\nVěřím v zodpovědný přístup a tvrdím, že není čas na experimenty. \n\nChci do práce na radnici opět zapojit. Tentokrát ne jako kandidát na primátora, ale jako člen týmu Ing. Miloš Vele . Rád bych jemu i ostatním vrátil pomoc a podporu, kterou mi dávali v letech mého primátorování. \n\n#zodpovednypristup @ods_jablonec"
+        ],
+        "ad_delivery_start_time": "2022-09-15",
+        "ad_delivery_stop_time": "2022-09-16",
+        "bylines": "Petr Beitl",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.001894",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.043561",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.039773",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.087121",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.056818",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.054924",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.039773",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.068182",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.060606",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.157197",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.041667",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.064394",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.098485",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.130682",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.054924",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001898",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00759",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001898",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.003795",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.053131",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00759",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.258065",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.011385",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.193548",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.096774",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.218216",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.01518",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.13093",
+                "age": "45-54",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "247354065474274",
+        "page_name": "Petr Beitl",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "_id": "1827284237475495"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=4401400613300739&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2021-09-30",
+        "ad_creative_bodies": [
+            "Velmi rád podporuji Petra Beitla ve volbách do Sněmovny. \n\nPetr je politik s velkou zkušeností z komunální politiky a hlavně ze Sněmovny, kde tvrdĕ prosazuje program ODS: ekonomická stabilita ČR, stop nelegální migraci, cílená sociální podpora, rovnoprávné postavení ČR v EU a další priority.\n\nPetr Beitl je a s Vaší podporou i bude výborným poslancem, který nezapomíná, že je z našeho kraje.\n\nSpolu21 - č. 13  TEĎ JDE O VŠECHNO!"
+        ],
+        "ad_delivery_start_time": "2021-10-05",
+        "ad_delivery_stop_time": "2021-10-07",
+        "bylines": "Petr Beitl",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.971014",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.028986",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.036496",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.182482",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.131387",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.29927",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.328467",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.021898",
+                "age": "55-64",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100",
+            "upper_bound": "1000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "247354065474274",
+        "page_name": "Petr Beitl",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "_id": "4401400613300739"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=259820989286772&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2021-09-30",
+        "ad_creative_bodies": [
+            "SPOLU máme šanci odstartovat změnu.\nTeď jde o všechno!"
+        ],
+        "ad_creative_link_captions": [
+            "SPOLU v LIBERCI"
+        ],
+        "ad_creative_link_descriptions": [
+            "Přijďte si popovídat s kandidáty koalice SPOLU.\nMáme šanci odstartovat změnu! Teď jde o všechno!"
+        ],
+        "ad_creative_link_titles": [
+            "SPOLU v LIBERCI"
+        ],
+        "ad_delivery_start_time": "2021-10-05",
+        "ad_delivery_stop_time": "2021-10-07",
+        "bylines": "Petr Beitl",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Liberec Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000488",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001463",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001463",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.185366",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.056098",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.370732",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.090732",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.214634",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.079024",
+                "age": "55-64",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1001",
+            "upper_bound": "5000"
+        },
+        "impressions": {
+            "lower_bound": "7000",
+            "upper_bound": "7999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "247354065474274",
+        "page_name": "Petr Beitl",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "2500",
+            "upper_bound": "2999"
+        },
+        "_id": "259820989286772"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=375651837569881&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2021-09-30",
+        "ad_creative_bodies": [
+            "Petra Beitla znám dlouho. Je to fajn člověk a našemu městu hodně prospěl i jako primátor. Je to jeden z mála politiků, za kterého mluví činy. \n\nNa začátku kovidové krize  jsme neměli dostatek ochranných pomůcek, chyběly rukavice, roušky, respirátory. Petr Beitl neváhal a na vlastní pěst a za vlastní peníze dovezl nedostatkové respirátory FFP2, které daroval lékařům a učitelům. \n\nJsem přesvědčena, že právě takové politiky, kteří upřednostňuji skutky nad slova potřebujeme. Proto má Petr můj hlas a podporu 💙 - č. 13 Spolu21"
+        ],
+        "ad_delivery_start_time": "2021-10-04",
+        "ad_delivery_stop_time": "2021-10-06",
+        "bylines": "Petr Beitl",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000112",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.000335",
+                "region": "Lower Silesian Voivodeship"
+            },
+            {
+                "percentage": "0.999554",
+                "region": "Liberec Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001904",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.240591",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.111447",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.213934",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.137209",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.164539",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.128024",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001568",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000672",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000112",
+                "age": "13-17",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "15000",
+            "upper_bound": "19999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "247354065474274",
+        "page_name": "Petr Beitl",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "3500",
+            "upper_bound": "3999"
+        },
+        "_id": "375651837569881"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=2739355949690057&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2021-09-30",
+        "ad_creative_bodies": [
+            "SPOLU máme šanci odstartovat změnu.\nTeď jde o všechno!"
+        ],
+        "ad_creative_link_captions": [
+            "SPOLU v Jablonci nad Nisou"
+        ],
+        "ad_creative_link_descriptions": [
+            "Přijďte si popovídat s kandidáty koalice SPOLU.\nMáme šanci odstartovat změnu! Teď jde o všechno!"
+        ],
+        "ad_creative_link_titles": [
+            "SPOLU v Jablonci nad Nisou"
+        ],
+        "ad_delivery_start_time": "2021-10-03",
+        "ad_delivery_stop_time": "2021-10-07",
+        "bylines": "Petr Beitl",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.98722",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.01278",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.212504",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.348558",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.062196",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.070295",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.183673",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.1069",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000972",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.007451",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.005183",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000972",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001296",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "5001",
+            "upper_bound": "10000"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "247354065474274",
+        "page_name": "Petr Beitl",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "2500",
+            "upper_bound": "2999"
+        },
+        "_id": "2739355949690057"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=4845813142120182&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2021-09-27",
+        "ad_creative_bodies": [
+            "SPOLU máme šanci odstartovat změnu.\nTeď jde o všechno!"
+        ],
+        "ad_creative_link_captions": [
+            "SPOLU v České Lípě"
+        ],
+        "ad_creative_link_descriptions": [
+            "Přijďte si popovídat s kandidáty koalice SPOLU.\nMáme šanci odstartovat změnu! Teď jde o všechno!"
+        ],
+        "ad_creative_link_titles": [
+            "SPOLU v České Lípě"
+        ],
+        "ad_delivery_start_time": "2021-10-02",
+        "ad_delivery_stop_time": "2021-10-05",
+        "bylines": "Petr Beitl",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.963512",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.036488",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000545",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.076168",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.116706",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.097073",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.14052",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.170333",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.179967",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.156881",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.059989",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000545",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000364",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000909",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "247354065474274",
+        "page_name": "Petr Beitl",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "2500",
+            "upper_bound": "2999"
+        },
+        "_id": "4845813142120182"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1011801146270154&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2021-09-30",
+        "ad_creative_bodies": [
+            "SPOLU máme šanci odstartovat změnu.\nTeď jde o všechno!"
+        ],
+        "ad_creative_link_captions": [
+            "SPOLU v Turnově"
+        ],
+        "ad_creative_link_descriptions": [
+            "Přijďte si popovídat s kandidáty koalice SPOLU.\nMáme šanci odstartovat změnu! Teď jde o všechno!"
+        ],
+        "ad_creative_link_titles": [
+            "SPOLU v Turnově"
+        ],
+        "ad_delivery_start_time": "2021-09-30",
+        "ad_delivery_stop_time": "2021-10-04",
+        "bylines": "Petr Beitl",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.089655",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.910345",
+                "region": "Liberec Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.042254",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.528169",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.338028",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.021127",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.056338",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.014085",
+                "age": "65+",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100",
+            "upper_bound": "1000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "247354065474274",
+        "page_name": "Petr Beitl",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "_id": "1011801146270154"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=228818872632835&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2021-09-27",
+        "ad_creative_bodies": [
+            "Senioři, nejsou hloupí, doma je učili obrátit každou korunu. Vědí, že tahle vláda asi prošla jinou výchovou. Rozhazuje peníze, kupuje si voliče a nemyslí na zadní kolečka.\n\nUmí si také spočítat, že to, co jim Babiš přidá, jim vzápětí z peněženky vyletí díky rostoucím cenám. Už mu nevěří. \n\nSpolu21: zastavíme zdražování a garantujeme valorizaci důchodů"
+        ],
+        "ad_delivery_start_time": "2021-09-29",
+        "ad_delivery_stop_time": "2021-10-02",
+        "bylines": "Petr Beitl",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000359",
+                "region": "Lower Silesian Voivodeship"
+            },
+            {
+                "percentage": "0.010177",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.862189",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.036159",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.090637",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.000479",
+                "region": "Sachsen"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.270708",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002209",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.208369",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.200884",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000736",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.317094",
+                "age": "65+",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "15000",
+            "upper_bound": "19999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "247354065474274",
+        "page_name": "Petr Beitl",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "3500",
+            "upper_bound": "3999"
+        },
+        "_id": "228818872632835"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=295632248654420&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2021-09-27",
+        "ad_creative_bodies": [
+            "Už jste ve své oblíbené kavárně či restauraci dostali cukr s QR kódem? A víte, co je pod tou divnou kostičkou? Mrkněte na video!\n\nTenhle cukr jsme dostal ke kávě v Rokabar Riegrův dům v Semilech. Díky 🙏\nwww.spoluvlibereckemkraji.cz"
+        ],
+        "ad_delivery_start_time": "2021-09-28",
+        "ad_delivery_stop_time": "2021-10-01",
+        "bylines": "Petr Beitl",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000759",
+                "region": "Lower Silesian Voivodeship"
+            },
+            {
+                "percentage": "0.998766",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.000474",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.53622",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.439162",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.024618",
+                "age": "55-64",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "25000",
+            "upper_bound": "29999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "247354065474274",
+        "page_name": "Petr Beitl",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "3500",
+            "upper_bound": "3999"
+        },
+        "_id": "295632248654420"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=582524523161474&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2021-09-23",
+        "ad_creative_bodies": [
+            "Úpravna vody v Bílém Potoce je dobrou ukázkou toho, jak se má chovat správný hospodář.\n👉 Myslet do budoucna, investovat do rozvoje a modernizovat technologie v souladu s potřebami, k tomu zodpovědný přístup a péče o odběratele. \n👉 To vše Frýdlantská vodárenská společnost, která působí na území 4 měst a 12 obcí Libereckého kraje, splňuje.  \n\nJedním z hlavních úkolů frýdlantské vodárny je vybudovat síť vodních zdrojů tak, aby dokázala eliminovat dopady pokračující těžby v polském dole Turów. \n✅ Projekty jsou hotové, na finančních nákladech by se ale měla podílet i polská strana, to se snažíme vyjednat. \n✅ Pokuty do unijního rozpočtu nejsou pro náš problém řešením.\n\nŘeditel společnosti Petr Olyšar je mužem na svém místě. Své práci rozumí, vodu chrání, umí počítat a má vizi. Společnost úspěšně vede už 16 let. Není proto náhodou, že na kandidátce SPOLU v Libereckém kraji má sedmičku 😏"
+        ],
+        "ad_delivery_start_time": "2021-09-24",
+        "ad_delivery_stop_time": "2021-09-27",
+        "bylines": "Petr Beitl",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Liberec Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.542278",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.380275",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.077447",
+                "age": "55-64",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "15000",
+            "upper_bound": "19999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "247354065474274",
+        "page_name": "Petr Beitl",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "3500",
+            "upper_bound": "3999"
+        },
+        "_id": "582524523161474"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1043690546443600&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2021-09-23",
+        "ad_creative_bodies": [
+            "NECHAT PODNIKATELE PRACOVAT A FIRMY ŽÍT, to je VZKAZ který posílají podnikatelé STÁTU. Nic jiného prakticky nechtějí. Slyším to při svých cestách regionem od malých živnostníků i velkých firem.\n👉 Konektory do těžebních věží na Sibiři nebo do železniční tratě na západním pobřeží Spojených států nebo do kabelů pro filmaře a další velké i malé zajímavé věci vyrábí firma Teneo  3000 ve Smržovce. \n👉 Její majitel a šéf Jaromír Jakoubě má vizi i tah na branku, umí se obklopit šikovnými lidmi a jediné, co od státu chce je, aby se mu nepletl do podnikání."
+        ],
+        "ad_delivery_start_time": "2021-09-23",
+        "ad_delivery_stop_time": "2021-09-27",
+        "bylines": "Petr Beitl",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Liberec Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.003841",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.076265",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.248656",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.054208",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.180292",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.226599",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.208164",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001646",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000329",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "15000",
+            "upper_bound": "19999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "247354065474274",
+        "page_name": "Petr Beitl",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "3500",
+            "upper_bound": "3999"
+        },
+        "_id": "1043690546443600"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=593463608698480&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2021-09-22",
+        "ad_creative_bodies": [
+            "Nechat podnikatele pracovat a firmy žít, to je vzkaz, který posílají podnikatelé státu. Nic jiného prakticky nechtějí. Slyším to při svých cestách regionem od malých živnostníků i velkých firem.\n\nKonektory do těžebních věží na Sibiři nebo do železniční tratě na západním pobřeží Spojených států nebo do kabelů pro filmaře a další velké i malé zajímavé věci vyrábí firma Tento 3000 ve Smržovce. Její majitel a šéf Jaromír Jakoubě má vizi i tah na branku, umí se obklopit šikovnými lidmi a jediné, co od státu chce je, aby se mu nepletl do podnikání."
+        ],
+        "ad_delivery_start_time": "2021-09-22",
+        "ad_delivery_stop_time": "2021-09-22",
+        "bylines": "Petr Beitl",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Liberec Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.100193",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.49711",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.402697",
+                "age": "45-54",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "247354065474274",
+        "page_name": "Petr Beitl",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "_id": "593463608698480"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=373254660995841&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2021-09-14",
+        "ad_creative_bodies": [
+            "Dnes mě čeká předvolební debata lídrů kandidátek v Libereckém kraji na ČT 24. Budu rád, když se budete dívat."
+        ],
+        "ad_delivery_start_time": "2021-09-14",
+        "ad_delivery_stop_time": "2021-09-14",
+        "bylines": "Petr Beitl",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Liberec Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.00083",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.07051",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.031937",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.083368",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.125674",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002489",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.114475",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.080465",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.135214",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00083",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.107424",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.099544",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.110742",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.022812",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.012858",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000415",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000415",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "2000",
+            "upper_bound": "2999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "247354065474274",
+        "page_name": "Petr Beitl",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "_id": "373254660995841"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=388451309459258&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2021-09-13",
+        "ad_creative_bodies": [
+            "Ceny nemovitostí i nájmy jsou tak vysoké, že i lidé s průměrnými příjmy začínají mít problémy si bydlení dovolit. \n\nOcitáme se v pasti, když ceny nemovitostí a nájmů rostou rychleji než mzdy."
+        ],
+        "ad_delivery_start_time": "2021-09-14",
+        "ad_delivery_stop_time": "2021-09-18",
+        "bylines": "Petr Beitl",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.00141",
+                "region": "Lower Silesian Voivodeship"
+            },
+            {
+                "percentage": "0.99859",
+                "region": "Liberec Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001411",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001764",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000353",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001411",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.011993",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.019048",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.05291",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.226455",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.116402",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.208466",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.091711",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.255379",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.012698",
+                "age": "55-64",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "5000",
+            "upper_bound": "5999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "247354065474274",
+        "page_name": "Petr Beitl",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "700",
+            "upper_bound": "799"
+        },
+        "_id": "388451309459258"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=550212249561423&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2021-09-04",
+        "ad_creative_bodies": [
+            "Někteří z vás mě možná znáte jako primátora města Jablonec nad Nisou, které jsem vedl v letech 2010-2018. Vzpomínám na to období rád. \n\nPovedlo se nám vytáhnout Jablonec z dluhů, vykoupit a modernizovat teplárnu a tím snížit lidem cenu tepla, postavit pavilon onkologie v jablonecké nemocnici a ušetřit na pavilon intenzivní medicíny, který už dnes stojí.\n\nOd roku 2017 jsem poslancem Parlamentu ČR, pracuji v sociálním výboru, jsem místopředesdou zahraničního výboru. \nVe své poslanecké práci chci pokračovat. Chci obhájit svůj mandát, proto kandiduji jako lídr kandidátky @spolu21 v Libereckém kraji a žádám vás o podporu.\n\nDovolte mi, abych se vám představil:",
+            "Někteří z vás mě možná znáte jako primátora města Jablonec nad Nisou, které jsem vedl v letech 2010-2018. Vzpomínám na to období rád. \n\nPovedlo se nám vytáhnout Jablonec z dluhů, vykoupit a modernizovat teplárnu a tím snížit lidem cenu tepla, postavit pavilon onkologie v jablonecké nemocnici a ušetřit na pavilon intenzivní medicíny, který už dnes stojí.\n\nOd roku 2017 jsem poslancem Parlamentu ČR, pracuji v sociálním výboru, jsem místopředesdou zahraničního výboru. \nVe své poslanecké práci chci pokračovat. Chci obhájit svůj mandát, proto kandiduji jako lídr kandidátky @spolu21 v Libereckém kraji a žádám vás o podporu.\n\nDovolte mi, abych se vám představil:"
+        ],
+        "ad_creative_link_captions": [
+            "petrbeitl.cz"
+        ],
+        "ad_delivery_start_time": "2021-09-04",
+        "ad_delivery_stop_time": "2021-09-09",
+        "bylines": "Petr Beitl",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Liberec Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.00117",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.070676",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.052656",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.06506",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.061081",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.08542",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.065528",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.187222",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.109057",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000936",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.128247",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.066932",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.061549",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.003978",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000702",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000234",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000234",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.039317",
+                "age": "18-24",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "5000",
+            "upper_bound": "5999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "247354065474274",
+        "page_name": "Petr Beitl",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "_id": "550212249561423"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=572416510447777&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2021-08-30",
+        "ad_creative_bodies": [
+            "Letní kina SPOLU v Libereckém kraji jsou za námi. \n✅ sjeli jsme spolu Jizeru\n✅ užili si koncert Sound-City - díky 👍\n✅ opekli si buřty\n✅ celkem 4x zhlédli Ženy v běhu\na snědli fůru popcornu\n\nDěkujeme, že jste u toho byli s námi. Věřím, že stejnou podporu nám prokážete 8.-9. října u voleb.\n\nSpolu dáme Česko dohromady!"
+        ],
+        "ad_delivery_start_time": "2021-08-30",
+        "ad_delivery_stop_time": "2021-09-04",
+        "bylines": "Petr Beitl",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Liberec Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000513",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.048872",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.048701",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.034518",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.120643",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.077751",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.065448",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.086637",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.061517",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000684",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.053315",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.146104",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.185919",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001367",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.065789",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000684",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000342",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001196",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "7000",
+            "upper_bound": "7999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "247354065474274",
+        "page_name": "Petr Beitl",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "900",
+            "upper_bound": "999"
+        },
+        "_id": "572416510447777"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=548684806451105&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2021-08-23",
+        "ad_creative_link_captions": [
+            "Letní kino - Ženy v běhu - Jablonec"
+        ],
+        "ad_creative_link_descriptions": [
+            "Pojďte do kina a užijte si SPOLU s námi skvělou českou komedii Ženy v běhu.\nUvidíte Zlatu Adamovskou, Vladimíra Polívku, Terezu Kostkovou, Ondřeje Vetchého a další.\n\nPromítáme 25. srpna od 20:30 hodin na louce na Tajvanu na jablonecké přehradě. Vezměte rodinu, kamarády a známé a určitě přijďte!\n\nPřed filmem vás od 18 hodin čeká bigbít v podání skvělé coverbandové kapely Sound-City, takže přijďte dřív, ať si můžete zatančit a užít atmosféru. No a taky, ať máte místo (židle máme, vmete si deku!)a netlačíte se ve frontě na popcorn. Začínáme v šest večer!\n\nVstup je zdarma."
+        ],
+        "ad_creative_link_titles": [
+            "Letní kino - Ženy v běhu - Jablonec"
+        ],
+        "ad_delivery_start_time": "2021-08-23",
+        "ad_delivery_stop_time": "2021-08-25",
+        "bylines": "Petr Beitl",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Liberec Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000287",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000573",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000287",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.016628",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.049885",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.043005",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.027523",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.05906",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.204702",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.156823",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.100344",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.198394",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.068521",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.048165",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.025516",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000287",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "6000",
+            "upper_bound": "6999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "247354065474274",
+        "page_name": "Petr Beitl",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "600",
+            "upper_bound": "699"
+        },
+        "_id": "548684806451105"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=200894465405105&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2021-08-23",
+        "ad_creative_link_captions": [
+            "Letní kino SPOLU - Ženy v běhu - Liberec"
+        ],
+        "ad_creative_link_descriptions": [
+            "Pojďte do kina a užijte si SPOLU s námi skvělou českou komedii Ženy v běhu.\nUvidíte Zlatu Adamovskou, Vladimíra Polívku, Terezu Kostkovou, Ondřeje Vetchého a další.\n\nPromítáme 24. srpna od 20:30 hodin na pláži Na Přehradě v Liberci. Vezměte rodinu, kamarády a známé a určitě přijďte!\n\nPřed filmem vás od 18 hodin čeká bigbít v podání skvělé coverbandové kapely Sound-City, takže přijďte dřív, ať si můžete zatančit a užít atmosféru. No a taky, ať máte místo (židle máme, vmete si deku!)a netlačíte se ve frontě na popcorn. Začínáme v šest večer!\n\nVstup je zdarma."
+        ],
+        "ad_creative_link_titles": [
+            "Letní kino SPOLU - Ženy v běhu - Liberec"
+        ],
+        "ad_delivery_start_time": "2021-08-23",
+        "ad_delivery_stop_time": "2021-08-24",
+        "bylines": "Petr Beitl",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Liberec Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.033613",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.138655",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.193277",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.205882",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.084034",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.151261",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.067227",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.05042",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.012605",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.037815",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.008403",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.012605",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.004202",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "247354065474274",
+        "page_name": "Petr Beitl",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "_id": "200894465405105"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1934141410078768&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2021-08-16",
+        "ad_creative_bodies": [
+            "Zvu vás do kina! Přijďte a SPOLU v Libereckém kraji se s námi pojďte bavit! Vezměte i děti, máme popcorn i skákací hrad 😉\n21. 8. 2021 - U Kerama v Žízníkově - program už odpoledne, promítání od 20:30\nVstup zdarma!"
+        ],
+        "ad_creative_link_captions": [
+            "Letní kino - Ženy v běhu - Českolipsko"
+        ],
+        "ad_creative_link_descriptions": [
+            "Pojďte do kina a užijte si spolu skvělou českou komedii Ženy v běhu.\nUvidíte Zlatu Adamovskou, Vladimíra Polívku, Terezu Kostkovou, Ondřeje Vetchého a další.\nPromítáme 22. srpna od 20:30 hodin na louce v areálu U Kerama v Žízníkově. Vezměte rodinu, kamarády a známé a určitě přijďte!\n\nNebude chybět také program pro děti, takže přijďte dřív, ať máte místo a taky, ať se netlačíte ve frontě na popcorn. Začínáme chvíli po šesté večer 🙂\nVstup je zdarma"
+        ],
+        "ad_creative_link_titles": [
+            "Letní kino - Ženy v běhu - Českolipsko"
+        ],
+        "ad_delivery_start_time": "2021-08-20",
+        "ad_delivery_stop_time": "2021-08-23",
+        "bylines": "Petr Beitl",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Liberec Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000628",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000314",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.044298",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.071002",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.071316",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.026076",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.050267",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.175935",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.237512",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.199183",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.060006",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.019478",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.031417",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.012253",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000314",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "6000",
+            "upper_bound": "6999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "247354065474274",
+        "page_name": "Petr Beitl",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "600",
+            "upper_bound": "699"
+        },
+        "_id": "1934141410078768"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=2929819890668384&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2021-08-16",
+        "ad_creative_bodies": [
+            "Zvu vás do kina! Přijďte a SPOLU v Libereckém kraji se s námi pojďte bavit! Vezměte i děti, máme popcorn i skákací hrad 😉\n21. 8. 2021 - kemp Dolánky - program od 18 h, promítání od 20:30\nVstup zdarma!"
+        ],
+        "ad_creative_link_captions": [
+            "Letní kino - Ženy v běhu"
+        ],
+        "ad_creative_link_descriptions": [
+            "Pojďte do kina a užijte si spolu skvělou českou komedii Ženy v běhu. \nUvidíte Zlatu Adamovskou, Vladimíra Polívku, Terezu Kostkovou, Ondřeje Vetchého a další. \n\nPromítáme 21. srpna od 20:30 hodin na louce v Kempu Dolánky. Vezměte rodinu, kamarády a známé a určitě přijďte!\nNebude chybět také program pro děti, takže přijďte dřív, ať máte místo a taky, ať se netlačíte ve frontě na popcorn. Začínáme chvíli po šesté večer :-)\n\nVstup je zdarma."
+        ],
+        "ad_creative_link_titles": [
+            "Letní kino - Ženy v běhu"
+        ],
+        "ad_delivery_start_time": "2021-08-19",
+        "ad_delivery_stop_time": "2021-08-22",
+        "bylines": "Petr Beitl",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Liberec Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.06097",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.042508",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000859",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000429",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000429",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001288",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.01374",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.023615",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.175612",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.060112",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.089738",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.049807",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.075569",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.040361",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.206526",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.158008",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000429",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "5001",
+            "upper_bound": "10000"
+        },
+        "impressions": {
+            "lower_bound": "5000",
+            "upper_bound": "5999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "247354065474274",
+        "page_name": "Petr Beitl",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "600",
+            "upper_bound": "699"
+        },
+        "_id": "2929819890668384"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=261324359154858&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2021-08-11",
+        "ad_creative_bodies": [
+            "Od roku 2025 žádné kojenecké ústavy. \n👉 Žádná ústavní péče nemůže nahradit laskavou náruč mámy a táty. \n👉 První měsíce a roky života dítěte jsou velmi důležité. Vím to, mám tři děti.  \n👉 Podpořil jsem proto zákaz ústavní péče pro děti do tří let věku od roku 2025. \n\nNEBYLO TO JEDNODUCHÉ ROZHODNUTÍ. Samotné zrušení kojeneckých ústavů totiž není žádné řešení. \n👉 Stávající stav je takový, že pro dnes umístěné děti náhradní péče neexistuje. Především pro děti s vážným zdravotním postiženým, skupiny sourozenců a jiné do pěstounské péče obtížně umístitelné děti. \n👉 Najít adekvátní náhradu je úkolem pro další volební období. \n\nStávající vládní garnitura s řešením příliš nepomohla. Svědčí o tom i schválení tohoto kroku opravdu na poslední chvíli. V systému stále chybí základní informace o počtech a stavu dětí v ústavech. Dokonce ani neexistuje dostatečný počet pěstounů. \n\nZrušení kojeneckých ústavů je proto pouze prvním krokem na dlouhé cestě. Aby bylo skutečně reálné, je potřeba hodně práce na všech úrovních. MPSV pod vedením Jany Maláčové tento úkol vůbec nezvládlo."
+        ],
+        "ad_delivery_start_time": "2021-08-11",
+        "ad_delivery_stop_time": "2021-08-14",
+        "bylines": "Petr Beitl",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Liberec Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000884",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.038674",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.040221",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.138564",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.032044",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.325746",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.106298",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.042652",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.138785",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.122652",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.009061",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000442",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.003536",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000442",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "6000",
+            "upper_bound": "6999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "247354065474274",
+        "page_name": "Petr Beitl",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "_id": "261324359154858"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=4343626582324574&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2021-08-04",
+        "ad_creative_bodies": [
+            "Dětské skupiny zůstanou zachovány hlavně díky ODS\n\n👉 Vnímám velmi pozitivně, že se podařilo nalézt shodu ve věci dětských skupin. Právě ODS jako jediná odmítala zákon o jeslích už na začátku, to my jsme prosadili jeho vrácení do II. čtení, aby se našlo řešení. \n\n👉 Pokud to stát myslí s podporou rodin vážně, měl by reagovat na reálný život a potřeby rodin, neměl by se bát různorodosti a neměl by se snažit je za každou cenu sjednocovat, přejmenovávat a strkat do jedné škatulky. Protože podpora rodin a svobodná volba rodičů při výběru péče o vlastní děti musí být naší absolutní prioritou."
+        ],
+        "ad_delivery_start_time": "2021-08-04",
+        "ad_delivery_stop_time": "2021-08-07",
+        "bylines": "Petr Beitl",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Liberec Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001551",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001551",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.023573",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.034739",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.099256",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.131203",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.215881",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.218983",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.25031",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.020782",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002171",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "5000",
+            "upper_bound": "5999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "247354065474274",
+        "page_name": "Petr Beitl",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "700",
+            "upper_bound": "799"
+        },
+        "_id": "4343626582324574"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1130666157426963&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2021-07-11",
+        "ad_creative_bodies": [
+            "Dnes vzácná chvilka ve Sněmovně.\n\nPodařilo se prohlasovat návrh ODS pracovně nazvaný 3x a dost. Umožní krátit sociální dávky pachatelům vážných a opakovaných přestupků.\n\nProti hlasovali Piráti a ČSSD.\n\nDo složité skládačky řešení vymahatelnosti práva a sociální péče se podařilo dosadit důležitý dílek!"
+        ],
+        "ad_creative_link_titles": [
+            "Zákon o pomoci v hmotné nouzi z dílny ODS prošel!"
+        ],
+        "ad_delivery_start_time": "2021-07-12",
+        "ad_delivery_stop_time": "2021-07-16",
+        "bylines": "Petr Beitl",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.001237",
+                "region": "Lower Silesian Voivodeship"
+            },
+            {
+                "percentage": "0.000618",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.757636",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.013231",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.220972",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.006306",
+                "region": "Sachsen"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000125",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001251",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001627",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.087849",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.187586",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.15555",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.233638",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.084345",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.248029",
+                "age": "45-54",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "15000",
+            "upper_bound": "19999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "247354065474274",
+        "page_name": "Petr Beitl",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "_id": "1130666157426963"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=519761745935070&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2021-07-07",
+        "ad_creative_bodies": [
+            "Novelizace zákona o pomoci v hmotné nouzi, která dnes procházela 3. čtením, není řešením složité sociální situace v naší zemi, ale dává nástroj starostům obcí, strážníkům a všem, kteří se starají o pořádek. \n\nPo třech přestupcích si, dle mého názoru a dle názoru ODS, příjemci sociálních dávek v hmotné nouzi nezaslouží dávky od státu dostávat. Za přestupky musí přijít trest, tak nás to doma učili.\n\nOd našich odpůrců, Pirátů a paní ministryně Jana Maláčová  jsme se dozvěděli, že tím ti dotyční budou trpět. Ale o to nám jde! Ať nesou následky oni a ne jejich slušní sousedé. \n\n👉 Nikdo, kdo porušuje zákony, se nesmí cítit beztrestně!\n👉Těm, kteří se snaží, je potřeba pomoct. Ti, kteří  pravidla nedodržují, musí být potrestáni."
+        ],
+        "ad_delivery_start_time": "2021-07-07",
+        "ad_delivery_stop_time": "2021-07-10",
+        "bylines": "Petr Beitl",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.044113",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.132489",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.125782",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.052757",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.039046",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.027571",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.058271",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.065276",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.124888",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.047988",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.052012",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.083308",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.089419",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.057079",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000744",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000298",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000298",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.031557",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.006103",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.093927",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.069812",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.156892",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.242036",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.175945",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.108068",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.099286",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000595",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.013248",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001191",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "247354065474274",
+        "page_name": "Petr Beitl",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "_id": "519761745935070"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=3025300554413522&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2021-06-30",
+        "ad_creative_bodies": [
+            "Náhradní výživné\n➡️ Vy chcete platit alimenty za rodiče - neplatiče?\n➡️ Myslíte si, že je správné, aby za ně stát převzal zodpovědnost?\n➡️ Je to správná cesta?\nJá jsem přesvědčen, že ne!\n\nPrávě na toto téma budu ve čtvrtek 1. července v 15 hodin v Epicentru na BLESK diskutovat s ministryní práce a sociálních věcí Jana Maláčová .\nNenechte si to ujít!"
+        ],
+        "ad_delivery_start_time": "2021-06-30",
+        "ad_delivery_stop_time": "2021-07-03",
+        "bylines": "Petr Beitl",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.04709",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.186034",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.12641",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.046553",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.043868",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.025425",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.054252",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.049239",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.108684",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.04333",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.04709",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.089526",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.079499",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.052999",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000178",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000356",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000712",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.014248",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.066785",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.065539",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.289938",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.12894",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.131256",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.203206",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.040427",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.025824",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.030276",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001781",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000534",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "7000",
+            "upper_bound": "7999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "247354065474274",
+        "page_name": "Petr Beitl",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "600",
+            "upper_bound": "699"
+        },
+        "_id": "3025300554413522"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=303150598209282&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2021-06-30",
+        "ad_creative_bodies": [
+            "Náhradní výživné\n➡️ Myslíte si, že je správné, aby stát převzal zodpovědnost za rodiče - neplatiče? \n➡️ Je to správná cesta?\n\nJá jsem přesvědčen, že NE.\n\nPrávě na toto téma budu zítra v 15 hodin v @epicentrum na BLESK diskutovat s ministryní práce a sociálních věcí Jana Maláčová. Nenechte si to ujít!"
+        ],
+        "ad_delivery_start_time": "2021-06-30",
+        "ad_delivery_stop_time": "2021-06-30",
+        "bylines": "Petr Beitl",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.07377",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.131148",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.122951",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.04918",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.040984",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.016393",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.040984",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.040984",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.106557",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.040984",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.090164",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.081967",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.131148",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.032787",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.008197",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.065574",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.155738",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.163934",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.155738",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.090164",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.040984",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.229508",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.008197",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.081967",
+                "age": "45-54",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "247354065474274",
+        "page_name": "Petr Beitl",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "_id": "303150598209282"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=833370217295565&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2021-06-18",
+        "ad_creative_bodies": [
+            "Pěkná koláž od TMBK 👍\n\nPravda je ta, že jsme se v rámci návštěvy předsedů koalice Spolu21 v Libereckém kraji pochlubili iQLANDIA Liberec. Kdo to trochu zná, tak ví, že tohle science centrum popularizuje fyziku, chemii, astronimii atd., zkrátka vědu. A dělají to dobře!\n\nMy jsme s Petr Fiala, Markéta Pekarová Adamová a Dan Ramzer zkoušeli páku a zvedali auto. A zvládli jsme to 💪"
+        ],
+        "ad_delivery_start_time": "2021-06-18",
+        "ad_delivery_stop_time": "2021-06-23",
+        "bylines": "Petr Beitl",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.051229",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.163173",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.140766",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.051409",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.05412",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.01536",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.055746",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.061077",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.090351",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.050867",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.053939",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.100018",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.057644",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.054301",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000814",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002171",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.010765",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.067215",
+                "age": "13-17",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.388276",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.084766",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.40474",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.012665",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.018455",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.004795",
+                "age": "13-17",
+                "gender": "female"
+            },
+            {
+                "percentage": "9.0E-5",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001719",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000814",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000452",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002171",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "9.0E-5",
+                "age": "55-64",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "247354065474274",
+        "page_name": "Petr Beitl",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "_id": "833370217295565"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1728325580680608&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2021-06-04",
+        "ad_creative_bodies": [
+            "Vládní poslanci NEPODPOŘILI svým hlasováním OSOBY S PORUCHAMI AUTISTICKÉHO SPEKTRA. Včera totiž zamítli senátní návrh, který by umožnil rodinám s autistickými dětmi ve 3. a 4. stupni čerpat příspěvek na mobilitu. \n\nV kontextu politiky rozdávání, kterou razí ministryně Jana Maláčová, je to zarážející a nespravedlivé. \n\nJedná se o cca 1800 rodin, pro které je cestování s autistickým dítětem noční můrou a velmi často nemožné. Vlastní auto je nejlepším možným řešením a cestou k normálnímu životu v tak těžké životní situaci. \n\nChování a projevy lidí s autistickou poruchou s těžkým funkčním postižením je velmi náročné na péči, a klobouk dolů před všemi, kteří toto těžké břímě nesou na svých zádech."
+        ],
+        "ad_delivery_start_time": "2021-06-04",
+        "ad_delivery_stop_time": "2021-06-09",
+        "bylines": "Petr Beitl",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.053336",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.106764",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.112393",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.055458",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.038018",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.036818",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.0669",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.059611",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.123558",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.048261",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.055366",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.094307",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.100305",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.048907",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000187",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000374",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001962",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.077455",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.032421",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.031393",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.090442",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.128188",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.071756",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.234047",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.330842",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000934",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "247354065474274",
+        "page_name": "Petr Beitl",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "_id": "1728325580680608"
+    }
+]

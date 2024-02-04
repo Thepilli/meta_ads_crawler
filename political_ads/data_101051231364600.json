@@ -1,0 +1,5149 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=388925713597416&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-31",
+        "ad_creative_bodies": [
+            "Co se letos povedlo ve sněmovně? 🤔 Náš stát konečně začne šetřit a zmírníme zadlužení 💰"
+        ],
+        "ad_creative_link_titles": [
+            "Snižujeme zadlužení!"
+        ],
+        "ad_delivery_start_time": "2023-12-31",
+        "ad_delivery_stop_time": "2024-01-07",
+        "bylines": "Žijeme reklamou",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000458",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.060016",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.062994",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.120605",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.052571",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.039285",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.036193",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.049708",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.072271",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.143283",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.048104",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.0528",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.085786",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.11694",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.058985",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000114",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.174891",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.008796",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.005141",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.194654",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.082362",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.102239",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.184716",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002856",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000114",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.171693",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.007539",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.03347",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.027987",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000685",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001142",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000571",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001028",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "9000",
+            "upper_bound": "9999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "101051231364600",
+        "page_name": "Miroslav Zborovský - poslanec za JMK",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 8724,
+        "beneficiary_payers": [
+            {
+                "payer": "Miroslav Zborovský",
+                "beneficiary": "Miroslav Zborovský",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 66,
+                        "female": 25,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 1503,
+                        "female": 293,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 1531,
+                        "female": 1617,
+                        "unknown": 10
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 1704,
+                        "female": 895,
+                        "unknown": 9
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 721,
+                        "female": 77,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 245,
+                        "female": 45,
+                        "unknown": 1
+                    }
+                ]
+            }
+        ],
+        "_id": "388925713597416"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1021965395539937&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-31",
+        "ad_creative_bodies": [
+            "Co se letos povedlo ve sněmovně? 🤔 Snažili jsme se, aby jednou mladí dostali důchod, a zároveň abychom neuškodili současným důchodcům 🫡"
+        ],
+        "ad_creative_link_titles": [
+            "Aby jednou bylo na důchody..."
+        ],
+        "ad_delivery_start_time": "2023-12-31",
+        "ad_delivery_stop_time": "2024-01-07",
+        "bylines": "Žijeme reklamou",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000113",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.058464",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.062996",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.112848",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.055291",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.040789",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.042488",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.048833",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.065602",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.154997",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.046",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.050759",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.086449",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.116814",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.057557",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.188376",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.233718",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.09204",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.292289",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.014021",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.035052",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.13806",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.004071",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001244",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000339",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000791",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "101051231364600",
+        "page_name": "Miroslav Zborovský - poslanec za JMK",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "40",
+            "65"
+        ],
+        "eu_total_reach": 8744,
+        "beneficiary_payers": [
+            {
+                "payer": "Miroslav Zborovský",
+                "beneficiary": "Miroslav Zborovský",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "male": 814,
+                        "female": 310,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 1666,
+                        "female": 1221,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 2067,
+                        "female": 2585,
+                        "unknown": 11
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 124,
+                        "female": 36
+                    }
+                ]
+            }
+        ],
+        "_id": "1021965395539937"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=746315460704873&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-29",
+        "ad_creative_bodies": [
+            "Co se letos povedlo ve sněmovně? 🤔 Tohle potěší hlavně všechny rodiče a taky fanoušky digitalizace 😇"
+        ],
+        "ad_creative_link_titles": [
+            "Zvýšení rodičovského příspěvku!"
+        ],
+        "ad_delivery_start_time": "2023-12-29",
+        "ad_delivery_stop_time": "2024-01-06",
+        "bylines": "Žijeme reklamou",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000105",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.054286",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.071997",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.112765",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.054182",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.040872",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.037623",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.045902",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.068434",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.14651",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.04978",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.055544",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.090757",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.118529",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.052714",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000106",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000424",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001695",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000212",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.033573",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.018111",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.111311",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.10591",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.271129",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.0896",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.221669",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.049778",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.082504",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.012709",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001271",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "101051231364600",
+        "page_name": "Miroslav Zborovský - poslanec za JMK",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "25",
+            "65"
+        ],
+        "eu_total_reach": 9155,
+        "beneficiary_payers": [
+            {
+                "payer": "Miroslav Zborovský",
+                "beneficiary": "Miroslav Zborovský",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 171,
+                        "female": 120,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 470,
+                        "female": 317,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 779,
+                        "female": 1051,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 1000,
+                        "female": 2093,
+                        "unknown": 12
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 846,
+                        "female": 2560,
+                        "unknown": 16
+                    }
+                ]
+            }
+        ],
+        "_id": "746315460704873"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=3956858037883240&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-29",
+        "ad_creative_bodies": [
+            "Co se letos povedlo ve sněmovně? 🤔 Doprava nás všechny neustále trápí, a proto do ní rekordně investujeme! 📈🚘"
+        ],
+        "ad_creative_link_titles": [
+            "Rekordní investice do dopravy!"
+        ],
+        "ad_delivery_start_time": "2023-12-29",
+        "ad_delivery_stop_time": "2024-01-07",
+        "bylines": "Žijeme reklamou",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.052511",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.070776",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.129961",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.049701",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.041623",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.039691",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.04777",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.066386",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.137513",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.05058",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.056024",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.097822",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.105901",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.053741",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000177",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.158713",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.004595",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00106",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001767",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.017144",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.006363",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.15783",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.088017",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001767",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.202899",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.238777",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.042771",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.064864",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.010604",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000884",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00053",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001237",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "6000",
+            "upper_bound": "6999"
+        },
+        "page_id": "101051231364600",
+        "page_name": "Miroslav Zborovský - poslanec za JMK",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 5708,
+        "beneficiary_payers": [
+            {
+                "payer": "Miroslav Zborovský",
+                "beneficiary": "Miroslav Zborovský",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 242,
+                        "female": 26,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 498,
+                        "female": 36,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 1351,
+                        "female": 893,
+                        "unknown": 10
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 1148,
+                        "female": 367,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 898,
+                        "female": 97,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 60,
+                        "female": 10,
+                        "unknown": 3
+                    }
+                ]
+            }
+        ],
+        "_id": "3956858037883240"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=321372320791032&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-06",
+        "ad_creative_bodies": [
+            "Společnost PRAMOS z nedalekých Šitbořic je jedna z těch českých firem, která dělá poctivé výrobky a působí na trhu plastových oken a dveří již mnoho let. \nRád jsem se proto zúčastnil návštěvy této firmy společně s panem ministrem životního prostředí Petr Hladík, paní Eva Rajchmanová, senátorka za Hodonínsko, Kyjovsko a Veselsko, starostou Šitbořic Lukášem Fraňkem a dalšími.\n\nTématem byly především samotná výroba a také dotační tituly podporující zateplení budov. \n\nRád jsem se potkal s Těšaňaky, kteří zde pracují. Ať se daří i nadále Vlastimil Viktorin! Děkuji za pozvání řediteli společnosti Radomíru Zelinkovi🙂"
+        ],
+        "ad_delivery_start_time": "2023-12-06",
+        "ad_delivery_stop_time": "2023-12-14",
+        "bylines": "Žijeme reklamou",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "South Moravian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.00105",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.054877",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.193568",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.041307",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.068371",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.057875",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.153985",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.079916",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.054052",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001349",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.161032",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.066047",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.042657",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.0006",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00075",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.0009",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001949",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.019717",
+                "age": "18-24",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "500001",
+            "upper_bound": "1000000"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "101051231364600",
+        "page_name": "Miroslav Zborovský - poslanec za JMK",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "300",
+            "upper_bound": "399"
+        },
+        "target_locations": [
+            {
+                "name": "South Moravian Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 13589,
+        "beneficiary_payers": [
+            {
+                "payer": "Miroslav Zborovský",
+                "beneficiary": "Miroslav Zborovský",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 772,
+                        "female": 263,
+                        "unknown": 8
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 2054,
+                        "female": 1066,
+                        "unknown": 14
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 551,
+                        "female": 569,
+                        "unknown": 12
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 881,
+                        "female": 732,
+                        "unknown": 10
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 2582,
+                        "female": 912,
+                        "unknown": 26
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 2148,
+                        "female": 721,
+                        "unknown": 18
+                    }
+                ]
+            }
+        ],
+        "_id": "321372320791032"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=347083458017312&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-06",
+        "ad_creative_bodies": [
+            "Dnes jsme společně s kolegy poslanci Hana Naiclerová - poslankyně a Robert Teleky navštívili společnost Podravka-Lagris, a.s. Impulsem bylo především to, že tato společnost sídlící v Dolní Lhotě u Luhačovic má chorvatské vlastníky, a proto jsme, jakožto členové parlamentní skupiny ČR - Chorvatsko, chtěli s představiteli firmy probrat zkušenosti v podnikání v potravinářském průmyslu napříč Evropou. \n\nBylo skvělé, že jsme mohli vidět výrobu podniku, který se specializuje především na rýži, čočku a jiné luštěniny. Dále jsme probrali problematiku tohoto odvětví, ale např. i tržní sílu obchodních řetězců.\n\nPřeji této společnosti, která zaměstnává v uvedeném podniku skoro 150 lidí, aby dělala stále tak kvalitní a chutné výrobky, jako doposud. 🙂"
+        ],
+        "ad_delivery_start_time": "2023-12-06",
+        "ad_delivery_stop_time": "2023-12-14",
+        "bylines": "Žijeme reklamou",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "South Moravian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.0008",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.019531",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.0008",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00064",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001361",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00088",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.048427",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.068038",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.187145",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.080285",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.050108",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.066437",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.044505",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.167054",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.039702",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.14248",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.081005",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.0008",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "500001",
+            "upper_bound": "1000000"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "101051231364600",
+        "page_name": "Miroslav Zborovský - poslanec za JMK",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "300",
+            "upper_bound": "399"
+        },
+        "target_locations": [
+            {
+                "name": "South Moravian Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 12469,
+        "beneficiary_payers": [
+            {
+                "payer": "Miroslav Zborovský",
+                "beneficiary": "Miroslav Zborovský",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "65+",
+                        "male": 556,
+                        "female": 605,
+                        "unknown": 10
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 2087,
+                        "female": 1003,
+                        "unknown": 11
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 1012,
+                        "female": 830,
+                        "unknown": 10
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 2338,
+                        "female": 850,
+                        "unknown": 17
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 496,
+                        "female": 244,
+                        "unknown": 8
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 1780,
+                        "female": 626,
+                        "unknown": 10
+                    }
+                ]
+            }
+        ],
+        "_id": "347083458017312"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1026108342149219&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-08-25",
+        "ad_creative_bodies": [
+            "Vísky u Letovic se ničeho nebojí! 💪 Obchod, kde není prodavačka❓ Zdá se Vám to jako z jiného světa❓ Nebo budoucnost pro obchody na vesnicích❓ \n\nV pondělí jsme společně s Jan Zámečník - náměstek hejtmana Jihomoravského kraje a šikovným starostou obce Stanislavem Kambou otevřeli obecní bezobslužný obchod. 🥐\n\nJe pravdou, že přes dopoledne je zde paní prodavačka, která pomůže především starším lidem.🧓 V odpoledních a večerních hodinách se, ale do obchodu lidé dostanou přes mobilní aplikaci, nebo místní mají kartičku, na kterou si mohou nahrát peníze a pomocí ní se jak obchod otevřou, ale i zaplatí. 😊\n\nV posledních letech se běžně stává, že se obchody především na malých vesnicích zavírají. ❌ \nMyslím si, že toto je jedna z možností, jak obchody na vesnicích zachovat a kraje i stát musí tyto projekty podporovat."
+        ],
+        "ad_delivery_start_time": "2023-08-25",
+        "ad_delivery_stop_time": "2023-08-30",
+        "bylines": "Žijeme reklamou",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "South Moravian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.00016",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.055216",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00036",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.06892",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.133645",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.192736",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.066643",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.195733",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.035519",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001279",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.05214",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.046706",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.031523",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.039954",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.075952",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000999",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000679",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001838",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "500001",
+            "upper_bound": "1000000"
+        },
+        "impressions": {
+            "lower_bound": "25000",
+            "upper_bound": "29999"
+        },
+        "page_id": "101051231364600",
+        "page_name": "Miroslav Zborovský - poslanec za JMK",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "300",
+            "upper_bound": "399"
+        },
+        "target_locations": [
+            {
+                "name": "South Moravian Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 24426,
+        "beneficiary_payers": [
+            {
+                "payer": "Miroslav Zborovský",
+                "beneficiary": "Miroslav Zborovský",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 1725,
+                        "female": 789,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 3345,
+                        "female": 1901,
+                        "unknown": 32
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 1000,
+                        "female": 889,
+                        "unknown": 17
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 1305,
+                        "female": 1169,
+                        "unknown": 9
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 4899,
+                        "female": 1668,
+                        "unknown": 46
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 4824,
+                        "female": 1382,
+                        "unknown": 25
+                    }
+                ]
+            }
+        ],
+        "_id": "1026108342149219"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1040131896975638&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-07-16",
+        "ad_creative_bodies": [
+            "Konsolidační balíček jde do druhého čtení a jistě ho čekají ještě drobné změny. Za sebe říkám, že bych byl rád, aby se do nižší sazby DPH dostala také kojenecká voda a pleny. Současně si myslím, že změn by nemělo být hodně, aby se nám balíček nerozpadnul pod rukama."
+        ],
+        "ad_delivery_start_time": "2023-07-16",
+        "ad_delivery_stop_time": "2023-07-24",
+        "bylines": "Žijeme reklamou",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.056727",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.090252",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.098869",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.060968",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.05096",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.041154",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.047662",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.057737",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.103469",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.051117",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.06337",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.113096",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.120658",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.043959",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000473",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.072718",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001058",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000608",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000675",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.026048",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.040276",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.169683",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.08742",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001081",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.06781",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.043023",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.185916",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.123373",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.049665",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.08044",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.049147",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000585",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "40000",
+            "upper_bound": "44999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "101051231364600",
+        "page_name": "Miroslav Zborovský - poslanec za JMK",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "500",
+            "upper_bound": "599"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 44939,
+        "beneficiary_payers": [
+            {
+                "payer": "KDU-ČSL",
+                "beneficiary": "KDU-ČSL",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 1911,
+                        "female": 1157,
+                        "unknown": 30
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 7537,
+                        "female": 3573,
+                        "unknown": 47
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 2183,
+                        "female": 2206,
+                        "unknown": 26
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 3883,
+                        "female": 3230,
+                        "unknown": 21
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 8258,
+                        "female": 3012,
+                        "unknown": 48
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 5480,
+                        "female": 1789,
+                        "unknown": 27
+                    }
+                ]
+            }
+        ],
+        "_id": "1040131896975638"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1791876054604689&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-06-09",
+        "ad_creative_bodies": [
+            "V rámci diskuze k důchofové reformě jsem dnes v noci vystoupil s následujícím projevem. Pokud máte dvě minutky, tak si pusťte i video🙂\n\nVážená paní předsedající,\nVážené kolegyně, vážení kolegové,\n\nCelý den tady slyšíme projevy opozičních politiků a já si říkám, že ale přece oni byli ve vládě předchozích 8 let. Sami věděli, že je nutné důchodový systém řešit, a přesto neudělali nic. \n\nKdybych to chtěl k něčemu přirovnat, tak bych řekl, že náš důchodový účet, postavený na průběžném financování, si představme třeba jako obrovský parník, který neomylně míří do ledovce. To se ví již dlouhou dobu. V roce 2013 se ke kormidlu dostane nový kapitán s jeho posádkou a o situaci jsou dokonale informováni. Oni ví, že srážce s ledovcem je možné se vyhnout, ovšem museli by začít točit kormidlem a tím trochu snížit pohodlí cestujícím. Oni to však neudělají, udělají pravý opak. Ještě přidají pod kotlem, aby ke srážce došlo dřív a ve větší rychlosti. A pročpak to dělají, ptáte se? Protože kapitán moc dobře ví, že až dojde ke srážce, tak už na lodi nebudou. Ještě před nárazem opustí parník na záchranném člunu a nechají loď napospas osudu. Už je nebude zajímat, co se stane a kdo loď zachrání. Prostě se zachovají se jako zbabělci a neudělají vůbec nic. A i když by třeba teď mohli pomoci odvrátit katastrofu, tak stále chtějí, aby ten pomyslný parník směřoval přímo do ledovce. \n\nTolik k vládám předchozím, nicméně na závěr mi dovolte říct pár slov k vládě současné, která právě důchodovou reformu dnes sněmovně předkládá. Můžete této vládě vyčítat spoustu věcí, ale rozhodně nemůžete říci, že je to vláda zbabělců, na rozdíl od jiných. Důchodová reforma nikdy nebude populární, nepřinese politické body, ale je to něco, co je potřeba udělat. Další generace to ocení. A já za tuto odvahu vládě děkuji.\n\nDěkuji Vám za pozornost"
+        ],
+        "ad_delivery_start_time": "2023-06-09",
+        "ad_delivery_stop_time": "2023-06-17",
+        "bylines": "Miroslav Zborovský",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "South Moravian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000369",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.114723",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000462",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.027965",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.028057",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.186631",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.069839",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.06862",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.092577",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000942",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.209368",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.039325",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.045845",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000499",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.072111",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.040414",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000868",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001385",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "500001",
+            "upper_bound": "1000000"
+        },
+        "impressions": {
+            "lower_bound": "50000",
+            "upper_bound": "59999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "101051231364600",
+        "page_name": "Miroslav Zborovský - poslanec za JMK",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "_id": "1791876054604689"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1222745698601284&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-05-12",
+        "ad_creative_bodies": [
+            "Zavedení spotřební daně by pro vinaře znamenalo velkou administratovní zátěž ❌\n\nJsem přesvědčený, že by hrozil zánik mnoha vinařství, které se často dědí po generace 🍷\n\nOd začátku jednání jsem byl proti zavedení, proto jsem rád, že jsme uhájili naše vinaře! ✅"
+        ],
+        "ad_delivery_start_time": "2023-05-12",
+        "ad_delivery_stop_time": "2023-05-13",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.048591",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.123419",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.12154",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.061991",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.048779",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.031183",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.040889",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.064371",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.117658",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.045899",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.057295",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.1",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.081966",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.056418",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001431",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.137667",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.022084",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000311",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000311",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.077449",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.028056",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.107496",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.173002",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000373",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.077574",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.085101",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.046221",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.08846",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.120062",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.032908",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000747",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000747",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "15000",
+            "upper_bound": "19999"
+        },
+        "page_id": "101051231364600",
+        "page_name": "Miroslav Zborovský",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "_id": "1222745698601284"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=710075950812302&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-12-23",
+        "ad_delivery_start_time": "2022-12-24",
+        "ad_delivery_stop_time": "2022-12-27",
+        "bylines": "Pavel Krček",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "South Moravian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000135",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.111026",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000721",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000901",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.033646",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.089992",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.034637",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.123187",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.043374",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000586",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.160751",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.120575",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.036033",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.114134",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.074813",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.054139",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001126",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000225",
+                "age": "18-24",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "500001",
+            "upper_bound": "1000000"
+        },
+        "impressions": {
+            "lower_bound": "20000",
+            "upper_bound": "24999"
+        },
+        "page_id": "101051231364600",
+        "page_name": "Miroslav Zborovský - poslanec za JMK",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "300",
+            "upper_bound": "399"
+        },
+        "_id": "710075950812302"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=3899941093565749&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-09-29",
+        "ad_creative_bodies": [
+            "Diskutované minimální teploty na pracovištích nejsou vycucané z prstu 🙏\nSituace je prostě taková, že všichni musíme makat na snižování spotřeby energie. 👇🏻"
+        ],
+        "ad_creative_link_titles": [
+            "Teplota na pracovišti?"
+        ],
+        "ad_delivery_start_time": "2022-09-29",
+        "ad_delivery_stop_time": "2022-10-03",
+        "bylines": "Pavel Krček",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "South Moravian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000115",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.171478",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00023",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.099482",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.084301",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.053076",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.037263",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.145256",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.106728",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001323",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.062162",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.041633",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.043358",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.109431",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.041978",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000518",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001438",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00023",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "500001",
+            "upper_bound": "1000000"
+        },
+        "impressions": {
+            "lower_bound": "15000",
+            "upper_bound": "19999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "101051231364600",
+        "page_name": "Miroslav Zborovský - poslanec za JMK",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "300",
+            "upper_bound": "399"
+        },
+        "_id": "3899941093565749"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=496350902043452&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-09-27",
+        "ad_creative_bodies": [
+            "👉 zastropování cen plynu na 3 Kč/kWh a elektřiny 6 Kč/kWh. Proč zrovna tyto částky? Podívejte se na video."
+        ],
+        "ad_delivery_start_time": "2022-09-28",
+        "ad_delivery_stop_time": "2022-10-03",
+        "bylines": "Pavel Krček",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "South Moravian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000159",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.184903",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00107",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001586",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.035522",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.095465",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.059269",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.035244",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.094156",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000595",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.059665",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.04468",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.158421",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.118181",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.038931",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.071797",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000198",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000159",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "500001",
+            "upper_bound": "1000000"
+        },
+        "impressions": {
+            "lower_bound": "25000",
+            "upper_bound": "29999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "101051231364600",
+        "page_name": "Miroslav Zborovský - poslanec za JMK",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "500",
+            "upper_bound": "599"
+        },
+        "_id": "496350902043452"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1127308654860777&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-09-26",
+        "ad_creative_bodies": [
+            "👉 zastropování cen plynu. Pojďme se podívat na příklad, jak konkrétně může vypadat faktura v příštím roce."
+        ],
+        "ad_delivery_start_time": "2022-09-26",
+        "ad_delivery_stop_time": "2022-09-30",
+        "bylines": "Pavel Krček",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "South Moravian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000319",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.115705",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.04253",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.098766",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.179045",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.038295",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.056464",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.096489",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.154501",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000319",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.036201",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.05956",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.074951",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.04335",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001366",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001412",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000501",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000228",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "500001",
+            "upper_bound": "1000000"
+        },
+        "impressions": {
+            "lower_bound": "20000",
+            "upper_bound": "24999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "101051231364600",
+        "page_name": "Miroslav Zborovský - poslanec za JMK",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "500",
+            "upper_bound": "599"
+        },
+        "_id": "1127308654860777"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=2332402053605147&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-09-23",
+        "ad_creative_bodies": [
+            "👉 Energie a zdražování to je to, co nás všechny teď trápí. Vláda však cenu elektříny a plynu zastropovala. Pojďme se podívat na to jak bude po zastropování cen elektřiny vypadat faktura u průměrné rodiny. \n\nV příštích dnech uvidíte také příklad u cen plynu, ale i další videa k této problematice."
+        ],
+        "ad_delivery_start_time": "2022-09-23",
+        "ad_delivery_stop_time": "2022-09-28",
+        "bylines": "Pavel Krček",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "South Moravian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000133",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.040366",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.08459",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.060326",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.060593",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.09395",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.04418",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.163813",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.04072",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000444",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.16745",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.098918",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001686",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.035043",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.106059",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000311",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000311",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001109",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "500001",
+            "upper_bound": "1000000"
+        },
+        "impressions": {
+            "lower_bound": "20000",
+            "upper_bound": "24999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "101051231364600",
+        "page_name": "Miroslav Zborovský - poslanec za JMK",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "500",
+            "upper_bound": "599"
+        },
+        "_id": "2332402053605147"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=608817267425527&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-08-11",
+        "ad_creative_bodies": [
+            "👉Dnes můj vstup na ČT24 (čas 11:32) na téma „Sektorová daň“. \nMyslím, že je na čase, aby firmy, které v současné době profitují např. z růstu cen energií, byly zatíženy daní z mimořádného zisku. Tento zisk musí být potom využitý pro pomoc domácností, na které celá situace dopadá."
+        ],
+        "ad_delivery_start_time": "2022-08-11",
+        "ad_delivery_stop_time": "2022-08-18",
+        "bylines": "Pavel Krček",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "South Moravian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000189",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.102494",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000378",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.035991",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.041816",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.039203",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.11194",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.057403",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.07724",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000535",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.181592",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.0984",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.031079",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.157756",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.061874",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000787",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000157",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001165",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "500001",
+            "upper_bound": "1000000"
+        },
+        "impressions": {
+            "lower_bound": "30000",
+            "upper_bound": "34999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "101051231364600",
+        "page_name": "Miroslav Zborovský - poslanec za JMK",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "500",
+            "upper_bound": "599"
+        },
+        "_id": "608817267425527"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1105768956680843&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-06-27",
+        "ad_creative_bodies": [
+            "👉Přijďte si se mnou v pátek pokecat do restaurace Poupě (Dominikánská 15) v Brně nejen o politice. Přijďte kámoši, spolužáci, ale klidně i vy, kteří mě znáte jen z FB.  A protože je to poprvé, tak zaplatím i nějaký to 🍺, ale počet míst je omezený. Jako host přijde i Marie Jílková, poslankyně, což mě velmi těší ♥️. Takže v pátek v Brně🙂"
+        ],
+        "ad_delivery_start_time": "2022-06-27",
+        "ad_delivery_stop_time": "2022-07-01",
+        "bylines": "Pavel Krček",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "South Moravian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000212",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.087913",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001166",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.034656",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.082561",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.049494",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.083143",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.196863",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.087224",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00053",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.158338",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.036829",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.10079",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.02994",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.048328",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00053",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001325",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000159",
+                "age": "18-24",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "500001",
+            "upper_bound": "1000000"
+        },
+        "impressions": {
+            "lower_bound": "15000",
+            "upper_bound": "19999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "101051231364600",
+        "page_name": "Miroslav Zborovský - poslanec za JMK",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "300",
+            "upper_bound": "399"
+        },
+        "_id": "1105768956680843"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=4478500042251299&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-04-06",
+        "ad_creative_bodies": [
+            "👉Podíval jsem se na to, kde je problém ve vysoké ceně PHM.\n\nCena zásadním způsobem nenarostla v daních, spotřební daň zůstala stejná a DPH vzrostlo jen o necelé 2 Kč na litru nafty. Také ropa není zásadně dražší než před válkou na Ukrajině. Zásadní nárůst ceny vidíme u ceny za výrobu a distribuci. Oslovil jsem předsedy příslušných výborů a také ministra financí, abychom zjistili, zda jsme schopni tuto položku ovlivnit, tak abychom měli všichni pohonné hmoty o něco levnější.💰"
+        ],
+        "ad_creative_link_captions": [
+            "fb.com"
+        ],
+        "ad_delivery_start_time": "2022-04-06",
+        "ad_delivery_stop_time": "2022-04-11",
+        "bylines": "Pavel Krček",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.059505",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.108153",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.095714",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.068304",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.048712",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.042255",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.051529",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.053238",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.093024",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.054093",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.06305",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.10502",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.112996",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.044407",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000288",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.113163",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000736",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00112",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00048",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.042436",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.072551",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.104522",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.043236",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000224",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.160015",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.05991",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.071559",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.153999",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.065606",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.048101",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.061318",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000736",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "30000",
+            "upper_bound": "34999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "101051231364600",
+        "page_name": "Miroslav Zborovský - Poslanec a starosta z Těšan",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "_id": "4478500042251299"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=2130340050472071&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-03-21",
+        "ad_creative_bodies": [
+            "“Konflikt na úrovni třetí světové války nikdo vyvolávat nechce. Červená linie, kterou Putin nesmí bez odezvy NATO překročit, je však jasná” … přečtěte si rozhovor se mnou na téma válka na Ukrajině."
+        ],
+        "ad_creative_link_captions": [
+            "udalosti247.cz"
+        ],
+        "ad_creative_link_descriptions": [
+            "Chceme vytvořit humanitární koridor s nasazením prostředků NATO za účasti nealiančních států, jako je Švédsko."
+        ],
+        "ad_creative_link_titles": [
+            "Hrozí konflikt mezi Rusem a Západem? Poslanec Zborovský řekl, co by to pro nás znamenalo..."
+        ],
+        "ad_delivery_start_time": "2022-03-22",
+        "ad_delivery_stop_time": "2022-03-24",
+        "bylines": "Pavel Krček",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "South Moravian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.039137",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.078024",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000751",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000334",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000417",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001335",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001252",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.048901",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.039513",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.068469",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.107982",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.093712",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.036091",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.152877",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.072266",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.210331",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.048275",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000334",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "20000",
+            "upper_bound": "24999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "101051231364600",
+        "page_name": "Miroslav Zborovský",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "700",
+            "upper_bound": "799"
+        },
+        "_id": "2130340050472071"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=616395289599637&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2021-12-23",
+        "ad_creative_bodies": [
+            "Rok se s rokem sešel a jsou tu opět Vánoce, svátky pohody a klidu, které já osobně mám ze všech svátků nejraději. \nDovolte, abych vám prostřednictvím videa popřál nejen krásné prožití svátků vánočních, ale také vše nejlepší do nového roku 🙂"
+        ],
+        "ad_delivery_start_time": "2021-12-23",
+        "ad_delivery_stop_time": "2021-12-31",
+        "bylines": "Pavel Krček",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.044574",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.055556",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.224527",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.062613",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.054511",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.030676",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.04659",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.070498",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.072802",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.04767",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.057824",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.071794",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.076222",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.084143",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001113",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.180581",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000646",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000323",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000108",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001651",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.054559",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.074731",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.15524",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.070208",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.107107",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.070424",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.055922",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.022936",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.059404",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.072721",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.071967",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000359",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "25000",
+            "upper_bound": "29999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "101051231364600",
+        "page_name": "Miroslav Zborovský - Poslanec a starosta z Těšan",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "500",
+            "upper_bound": "599"
+        },
+        "_id": "616395289599637"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=608248400213755&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2021-11-02",
+        "ad_creative_bodies": [
+            "Politika to nejsou jen poslanci v Praze. \nPolitika to je hlavně práce pro lidi.  \nJestli se chcete zapojit, podívejte se na video👇"
+        ],
+        "ad_delivery_start_time": "2021-11-02",
+        "ad_delivery_stop_time": "2021-11-07",
+        "bylines": "Pavel Krček",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "South Moravian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000131",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.057145",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000438",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001709",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.016784",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000482",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.022569",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.026469",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.240983",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001271",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.086244",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.104869",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.126561",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.149086",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.019808",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.076121",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.069021",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000307",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "20000",
+            "upper_bound": "24999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "101051231364600",
+        "page_name": "Miroslav Zborovský - Poslanec a starosta z Těšan",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "_id": "608248400213755"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1304152816736388&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2021-10-07",
+        "ad_creative_bodies": [
+            "https://www.mirekzborovsky.cz/miroslav-zborovsky-starosta-tesany-co-se-povedlo/\n\nZa sedm let co starostuji v Těšanech se toho opravdu dost povedlo. Podívejte se na některé z projektů, které jsme společně se zastupitelstvem realizovali. Jako poslanec bych chtěl i nadále podporovat rozvoj obcí, chytrá řešení, která opravdu fungují a v neposlední řadě kulturní a sportovní život na Jižní Moravě. Budu rád, když mě a koalici SPOLU ve volbách podpoříte."
+        ],
+        "ad_delivery_start_time": "2021-10-08",
+        "ad_delivery_stop_time": "2021-10-09",
+        "bylines": "KDU-ČSL",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "South Moravian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001636",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.020527",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000397",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000124",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.032029",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001339",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.066538",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.116119",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.061381",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.019609",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.080321",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.126258",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.210472",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.13258",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.106227",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.022287",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001735",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000421",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "500001",
+            "upper_bound": "1000000"
+        },
+        "impressions": {
+            "lower_bound": "40000",
+            "upper_bound": "44999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "101051231364600",
+        "page_name": "Miroslav Zborovský - poslanec za JMK",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "2000",
+            "upper_bound": "2499"
+        },
+        "_id": "1304152816736388"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=3043136892570951&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2021-10-05",
+        "ad_creative_bodies": [
+            "Na Jižní Moravě jsem se narodil, vyrostl zde, žiji tady. Proto budu jako poslanec bojovat o více peněz pro Jižní Moravu např. na opravu silnic a na podporu kultury a sportu. Budu rád za sdílení 🙂"
+        ],
+        "ad_delivery_start_time": "2021-10-05",
+        "ad_delivery_stop_time": "2021-10-08",
+        "bylines": "KDU-ČSL",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "South Moravian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000237",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001421",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002014",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.111512",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.026176",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.132358",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.129812",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.199633",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.08812",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000592",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.131233",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.053772",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.064254",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.019957",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.018595",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.016996",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.003198",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000118",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "15000",
+            "upper_bound": "19999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "101051231364600",
+        "page_name": "Miroslav Zborovský",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "800",
+            "upper_bound": "899"
+        },
+        "_id": "3043136892570951"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=558728705456217&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2021-10-05",
+        "ad_creative_bodies": [
+            "Ahoj, jsem Mirek a po sedmi letech starostování jsem se rozhodl kandidovat do sněmovny. To, že dělám politiku neznamená, že jsem odtržený od lidí. Mám rád kulturu, folklór, sport, rád si povykládám s lidmi, zasměju se… přesvědčte se sami na mých webových stránkách.\nhttps://www.mirekzborovsky.cz/miroslav-zborovsky-starosta-tesany/"
+        ],
+        "ad_creative_link_captions": [
+            "mirekzborovsky.cz"
+        ],
+        "ad_creative_link_descriptions": [
+            "Mirek Zborovský, starosta Těšan, kandidát do PSP ČR - Jsem rád, že jsou i povinnosti, které mi dovolí se uvolnit a tuto práci si užít..."
+        ],
+        "ad_creative_link_titles": [
+            "Mirek Zborovský, starosta Těšan, politik | Jsem Mirek..."
+        ],
+        "ad_delivery_start_time": "2021-10-06",
+        "ad_delivery_stop_time": "2021-10-07",
+        "bylines": "KDU-ČSL",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "South Moravian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000215",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.082211",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000645",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.01289",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.024778",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.018118",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.091306",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.133701",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.101833",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001074",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.232956",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.020481",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.072114",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.149957",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.055213",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001862",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000215",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00043",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "101051231364600",
+        "page_name": "Miroslav Zborovský - poslanec za JMK",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "700",
+            "upper_bound": "799"
+        },
+        "_id": "558728705456217"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1015968682569500&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2021-10-03",
+        "ad_creative_bodies": [
+            "Na Jižní Moravě jsem se narodil, vyrostl zde, žiji tady. Proto budu jako poslanec bojovat o více peněz pro Jižní Moravu např. na opravu silnic a na podporu kultury a sportu. Budu rád za sdílení 🙂"
+        ],
+        "ad_delivery_start_time": "2021-10-04",
+        "ad_delivery_stop_time": "2021-10-06",
+        "bylines": "KDU-ČSL",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "South Moravian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001202",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.139607",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001717",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.05701",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.180132",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.113677",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.147763",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.080021",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.02301",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000343",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.121576",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.060445",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.019833",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.019919",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.031081",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002576",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "8.6E-5",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "500001",
+            "upper_bound": "1000000"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "101051231364600",
+        "page_name": "Miroslav Zborovský - Poslanec a starosta z Těšan",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "300",
+            "upper_bound": "399"
+        },
+        "_id": "1015968682569500"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=584053119392650&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2021-09-27",
+        "ad_creative_bodies": [
+            "👉 www.mirekzborovsky.cz\n\nSedm let jsem starostou obce Těšany. Obec šlape jako hodinky a neustále se rozvíjí. \n\nA protože není malých cílů, a já chci, aby se věci hýbaly tím správným směrem i za hranicemi naší obce, rozhodl jsem se kandidovat za koalici SPOLU do Poslanecké sněmovny. \n\nA co Vám nabízím? Zkušenosti, pracovitost a odhodlání v tom co dělám. Po říjnových volbách se chci stát poslancem a ovlivnit pozitivně životy všech lidí v naší zemi. \n\nBudu rád, když si najdete čas a podíváte se i na můj web, kde jsem shrnul všechno, co se povedlo, co teď dělám a jaké mám plány."
+        ],
+        "ad_creative_link_captions": [
+            "www.mirekzborovsky.cz"
+        ],
+        "ad_delivery_start_time": "2021-09-27",
+        "ad_delivery_stop_time": "2021-10-02",
+        "bylines": "KDU-ČSL",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "South Moravian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000525",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.104435",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.065075",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.118342",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.081868",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000525",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.096825",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.107846",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.041197",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000262",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.050643",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.12359",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.12805",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.028864",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.050118",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000262",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001574",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "6000",
+            "upper_bound": "6999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "101051231364600",
+        "page_name": "Miroslav Zborovský - Poslanec a starosta z Těšan",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "700",
+            "upper_bound": "799"
+        },
+        "_id": "584053119392650"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1323871454713746&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2021-09-25",
+        "ad_creative_bodies": [
+            "👉 www.mirekzborovsky.cz\n\nSedm let jsem starostou obce Těšany a celou tu dobu se snažím podporovat mládež, ať už výstavbou sportovních zázemí, hřišť nebo podporou aktivit pro mladé. \n\nČasto je jim vyčítáno, že ještě nemají zkušenosti, ale já si cením právě toho, že k životu přistupují upřímně a spontánně. Doufám, že využijí práva volit a dají tím najevo svůj názor. \n\nMladí, přijďte k volbám, můžete rozhodnout!"
+        ],
+        "ad_delivery_start_time": "2021-09-26",
+        "ad_delivery_stop_time": "2021-10-02",
+        "bylines": "KDU-ČSL",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "South Moravian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.002275",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.003413",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001138",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.022753",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.151308",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.01934",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.09215",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.042093",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.017065",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.384528",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.196815",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.010239",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.044369",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.005688",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.006826",
+                "age": "65+",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "2000",
+            "upper_bound": "2999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "101051231364600",
+        "page_name": "Miroslav Zborovský - starosta Těšany",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "500",
+            "upper_bound": "599"
+        },
+        "_id": "1323871454713746"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=141589178187418&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2021-09-22",
+        "ad_creative_bodies": [
+            "👉 www.mirekzborovsky.cz\n\nSedm let jsem starostou obce Těšany. Obec šlape jako hodinky a neustále se rozvíjí. \n\nA protože není malých cílů, a já chci, aby se věci hýbaly tím správným směrem i za hranicemi naší obce, rozhodl jsem se kandidovat za koalici SPOLU do Poslanecké sněmovny. \n\nA co Vám nabízím? Zkušenosti, pracovitost a odhodlání v tom co dělám. Po říjnových volbách se chci stát poslancem a ovlivnit pozitivně životy všech lidí v naší zemi. \n\nBudu rád, když si najdete čas a podíváte se i na můj web, kde jsem shrnul všechno, co se povedlo, co teď dělám a jaké mám plány."
+        ],
+        "ad_creative_link_captions": [
+            "www.mirekzborovsky.cz"
+        ],
+        "ad_delivery_start_time": "2021-09-23",
+        "ad_delivery_stop_time": "2021-09-30",
+        "bylines": "KDU-ČSL",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000447",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.999553",
+                "region": "South Moravian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000226",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.164182",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.033875",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.03794",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.056459",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.053297",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.217706",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.082882",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.061201",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000226",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.07159",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.113821",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.058491",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.042457",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.003388",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000678",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000903",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000678",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "7000",
+            "upper_bound": "7999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "101051231364600",
+        "page_name": "Miroslav Zborovský - poslanec za JMK",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "800",
+            "upper_bound": "899"
+        },
+        "_id": "141589178187418"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=2056416571173096&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2021-09-22",
+        "ad_creative_bodies": [
+            "👉 https://www.mirekzborovsky.cz/mirek-zborovsky-starosta-tesany-jsem-mirek/\n\nSedm let jsem starostou obce Těšany a nyní jsem se rozhodl za koalici SPOLU kandidovat do Poslanecké sněmovny. \n\nStarostování ale není jen papírování, kravata a oblek. Jsem rád, že tato služba občanům přináší i povinnosti, které mi dovolí se uvolnit a práci si užít. \n\nMám rád srandu, mám rád kulturu, folklór a vše další, kde se lidé mohou potkat, povykládat si, zasmát se… přesvědčte se sami na mých webových stránkách."
+        ],
+        "ad_creative_link_captions": [
+            "mirekzborovsky.cz"
+        ],
+        "ad_creative_link_descriptions": [
+            "Mirek Zborovský, starosta Těšan, kandidát do PSP ČR - Jsem rád, že jsou i povinnosti, které mi dovolí se uvolnit a tuto práci si užít..."
+        ],
+        "ad_creative_link_titles": [
+            "Mirek Zborovský, starosta Těšan, politik | Jsem Mirek..."
+        ],
+        "ad_delivery_start_time": "2021-09-23",
+        "ad_delivery_stop_time": "2021-09-30",
+        "bylines": "KDU-ČSL",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.002786",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.997214",
+                "region": "South Moravian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000969",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.139395",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.009112",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.070376",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.098294",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.084529",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.069988",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.090151",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.082202",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000194",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.055642",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.081815",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.050989",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.067662",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.092865",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000775",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001163",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.003877",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "500001",
+            "upper_bound": "1000000"
+        },
+        "impressions": {
+            "lower_bound": "9000",
+            "upper_bound": "9999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "101051231364600",
+        "page_name": "Miroslav Zborovský - poslanec za JMK",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "_id": "2056416571173096"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=2138163959657141&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2021-09-20",
+        "ad_creative_bodies": [
+            "👉 www.mirekzborovsky.cz\nSedm let jsem starostou obce Těšany. Obec šlape jako hodinky a neustále se rozvíjí. \nA protože není malých cílů, a já chci, aby se věci hýbaly tím správným směrem i za hranicemi naší obce, rozhodl jsem se kandidovat za koalici SPOLU do Poslanecké sněmovny. \nA co Vám nabízím? Zkušenosti, pracovitost a odhodlání v tom co dělám. Po říjnových volbách se chci stát poslancem a ovlivnit pozitivně životy všech lidí v naší zemi. \nBudu rád, když si najdete čas a podíváte se i na můj web, kde jsem shrnul všechno, co se povedlo, co teď dělám a jaké mám plány.\n👉 www.mirekzborovsky.cz"
+        ],
+        "ad_delivery_start_time": "2021-09-20",
+        "ad_delivery_stop_time": "2021-09-30",
+        "bylines": "KDU-ČSL",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.99822",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.00178",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.002756",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001654",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.006615",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.003308",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00441",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.008269",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000551",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.033627",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.086549",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.442668",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.227674",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.156009",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.013782",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.012128",
+                "age": "35-44",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "500001",
+            "upper_bound": "1000000"
+        },
+        "impressions": {
+            "lower_bound": "6000",
+            "upper_bound": "6999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "101051231364600",
+        "page_name": "Miroslav Zborovský - poslanec za JMK",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "_id": "2138163959657141"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=4332302836854868&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2021-09-15",
+        "ad_creative_bodies": [
+            "Sedm let jsem starostou obce Těšany. Obec šlape jako hodinky a neustále se rozvíjí. \n\nA protože není malých cílů, a já chci, aby se věci hýbaly tím správným směrem i za hranicemi naší obce, rozhodl jsem se kandidovat za koalici SPOLU do Poslanecké sněmovny. \n\nA co Vám nabízím? Zkušenosti, pracovitost a odhodlání v tom co dělám. Po říjnových volbách se chci stát poslancem a ovlivnit pozitivně životy všech lidí v naší zemi. \n\nBudu rád, když si najdete čas a podíváte se i na můj web, kde jsem shrnul všechno, co se povedlo, co teď dělám a jaké mám plány.\n  \n👉 www.mirekzborovsky.cz"
+        ],
+        "ad_delivery_start_time": "2021-09-16",
+        "ad_delivery_stop_time": "2021-09-30",
+        "bylines": "KDU-ČSL",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "South Moravian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001297",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000432",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001729",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.012105",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.004756",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.039343",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000865",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00562",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000865",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.007782",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002162",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.086468",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.223087",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.446606",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.012538",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.154345",
+                "age": "25-34",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "500001",
+            "upper_bound": "1000000"
+        },
+        "impressions": {
+            "lower_bound": "8000",
+            "upper_bound": "8999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "101051231364600",
+        "page_name": "Miroslav Zborovský - poslanec za JMK",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "_id": "4332302836854868"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=814815785860583&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2021-09-14",
+        "ad_creative_bodies": [
+            "Sedm let jsem starostou obce Těšany. Obec šlape jako hodinky a neustále se rozvíjí. \n\nA protože není malých cílů, a já chci, aby se věci hýbaly tím správným směrem i za hranicemi naší obce, rozhodl jsem se kandidovat za koalici SPOLU do Poslanecké sněmovny. \n\nA co Vám nabízím? Zkušenosti, pracovitost a odhodlání v tom co dělám. Po říjnových volbách se chci stát poslancem a ovlivnit pozitivně životy všech lidí v naší zemi. \n\nBudu rád, když si najdete čas a podíváte se i na můj web, kde jsem shrnul všechno, co se povedlo, co teď dělám a jaké mám plány.  \n\n👉 www.mirekzborovsky.cz"
+        ],
+        "ad_delivery_start_time": "2021-09-15",
+        "ad_delivery_stop_time": "2021-09-29",
+        "bylines": "KDU-ČSL",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "South Moravian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.003562",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.017809",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.006233",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.086821",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.010686",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.13179",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.221282",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.034283",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.464381",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002671",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.009795",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.005788",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002671",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002226",
+                "age": "55-64",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "500001",
+            "upper_bound": "1000000"
+        },
+        "impressions": {
+            "lower_bound": "7000",
+            "upper_bound": "7999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "101051231364600",
+        "page_name": "Miroslav Zborovský - poslanec za JMK",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "_id": "814815785860583"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=592959611884207&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2021-09-09",
+        "ad_creative_bodies": [
+            "Sedm let jsem starostou obce Těšany. Obec šlape jako hodinky a neustále se rozvíjí. A protože není malých cílů, a já chci, aby se věci hýbaly tím správným směrem i za hranicemi naší obce, rozhodl jsem se kandidovat za koalici SPOLU do Poslanecké sněmovny. A co Vám nabízím? Zkušenosti, pracovitost a odhodlání v tom co dělám. Po říjnových volbách se chci stát poslancem a ovlivnit pozitivně životy všech lidí v naší zemi. Budu rád, když si najdete čas a podíváte se na můj web, kde jsem shrnul všechno, co se povedlo, co teď dělám a jaké mám plány.\n\nhttps://www.mirekzborovsky.cz/co-se-povedlo/"
+        ],
+        "ad_creative_link_captions": [
+            "mirekzborovsky.cz"
+        ],
+        "ad_creative_link_descriptions": [
+            "Kandidát č. 7 do poslanecké sněmovny za SPOLU"
+        ],
+        "ad_creative_link_titles": [
+            "Co se povedlo | Miroslav Zborovský"
+        ],
+        "ad_delivery_start_time": "2021-09-10",
+        "ad_delivery_stop_time": "2021-09-30",
+        "bylines": "KDU-ČSL",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "South Moravian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000179",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.087672",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001252",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.145643",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002326",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.10968",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.056719",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.08803",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.110395",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000537",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.060476",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.032564",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.12453",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.062086",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.101449",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002326",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.013598",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000537",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "500001",
+            "upper_bound": "1000000"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "101051231364600",
+        "page_name": "Miroslav Zborovský - poslanec za JMK",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "900",
+            "upper_bound": "999"
+        },
+        "_id": "592959611884207"
+    }
+]

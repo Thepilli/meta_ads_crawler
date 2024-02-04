@@ -1,0 +1,2112 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1332236360744804&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-10-27",
+        "ad_creative_bodies": [
+            "Spojte se s uživatelem Století ČSR"
+        ],
+        "ad_creative_link_captions": [
+            "facebook.com"
+        ],
+        "ad_creative_link_titles": [
+            "Století ČSR"
+        ],
+        "ad_delivery_start_time": "2023-10-27",
+        "ad_delivery_stop_time": "2023-10-30",
+        "bylines": "Století ČSR",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.059299",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.144205",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.119946",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.052561",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.028302",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.024259",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.041779",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.083558",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.09973",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.049865",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.06469",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.095687",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.083558",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.052561",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001348",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002695",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.02965",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.03504",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.039084",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.055256",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.032345",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.09973",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.219677",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.022911",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.253369",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.156334",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.052561",
+                "age": "18-24",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "page_id": "103203185973188",
+        "page_name": "Století ČSR",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 756,
+        "beneficiary_payers": [
+            {
+                "payer": "Století ČSR",
+                "beneficiary": "Století ČSR",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "65+",
+                        "male": 41,
+                        "female": 22,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 39,
+                        "female": 2
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 116,
+                        "female": 17
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 188,
+                        "female": 24
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 163,
+                        "female": 29
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 74,
+                        "female": 26
+                    }
+                ]
+            }
+        ],
+        "_id": "1332236360744804"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=340719375162450&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-10-20",
+        "ad_creative_link_captions": [
+            "fb.com"
+        ],
+        "ad_delivery_start_time": "2023-10-20",
+        "ad_delivery_stop_time": "2023-10-22",
+        "bylines": "Století ČSR",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.039085",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.091516",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.07817",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.054337",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.035272",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.045758",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.055291",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.051478",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.180172",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.046711",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.049571",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.081983",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.145853",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.044805",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001921",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.056676",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.056676",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.287224",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.169068",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.125841",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.256484",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.01633",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.010567",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.007685",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.003842",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002882",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000961",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002882",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000961",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "page_id": "103203185973188",
+        "page_name": "Století ČSR",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 1034,
+        "beneficiary_payers": [
+            {
+                "payer": "Století ČSR",
+                "beneficiary": "Století ČSR",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 17,
+                        "female": 2,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 8,
+                        "female": 3,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 59,
+                        "female": 4
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 176,
+                        "female": 11,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 299,
+                        "female": 59
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 267,
+                        "female": 131
+                    }
+                ]
+            }
+        ],
+        "_id": "340719375162450"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1977734182592825&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-10-18",
+        "ad_creative_link_captions": [
+            "fb.com"
+        ],
+        "ad_delivery_start_time": "2023-10-18",
+        "ad_delivery_stop_time": "2023-10-20",
+        "bylines": "Století ČSR",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000924",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.049908",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.091497",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.102588",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.036969",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.038817",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.04159",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.055453",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.073013",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.151571",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.047135",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.061922",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.091497",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.120148",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.036969",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000935",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001871",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.005613",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.043031",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.320861",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.088868",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.246024",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.063611",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.17493",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.031805",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.016838",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002806",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001871",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000935",
+                "age": "25-34",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100",
+            "upper_bound": "1000"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "page_id": "103203185973188",
+        "page_name": "Století ČSR",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 1073,
+        "beneficiary_payers": [
+            {
+                "payer": "Století ČSR",
+                "beneficiary": "Století ČSR",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 18,
+                        "female": 3
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 34,
+                        "female": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 95,
+                        "female": 2
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 343,
+                        "female": 46,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 187,
+                        "female": 6,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 263,
+                        "female": 68
+                    }
+                ]
+            }
+        ],
+        "_id": "1977734182592825"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=7276676362360711&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-10-10",
+        "ad_creative_link_captions": [
+            "stoleticsr.cz",
+            "stoleticsr.cz",
+            "stoleticsr.cz",
+            "stoleticsr.cz",
+            "stoleticsr.cz",
+            "stoleticsr.cz",
+            "stoleticsr.cz"
+        ],
+        "ad_delivery_start_time": "2023-10-11",
+        "ad_delivery_stop_time": "2023-10-12",
+        "bylines": "Století ČSR",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000782",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.051643",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.255869",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.104851",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.055556",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.027387",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.025822",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.028951",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.039906",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.078247",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.039124",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.061815",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.115023",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.078247",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.036776",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.002336",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.01947",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.004673",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.010903",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.009346",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.014019",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.457944",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.205607",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.074766",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.167445",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.008567",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.017134",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.004673",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000779",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002336",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "page_id": "103203185973188",
+        "page_name": "Století ČSR",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 1294,
+        "beneficiary_payers": [
+            {
+                "payer": "Století ČSR",
+                "beneficiary": "Století ČSR",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 215,
+                        "female": 588,
+                        "unknown": 12
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 96,
+                        "female": 264,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 22,
+                        "female": 25
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 18,
+                        "female": 6,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 11,
+                        "female": 3
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 14,
+                        "female": 6
+                    }
+                ]
+            }
+        ],
+        "_id": "7276676362360711"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=799735901951035&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-10-04",
+        "ad_creative_link_captions": [
+            "stoleticsr.cz",
+            "stoleticsr.cz",
+            "stoleticsr.cz",
+            "stoleticsr.cz",
+            "stoleticsr.cz",
+            "stoleticsr.cz",
+            "stoleticsr.cz"
+        ],
+        "ad_delivery_start_time": "2023-10-04",
+        "ad_delivery_stop_time": "2023-10-13",
+        "bylines": "Století ČSR",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.005052",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.04674",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.203059",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.114867",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.055285",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.040744",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.024881",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.034984",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.056371",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.103583",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.042113",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.05571",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.102734",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.070016",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.04386",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000721",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.0198",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.02648",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001201",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.077807",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.004133",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.013216",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.116301",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.106401",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.018166",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.072232",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.131007",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.215254",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.08415",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000865",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.110582",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001346",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000336",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "35000",
+            "upper_bound": "39999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "103203185973188",
+        "page_name": "Století ČSR",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "2500",
+            "upper_bound": "2999"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 20900,
+        "beneficiary_payers": [
+            {
+                "payer": "Století ČSR",
+                "beneficiary": "Století ČSR",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 1751,
+                        "female": 4479,
+                        "unknown": 86
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 2301,
+                        "female": 275,
+                        "unknown": 18
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 1503,
+                        "female": 551,
+                        "unknown": 15
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 1619,
+                        "female": 378,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 2420,
+                        "female": 412,
+                        "unknown": 25
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 2214,
+                        "female": 2726,
+                        "unknown": 28
+                    }
+                ]
+            }
+        ],
+        "_id": "799735901951035"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1391672235099411&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-10-01",
+        "ad_creative_bodies": [
+            "Mnichov 1938\nZorientujte se v historii i současnosti."
+        ],
+        "ad_creative_link_captions": [
+            "fb.com"
+        ],
+        "ad_delivery_start_time": "2023-10-01",
+        "ad_delivery_stop_time": "2023-10-02",
+        "bylines": "Století ČSR",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.059104",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.106285",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.10339",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.055697",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.043434",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.033384",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.044796",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.065406",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.132686",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.043604",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.064555",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.106455",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.09828",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.042923",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001203",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000172",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000344",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000344",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.004811",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.016151",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.07646",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.029725",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.064261",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.105155",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.191581",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.147938",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.208935",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.141237",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.010481",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001203",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "500001",
+            "upper_bound": "1000000"
+        },
+        "impressions": {
+            "lower_bound": "6000",
+            "upper_bound": "6999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "103203185973188",
+        "page_name": "Století ČSR",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 6067,
+        "beneficiary_payers": [
+            {
+                "payer": "Století ČSR",
+                "beneficiary": "Století ČSR",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 94,
+                        "female": 7,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 374,
+                        "female": 28,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 822,
+                        "female": 61,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 1115,
+                        "female": 173
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 1216,
+                        "female": 445
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 861,
+                        "female": 612,
+                        "unknown": 7
+                    }
+                ]
+            }
+        ],
+        "_id": "1391672235099411"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=6714127771982240&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-09-25",
+        "ad_creative_bodies": [
+            "Spojte se s uživatelem Století ČSR"
+        ],
+        "ad_creative_link_captions": [
+            "facebook.com"
+        ],
+        "ad_creative_link_titles": [
+            "Století ČSR"
+        ],
+        "ad_delivery_start_time": "2023-09-25",
+        "ad_delivery_stop_time": "2023-10-03",
+        "bylines": "Století ČSR",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.05685",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.159181",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.108016",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.054008",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.034679",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.027288",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.042069",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.06481",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.093803",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.041501",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.067652",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.104605",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.098351",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.047186",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001136",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.180114",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000568",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002273",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.017614",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.034659",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.028409",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.03125",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.303409",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001705",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.215909",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.05",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.073864",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.035795",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001705",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.019886",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001136",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000568",
+                "age": "18-24",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "2000",
+            "upper_bound": "2999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "103203185973188",
+        "page_name": "Století ČSR",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 1684,
+        "beneficiary_payers": [
+            {
+                "payer": "Století ČSR",
+                "beneficiary": "Století ČSR",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "55-64",
+                        "male": 130,
+                        "female": 55,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 380,
+                        "female": 63,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 88,
+                        "female": 31,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 534,
+                        "female": 61,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 317,
+                        "female": 50,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 35,
+                        "female": 4,
+                        "unknown": 1
+                    }
+                ]
+            }
+        ],
+        "_id": "6714127771982240"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=10026010884140956&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-09-24",
+        "ad_creative_link_captions": [
+            "stoleticsr.cz",
+            "stoleticsr.cz",
+            "stoleticsr.cz",
+            "stoleticsr.cz",
+            "stoleticsr.cz",
+            "stoleticsr.cz",
+            "stoleticsr.cz"
+        ],
+        "ad_delivery_start_time": "2023-09-25",
+        "ad_delivery_stop_time": "2023-10-04",
+        "bylines": "Století ČSR",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000223",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.044226",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.239893",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.107661",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.054054",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.032611",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.02591",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.033616",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.047577",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.091803",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.042104",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.058521",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.111235",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.07036",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.040205",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.00068",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.218077",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000227",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.003516",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.036743",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.046382",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.007031",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.050919",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.098322",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.004423",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.314244",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.064981",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.123157",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.022681",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.006918",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001134",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000567",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "25000",
+            "upper_bound": "29999"
+        },
+        "page_id": "103203185973188",
+        "page_name": "Století ČSR",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "1500",
+            "upper_bound": "1999"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 8985,
+        "beneficiary_payers": [
+            {
+                "payer": "Století ČSR",
+                "beneficiary": "Století ČSR",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "male": 573,
+                        "female": 62,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 449,
+                        "female": 200,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 324,
+                        "female": 39
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 409,
+                        "female": 31,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 867,
+                        "female": 1923,
+                        "unknown": 10
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 1086,
+                        "female": 2771,
+                        "unknown": 61
+                    }
+                ]
+            }
+        ],
+        "_id": "10026010884140956"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=648726397390008&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-09-22",
+        "ad_creative_bodies": [
+            "Mnichov 1938\nZorientujte se v historii i současnosti."
+        ],
+        "ad_creative_link_captions": [
+            "fb.com"
+        ],
+        "ad_delivery_start_time": "2023-09-22",
+        "ad_delivery_stop_time": "2023-09-24",
+        "bylines": "Století ČSR",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.040073",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.238616",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.100182",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.04918",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.03643",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.03643",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.032787",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.045537",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.078324",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.041894",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.067395",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.107468",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.081967",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.043716",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.00365",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.014599",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.308394",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.012774",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.025547",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.34854",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.014599",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.027372",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.007299",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.085766",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.093066",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.040146",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.018248",
+                "age": "35-44",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "page_id": "103203185973188",
+        "page_name": "Století ČSR",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 557,
+        "beneficiary_payers": [
+            {
+                "payer": "Století ČSR",
+                "beneficiary": "Století ČSR",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 51,
+                        "female": 191,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 47,
+                        "female": 169
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 10,
+                        "female": 22
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 8,
+                        "female": 7
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 15,
+                        "female": 4
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 8,
+                        "female": 14
+                    }
+                ]
+            }
+        ],
+        "_id": "648726397390008"
+    }
+]

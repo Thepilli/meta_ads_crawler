@@ -1,0 +1,884 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=675008091463059&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-30",
+        "ad_creative_bodies": [
+            "SILVESTROVSKÝ KVÍZ PRO VÁS\nMáme pro Vás připraveno 10 otázek. Správně odpovědi nám posílejte do zprávy do 7. ledna. Výherce poté vylosujeme. Těšit se může na malou odměnu. \nJaromíra Vítková senátorka\n\n1. Jaký je přestupný rok?\na) 2024\nb) 2023\nc) 2029\n2. Co znamená jméno Silvestr?\na) Silný muž\nb) Svalnatý muž\nc) Lesní muž\n3. Kolik je v ČR lidí se jménem Silvestr?\na) 454\nb) 20\nc) 1285\n4. Proč se slaví silvestr 31. 12.?\na) Protože se narodil tento den Silvestr Stalone.\nb) V tento den v roce 335 zemřel papež Silvestr I.\nc) V tento den stanovil prezident Masaryk poslední den v roce.\n5. Který výrok je o papeži Silvestrovi I. pravdivý?\na) Podařilo se mu upevnit pozici křesťanské církve v říši.\nb) Žil v 16. století.\nc) Narodil se v Americe.\n6. Kdy se začal 1. leden brát jako začátek nového roku?\na) Od 14. století.\nb) Od roku 2000.\nc) 2000 let před Kristem.\n7. Kde podle legendy vznikl první předchůdce ohňostroje?\na) Antarktida\nb) Čína\nc) Austrálie\n8. V kterém roce vznikla pohádka Mrazík?\na) 2001\nb) 1825\nc) 1964\n9. Jaké jídlo se má jíst na 1. ledna, aby byl po celý rok dostatek peněz?\na) Čočka\nb) Uzené maso\nc) Ředkvičky\n10. Z jaké země pochází šampaňské?\na) Francie\nb) Itálie\nc) Mexiko"
+        ],
+        "ad_delivery_start_time": "2023-12-30",
+        "ad_delivery_stop_time": "2024-01-04",
+        "bylines": "KDU - ČSL Boskovice",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.001595",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.920255",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.028708",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.049442",
+                "region": "Pardubice Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.0016",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.0768",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.0016",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.0032",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.0048",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.0032",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.0848",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.024",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.0208",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.032",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.1696",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.0928",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.1616",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.1184",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.0768",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.0992",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.0256",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.0032",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1400188726952599",
+        "page_name": "KDU - ČSL Boskovice",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Boskovice, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 617,
+        "beneficiary_payers": [
+            {
+                "payer": "KDU - ČSL Boskovice",
+                "beneficiary": "KDU - ČSL Boskovice",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 74,
+                        "female": 48,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 62,
+                        "female": 48,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 15,
+                        "female": 13,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 20,
+                        "female": 16,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 106,
+                        "female": 58,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 101,
+                        "female": 53,
+                        "unknown": 2
+                    }
+                ]
+            }
+        ],
+        "_id": "675008091463059"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=2327420570769967&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-12-19",
+        "ad_creative_bodies": [
+            "Čtvrtá adventní neděle je tu a čtvrtý úkol - křížovka. Tajenku nám piště do zprávy.\nKřížovku vytvořil Honza Vaňhara"
+        ],
+        "ad_delivery_start_time": "2022-12-20",
+        "ad_delivery_stop_time": "2022-12-23",
+        "bylines": "Palanova Barbora",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.875",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.008721",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.046512",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.069767",
+                "region": "Pardubice Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.093093",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.093093",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.051051",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.063063",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.09009",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.069069",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.045045",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.147147",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.015015",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.228228",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.063063",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.03003",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.006006",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.006006",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1400188726952599",
+        "page_name": "KDU - ČSL Boskovice",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "_id": "2327420570769967"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=2784972821636673&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-12-12",
+        "ad_creative_bodies": [
+            "Třetí adventní neděle a třetí adventní úkol. Znáte pranostiky? Odpovědi nám piště do zprávy."
+        ],
+        "ad_delivery_start_time": "2022-12-13",
+        "ad_delivery_stop_time": "2022-12-16",
+        "bylines": "Palanova Barbora",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.878327",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.007605",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.034221",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.079848",
+                "region": "Pardubice Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.003831",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.065134",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.057471",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.076628",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.118774",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.042146",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.084291",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.095785",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.042146",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.114943",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.065134",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.068966",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.153257",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.007663",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.003831",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1400188726952599",
+        "page_name": "KDU - ČSL Boskovice",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "_id": "2784972821636673"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=829473161606462&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-12-09",
+        "ad_creative_bodies": [
+            "Adventní soutěž a úkol č. 2 - Napište nám do zprávy, která čísla patří na místa otazníků"
+        ],
+        "ad_delivery_start_time": "2022-12-09",
+        "ad_delivery_stop_time": "2022-12-12",
+        "bylines": "Palanova Barbora",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.108911",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.044554",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.049505",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.012376",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.056931",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.111386",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.066832",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.066832",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.037129",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.061881",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.121287",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.054455",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.094059",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.113861",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.004975",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.004975",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.047264",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.121891",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.059701",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.027363",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.014925",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.014925",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.0199",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.08209",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.064677",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.154229",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.059701",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.323383",
+                "age": "18-24",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1400188726952599",
+        "page_name": "KDU - ČSL Boskovice",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "_id": "829473161606462"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=538404087516440&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-03-11",
+        "ad_creative_bodies": [
+            "Klidná síla: placky, ponožky, body pro mimča, deníčky, tašky a další předměty či dárečky si můžete objednat přímo na https://www.kdu.cz/e-shop\nMalou ukázku máme v okresní kanceláři v Boskovicích. Pokud máte zájem o placku StojímeZaUkrajinou, neváhejte nám napsat! 😉😴"
+        ],
+        "ad_delivery_start_time": "2022-03-12",
+        "ad_delivery_stop_time": "2022-03-14",
+        "bylines": "Palanova Barbora",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.88196",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.055679",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.060134",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.002227",
+                "region": "Vysočina Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.002198",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.085714",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.068132",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.092308",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.030769",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.105495",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.171429",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.065934",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.074725",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002198",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.12967",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.083516",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.035165",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002198",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002198",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.006593",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.041758",
+                "age": "18-24",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1400188726952599",
+        "page_name": "KDU - ČSL Boskovice",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "_id": "538404087516440"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=695774541434834&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-03-07",
+        "ad_creative_bodies": [
+            "V pátek 11. 3. 15-19 sbírka na pomoc lidem opouštějící domovy na Ukrajině. Seznam hygienických potřeb, které se sbírají najdete na plakátku. Sdílejte! 👇\nVěci obdrží lidé přes Krajské asistenční centrum pomoci na brněnském výstavišti. Vše je zajištěno. Organizuje senátorka Vítková + Orel + MO KDU-ČSL.\nKaždá i malá pomoc je potřebná! 🤝👇"
+        ],
+        "ad_delivery_start_time": "2022-03-07",
+        "ad_delivery_stop_time": "2022-03-07",
+        "bylines": "Palanova Barbora",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.907127",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.036717",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.056156",
+                "region": "Pardubice Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.004228",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.088795",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.048626",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.059197",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.014799",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.171247",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.095137",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.190275",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.105708",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.038055",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.097252",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.042283",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.038055",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.004228",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002114",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1400188726952599",
+        "page_name": "KDU - ČSL Boskovice",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "_id": "695774541434834"
+    }
+]

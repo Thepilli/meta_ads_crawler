@@ -1,0 +1,197 @@
+[
+    {
+        "id": "883771623473696",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=883771623473696&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-10",
+        "ad_creative_bodies": [
+            "Nové Sociálně poradenské centrum vzniklo v Praze 10.\nZdejší úřad chce lidem usnadnit orientaci a pomoci jim řešit situace, kvůli kterým přicházejí. \n👉 \"Může to být jednoduché předání kontaktu či nasměrování na sociálního pracovníka, ale někdy je potřeba hodně empatie a také více času, než zjistíme, jakou pomoc návštěvník centra potřebuje. Věříme, že otevření Sociálního poradenského centra je dalším krokem k tomu, jak občanům ulehčit komunikaci s úřadem,\" říká k tomu David Kašpar - místostarosta Prahy 10 👍."
+        ],
+        "ad_delivery_start_time": "2024-01-10",
+        "ad_delivery_stop_time": "2024-01-24",
+        "bylines": "STAN Praha",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Prague"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000886",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.078423",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.008861",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.019052",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.032344",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.145769",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.145326",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.115197",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.095259",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000443",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.175454",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.074435",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.03899",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.062915",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001329",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001329",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002215",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001772",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100",
+            "upper_bound": "1000"
+        },
+        "impressions": {
+            "lower_bound": "4000",
+            "upper_bound": "4999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "707458719329186",
+        "page_name": "STAN Praha",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "300",
+            "upper_bound": "399"
+        },
+        "target_locations": [
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 2169,
+        "beneficiary_payers": [
+            {
+                "payer": "Stan Praha",
+                "beneficiary": "Stan Praha",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 73,
+                        "female": 20,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 329,
+                        "female": 88,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 260,
+                        "female": 215,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 328,
+                        "female": 177,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 396,
+                        "female": 142,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 168,
+                        "female": 43,
+                        "unknown": 2
+                    }
+                ]
+            }
+        ]
+    }
+]

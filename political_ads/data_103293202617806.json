@@ -1,0 +1,762 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=370118712169392&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-14",
+        "ad_creative_bodies": [
+            "HLASUJTE A OVLIVNĚTE BUDOUCNOST ČESKÉ REPUBLIKY!"
+        ],
+        "ad_creative_link_captions": [
+            "pollates.com"
+        ],
+        "ad_creative_link_descriptions": [
+            "Každý hlas má cenu a každý hlas se počítá"
+        ],
+        "ad_creative_link_titles": [
+            "Zaregistruj se a hlasuj!"
+        ],
+        "ad_delivery_start_time": "2023-12-14",
+        "ad_delivery_stop_time": "2023-12-15",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.066528",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.093555",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.12474",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.051975",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.04158",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.031185",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.045738",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.079002",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.139293",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.043659",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.066528",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.068607",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.099792",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.047817",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.004158",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.006237",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.014553",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.137214",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.272349",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002079",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.320166",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.035343",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.022869",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.170478",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.004158",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002079",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.004158",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.004158",
+                "age": "18-24",
+                "gender": "male"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "103293202617806",
+        "page_name": "Pollates",
+        "publisher_platforms": [
+            "facebook",
+            "instagram",
+            "audience_network",
+            "messenger"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 484,
+        "beneficiary_payers": [
+            {
+                "payer": "Pollates",
+                "beneficiary": "AntiqStreet",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 2,
+                        "female": 2
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 2,
+                        "female": 3
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 11
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 17,
+                        "female": 7,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 82,
+                        "female": 66,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 131,
+                        "female": 154,
+                        "unknown": 1
+                    }
+                ]
+            }
+        ],
+        "_id": "370118712169392"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=849879490111812&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-19",
+        "ad_creative_link_captions": [
+            "pollates.com"
+        ],
+        "ad_creative_link_descriptions": [
+            "Hlasování je mocným nástrojem pro vyjádření svých názorů a ovlivňování směřování společnosti. Vaše hlasování má vliv na rozhodnutí a politiku a pomáhá formovat budoucnost. Na této platformě věříme, že každý hlas má váhu a každý názor stojí za to slyšet."
+        ],
+        "ad_creative_link_titles": [
+            "Myslíte si, že válka na Ukrajině je důležitým světovým konfliktem? | Pollates"
+        ],
+        "ad_delivery_start_time": "2023-11-19",
+        "ad_delivery_stop_time": "2023-11-20",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.05138",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.086656",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.107362",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.064417",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.045245",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.037577",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.048313",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.059816",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.153374",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.042945",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.045245",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.089724",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.104294",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.06365",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.00314",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.006279",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002355",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.007849",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00157",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.06044",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.291209",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.005495",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.203297",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.332025",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.005495",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.008634",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.071429",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000785",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "103293202617806",
+        "page_name": "Pollates",
+        "publisher_platforms": [
+            "facebook",
+            "instagram",
+            "messenger"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 1291,
+        "beneficiary_payers": [
+            {
+                "payer": "AntiqStreet",
+                "beneficiary": "AntiqStreet",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 3,
+                        "female": 2
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 7,
+                        "female": 8
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 10,
+                        "female": 4
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 77,
+                        "female": 11
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 259,
+                        "female": 91,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 423,
+                        "female": 371,
+                        "unknown": 7
+                    }
+                ]
+            }
+        ],
+        "_id": "849879490111812"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=304490092405204&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-17",
+        "ad_creative_bodies": [
+            "🚀 Změňte budoucnost České republiky společně s námi! 🇨🇿✨\n🫵👍Přidej se k naší anketní komunitě na Pollates a dejte najevo svůj názor! 🗳️ Každý váš hlas má sílu ovlivnit rozhodnutí a formovat politiku.\n📊 Podívejte se na živé statistické výsledky anket a sledujte, jak se mění měření naší společnosti. Vaše názory jsou klíčovým k pozitivním změnám!\nRegistrujte se ještě dnes a buďte součástí demokratického hlasování, které má skutečný dopad. 💪 Nečekejte – vaše hlasování má váhu! 🌐🗣️ #ZměnaSNašíSilou #Pollates #HlasujteSeSlyšte #Ankety #Politika #Vláda #ŽivotníProstředí #ČeskáRepublika #Pollates"
+        ],
+        "ad_creative_link_captions": [
+            "pollates.com"
+        ],
+        "ad_creative_link_descriptions": [
+            "Hlasování je mocným nástrojem pro vyjádření svých názorů a ovlivňování směřování společnosti. Vaše hlasování má vliv na rozhodnutí a politiku a pomáhá formovat budoucnost. Na této platformě věříme, že každý hlas má váhu a každý názor stojí za to slyšet."
+        ],
+        "ad_creative_link_titles": [
+            "Jaký je váš postoj k pobytu uprchlíkům v České republice? | Pollates"
+        ],
+        "ad_delivery_start_time": "2023-11-17",
+        "ad_delivery_stop_time": "2023-11-18",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.057057",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.096096",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.087087",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.063063",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.048048",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.028529",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.045045",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.067568",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.156156",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.045045",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.061562",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.082583",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.111111",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.051051",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.003003",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.009009",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.012012",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.148649",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.133634",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.21021",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.346847",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.039039",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.063063",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.015015",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.016517",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.003003",
+                "age": "18-24",
+                "gender": "male"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "103293202617806",
+        "page_name": "Pollates",
+        "publisher_platforms": [
+            "facebook",
+            "instagram",
+            "messenger"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 669,
+        "beneficiary_payers": [
+            {
+                "payer": "AntiqStreet",
+                "beneficiary": "AntiqStreet",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 2
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 11,
+                        "female": 10
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 8,
+                        "female": 6
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 42,
+                        "female": 26
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 99,
+                        "female": 89
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 140,
+                        "female": 231,
+                        "unknown": 2
+                    }
+                ]
+            }
+        ],
+        "_id": "304490092405204"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=3233649610269058&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-17",
+        "ad_creative_bodies": [
+            "🚀 Změňte budoucnost České republiky společně s námi! 🇨🇿✨\n🫵👍Přidej se k naší anketní komunitě na Pollates a dejte najevo svůj názor! 🗳️ Každý váš hlas má sílu ovlivnit rozhodnutí a formovat politiku.\n📊 Podívejte se na živé statistické výsledky anket a sledujte, jak se mění měření naší společnosti. Vaše názory jsou klíčovým k pozitivním změnám!\nRegistrujte se ještě dnes a buďte součástí demokratického hlasování, které má skutečný dopad. 💪 Nečekejte – vaše hlasování má váhu! 🌐🗣️ #ZměnaSNašíSilou #Pollates #HlasujteSeSlyšte #Ankety #Politika #Vláda #ŽivotníProstředí #ČeskáRepublika #Pollates"
+        ],
+        "ad_creative_link_captions": [
+            "pollates.com"
+        ],
+        "ad_creative_link_descriptions": [
+            "Hlasování je mocným nástrojem pro vyjádření svých názorů a ovlivňování směřování společnosti. Vaše hlasování má vliv na rozhodnutí a politiku a pomáhá formovat budoucnost. Na této platformě věříme, že každý hlas má váhu a každý názor stojí za to slyšet."
+        ],
+        "ad_creative_link_titles": [
+            "Jaký je váš postoj k pobytu uprchlíkům v České republice? | Pollates"
+        ],
+        "ad_delivery_start_time": "2023-11-17",
+        "ad_delivery_stop_time": "2023-11-18",
+        "currency": "CZK",
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "103293202617806",
+        "page_name": "Pollates",
+        "publisher_platforms": [
+            "facebook",
+            "instagram",
+            "messenger"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "20",
+            "65"
+        ],
+        "eu_total_reach": 71,
+        "beneficiary_payers": [
+            {
+                "payer": "AntiqStreet",
+                "beneficiary": "AntiqStreet",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 2
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 3,
+                        "female": 2
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 4,
+                        "female": 2
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 10,
+                        "female": 10
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 11,
+                        "female": 28
+                    }
+                ]
+            }
+        ],
+        "_id": "3233649610269058"
+    }
+]

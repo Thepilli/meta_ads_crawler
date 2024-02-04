@@ -1,0 +1,740 @@
+[
+    {
+        "id": "914674660034981",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=914674660034981&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-30",
+        "ad_creative_bodies": [
+            "Využili jste už třeba na dovolené sdílená kola? Nebo fungují ve vašem městě? Pak mi určitě dáte za pravdu, že jde o skvělou službu, která přispívá k rozvoji ekologické dopravy. Díky novému krajskému dotačnímu programu se sdílená kola, neboli bikesharing, rozšíří i do dalších měst a obcí našeho regionu. Zájem už projevily radnice v Náchodě, Jičíně, České Skalici nebo v mém domovském Trutnově. O podporu budou moci požádat i města, kde už sdílená kola fungují. Jde například o Hradec Králové nebo Rychnov nad Kněžnou.\n\nℹ️ Krátkodobé výpůjčky kol se osvědčily v mnoha městech různých velikostí, jak v České republice, tak i v zahraničí. Tyto kola bývají využívána například pro pohodlnější cesty od zastávek veřejné dopravy blíže k domovu. Jde o první, nebo poslední stovky metrů při cestě do školy, práce i za zábavou. Právě propojení bikesharingu a hromadné dopravy může v Královéhradeckém kraji skvěle fungovat.\n\n #bikesharing #sdilenakola #udrzitelnamobilita #ekologickadoprava #cyklistika #koło #dotace #kralovehradeckykraj #pirati #piratikhk #adamvalenta  #nachod #jicin #ceskaskalice #hradeckralove #rychnovnadkneznou"
+        ],
+        "ad_delivery_start_time": "2024-01-30",
+        "ad_delivery_stop_time": "2024-02-02",
+        "bylines": "Česká pirátská strana",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Hradec Králové Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.005747",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.004598",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.021839",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.029885",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.075862",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.04023",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.009195",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.117241",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.335632",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.35977",
+                "age": "18-24",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "100957585122900",
+        "page_name": "Adam Valenta",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "target_locations": [
+            {
+                "name": "Kostelec nad Orlicí, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Tyniste nad Orlici, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Hradec Králové Region, Czech Republic",
+                "num_obfuscated": 5,
+                "type": "regions",
+                "excluded": false
+            },
+            {
+                "name": "Trebechovice pod Orebem, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Dobruska, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Nove Mesto nad Metuji, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Ceska Skalice, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Jicin, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Batňovice, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Trutnov, Czech Republic",
+                "num_obfuscated": 3,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Police Nad Metují, Královéhradecký Kraj, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "45"
+        ],
+        "eu_total_reach": 875,
+        "beneficiary_payers": [
+            {
+                "payer": "Piráti Královéhradecký kraj",
+                "beneficiary": "Piráti Královéhradecký kraj",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 313,
+                        "female": 292,
+                        "unknown": 35
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 102,
+                        "female": 66,
+                        "unknown": 8
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 19,
+                        "female": 26
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 4,
+                        "female": 5
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "423080553376485",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=423080553376485&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-30",
+        "ad_creative_bodies": [
+            "Využili jste už třeba na dovolené sdílená kola? Nebo fungují ve vašem městě? Pak mi určitě dáte za pravdu, že jde o skvělou službu, která přispívá k rozvoji ekologické dopravy. Díky novému krajskému dotačnímu programu se sdílená kola, neboli bikesharing, rozšíří i do dalších měst a obcí našeho regionu. Zájem už projevily radnice v Náchodě, Jičíně, České Skalici nebo v mém domovském Trutnově. O podporu budou moci požádat i města, kde už sdílená kola fungují. Jde například o Hradec Králové nebo Rychnov nad Kněžnou.\n\nℹ️ Krátkodobé výpůjčky kol se osvědčily v mnoha městech různých velikostí, jak v České republice, tak i v zahraničí. Tyto kola bývají využívána například pro pohodlnější cesty od zastávek veřejné dopravy blíže k domovu. Jde o první, nebo poslední stovky metrů při cestě do školy, práce i za zábavou. Právě propojení bikesharingu a hromadné dopravy může v Královéhradeckém kraji skvěle fungovat."
+        ],
+        "ad_delivery_start_time": "2024-01-30",
+        "ad_delivery_stop_time": "2024-02-02",
+        "bylines": "Česká pirátská strana",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Hradec Králové Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.003858",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.003",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.043292",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.095585",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.154308",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.360051",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.022289",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.075439",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.207887",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.033005",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001286",
+                "age": "18-24",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "4000",
+            "upper_bound": "4999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "100957585122900",
+        "page_name": "Adam Valenta - radní Královéhradeckého kraje",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "target_locations": [
+            {
+                "name": "Kostelec nad Orlicí, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Tyniste nad Orlici, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Hradec Králové Region, Czech Republic",
+                "num_obfuscated": 5,
+                "type": "regions",
+                "excluded": false
+            },
+            {
+                "name": "Trebechovice pod Orebem, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Dobruska, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Nove Mesto nad Metuji, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Ceska Skalice, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Jicin, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Batňovice, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Trutnov, Czech Republic",
+                "num_obfuscated": 3,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Police Nad Metují, Královéhradecký Kraj, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "45"
+        ],
+        "eu_total_reach": 2353,
+        "beneficiary_payers": [
+            {
+                "payer": "Piráti Královéhradecký kraj",
+                "beneficiary": "Piráti Královéhradecký kraj",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 223,
+                        "female": 77,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 485,
+                        "female": 176,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 840,
+                        "female": 360,
+                        "unknown": 9
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 101,
+                        "female": 52
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "895456598724357",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=895456598724357&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-26",
+        "ad_creative_bodies": [
+            "Určitě jste si o minulém víkendu všimli, že policie uzavřela vjezdy do horských středisek v Krkonoších. Jde o problém, který nezvládnou vyřešit radnice jednotlivých měst a obcí. Proto je nutné, aby se spojily. Dobrá zpráva je, že se to už děje. Včera jsem se společně s pirátským místostarostou Trutnova Tomáš Eichler a dalšími zástupci radnic zúčastnil jednání Svazku obcí Východní Krkonoše. Členy svazku jsou kromě Trutnova například i Žacléř, Malá Úpa nebo Pec pod Sněžkou. Hlavním tématem setkání byla právě doprava. Jako krajský radní budu hledat cesty, jak pomoci obcím i samotným turistům, aby mohli navštěvovat naše nejvyšší a jako Trutnovák můžu říct i nejkrásnější hory bez zbytečných komplikací."
+        ],
+        "ad_creative_link_descriptions": [
+            "Pirátský radní Královéhradeckého kraje pro regionální rozvoj, evropské granty a dotace 🏴"
+        ],
+        "ad_creative_link_titles": [
+            "Adam Valenta"
+        ],
+        "ad_delivery_start_time": "2024-01-26",
+        "ad_delivery_stop_time": "2024-01-29",
+        "bylines": "Česká pirátská strana",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Hradec Králové Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001397",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.018156",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.058659",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.069832",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.068436",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.101955",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.389665",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.263966",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.006983",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.02095",
+                "age": "45-54",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "100957585122900",
+        "page_name": "Adam Valenta",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Trutnov, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Mladé Buky, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Johannisbad, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Hradec Králové Region, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "45"
+        ],
+        "eu_total_reach": 734,
+        "beneficiary_payers": [
+            {
+                "payer": "Piráti Královéhradecký kraj",
+                "beneficiary": "Piráti Královéhradecký kraj",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 189,
+                        "female": 49,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 50,
+                        "female": 13
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 279,
+                        "female": 73,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 42,
+                        "female": 15
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "705254475119316",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=705254475119316&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-26",
+        "ad_creative_bodies": [
+            "Určitě jste si o minulém víkendu všimli, že policie uzavřela vjezdy do horských středisek v Krkonoších. Jde o problém, který nezvládnou vyřešit radnice jednotlivých měst a obcí. Proto je nutné, aby se spojily. Dobrá zpráva je, že se to už děje. Včera jsem se společně s pirátským místostarostou Trutnova Tomášem Eichlerem a dalšími zástupci radnic zúčastnil jednání Svazku obcí Východní Krkonoše. Členy svazku jsou kromě Trutnova například i Žacléř, Malá Úpa nebo Pec pod Sněžkou. Hlavním tématem setkání byla právě doprava. Jako krajský radní budu hledat cesty, jak pomoci obcím i samotným turistům, aby mohli navštěvovat naše nejvyšší a jako Trutnovák můžu říct i nejkrásnější hory bez zbytečných komplikací.\n\n#spoluprace #svazekobci #kralovehradeckykraj #krkonose #vychodnikrkonose #trutnov #pirati #piratikhk #piratitrutnov #tomaseichler #adamvalenta"
+        ],
+        "ad_creative_link_captions": [
+            "instagram.com"
+        ],
+        "ad_creative_link_descriptions": [
+            "115 Followers, 68 Following, 122 Posts - See Instagram photos and videos from Adam Valenta (@valentapolitik)"
+        ],
+        "ad_creative_link_titles": [
+            "Adam Valenta (@valentapolitik) • Instagram photos and videos"
+        ],
+        "ad_delivery_start_time": "2024-01-26",
+        "ad_delivery_stop_time": "2024-01-29",
+        "bylines": "Česká pirátská strana",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Hradec Králové Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.002342",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.025761",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.105386",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.423888",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.166276",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.217799",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.009368",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.004684",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.042155",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002342",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "100957585122900",
+        "page_name": "Adam Valenta",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Trutnov, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Mladé Buky, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Johannisbad, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Hradec Králové Region, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "45"
+        ],
+        "eu_total_reach": 430,
+        "beneficiary_payers": [
+            {
+                "payer": "Piráti Královéhradecký kraj",
+                "beneficiary": "Piráti Královéhradecký kraj",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "male": 1,
+                        "female": 2
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 45,
+                        "female": 71,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 93,
+                        "female": 181,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 11,
+                        "female": 18
+                    }
+                ]
+            }
+        ]
+    }
+]

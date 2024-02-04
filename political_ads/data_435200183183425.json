@@ -1,0 +1,515 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=2563175143859684&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-05",
+        "ad_creative_link_captions": [
+            "new.idhesworld.pro"
+        ],
+        "ad_creative_link_descriptions": [
+            "Novinka"
+        ],
+        "ad_creative_link_titles": [
+            "S námi víte víc"
+        ],
+        "ad_delivery_start_time": "2023-12-05",
+        "ad_delivery_stop_time": "2023-12-06",
+        "currency": "USD",
+        "delivery_by_region": [
+            {
+                "percentage": "0.054124",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.149485",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.07732",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.056701",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.033505",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.036082",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.043814",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.074742",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.097938",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.056701",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.046392",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.126289",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.097938",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.048969",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.002591",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.005181",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.067358",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.15544",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.082902",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.207254",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.07513",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.101036",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.07513",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.059585",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.051813",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.11658",
+                "age": "65+",
+                "gender": "male"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "435200183183425",
+        "page_name": "Main.News",
+        "publisher_platforms": [
+            "facebook",
+            "instagram",
+            "audience_network",
+            "messenger"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "25",
+            "65"
+        ],
+        "eu_total_reach": 380,
+        "beneficiary_payers": [
+            {
+                "payer": "SLENDAMENTALZ",
+                "beneficiary": "SLENDAMENTALZ",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 80,
+                        "female": 60,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 26,
+                        "female": 32,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 23,
+                        "female": 20
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 29,
+                        "female": 29
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 45,
+                        "female": 39
+                    }
+                ]
+            }
+        ],
+        "_id": "2563175143859684"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=3181955392108821&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-10-22",
+        "ad_creative_link_captions": [
+            "news-cz.cznov.ink"
+        ],
+        "ad_creative_link_descriptions": [
+            "News"
+        ],
+        "ad_creative_link_titles": [
+            "Vyzkoušejte nyní"
+        ],
+        "ad_delivery_start_time": "2023-10-23",
+        "ad_delivery_stop_time": "2023-10-23",
+        "currency": "USD",
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "435200183183425",
+        "page_name": "Main.News",
+        "publisher_platforms": [
+            "facebook",
+            "instagram",
+            "audience_network",
+            "messenger"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "29",
+            "65"
+        ],
+        "eu_total_reach": 2,
+        "beneficiary_payers": [
+            {
+                "payer": "Choosing Joy",
+                "beneficiary": "Choosing Joy",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "female": 1
+                    }
+                ]
+            }
+        ],
+        "_id": "3181955392108821"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=343742788329751&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-10-19",
+        "ad_creative_bodies": [
+            "✅CEZ-Group nyní umožňuje každému Čechovi stát se akcionářem největší energetické společnosti v České republice a vydělat si minimálně 65 000 Kč! Díky novému zákonu se může stát investorem každý. ✅ Více informací naleznete na našich webových stránkách. ✅ Vyplňte formulář, investujte do akcií a začněte vydělávat na své investici."
+        ],
+        "ad_creative_link_captions": [
+            "news-cz.cznov.ink"
+        ],
+        "ad_creative_link_descriptions": [
+            "News"
+        ],
+        "ad_creative_link_titles": [
+            "Vyzkoušejte nyní"
+        ],
+        "ad_delivery_start_time": "2023-10-20",
+        "ad_delivery_stop_time": "2023-10-20",
+        "currency": "USD",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000811",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.043796",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.117599",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.103812",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.052717",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.042174",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.038929",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.048662",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.061638",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.124088",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.049473",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.064071",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.104623",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.109489",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.038118",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.00081",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.020243",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.043725",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00081",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.095547",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.022672",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.051012",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.073684",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.224291",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.157085",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.017004",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.290688",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00081",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001619",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "435200183183425",
+        "page_name": "Main.News",
+        "publisher_platforms": [
+            "facebook",
+            "instagram",
+            "audience_network",
+            "messenger"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "29",
+            "65"
+        ],
+        "eu_total_reach": 1263,
+        "beneficiary_payers": [
+            {
+                "payer": "Choosing Joy",
+                "beneficiary": "Choosing Joy",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 277,
+                        "female": 359,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 118,
+                        "female": 194,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 63,
+                        "female": 91,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 21,
+                        "female": 54,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 25,
+                        "female": 28
+                    }
+                ]
+            }
+        ],
+        "_id": "343742788329751"
+    }
+]

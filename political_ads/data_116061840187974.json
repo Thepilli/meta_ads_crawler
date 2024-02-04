@@ -1,0 +1,332 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=883816156315026&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-27",
+        "ad_creative_link_captions": [
+            "hedepy.cz",
+            "hedepy.cz",
+            "hedepy.cz",
+            "hedepy.cz",
+            "hedepy.cz",
+            "hedepy.cz",
+            "hedepy.cz"
+        ],
+        "ad_delivery_start_time": "2023-11-27",
+        "ad_delivery_stop_time": "2023-11-27",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.796804",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.13242",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.070776",
+                "region": "Moravian-Silesian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.125",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.074074",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.24537",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.555556",
+                "age": "25-34",
+                "gender": "male"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "116061840187974",
+        "page_name": "Hedepy",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Brno, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Ostrava, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "30",
+            "40"
+        ],
+        "eu_total_reach": 443,
+        "beneficiary_payers": [
+            {
+                "payer": "Hedepy",
+                "beneficiary": "Hedepy",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 240,
+                        "female": 54
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 106,
+                        "female": 32
+                    }
+                ]
+            }
+        ],
+        "_id": "883816156315026"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1087464282597450&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-27",
+        "ad_creative_link_captions": [
+            "hedepy.cz",
+            "hedepy.cz",
+            "hedepy.cz",
+            "hedepy.cz",
+            "hedepy.cz",
+            "hedepy.cz",
+            "hedepy.cz"
+        ],
+        "ad_delivery_start_time": "2023-11-27",
+        "ad_delivery_stop_time": "2023-11-27",
+        "currency": "CZK",
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "page_id": "116061840187974",
+        "page_name": "Hedepy",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Brno, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Ostrava, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "35",
+            "50"
+        ],
+        "eu_total_reach": 61,
+        "beneficiary_payers": [
+            {
+                "payer": "Hedepy",
+                "beneficiary": "Hedepy",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "35-44",
+                        "male": 14,
+                        "female": 24
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 7,
+                        "female": 16
+                    }
+                ]
+            }
+        ],
+        "_id": "1087464282597450"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=251591561263162&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-27",
+        "ad_creative_link_captions": [
+            "hedepy.cz",
+            "hedepy.cz",
+            "hedepy.cz",
+            "hedepy.cz",
+            "hedepy.cz",
+            "hedepy.cz",
+            "hedepy.cz"
+        ],
+        "ad_delivery_start_time": "2023-11-27",
+        "ad_delivery_stop_time": "2023-11-28",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.75913",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.171313",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.069557",
+                "region": "Moravian-Silesian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.002261",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.010458",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.096382",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.212125",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.410119",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.268655",
+                "age": "25-34",
+                "gender": "male"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "8000",
+            "upper_bound": "8999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "116061840187974",
+        "page_name": "Hedepy",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "300",
+            "upper_bound": "399"
+        },
+        "target_locations": [
+            {
+                "name": "Brno, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Ostrava, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "20",
+            "30"
+        ],
+        "eu_total_reach": 7298,
+        "beneficiary_payers": [
+            {
+                "payer": "Hedepy",
+                "beneficiary": "Hedepy",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 2902,
+                        "female": 1501,
+                        "unknown": 74
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 1901,
+                        "female": 682,
+                        "unknown": 16
+                    }
+                ]
+            }
+        ],
+        "_id": "251591561263162"
+    }
+]

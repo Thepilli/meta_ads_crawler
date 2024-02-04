@@ -1,0 +1,2263 @@
+[
+    {
+        "id": "1080367633113321",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1080367633113321&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-30",
+        "ad_creative_bodies": [
+            "Na to, že její maminka nevidí, je zvyklá už od malička, a dává pozor na díry v chodníku, na obrubníky nebo třeba na sloupy."
+        ],
+        "ad_creative_link_captions": [
+            "radiozurnal.rozhlas.cz"
+        ],
+        "ad_creative_link_descriptions": [
+            "Pomoci nevidomé Aleně s orientací na ulici zvládá nejlépe její čtyřletá dcera Šarlota. Na to, že její maminka nevidí, je zvyklá už od malička, a dává pozor na díry v chodníku, na obrubníky nebo třeba na sloupy. „Dospěláci si povídají. My si sice taky povídáme, když ch..."
+        ],
+        "ad_creative_link_titles": [
+            "Lepší průvodkyně než dospěláci, těší nevidomou Alenu její čtyřletá dcera"
+        ],
+        "ad_delivery_start_time": "2024-01-30",
+        "bylines": "Český rozhlas",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.06213",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.292899",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.130178",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.038462",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.026627",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.014793",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.035503",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.053254",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.065089",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.050296",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.047337",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.121302",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.026627",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.035503",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.168639",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.213018",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.014793",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.476331",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.04142",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.017751",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.005917",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.04142",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002959",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.011834",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.005917",
+                "age": "18-24",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "50309511751",
+        "page_name": "Český rozhlas - Radiožurnál",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "50"
+        ],
+        "eu_total_reach": 337,
+        "beneficiary_payers": [
+            {
+                "payer": "Český rozhlas",
+                "beneficiary": "Český rozhlas",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 2,
+                        "female": 14
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 14,
+                        "female": 161,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 5,
+                        "female": 72,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 6,
+                        "female": 57,
+                        "unknown": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "709971700935268",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=709971700935268&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-30",
+        "ad_creative_bodies": [
+            "Už pátým rokem sledujeme v seriálu život nevidomé mámy Aleny. Poprvé se připojil k natáčení i biologický otec Šarloty."
+        ],
+        "ad_creative_link_captions": [
+            "radiozurnal.rozhlas.cz"
+        ],
+        "ad_creative_link_descriptions": [
+            "Už pátým rokem sledujeme život nevidomé mámy Aleny. Dceru se rozhodla vychovávat sama bez partnera. Celý týden v seriálu Mámou potmě uslyšíte, jak se tahle holčičí dvojice měla v roce 2023. Byli jsme u oslavy čtvrtých narozenin Šarloty, u jejího náročného zákroku u zubaře ..."
+        ],
+        "ad_creative_link_titles": [
+            "Mámou potmě V: Alena s Šarlotou oslavily čtvrté narozeniny, společně vaří i čtou"
+        ],
+        "ad_delivery_start_time": "2024-01-30",
+        "bylines": "Český rozhlas",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.007576",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.015152",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.280303",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.113636",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.05303",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.05303",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.060606",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.090909",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.037879",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.083333",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.098485",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.030303",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.007576",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.068182",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.030303",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.007576",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.022727",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.19697",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.484848",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.242424",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.015152",
+                "age": "18-24",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "50309511751",
+        "page_name": "Český rozhlas - Radiožurnál",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "50"
+        ],
+        "eu_total_reach": 132,
+        "beneficiary_payers": [
+            {
+                "payer": "Český rozhlas",
+                "beneficiary": "Český rozhlas",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "35-44",
+                        "male": 3,
+                        "female": 64,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "18-24",
+                        "female": 2
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 1,
+                        "female": 26
+                    },
+                    {
+                        "age_range": "25-34",
+                        "female": 32
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "627949739443313",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=627949739443313&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-28",
+        "ad_creative_bodies": [
+            "Jak stěhování malé Šarlotky s nevidomou maminkou probíhalo? 👇"
+        ],
+        "ad_creative_link_captions": [
+            "radiozurnal.rozhlas.cz"
+        ],
+        "ad_creative_link_descriptions": [
+            "Nevidomá Alena ze seriálu Mámou potmě udělala v uplynulém roce zásadní změnu. Po více než dvaceti letech se odstěhovala z Prahy. Co si Alena od změny slibuje? Nižší nájemné i pomalejší a klidnější životní tempo. Při stěhování pomáhala čtyřletá Šarlota při balení v..."
+        ],
+        "ad_creative_link_titles": [
+            "Nevidomá samoživitelka Alena se s dcerou stěhuje z Prahy do Berouna"
+        ],
+        "ad_delivery_start_time": "2024-01-28",
+        "bylines": "Český rozhlas",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.047788",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.276991",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.141593",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.046018",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.038938",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.010619",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.038938",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.050442",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.066372",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.046018",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.045133",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.112389",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.027434",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.051327",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000882",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000882",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002646",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.005291",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.0097",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.164903",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.291887",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.47619",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.0097",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.007937",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.003527",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.026455",
+                "age": "18-24",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "50309511751",
+        "page_name": "Český rozhlas - Radiožurnál",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "50"
+        ],
+        "eu_total_reach": 1126,
+        "beneficiary_payers": [
+            {
+                "payer": "Český rozhlas",
+                "beneficiary": "Český rozhlas",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 1,
+                        "female": 30,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 11,
+                        "female": 331,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 11,
+                        "female": 540,
+                        "unknown": 9
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 6,
+                        "female": 187,
+                        "unknown": 3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "761562079170870",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=761562079170870&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-28",
+        "ad_creative_bodies": [
+            "Biologický otec Šarlotky v reportážích zatím nevystoupil. Teď je to poprvé. Jak vnímá své otcovství? 👇"
+        ],
+        "ad_creative_link_captions": [
+            "radiozurnal.rozhlas.cz"
+        ],
+        "ad_creative_link_descriptions": [
+            "Biologického otce čtyřleté holčičky jsme v sérii Mámou potmě zmiňovali jen minimálně. Dnes to ale změníme. Táta Šarloty je Alenin dlouholetý vidící kamarád Dalibor. A po neshodách už spolu mluví a navštěvují se. Právě loni Dalibor Alenu a Šarlotu poprvé představil své..."
+        ],
+        "ad_creative_link_titles": [
+            "Dceru s hendikepovanou kamarádkou dříve tajil i před rodinou. „Jsem rád, že ji mám,“ přiznává dnes"
+        ],
+        "ad_delivery_start_time": "2024-01-28",
+        "bylines": "Český rozhlas",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.044364",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.269994",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.139156",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.053635",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.035785",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.012391",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.035699",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.051729",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.070704",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.039338",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.052682",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.111082",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.041071",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.042371",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.002552",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00536",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.014718",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.010209",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.148205",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.463672",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.035222",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.286541",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.022971",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.008082",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001702",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000766",
+                "age": "18-24",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "50309511751",
+        "page_name": "Český rozhlas - Radiožurnál",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "500",
+            "upper_bound": "599"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "50"
+        ],
+        "eu_total_reach": 11570,
+        "beneficiary_payers": [
+            {
+                "payer": "Český rozhlas",
+                "beneficiary": "Český rozhlas",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 63,
+                        "female": 414,
+                        "unknown": 9
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 173,
+                        "female": 3368,
+                        "unknown": 30
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 270,
+                        "female": 5450,
+                        "unknown": 95
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 120,
+                        "female": 1742,
+                        "unknown": 20
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "835218318283257",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=835218318283257&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-26",
+        "ad_creative_bodies": [
+            "„Je mi samozřejmě hrozně líto, že se to stalo. Jsme s paní doktorkou domluvené, že budeme chodit na častější prohlídky,“ říká Alena."
+        ],
+        "ad_creative_link_captions": [
+            "radiozurnal.rozhlas.cz"
+        ],
+        "ad_creative_link_descriptions": [
+            "Nevidomá Alena je upřímná a rozhodla se jít ven s problémem, který by jiná maminka spíš tajila. Alenina čtyřletá dcera Šarlota totiž musela se zkaženými zuby na několikahodinový zákrok pod narkózou. I u toho jsme byli, poslechněte si reportáž."
+        ],
+        "ad_creative_link_titles": [
+            "Operace zubů: „Když Šarlotka usnula, rozplakala jsem se,“ přiznává Alena"
+        ],
+        "ad_delivery_start_time": "2024-01-26",
+        "bylines": "Český rozhlas",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "4.8E-5",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.04503",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.247828",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.139231",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.05604",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.039346",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.014312",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.034607",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.047017",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.083946",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.043199",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.051109",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.107759",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.044839",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.045688",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "2.4E-5",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000538",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.035896",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00192",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.006335",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.370811",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.395529",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.089318",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.04173",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.044078",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00455",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.008243",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001027",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "90000",
+            "upper_bound": "99999"
+        },
+        "page_id": "50309511751",
+        "page_name": "Český rozhlas - Radiožurnál",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "3500",
+            "upper_bound": "3999"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "50"
+        ],
+        "eu_total_reach": 81596,
+        "beneficiary_payers": [
+            {
+                "payer": "Český rozhlas",
+                "beneficiary": "Český rozhlas",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "65+",
+                        "female": 2
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 518,
+                        "female": 3412,
+                        "unknown": 44
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 3604,
+                        "female": 32340,
+                        "unknown": 372
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 674,
+                        "female": 7303,
+                        "unknown": 84
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 2935,
+                        "female": 30319,
+                        "unknown": 157
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "24654751744172658",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=24654751744172658&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-25",
+        "ad_creative_bodies": [
+            "Alena s Šarlotou a s přáteli oslavili Lotčiny čtvrté narozeniny. „Obdivuji, jakou je Alena mámou,“ říká její kamarádka Eva."
+        ],
+        "ad_creative_link_captions": [
+            "radiozurnal.rozhlas.cz"
+        ],
+        "ad_creative_link_descriptions": [
+            "Alena s Šarlotou a Šmoulinkou se vydávají na cestu do kavárny, aby tam s přáteli oslavili Lotčiny čtvrté narozeniny. Alena se pozastavuje nad tím, jak rychle čas běží, k přepravě totiž pro dceru nepotřebuje už ani nosítko, ani kočárek. Kromě dortu se šmoulí tematikou dostá..."
+        ],
+        "ad_creative_link_titles": [
+            "Lotka slaví čtyři roky. Uteklo to jako voda, zamýšlí se Alena"
+        ],
+        "ad_delivery_start_time": "2024-01-25",
+        "bylines": "Český rozhlas",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.029536",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.040506",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.037975",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.009283",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.028692",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.054852",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.048945",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.265823",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.165401",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.05654",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.075105",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.091139",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.035443",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.060759",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000852",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002555",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.028961",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.005111",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.008518",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.008518",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.022998",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.234242",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.214651",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.454855",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.017036",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001704",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "50309511751",
+        "page_name": "Český rozhlas - Radiožurnál",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "50"
+        ],
+        "eu_total_reach": 1200,
+        "beneficiary_payers": [
+            {
+                "payer": "Český rozhlas",
+                "beneficiary": "Český rozhlas",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 6,
+                        "female": 34,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 10,
+                        "female": 275,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 27,
+                        "female": 534,
+                        "unknown": 10
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 20,
+                        "female": 252,
+                        "unknown": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "333416906135503",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=333416906135503&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-24",
+        "ad_creative_bodies": [
+            "https://rozhl.as/8CS 🍳 I když žije v absolutní tmě, krájí ostrým nožem, používá škrabku a nevyhýbá se ani struhadlu a mixéru. Mouku i koření Alena označuje Braillovým písmem. Čtyřletá Šarlota už u vaření pomáhá."
+        ],
+        "ad_creative_link_titles": [
+            "Nevidomá Alena vyrábí cuketový koláč: Krájí cibuli, loupe cuketu"
+        ],
+        "ad_delivery_start_time": "2024-01-24",
+        "bylines": "Český rozhlas",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.002995",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.022888",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.033583",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.311444",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.113155",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.05262",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.026738",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.04",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.073583",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.05369",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.108235",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.031016",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.036791",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.061604",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.031658",
+                "region": "Liberec Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.003289",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000219",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001096",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.004604",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.008112",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.01162",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.129577",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.329971",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.356939",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.034861",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.119711",
+                "age": "25-34",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "7000",
+            "upper_bound": "7999"
+        },
+        "page_id": "50309511751",
+        "page_name": "Český rozhlas - Radiožurnál",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "300",
+            "upper_bound": "399"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "50"
+        ],
+        "eu_total_reach": 4532,
+        "beneficiary_payers": [
+            {
+                "payer": "Český rozhlas",
+                "beneficiary": "Český rozhlas",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 591,
+                        "female": 1628,
+                        "unknown": 21
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 546,
+                        "female": 1505,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 53,
+                        "female": 159,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 15,
+                        "female": 37
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "398335856196998",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=398335856196998&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-24",
+        "ad_creative_bodies": [
+            "Na to, že její maminka nevidí, je zvyklá už od malička, a dává pozor na díry v chodníku, na obrubníky nebo třeba na sloupy."
+        ],
+        "ad_creative_link_captions": [
+            "radiozurnal.rozhlas.cz"
+        ],
+        "ad_creative_link_descriptions": [
+            "Pomoci nevidomé Aleně s orientací na ulici zvládá nejlépe její čtyřletá dcera Šarlota. Na to, že její maminka nevidí, je zvyklá už od malička, a dává pozor na díry v chodníku, na obrubníky nebo třeba na sloupy. „Dospěláci si povídají. My si sice taky povídáme, když ch..."
+        ],
+        "ad_creative_link_titles": [
+            "Lepší průvodkyně než dospěláci, těší nevidomou Alenu její čtyřletá dcera"
+        ],
+        "ad_delivery_start_time": "2024-01-24",
+        "ad_delivery_stop_time": "2024-01-30",
+        "bylines": "Český rozhlas",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000255",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.041614",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.27946",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.146348",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.048995",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.033087",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.031178",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.049758",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.085009",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.039705",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.050522",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.092899",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.04085",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.04594",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.01438",
+                "region": "Karlovy Vary Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.003017",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001885",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001131",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.013826",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.068879",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.169306",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.387255",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.282554",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.025892",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.026395",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.006159",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.0137",
+                "age": "18-24",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "8000",
+            "upper_bound": "8999"
+        },
+        "page_id": "50309511751",
+        "page_name": "Český rozhlas - Radiožurnál",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "300",
+            "upper_bound": "399"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "50"
+        ],
+        "eu_total_reach": 7815,
+        "beneficiary_payers": [
+            {
+                "payer": "Český rozhlas",
+                "beneficiary": "Český rozhlas",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 109,
+                        "female": 548,
+                        "unknown": 9
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 206,
+                        "female": 2248,
+                        "unknown": 24
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 110,
+                        "female": 1347,
+                        "unknown": 15
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 210,
+                        "female": 3081,
+                        "unknown": 49
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "905471064917612",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=905471064917612&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-24",
+        "ad_creative_bodies": [
+            "Už pátým rokem sledujeme v seriálu život nevidomé mámy Aleny. Poprvé se připojil k natáčení i biologický otec Šarloty."
+        ],
+        "ad_creative_link_captions": [
+            "radiozurnal.rozhlas.cz"
+        ],
+        "ad_creative_link_descriptions": [
+            "Už pátým rokem sledujeme život nevidomé mámy Aleny. Dceru se rozhodla vychovávat sama bez partnera. Celý týden v seriálu Mámou potmě uslyšíte, jak se tahle holčičí dvojice měla v roce 2023. Byli jsme u oslavy čtvrtých narozenin Šarloty, u jejího náročného zákroku u zubaře ..."
+        ],
+        "ad_creative_link_titles": [
+            "Mámou potmě V: Alena s Šarlotou oslavily čtvrté narozeniny, společně vaří i čtou"
+        ],
+        "ad_delivery_start_time": "2024-01-24",
+        "ad_delivery_stop_time": "2024-01-30",
+        "bylines": "Český rozhlas",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000646",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.055538",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.051663",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.237972",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.040039",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.079647",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.045528",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.05317",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.10494",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.038747",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.053816",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.04951",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.142181",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.01001",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.036595",
+                "region": "Liberec Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000864",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002592",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.029164",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.006589",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.019659",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.010261",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.257615",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.45647",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.200259",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.009505",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.004645",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002376",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "50309511751",
+        "page_name": "Český rozhlas - Radiožurnál",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "500",
+            "upper_bound": "599"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "50"
+        ],
+        "eu_total_reach": 9115,
+        "beneficiary_payers": [
+            {
+                "payer": "Český rozhlas",
+                "beneficiary": "Český rozhlas",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 43,
+                        "female": 270,
+                        "unknown": 8
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 95,
+                        "female": 2385,
+                        "unknown": 22
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 182,
+                        "female": 4226,
+                        "unknown": 61
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 88,
+                        "female": 1854,
+                        "unknown": 24
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "407377411687952",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=407377411687952&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-23",
+        "ad_creative_bodies": [
+            "Už pátým rokem sledujeme v seriálu život nevidomé mámy Aleny. Poprvé se připojil k natáčení i biologický otec Šarloty."
+        ],
+        "ad_creative_link_captions": [
+            "radiozurnal.rozhlas.cz"
+        ],
+        "ad_creative_link_descriptions": [
+            "Už pátým rokem sledujeme život nevidomé mámy Aleny. Dceru se rozhodla vychovávat sama bez partnera. Celý týden v seriálu Mámou potmě uslyšíte, jak se tahle holčičí dvojice měla v roce 2023. Byli jsme u oslavy čtvrtých narozenin Šarloty, u jejího náročného zákroku u zubaře ..."
+        ],
+        "ad_creative_link_titles": [
+            "Mámou potmě V: Alena s Šarlotou oslavily čtvrté narozeniny, společně vaří i čtou"
+        ],
+        "ad_delivery_start_time": "2024-01-24",
+        "ad_delivery_stop_time": "2024-01-24",
+        "bylines": "Český rozhlas",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.031707",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.187805",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.17561",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.065854",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.046341",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.009756",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.031707",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.05122",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.102439",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.05122",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.05122",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.097561",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.031707",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.065854",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.002439",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.009756",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.012195",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.014634",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.021951",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.458537",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.141463",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.336585",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002439",
+                "age": "45-54",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "50309511751",
+        "page_name": "Český rozhlas - Radiožurnál",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "50"
+        ],
+        "eu_total_reach": 411,
+        "beneficiary_payers": [
+            {
+                "payer": "Český rozhlas",
+                "beneficiary": "Český rozhlas",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "female": 9
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 4,
+                        "female": 138,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 6,
+                        "female": 188,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 1,
+                        "female": 58
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1032641764476051",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1032641764476051&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-23",
+        "ad_creative_bodies": [
+            "Na to, že její maminka nevidí, je zvyklá už od malička, a dává pozor na díry v chodníku, na obrubníky nebo třeba na sloupy."
+        ],
+        "ad_creative_link_captions": [
+            "radiozurnal.rozhlas.cz"
+        ],
+        "ad_creative_link_descriptions": [
+            "Pomoci nevidomé Aleně s orientací na ulici zvládá nejlépe její čtyřletá dcera Šarlota. Na to, že její maminka nevidí, je zvyklá už od malička, a dává pozor na díry v chodníku, na obrubníky nebo třeba na sloupy. „Dospěláci si povídají. My si sice taky povídáme, když ch..."
+        ],
+        "ad_creative_link_titles": [
+            "Lepší průvodkyně než dospěláci, těší nevidomou Alenu její čtyřletá dcera"
+        ],
+        "ad_delivery_start_time": "2024-01-24",
+        "ad_delivery_stop_time": "2024-01-24",
+        "bylines": "Český rozhlas",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.025",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.4125",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.16875",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.0375",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.01875",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.0125",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.0625",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.04375",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.025",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.04375",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.1",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.04375",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.00625",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.00625",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.0875",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.09375",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.16875",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.08125",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.15",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.20625",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.15625",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.05",
+                "age": "18-24",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "page_id": "50309511751",
+        "page_name": "Český rozhlas - Radiožurnál",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "50"
+        ],
+        "eu_total_reach": 160,
+        "beneficiary_payers": [
+            {
+                "payer": "Český rozhlas",
+                "beneficiary": "Český rozhlas",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 14,
+                        "female": 8
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 33,
+                        "female": 24
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 27,
+                        "female": 25,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 15,
+                        "female": 13
+                    }
+                ]
+            }
+        ]
+    }
+]

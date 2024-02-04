@@ -1,0 +1,1230 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1406116426983942&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-01",
+        "ad_creative_bodies": [
+            "Korunu jsme si idealizovali. Nic si nenalhávejme, absence eura je jedna z příčin pomalého růstu české ekonomiky a naší neschopnosti dohnat Německo. \n\nTen, kdo tvrdí, že s eurem zchudneme a budeme platit cizí dluhy, buď není ochoten naslouchat faktům, nebo záměrně šíří strach."
+        ],
+        "ad_delivery_start_time": "2023-12-01",
+        "ad_delivery_stop_time": "2023-12-08",
+        "bylines": "TOP 09",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.002446",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.997554",
+                "region": "Plzeň Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001229",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001843",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.003686",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.005528",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.089066",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001843",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.017199",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.040541",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.138821",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.040541",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000614",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.11855",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.151106",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.177518",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.135749",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.076167",
+                "age": "55-64",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "3000",
+            "upper_bound": "3999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "109909211968977",
+        "page_name": "Miloš Nový - poslanec",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "500",
+            "upper_bound": "599"
+        },
+        "target_locations": [
+            {
+                "name": "Zelezna Ruda, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Kasperske Hory, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Susice, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Horazdovice, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Klatovy, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Domazlice, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Nepomuk, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Stribro, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Mýto, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Tachov, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Zbiroh, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Plasy, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Kralovice, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Manetin, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Pilsen 3, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "NEIGHBORHOOD",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 1636,
+        "beneficiary_payers": [
+            {
+                "payer": "Tomáš Czernin",
+                "beneficiary": "Tomáš Czernin",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "male": 289,
+                        "female": 66,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 226,
+                        "female": 221,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 193,
+                        "female": 28,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 66,
+                        "female": 6
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 145,
+                        "female": 9
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 246,
+                        "female": 124,
+                        "unknown": 3
+                    }
+                ]
+            }
+        ],
+        "_id": "1406116426983942"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=849956516761030&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-10-04",
+        "ad_creative_bodies": [
+            "Paní Balaštíková mě chtěla ve vysílání pořadu Události, komentáře zkoušet z mých znalostí. Kantor se ve mně nezapře, do problematiky jsem ji uvedl, vysvětlil chyby v její argumentaci a nakonec jí dal i známku. \n\nHnutí ANO zadlužilo naši zemi v době, kdy naše ekonomila rostla. To nezamluví."
+        ],
+        "ad_creative_link_titles": [
+            "Paní Balaštíková mě chtěla zkoušet z mých znalostí. To se jí ale nevyplatilo."
+        ],
+        "ad_delivery_start_time": "2023-10-04",
+        "ad_delivery_stop_time": "2023-10-14",
+        "bylines": "TOP 09",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.052468",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.117157",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.107815",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.062446",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.046206",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.03817",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.045604",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.05662",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.104232",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.048684",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.062948",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.11036",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.103161",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.04413",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000817",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000885",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.098373",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.04655",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.05965",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.074997",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.04689",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.086838",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.181979",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.140329",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.166837",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.093712",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000544",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000919",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000681",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "50000",
+            "upper_bound": "59999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "109909211968977",
+        "page_name": "Miloš Nový - poslanec",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "25",
+            "65"
+        ],
+        "eu_total_reach": 29214,
+        "beneficiary_payers": [
+            {
+                "payer": "TOP 09",
+                "beneficiary": "TOP 09",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 4124,
+                        "female": 1368,
+                        "unknown": 26
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 5348,
+                        "female": 2204,
+                        "unknown": 24
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 4903,
+                        "female": 2891,
+                        "unknown": 27
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 2552,
+                        "female": 2754,
+                        "unknown": 20
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 1378,
+                        "female": 1753,
+                        "unknown": 16
+                    }
+                ]
+            }
+        ],
+        "_id": "849956516761030"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=165867823162803&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-07-14",
+        "ad_creative_bodies": [
+            "Můj návrh na slučování krajů se netýká jen Karlovarska. Nicméně jen v tomto jediném případě se bavíme o úspoře ve stovkách milionů. \n\nCelá územně samosprávní podoba ČR si zaslouží změnu. I o tom jsem hovořil v duelu Pro a proti na Českém rozhlasu. Budu rád, když si ho poslechnete 👉🏻 https://shorturl.at/azDR9."
+        ],
+        "ad_delivery_start_time": "2023-07-15",
+        "ad_delivery_stop_time": "2023-07-29",
+        "bylines": "TOP 09",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000433",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.000433",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.000433",
+                "region": "Bayern"
+            },
+            {
+                "percentage": "0.001299",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.992638",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.004764",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000882",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002646",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000882",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001323",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002646",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.010141",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.018078",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.016314",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.148148",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.111111",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.147266",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.27866",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.186067",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.026014",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.049824",
+                "age": "55-64",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "3000",
+            "upper_bound": "3999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "109909211968977",
+        "page_name": "Miloš Nový - poslanec",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Kasperske Hory, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Horazdovice, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Klatovy, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Kasejovice, Jihočeský Kraj, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Postrekov, Plzeňský Kraj, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Mladý Smolivec, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Bela Nad Radbuzou, Plzeňský Kraj, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Velký Malahov, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Tlucna, Plzeňský Kraj, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Rokycany, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Plzen, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Mýto, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Tachov, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Cernosin, Plzeňský Kraj, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Radnice, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Žihle, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "22",
+            "64"
+        ],
+        "eu_total_reach": 2307,
+        "beneficiary_payers": [
+            {
+                "payer": "TOP 09",
+                "beneficiary": "TOP 09",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "DE",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 1
+                    }
+                ]
+            },
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "35-44",
+                        "male": 336,
+                        "female": 23,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 422,
+                        "female": 41,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 631,
+                        "female": 37,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 334,
+                        "female": 59,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 252,
+                        "female": 113,
+                        "unknown": 3
+                    }
+                ]
+            }
+        ],
+        "_id": "165867823162803"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=260851526651893&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-07-14",
+        "ad_creative_bodies": [
+            "14 krajů \n14 hejtmanů \n64 náměstků\n14 zastupitelstev \n151 výborů \n141 komisí  \nTolik jenom samospráva.\n\nNavíc některé kraje jsou tak malé, že se počtem svých obyvatel rovnají Ostravě.  \nÚzemněsprávní podoba Česka je jedna z oblastí, kde vidím obrovský prostor k úsporám."
+        ],
+        "ad_delivery_start_time": "2023-07-15",
+        "ad_delivery_stop_time": "2023-07-28",
+        "bylines": "TOP 09",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.977358",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.017161",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.00294",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.000794",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.001271",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.000477",
+                "region": "Bayern"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000243",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001134",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.064621",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00332",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000162",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000243",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.364483",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.016277",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.371528",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.037655",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.008584",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.005021",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00332",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001701",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.12171",
+                "age": "18-24",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "15000",
+            "upper_bound": "19999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "109909211968977",
+        "page_name": "Miloš Nový - poslanec",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "800",
+            "upper_bound": "899"
+        },
+        "target_locations": [
+            {
+                "name": "Kasperske Hory, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Horazdovice, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Klatovy, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Kasejovice, Jihočeský Kraj, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Postrekov, Plzeňský Kraj, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Mladý Smolivec, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Bela Nad Radbuzou, Plzeňský Kraj, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Velký Malahov, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Tlucna, Plzeňský Kraj, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Rokycany, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Plzen, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Mýto, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Tachov, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Cernosin, Plzeňský Kraj, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Radnice, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Žihle, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "22",
+            "64"
+        ],
+        "eu_total_reach": 12547,
+        "beneficiary_payers": [
+            {
+                "payer": "TOP 09",
+                "beneficiary": "TOP 09",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "DE",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 1,
+                        "female": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 3
+                    }
+                ]
+            },
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 4501,
+                        "female": 1503,
+                        "unknown": 21
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 106,
+                        "female": 62,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 201,
+                        "female": 41,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 465,
+                        "female": 41,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 4582,
+                        "female": 798,
+                        "unknown": 14
+                    }
+                ]
+            }
+        ],
+        "_id": "260851526651893"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=203446729190162&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-05-22",
+        "ad_creative_bodies": [
+            "Neměl bych nic proti daňovému zvýhodnění zaměstnaneckých benefitů, kdybychom měli vyrovnaný rozpočet. Ten ale nemáme.  \n\nJe naprosto nepřípustné, abychom platili z rozpočtu jazykové kurzy nebo masáže ve chvíli, kdy máme největší schodky rozpočtů v historii a musely by je tak v budoucnu splácet naše děti a vnoučata.  \n\nJistoty, které nám stát nyní poskytuje, jsou obrovským zadlužením do budoucna v ohrožení. Takové zbytné výdaje prostě musí vláda nyní osekat."
+        ],
+        "ad_creative_link_titles": [
+            "Neměl bych nic proti daňovému zvýhodnění zaměstnaneckých benefitů, kdybychom měli vyrovnaný rozpočet. Ten ale nemáme."
+        ],
+        "ad_delivery_start_time": "2023-05-23",
+        "ad_delivery_stop_time": "2023-06-06",
+        "bylines": "TOP 09",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.997833",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.001878",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.000289",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000142",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.18573",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000425",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002973",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.021518",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.125566",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.08607",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.095555",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.096971",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000849",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.065119",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.204134",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.092865",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.009768",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.0109",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000425",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000991",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "109909211968977",
+        "page_name": "Miloš Nový - poslanec",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "500",
+            "upper_bound": "599"
+        },
+        "_id": "203446729190162"
+    }
+]

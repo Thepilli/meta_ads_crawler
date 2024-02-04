@@ -1,0 +1,651 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=282912264144553&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-13",
+        "ad_creative_bodies": [
+            "Investujte do nového projektu a získejte měsíční splátky!"
+        ],
+        "ad_creative_link_captions": [
+            "textam.online"
+        ],
+        "ad_creative_link_titles": [
+            "Zaregistrujte se online!"
+        ],
+        "ad_delivery_start_time": "2023-11-13",
+        "ad_delivery_stop_time": "2023-11-14",
+        "currency": "THB",
+        "delivery_by_region": [
+            {
+                "percentage": "0.068834",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.130019",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.059273",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.049713",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.038241",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.045889",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.042065",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.043977",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.126195",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.053537",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.070746",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.110899",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.122371",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.038241",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.017208",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.051625",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.045889",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.051625",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.179732",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.25239",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.210325",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.107075",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.06501",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.017208",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001912",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "122099997104010535",
+        "page_name": "The best books of all time",
+        "publisher_platforms": [
+            "facebook",
+            "instagram",
+            "audience_network",
+            "messenger"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "28",
+            "65"
+        ],
+        "eu_total_reach": 527,
+        "beneficiary_payers": [
+            {
+                "payer": "gfsd",
+                "beneficiary": "jj",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 94,
+                        "female": 27,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 132,
+                        "female": 34
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 110,
+                        "female": 24
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 56,
+                        "female": 9
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 27,
+                        "female": 9
+                    }
+                ]
+            }
+        ],
+        "_id": "282912264144553"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=2715310601942343&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-12",
+        "ad_creative_bodies": [
+            "Investujte do nového projektu a získejte měsíční splátky!"
+        ],
+        "ad_creative_link_captions": [
+            "textam.online"
+        ],
+        "ad_creative_link_titles": [
+            "Zaregistrujte se online!"
+        ],
+        "ad_delivery_start_time": "2023-11-12",
+        "ad_delivery_stop_time": "2023-11-13",
+        "currency": "THB",
+        "delivery_by_region": [
+            {
+                "percentage": "0.053191",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.151064",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.065957",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.060638",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.030851",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.042553",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.05",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.038298",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.140426",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.03617",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.060638",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.098936",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.143617",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.02766",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001064",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.003191",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.047872",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.057447",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.225532",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.024468",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.029787",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.139362",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.253191",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.076596",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.07766",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.060638",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001064",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002128",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "122099997104010535",
+        "page_name": "The best books of all time",
+        "publisher_platforms": [
+            "facebook",
+            "instagram",
+            "audience_network",
+            "messenger"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "28",
+            "65"
+        ],
+        "eu_total_reach": 934,
+        "beneficiary_payers": [
+            {
+                "payer": "gfsd",
+                "beneficiary": "jj",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 238,
+                        "female": 73,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 212,
+                        "female": 54
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 131,
+                        "female": 45,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 72,
+                        "female": 23,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 57,
+                        "female": 28,
+                        "unknown": 2
+                    }
+                ]
+            }
+        ],
+        "_id": "2715310601942343"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1731444130656276&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-12",
+        "ad_creative_bodies": [
+            "Investujte do nového projektu a získejte měsíční splátky!"
+        ],
+        "ad_creative_link_captions": [
+            "textam.online"
+        ],
+        "ad_creative_link_titles": [
+            "Zaregistrujte se online!"
+        ],
+        "ad_delivery_start_time": "2023-11-12",
+        "ad_delivery_stop_time": "2023-11-13",
+        "currency": "THB",
+        "delivery_by_region": [
+            {
+                "percentage": "0.007853",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.054974",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.180628",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.086387",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.060209",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.04712",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.031414",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.049738",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.057592",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.143979",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.041885",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.052356",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.073298",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.094241",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.018325",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.057592",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.070681",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.102094",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.060209",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.115183",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.120419",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.117801",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.149215",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.086387",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.112565",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002618",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002618",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002618",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "122099997104010535",
+        "page_name": "The best books of all time",
+        "publisher_platforms": [
+            "facebook",
+            "instagram",
+            "audience_network",
+            "messenger"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "28",
+            "65"
+        ],
+        "eu_total_reach": 387,
+        "beneficiary_payers": [
+            {
+                "payer": "gfsd",
+                "beneficiary": "jj",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 45,
+                        "female": 39,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 43,
+                        "female": 33,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 57,
+                        "female": 22,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 44,
+                        "female": 27
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 46,
+                        "female": 23
+                    }
+                ]
+            }
+        ],
+        "_id": "1731444130656276"
+    }
+]

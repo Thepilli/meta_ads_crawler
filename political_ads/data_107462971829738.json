@@ -1,0 +1,141 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1055751772115546&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-10-25",
+        "ad_creative_link_captions": [
+            "blackpowergames.com"
+        ],
+        "ad_creative_link_descriptions": [
+            "Ministerstvo práce navrhlo zvýšení starobních důchodů"
+        ],
+        "ad_creative_link_titles": [
+            "Průměrný důchod dosáhne 20 693 korun."
+        ],
+        "ad_delivery_start_time": "2023-10-25",
+        "ad_delivery_stop_time": "2023-10-27",
+        "currency": "USD",
+        "delivery_by_region": [
+            {
+                "percentage": "0.057958",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.100173",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.110381",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.046886",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.030277",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.040138",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.051903",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.060208",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.133045",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.044118",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.053114",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.09481",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.13045",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.04654",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.656309",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.343691",
+                "age": "55-64",
+                "gender": "female"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "6000",
+            "upper_bound": "6999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "107462971829738",
+        "page_name": "Hantep rabbitry",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "Women",
+        "target_ages": [
+            "60",
+            "65"
+        ],
+        "eu_total_reach": 5638,
+        "beneficiary_payers": [
+            {
+                "payer": "gg",
+                "beneficiary": "gg",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "55-64",
+                        "female": 1991
+                    },
+                    {
+                        "age_range": "65+",
+                        "female": 3802
+                    }
+                ]
+            }
+        ],
+        "_id": "1055751772115546"
+    }
+]

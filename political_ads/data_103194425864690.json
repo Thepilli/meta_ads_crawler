@@ -1,0 +1,141 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1422654631942283&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-26",
+        "ad_creative_bodies": [
+            "▶️ Nový rok bez Petra Fialy je mé přání vám ... ◀️"
+        ],
+        "ad_delivery_start_time": "2023-12-26",
+        "ad_delivery_stop_time": "2024-01-02",
+        "bylines": "Roman Roun",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.047072",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.072224",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.1169",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.054378",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.038687",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.039166",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.045874",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.066954",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.161696",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.045634",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.04803",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.092107",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.118697",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.052581",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.618123",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.381877",
+                "age": "55-64",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "15000",
+            "upper_bound": "19999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "103194425864690",
+        "page_name": "Roman Roun",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "Women",
+        "target_ages": [
+            "55",
+            "65"
+        ],
+        "eu_total_reach": 8350,
+        "beneficiary_payers": [
+            {
+                "payer": "Roman Roun",
+                "beneficiary": "Roman Roun",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "55-64",
+                        "female": 3186
+                    },
+                    {
+                        "age_range": "65+",
+                        "female": 5157
+                    }
+                ]
+            }
+        ],
+        "_id": "1422654631942283"
+    }
+]

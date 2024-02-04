@@ -1,0 +1,1058 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=358113490181285&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-31",
+        "ad_creative_bodies": [
+            "Zdraví, štěstí a láska jsou pro většinu z nás klíčem k životním radostem. \nDo nového roku přejeme všem hodně zdraví, lásky a pohody. Ať je pro vás rok 2024 plný úspěchů a nádherných chvilek s rodinou a přáteli. 🌟❤️🎆"
+        ],
+        "ad_delivery_start_time": "2023-12-31",
+        "ad_delivery_stop_time": "2024-01-03",
+        "bylines": "My jsme Přísaha Jihomoravský kraj",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.93467",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.036223",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.016171",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.012937",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.012654",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.015818",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000949",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.165138",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.119899",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.092692",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.13192",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.319519",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.073711",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.011389",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.032585",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.01392",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001582",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.006327",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000633",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001265",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "500001",
+            "upper_bound": "1000000"
+        },
+        "impressions": {
+            "lower_bound": "5000",
+            "upper_bound": "5999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "108523378556809",
+        "page_name": "My jsme Přísaha Jihomoravský kraj",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "300",
+            "upper_bound": "399"
+        },
+        "target_locations": [
+            {
+                "name": "Brno, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 3089,
+        "beneficiary_payers": [
+            {
+                "payer": "My jsme Přísaha Pohořelice",
+                "beneficiary": "My jsme Přísaha Pohořelice",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 20,
+                        "female": 50
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 36,
+                        "female": 40
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 103,
+                        "female": 44,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 293,
+                        "female": 233,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 379,
+                        "female": 522,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 417,
+                        "female": 1010,
+                        "unknown": 3
+                    }
+                ]
+            }
+        ],
+        "_id": "358113490181285"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=3578579222453921&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-31",
+        "ad_creative_bodies": [
+            "Zdraví, štěstí a láska jsou pro většinu z nás klíčem k životním radostem. \nDo nového roku přejeme všem hodně zdraví, lásky a pohody. Ať je pro vás rok 2024 plný úspěchů a nádherných chvilek s rodinou a přáteli. 🌟❤️🎆"
+        ],
+        "ad_delivery_start_time": "2023-12-31",
+        "ad_delivery_stop_time": "2023-12-31",
+        "bylines": "My jsme Přísaha Jihomoravský kraj",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.035187",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.081725",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.194665",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.053348",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.035755",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.03235",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.03689",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.056186",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.132236",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.035755",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.052781",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.086833",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.109535",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.056754",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000568",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000568",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.009654",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.016468",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.108461",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.177172",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.057922",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.120954",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.352073",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.067575",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.028393",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.034072",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001136",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.017036",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00795",
+                "age": "25-34",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "2000",
+            "upper_bound": "2999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "108523378556809",
+        "page_name": "My jsme Přísaha Jihomoravský kraj",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 1686,
+        "beneficiary_payers": [
+            {
+                "payer": "My jsme Přísaha Pohořelice",
+                "beneficiary": "My jsme Přísaha Pohořelice",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 17,
+                        "female": 60,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 14,
+                        "female": 50
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 30,
+                        "female": 29
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 102,
+                        "female": 119
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 191,
+                        "female": 312,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 213,
+                        "female": 620,
+                        "unknown": 1
+                    }
+                ]
+            }
+        ],
+        "_id": "3578579222453921"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=765071314558816&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-09-18",
+        "ad_creative_bodies": [
+            "Brněnské vodárny a kanalizace letos slaví krásné výročí 150 let od svého vzniku.\n‼️ Co ale k oslavě není, je fakt, že zisky z vodného a stočného, které všichni platíme, jdou do zahraničí. Vyvádění dividend je dokonce hlavní důvod, proč Brno nemůže čerpat evropské dotace do vodárenství. Akcionářská smlouva je utajována! Z jakého důvodu? Takhle si my transparentnost skutečně nepředstavujeme ‼️\n👉 Voda je klíčovou strategickou surovinou a stejně jako plyn nebo energie by jí měl mít stát a obce pod svojí 100% kontrolou.\n👉 Změnit to může nové vedení Brna.\n👉 Hnutí Přísaha už od svého založení úzce spolupracuje s Nadací pravda o vodě 💦"
+        ],
+        "ad_delivery_start_time": "2022-09-19",
+        "ad_delivery_stop_time": "2022-09-22",
+        "bylines": "Lukáš Horský",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "South Moravian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000414",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.25442",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.004006",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.005249",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.044337",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.042403",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.285773",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.028039",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.052072",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000829",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.055663",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.028867",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.118923",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.026381",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.050691",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000276",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000414",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001243",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "108523378556809",
+        "page_name": "My jsme Přísaha Jihomoravský kraj",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "900",
+            "upper_bound": "999"
+        },
+        "_id": "765071314558816"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1547578255702832&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-09-18",
+        "ad_creative_bodies": [
+            "Všichni teď mluví o kauzách jako je STOKA nebo DOZIMETR a slibují, že nic takového nedopustí. Můžete jim ale věřit? My nic slibovat nemusíme, není za námi žádná aféra ani žádná krádež. Jsme nová síla na radnici.\nNedopustíme další STOKU, žádné další krádeže veřejných financí. Když zůstane v městské kase dostatek financí, vyřešíme všechno, co nás Brňáky trápí."
+        ],
+        "ad_delivery_start_time": "2022-09-19",
+        "ad_delivery_stop_time": "2022-09-22",
+        "bylines": "Lukáš Horský",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "South Moravian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000807",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.003228",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.004036",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.017756",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.01937",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.05004",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.14205",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.072639",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.177563",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.131558",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.142857",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.143664",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.085553",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001614",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.007264",
+                "age": "25-34",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "2000",
+            "upper_bound": "2999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "108523378556809",
+        "page_name": "My jsme Přísaha Jihomoravský kraj",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "300",
+            "upper_bound": "399"
+        },
+        "_id": "1547578255702832"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1379895642535455&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-09-15",
+        "ad_creative_bodies": [
+            "VODU ZPĚT BRŇANŮM\n‼️ Škoda, že až teď si někteří brněnští politici vzpomněli na toto téma až těsně před volbami. \n‼️ Je to autentické?  Je to důvěryhodné? Proklamace poslední týden před volbami jsou jedna věc a činy druhá. Po 25 letech lze těžko věřit politikům, kteří byli dlouhá léta součástí vedení města a zasedali v orgánech Vodáren a kanalizací, že svá prohlášení myslí vážně a další 4 roky zůstane pouze u výmluv. Maximálně mluvili o tom, že se jedná o složitou a komplexní problematiku. V překladu, nám to vyhovuje a nemáme MOTIVACI ke změně. A co nabízí dnes? Opět polovičatá řešení, při kterých chtějí zachovat dosavadní stav vlastnické struktury.\n\n👉 PŘÍSAHA na tomto tématu pracuje spolu s Ing. Radkem Novotným a jeho Nadačním fondem Pravda o vodě od svého založení!\n👉 Chceme 100% vlastnictví města Brna ve VaK a víme jak na to!"
+        ],
+        "ad_delivery_start_time": "2022-09-16",
+        "ad_delivery_stop_time": "2022-09-19",
+        "bylines": "Lukáš Horský",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.743509",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.021934",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.158908",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.022381",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.053268",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000903",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.081264",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.017607",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.051919",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.137698",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.12912",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.118736",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.119187",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.100226",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.003612",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.125056",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.023928",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.085779",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000451",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002257",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001354",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000903",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "3000",
+            "upper_bound": "3999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "108523378556809",
+        "page_name": "My jsme Přísaha Jihomoravský kraj",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "_id": "1379895642535455"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1178871392663231&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-09-14",
+        "ad_creative_bodies": [
+            "👉 Chceme 100% podíl města v BVK, což zlevní vodné a stočné pro Brňany a umožní čerpat významné dotace z EU\n👉 Chceme ukončit vyvádění veškerých zisků z vodného a stočného francouzské firmě"
+        ],
+        "ad_creative_link_captions": [
+            "facebook.com"
+        ],
+        "ad_creative_link_descriptions": [
+            "Jsme zde abychom dali politice tvář čestnosti, poctivosti a píle, aby občan mohl důvěřovat svým voleným zástupcům a tím si i mohl vážit svého hlasu."
+        ],
+        "ad_creative_link_titles": [
+            "My jsme Přísaha Jihomoravský kraj"
+        ],
+        "ad_delivery_start_time": "2022-09-15",
+        "ad_delivery_stop_time": "2022-09-18",
+        "bylines": "Lukáš Horský",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "South Moravian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000915",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000915",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000915",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.076853",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.10613",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.157365",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.066789",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.069533",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.043001",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.119854",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.121683",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.017383",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.123513",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.088747",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.006404",
+                "age": "18-24",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "108523378556809",
+        "page_name": "My jsme Přísaha Jihomoravský kraj",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "300",
+            "upper_bound": "399"
+        },
+        "_id": "1178871392663231"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1449747945501908&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-09-13",
+        "ad_creative_bodies": [
+            "Všichni teď mluví o kauzách jako je STOKA nebo DOZIMETR a slibují, že nic takového nedopustí. Můžete jim ale věřit? Všechny tyhle krádeže se děly, když nám oni vládli. My nic slibovat nemusíme, není za námi žádná aféra ani žádná krádež. Jsme nová síla na radnici.\n \nMáme pro vás program, ve kterém neslibujeme nemožné. Jde nám o řešení problémů, se kterými se potkáváte každý den. Třeba zhoršení bezpečnosti v problémových městských částech. Brno musí posílit řady městské policie a pomáhat lidem, kteří pomoc opravdu potřebují. Nebudeme přihlížet zhoršující se bezpečností situaci, nikde, ani před Hlavním nádražím, kde je situace kritická. Dále je to krize bydlení. Řešení je pro naše město nekonečným příběhem. Přitom je to jednoduché. Stačí stavět. Máme tři sta hektarů brownfieldů, to je dost místa na spoustu bytů, dokonce i na nová sídliště. Hned po volbách začneme na výstavbě pracovat, nemůžeme už na nic čekat. Každodenní nepříjemností je také doprava. Všichni si vybavíme nekonečné kolony, objížďky a nákladné jízdné na hromadnou dopravu. Proto přicházíme s rodinou šalinkartou. Pokud si celé rodina pořídí šalinkartu, ušetří až třetinu nákladů oproti běžnému jízdnému. A to je už znát. Nezapomeneme ani na zvyšování kapacity školek a škol. Každé dítě musí mít možnost nastoupit do školky a školy podle spádového místa. Nemůžeme dopustit, aby byli rodiče nuceni platit až patnáct tisíc měsíčně za soukromé vzdělávání.\n \nUrčitě se ptáte, kde na to vezmeme. Odpověď je jednodušší, než by se mohlo zdát. Nedopustíme další STOKU, žádné další krádeže veřejných financí. Když zůstane v městské kase dostatek financí, vyřešíme všechno, co nás Brňáky trápí 👍"
+        ],
+        "ad_delivery_start_time": "2022-09-14",
+        "ad_delivery_stop_time": "2022-09-17",
+        "bylines": "Lukáš Horský",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.003931",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.000786",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.995283",
+                "region": "South Moravian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000787",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.004724",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002362",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000787",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.012598",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.037008",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.251181",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.022047",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.162992",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.079528",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.119685",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.117323",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.059055",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.114961",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.014961",
+                "age": "18-24",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "108523378556809",
+        "page_name": "My jsme Přísaha Jihomoravský kraj",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "_id": "1449747945501908"
+    }
+]

@@ -1,0 +1,2246 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1155580325788330&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-26",
+        "ad_creative_bodies": [
+            "Dnes jsem se opět mohl účastnit Vánočního obědu pro potřebné a jsem za to moc rád. Akci už přes 25 let pořádá komunita Sant Egidio, poslední dva roky v zastupitelském sále radnice MČ Brno-Střed.🥂🎊\n\nMyslím si, že je důležité se v čase vánočních svátků vzájemně potkávat. Ne všichni však mají to štěstí, aby mohli trávit svátky s rodinou, natož pak v teple domácího krbu. Proto doufám, že všechny hosty zahřálo nejen teplé jídlo, ale i dobrý pocit ze společného setkání v rámci komunity lidí s dobrým srdcem. Rád bych poděkoval všem lidem z komunity Sant Egidio, kteří pomáhají celoročně, i všem dobrovolníkům, kteří se rozhodli přiložit ruku k dílu právě dnes.🙌🏼"
+        ],
+        "ad_delivery_start_time": "2023-12-26",
+        "ad_delivery_stop_time": "2023-12-30",
+        "bylines": "Pavel Studeník, radní Brno-střed",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "South Moravian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.002279",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.176661",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.01739",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.060806",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.046174",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.052291",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.101103",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.057568",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.194891",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00084",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.138762",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.018829",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.093787",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.034181",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001799",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001559",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00072",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00036",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "15000",
+            "upper_bound": "19999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "104343035856974",
+        "page_name": "Pavel Studeník, radní Brno-střed",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "800",
+            "upper_bound": "899"
+        },
+        "target_locations": [
+            {
+                "name": "Brno-střed, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "NEIGHBORHOOD",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 8272,
+        "beneficiary_payers": [
+            {
+                "payer": "Pavel Studeník, radní Brno-střed",
+                "beneficiary": "Pavel Studeník, radní Brno-střed",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 285,
+                        "female": 480,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 385,
+                        "female": 843,
+                        "unknown": 13
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 145,
+                        "female": 436,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 157,
+                        "female": 507,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 782,
+                        "female": 1473,
+                        "unknown": 19
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 1157,
+                        "female": 1625,
+                        "unknown": 15
+                    }
+                ]
+            }
+        ],
+        "_id": "1155580325788330"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=357088583603365&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-26",
+        "ad_creative_bodies": [
+            "Dnes jsem se opět mohl účastnit Vánočního obědu pro potřebné a jsem za to moc rád. Akci už přes 25 let pořádá komunita Sant Egidio, poslední dva roky v zastupitelském sále radnice MČ Brno-Střed.🥂🎊\n\nMyslím si, že je důležité se v čase vánočních svátků vzájemně potkávat. Ne všichni však mají to štěstí, aby mohli trávit svátky s rodinou, natož pak v teple domácího krbu. Proto doufám, že všechny hosty zahřálo nejen teplé jídlo, ale i dobrý pocit ze společného setkání v rámci komunity lidí s dobrým srdcem. Rád bych poděkoval všem lidem z komunity Sant Egidio, kteří pomáhají celoročně, i všem dobrovolníkům, kteří se rozhodli přiložit ruku k dílu právě dnes.🙌🏼"
+        ],
+        "ad_delivery_start_time": "2023-12-26",
+        "ad_delivery_stop_time": "2023-12-27",
+        "bylines": "Pavel Studeník, radní Brno-střed",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.967626",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.014388",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.014388",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.003597",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.021429",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.064286",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.114286",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.053571",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.089286",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.032143",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.214286",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.192857",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.110714",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.1",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.003571",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.003571",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "104343035856974",
+        "page_name": "Pavel Studeník, radní Brno-střed",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Brno, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 277,
+        "beneficiary_payers": [
+            {
+                "payer": "Pavel Studeník, radní Brno-střed",
+                "beneficiary": "Pavel Studeník, radní Brno-střed",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 1
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 6,
+                        "female": 15
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 28,
+                        "female": 31
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 25,
+                        "female": 60
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 18,
+                        "female": 54
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 9,
+                        "female": 32,
+                        "unknown": 1
+                    }
+                ]
+            }
+        ],
+        "_id": "357088583603365"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1340832380180826&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-08-11",
+        "ad_creative_bodies": [
+            "Letošní ročník Babího léta a dědského dne 🎩👒přináší blok přednášek zaměřený na hrozby moderní doby. Každý z nás se určitě setkal s nějakou smyšlenou zprávou (hoaxem, fake news), možná jste jim dokonce i naletěli. A přestože šmejdům a jejich velkému řádění už odzvonilo, pořád se ještě najde dost nástrah. \n\nJak rozeznat podvodníka nebo klamavou obchodní praktiku? Přijďte si poslechnout přednášky, tato tematika se týká každého z nás, nejen seniorů. 🛡⚔️\n\n15.15–16.00 Přednáška Hoax – nástrahy intern\netu, Josef Džubák\n17.45–18.30 Přednáška Fake news a mediální gramotnost, Mgr. Pavel Sedláček\n19.30–20.30 Přednáška Klamavé obchodní praktiky, Gerta Mazalová\n\nUdálost: https://www.facebook.com/events/259183383483279"
+        ],
+        "ad_delivery_start_time": "2023-08-11",
+        "ad_delivery_stop_time": "2023-08-16",
+        "bylines": "Pavel Studeník, radní Brno-střed",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "South Moravian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.002457",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.063882",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.051597",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.116708",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.081081",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.199017",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.076781",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.124693",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.094595",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.080467",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.103808",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001229",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001843",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001229",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000614",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "3000",
+            "upper_bound": "3999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "104343035856974",
+        "page_name": "Pavel Studeník, radní Brno-střed",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "target_locations": [
+            {
+                "name": "Brno-střed, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "NEIGHBORHOOD",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "30",
+            "65"
+        ],
+        "eu_total_reach": 1643,
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 104,
+                        "female": 84,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 190,
+                        "female": 169,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 125,
+                        "female": 324,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 131,
+                        "female": 154,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 132,
+                        "female": 203,
+                        "unknown": 2
+                    }
+                ]
+            }
+        ],
+        "_id": "1340832380180826"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=689373129844871&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-08-08",
+        "ad_creative_bodies": [
+            "Rád bych Vás pozval na čtvrtý ročník mezigeneračního festivalu Babí léto a dědský den. Festival se bude konat v neděli 20. srpna 2023 v parku Lužánky (v prostoru u Café Ponava).\n\nAkce je určena především seniorům, ale také jejich příbuzným, rodinám a přátelům. Pozornost si zaslouží především přednášky zaměřené na problematiku kriminality páchané na seniorech, převážně v prostředí internetu a nových technologií. Připraven bude mimo jiné i bohatý hudební program včetně cimbálovky. Představí se vám také volnočasové kluby a sociální služby nejen pro seniory."
+        ],
+        "ad_creative_link_captions": [
+            "Babí léto a dědský den 2023"
+        ],
+        "ad_creative_link_descriptions": [
+            "Přátelé, přinášíme již čtvrtý ročník oblíbeného minifestivalu třetího věku!\n\nHLAVNÍ PROGRAM\n---------------------\n14.00–15.00 Milan Kašuba \n\n15.15–16.00 Přednáška Hoax – nástrahy internetu, Josef Džubák\n\n16.15– 17.30 The Young Pekáč Mojmíra Bártka\n\n17.45–18.30 Přednáška Fake news a mediální gramotnost, Mgr. Pavel Sedláček\n\n18.45–21.00 Cimbálová muzika Sylván s podporou Slováckého krúžku\n\n19.30–20.30 Přednáška Klamavé obchodní praktiky, Gerta Mazalová\n\nDOPROVODNÝ PROGRAM\n-----------------------------\n- Jóga (nejen) pro seniory \n- Pétanque\n- Sebeobrana pro všechny\n\nSTÁNKY\n---------\n- \"Mobilní pohotovost\" - Moudrá sovička\n- Úřad a služby Městské části Brno-střed\n- Městská policie Brno\n- Univerzita třetího věku MU\n- Botanka - dílny\n- Klub českých turistů\n- Český svaz zahrádkářů\n- ROSKA (unie roztroušené sklerózy)\n- Charita Brno - propagace cyklorikši\n- Senior pas\n- Naděje - Pečovatelská služba Brno\n- Kávéeska\n\nPo celou dobu bude na místě k dispozici zdravotník, mobilní pohotovost, voda i WC zdarma.\n\nPořádají MČ Brno-střed a Zahrady soutoku, z.s.\n\nAkce se koná za finanční podpory MČ Brno-střed a Jihomoravského kraje a pod záštitou 2. náměstka primátorky města Brna Ing. Jaroslava Suchého.\n\nOficiální stránky: https://www.dedskyden.cz/"
+        ],
+        "ad_creative_link_titles": [
+            "Babí léto a dědský den 2023"
+        ],
+        "ad_delivery_start_time": "2023-08-08",
+        "ad_delivery_stop_time": "2023-08-13",
+        "bylines": "Pavel Studeník, radní Brno-střed",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.001636",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.983911",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.01309",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.001364",
+                "region": "Olomouc Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001091",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000273",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001091",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.072812",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.136079",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.155713",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.431961",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.032179",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.022634",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.022089",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.118626",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.005454",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "6000",
+            "upper_bound": "6999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "104343035856974",
+        "page_name": "Pavel Studeník, radní Brno-střed",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "500",
+            "upper_bound": "599"
+        },
+        "target_locations": [
+            {
+                "name": "Brno, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "35",
+            "65"
+        ],
+        "eu_total_reach": 3665,
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "55-64",
+                        "male": 83,
+                        "female": 435,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 118,
+                        "female": 499,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 267,
+                        "female": 1584,
+                        "unknown": 20
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 81,
+                        "female": 571,
+                        "unknown": 4
+                    }
+                ]
+            }
+        ],
+        "_id": "689373129844871"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=316375424168868&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-08-03",
+        "ad_creative_bodies": [
+            "Rádi bychom Vás pozvali na čtvrtý ročník mezigeneračního festivalu Babí léto a dědský den. Festival se bude konat v neděli 20. srpna 2023 v parku Lužánky (v prostoru u Café Ponava).\n\nAkce je určena především seniorům, ale také jejich příbuzným, rodinám a přátelům. Pozornost si zaslouží především přednášky zaměřené na problematiku kriminality páchané na seniorech, převážně v prostředí internetu a nových technologií. Připraven bude mimo jiné i bohatý hudební program včetně cimbálovky. Představí se vám také volnočasové kluby a sociální služby nejen pro seniory."
+        ],
+        "ad_creative_link_captions": [
+            "Babí léto a dědský den 2023"
+        ],
+        "ad_creative_link_descriptions": [
+            "Přátelé, přinášíme již čtvrtý ročník oblíbeného minifestivalu třetího věku!\n\nHLAVNÍ PROGRAM\n---------------------\n14.00–15.00 Milan Kašuba \n\n15.15–16.00 Přednáška Hoax – nástrahy internetu, Josef Džubák\n\n16.15– 17.30 The Young Pekáč Mojmíra Bártka\n\n17.45–18.30 Přednáška Fake news a mediální gramotnost, Mgr. Pavel Sedláček\n\n18.45–21.00 Cimbálová muzika Sylván s podporou Slováckého krúžku\n\n19.30–20.30 Přednáška Klamavé obchodní praktiky, Gerta Mazalová\n\nDOPROVODNÝ PROGRAM\n-----------------------------\n- Jóga (nejen) pro seniory \n- Pétanque\n- Sebeobrana pro všechny\n\nSTÁNKY\n---------\n- \"Mobilní pohotovost\" - Moudrá sovička\n- Úřad a služby Městské části Brno-střed\n- Městská policie Brno\n- Univerzita třetího věku MU\n- Botanka - dílny\n- Klub českých turistů\n- Český svaz zahrádkářů\n- ROSKA (unie roztroušené sklerózy)\n- Charita Brno - propagace cyklorikši\n- Senior pas\n- Naděje - Pečovatelská služba Brno\n- Kávéeska\n\nPo celou dobu bude na místě k dispozici zdravotník, mobilní pohotovost, voda i WC zdarma.\n\nPořádají MČ Brno-střed a Zahrady soutoku, z.s.\n\nAkce se koná za finanční podpory MČ Brno-střed a Jihomoravského kraje a pod záštitou 2. náměstka primátorky města Brna Ing. Jaroslava Suchého.\n\nOficiální stránky: https://www.dedskyden.cz/"
+        ],
+        "ad_creative_link_titles": [
+            "Babí léto a dědský den 2023"
+        ],
+        "ad_delivery_start_time": "2023-08-03",
+        "ad_delivery_stop_time": "2023-08-05",
+        "bylines": "Pavel Studeník, radní Brno-střed",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "South Moravian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.042197",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.120563",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.007368",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.624246",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.204287",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00134",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "2000",
+            "upper_bound": "2999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "104343035856974",
+        "page_name": "Pavel Studeník, radní Brno-střed",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Brno, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "45",
+            "60"
+        ],
+        "eu_total_reach": 1480,
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "male": 180,
+                        "female": 932,
+                        "unknown": 11
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 63,
+                        "female": 305,
+                        "unknown": 2
+                    }
+                ]
+            }
+        ],
+        "_id": "316375424168868"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=9772220392820624&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-07-31",
+        "ad_creative_bodies": [
+            "Rádi bychom Vás pozvali na čtvrtý ročník mezigeneračního festivalu Babí léto a dědský den. Festival se bude konat v neděli 20. srpna 2023 v parku Lužánky (v prostoru u Café Ponava).\n\nAkce je určena především seniorům, ale také jejich příbuzným, rodinám a přátelům. Pozornost si zaslouží především přednášky zaměřené na problematiku kriminality páchané na seniorech, převážně v prostředí internetu a nových technologií. Připraven bude mimo jiné i bohatý hudební program včetně cimbálovky. Představí se vám také volnočasové kluby a sociální služby nejen pro seniory."
+        ],
+        "ad_creative_link_captions": [
+            "Babí léto a dědský den 2023"
+        ],
+        "ad_creative_link_descriptions": [
+            "Přátelé, přinášíme již čtvrtý ročník oblíbeného minifestivalu třetího věku!\n\nHLAVNÍ PROGRAM\n---------------------\n14.00–15.00 Milan Kašuba \n\n15.15–16.00 Přednáška Hoax – nástrahy internetu, Josef Džubák\n\n16.15– 17.30 The Young Pekáč Mojmíra Bártka\n\n17.45–18.30 Přednáška Fake news a mediální gramotnost, Mgr. Pavel Sedláček\n\n18.45–21.00 Cimbálová muzika Sylván s podporou Slováckého krúžku\n\n19.30–20.30 Přednáška Klamavé obchodní praktiky, Gerta Mazalová\n\nDOPROVODNÝ PROGRAM\n-----------------------------\n- Jóga (nejen) pro seniory \n- Pétanque\n- Sebeobrana pro všechny\n\nSTÁNKY\n---------\n- \"Mobilní pohotovost\" - Moudrá sovička\n- Úřad a služby Městské části Brno-střed\n- Městská policie Brno\n- Univerzita třetího věku MU\n- Botanka - dílny\n- Klub českých turistů\n- Český svaz zahrádkářů\n- ROSKA (unie roztroušené sklerózy)\n- Charita Brno - propagace cyklorikši\n- Senior pas\n- Naděje - Pečovatelská služba Brno\n- Kávéeska\n\nPo celou dobu bude na místě k dispozici zdravotník, mobilní pohotovost, voda i WC zdarma.\n\nPořádají MČ Brno-střed a Zahrady soutoku, z.s.\n\nAkce se koná za finanční podpory MČ Brno-střed a Jihomoravského kraje a pod záštitou 2. náměstka primátorky města Brna Ing. Jaroslava Suchého.\n\nOficiální stránky: https://www.dedskyden.cz/"
+        ],
+        "ad_creative_link_titles": [
+            "Babí léto a dědský den 2023"
+        ],
+        "ad_delivery_start_time": "2023-07-31",
+        "ad_delivery_stop_time": "2023-08-04",
+        "bylines": "Pavel Studeník, radní Brno-střed",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "South Moravian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.002319",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.059369",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.032468",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.210111",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.313544",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.049629",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.329314",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001391",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001855",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "3000",
+            "upper_bound": "3999"
+        },
+        "page_id": "104343035856974",
+        "page_name": "Pavel Studeník, radní Brno-střed",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "300",
+            "upper_bound": "399"
+        },
+        "target_locations": [
+            {
+                "name": "Brno, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "50",
+            "65"
+        ],
+        "eu_total_reach": 2111,
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "male": 70,
+                        "female": 453,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 128,
+                        "female": 710,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 107,
+                        "female": 676,
+                        "unknown": 4
+                    }
+                ]
+            }
+        ],
+        "_id": "9772220392820624"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=229937466415642&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-05-21",
+        "ad_creative_bodies": [
+            "Dnes slavíme mezinárodní den včel! 🐝🐝🐝\n\nChov včel má nejen v Česku dlouholetou tradici a je dobré si uvědomit, jak nezbytnou úlohu včely v našem ekosystému plní. V poslední době získává na obrovské popularitě také chov čmeláků, který není tak náročný jako péče o včely, a zároveň se jedná o chráněný druh výborných opylovačů. 🌻🌼🌾 \n\nVšem včelám i čmelákům patří náš dík.🙌🏼"
+        ],
+        "ad_creative_link_captions": [
+            "www.brno-stred.cz"
+        ],
+        "ad_delivery_start_time": "2023-05-21",
+        "ad_delivery_stop_time": "2023-05-23",
+        "bylines": "Pavel Studeník",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "South Moravian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.003465",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002772",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.148995",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.13167",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.143451",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.331947",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.12474",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.112266",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000693",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "104343035856974",
+        "page_name": "Pavel Studeník, radní Brno-střed",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "_id": "229937466415642"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=910129210091176&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-05-21",
+        "ad_creative_bodies": [
+            "Slavnostní přebíraní certifikátu Audit familyfriendlycommunity pro naši Městská část Brno-střed. Velké díky patří hlavně mým předchůdcům Marie Jílková, poslankyně a Martin Vrubel, místostarosta Brno-střed. 💐🏅🎊🎉"
+        ],
+        "ad_creative_link_captions": [
+            "Pavel Studeník, radní Brno-střed"
+        ],
+        "ad_creative_link_descriptions": [
+            "Uvolněný člen ZMČ v oblasti sociální, zdravotní a občanských záležitostech, KDU-ČSL."
+        ],
+        "ad_creative_link_titles": [
+            "Pavel Studeník, radní Brno-střed"
+        ],
+        "ad_delivery_start_time": "2023-05-21",
+        "ad_delivery_stop_time": "2023-05-23",
+        "bylines": "Pavel Studeník",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.032234",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.057875",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.468864",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.0337",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.030037",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.023443",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.027839",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.0337",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.071062",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.030769",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.03956",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.048352",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.074725",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.027839",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.138484",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.090379",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.107872",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.08965",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.263848",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.137755",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.03207",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.039359",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001458",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001458",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002915",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.01895",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.003644",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.012391",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.058309",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001458",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "104343035856974",
+        "page_name": "Pavel Studeník, radní Brno-střed",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "_id": "910129210091176"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=743847673934549&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-03-27",
+        "ad_creative_bodies": [
+            "Již čtvrté setkání nazvané Babí léto a Dědský den se bude konat v Lužáneckém parku v neděli 20. srpna. Opět se můžete těšit na pestrý program.\n\nPo úspěchu akce v minulých letech jsme se rozhodli uspořádat další ročník minifestivalu třetího věku Babí léto a Dědský den. Již tradičně proběhne ve spolupráci se Zahradou Soutoku, Kávéeskou, Café Ponava a také za podpory naší městské částí Brno-střed a Magistrátu města Brna.\n\nNávštěvníci se mohou těšit na hudební program inspirovaný hudbou 60. let a cimbálovou muziku. Připraveny jsou aktivity zaměřené na zdraví a bezpečnost seniorů. Ve spolupráci s městskou policií zaostříme na prevenci kriminality páchané na seniorech. Pomoc s mobilními zařízeními nabídne seniorům Mobilní pohotovost. Prostor bude i pro ruční práce, tvořivý program nachystá Centrum volného času Botanka.\n\nPro zájemce zde budou připraveny stánky prezentující organizace, spolky a služby, které působí v naší městské části. Přiblíží například možnost využití bydlení s pečovatelskou službou. Mužete se těšit na Univerzitu třetího věku, prezentaci aktivit Klubu českých turistů či produkty zahrádkářů. Věřím, že akce zaujme všechny věkové kategorie a tento den si společně užijeme."
+        ],
+        "ad_delivery_start_time": "2023-03-28",
+        "ad_delivery_stop_time": "2023-03-29",
+        "bylines": "Pavel Studenik",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "South Moravian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.00112",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001493",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.113102",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.067189",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.325868",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.240761",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.104517",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.144457",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001493",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "2000",
+            "upper_bound": "2999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "104343035856974",
+        "page_name": "Pavel Studeník, radní Brno-střed",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "_id": "743847673934549"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=524009409859569&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-03-08",
+        "ad_creative_bodies": [
+            "Dnes slavíme Mezinárodní den žen. Spousta z nás má svátek spojený se socialismem, kdy ženy dostávaly červené karafiáty. Historie svátku nás však zavede do Ameriky. Konkrétně do New Yorku, kde proběhla 8. března 1908 stávka švadlen. První mezinárodní den žen se pak slavil na výročí stávky, 8. března 1909. Jedním z jeho cílů byla rovnoprávnost žen a jejich volební právo.\nJe však nutno uznat, že zřejmě díky propagaci svátku komunisty má tento den v bývalém východním bloku velkou tradici dodnes, zatímco v jeho mateřské zemi se od slavení spíše upustilo.\nAbychom však kvůli historickému okénku nezapomněli na to nejdůležitější, určitě máte ve svém životě nějakou důležitou ženu, ať už manželku, maminku, babičku či kolegyni, popřejte jim dnes všechno nejlepší 🌹💐🌷"
+        ],
+        "ad_creative_link_captions": [
+            "brno-stred.cz"
+        ],
+        "ad_creative_link_descriptions": [
+            "Brno-střed je městská část ve středu statutárního města Brna. Je tvořena několika čtvrtěmi a katastrálními územími, konkrétně historickým centrem města (čtvrť Brno-město a k. ú. Město Brno), Starým Brnem, Stránicemi, Štýřicemi a Veveřím a částmi Černých Polí, Pi..."
+        ],
+        "ad_creative_link_titles": [
+            "Úvodní stránka"
+        ],
+        "ad_delivery_start_time": "2023-03-08",
+        "ad_delivery_stop_time": "2023-03-09",
+        "bylines": "Pavel Studenik",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.043633",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.064434",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.294774",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.032978",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.044647",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.029934",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.033993",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.073567",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.123288",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.042111",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.032978",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.054795",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.061898",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.066971",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001026",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.262051",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002564",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.012308",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.038462",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00359",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.034872",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.487179",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.117436",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001026",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.018462",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00359",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.007692",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.007179",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001026",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000513",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001026",
+                "age": "18-24",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "2000",
+            "upper_bound": "2999"
+        },
+        "page_id": "104343035856974",
+        "page_name": "Pavel Studeník, radní Brno-střed",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "_id": "524009409859569"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1380601969148361&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-02-17",
+        "ad_creative_bodies": [
+            "První vítání dětí v tomto volebním období se konalo 12. listopadu. Statečně se jej zhostil kolega Jiří Hofr, kterému bych tímto rád poděkoval. Vítání dětí probíhá zhruba každé dva až čtyři měsíce dle počtu přihlášených dětí.\nTento obřad navazuje na komunistickou tradici vítání občánků, které zavedl po sovětském vzoru Ústřední výbor KSČ, aby postupně nahradil církevní křest. To se naštěstí nepodařilo, ale tato tradice už zůstala. Rodiče si proto dnes mohou vybrat, která varianta je jim bližší.\nJá osobně pro svého syna plánuji jak křest, tak vítání. A abych si to trochu ozvláštnil, rozhodl jsem se příští vítání dětí zkusit sám, abych si tak mohl svého malého Huga přivítat mezi obyvatele Brna. Už se na to moc těším!\nPokud máte zájem, můžete svou ratolest přihlásit také: https://www.brno-stred.cz/urad-mc/zivotni-situace/socialni-oblast/vitani-deti"
+        ],
+        "ad_delivery_start_time": "2023-02-17",
+        "ad_delivery_stop_time": "2023-02-19",
+        "bylines": "Pavel Studenik",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "South Moravian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.366799",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.13009",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.074661",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.300622",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.074378",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.05345",
+                "age": "65+",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "4000",
+            "upper_bound": "4999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "104343035856974",
+        "page_name": "Pavel Studeník, radní Brno-střed",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "_id": "1380601969148361"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1368149790682246&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-01-28",
+        "ad_creative_bodies": [
+            "Velká gratulace našemu novému prezidentu k výraznému volebnímu výsledku. 🎉🎊"
+        ],
+        "ad_delivery_start_time": "2023-01-28",
+        "ad_delivery_stop_time": "2023-01-29",
+        "bylines": "Pavel Studenik",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.046281",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.104132",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.11405",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.059504",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.031405",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.049587",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.044628",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.054545",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.157025",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.029752",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.06281",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.072727",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.132231",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.041322",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001653",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001653",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.01157",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.056198",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.079339",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.198347",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.115702",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.105785",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.143802",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.140496",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001653",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.087603",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.042975",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.013223",
+                "age": "35-44",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "104343035856974",
+        "page_name": "Pavel Studeník, radní Brno-střed",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "_id": "1368149790682246"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=729937425398967&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-01-13",
+        "ad_creative_bodies": [
+            "Dnes od 14. hodiny se otevřely volební místnosti. Vaše volba rozhodne, kdo bude naši zemi reprezentovat jako hlava státu na dalších pět let, a to hlavně v zahraničí. Přeji, ať vaše volba nevede k tomu, že se za ni budeme muset dalších 5 let stydět. 🤞✌🏽🤞🏻\n\nSeznam volebních místností podle ulice trvalého bydliště pro MČ Brno-střed: https://www.brno-stred.cz/aktuality/volba-prezidenta-ceske-republiky-2023~n16472"
+        ],
+        "ad_delivery_start_time": "2023-01-13",
+        "ad_delivery_stop_time": "2023-01-14",
+        "bylines": "Pavel Studenik",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.049107",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.053571",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.174107",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.058036",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.026786",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.035714",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.049107",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.09375",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.129464",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.022321",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.044643",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.098214",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.102679",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.0625",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.026786",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.129464",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.111607",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.241071",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.165179",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.080357",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.133929",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.111607",
+                "age": "35-44",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "104343035856974",
+        "page_name": "Pavel Studeník, radní Brno-střed",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "_id": "729937425398967"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=846112389954668&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-12-28",
+        "ad_creative_bodies": [
+            "Vánoce nejsou jen svátky klidu a míru, měly by být i obdobím, kdy myslíme na druhé. Nejde však jen o to dát dárky svým milovaným, měli bychom myslet i na lidi, kteří nemají takové štěstí. Nemají například blízké, se kterými by si mohli v teple domova vyměnit dárek, nebo nemají dokonce ani ten domov.\nJsem rád, že jsem letos mohl přiložit ruku k dílu a rozdat v sále radnice Brno-střed vánoční vývar a svíčkovou potřebným. Největší zásluhu však mají lidé z komunity Sant Egidio, kteří pomoc nabízejí pravidelně celý rok, a tento vánoční oběd pořádají už pětadvacátým rokem 🫶🏼👏🏻\nDěkuji všem, kteří se na dnešní akci podíleli! 🥂"
+        ],
+        "ad_delivery_start_time": "2022-12-28",
+        "ad_delivery_stop_time": "2023-01-01",
+        "bylines": "Pavel Studenik",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.928556",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.053173",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.012801",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.00547",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.621022",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.378978",
+                "age": "35-44",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "104343035856974",
+        "page_name": "Pavel Studeník, radní Brno-střed",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "_id": "846112389954668"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=486452103600339&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-12-26",
+        "ad_creative_bodies": [
+            "Vánoce nejsou jen svátky klidu a míru, měly by být i obdobím, kdy myslíme na druhé. Nejde však jen o to dát dárky svým milovaným, měli bychom myslet i na lidi, kteří nemají takové štěstí. Nemají například blízké, se kterými by si mohli v teple domova vyměnit dárek, nebo nemají dokonce ani ten domov.\nJsem rád, že jsem letos mohl přiložit ruku k dílu a rozdat v sále radnice Brno-střed vánoční vývar a svíčkovou potřebným. Největší zásluhu však mají lidé z komunity Sant Egidio, kteří pomoc nabízejí pravidelně celý rok, a tento vánoční oběd pořádají už pětadvacátým rokem 🫶🏼👏🏻\nDěkuji všem, kteří se na dnešní akci podíleli! 🥂"
+        ],
+        "ad_delivery_start_time": "2022-12-26",
+        "ad_delivery_stop_time": "2023-01-01",
+        "bylines": "Pavel Studenik",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "South Moravian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000128",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.023724",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.021301",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.209949",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.329974",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.125383",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.052551",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.180612",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.053571",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00102",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001403",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000383",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "104343035856974",
+        "page_name": "Pavel Studeník, radní Brno-střed",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "_id": "486452103600339"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=6190580597619935&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-12-17",
+        "ad_creative_bodies": [
+            "Přijďte za mnou 17. prosince od 17:00 do 21:00 na Moravské náměstí k soše Jošta na stánek nadačního fondu Emil a podpořte projekt, který vás zahřeje nejen na srdci. 💕 Kupte si punč a přispějte tak malému Mikulášovi na speciální ortézy. 🍹👏 #brnenskevanoce #vanocnitrhy #103puncuproemila"
+        ],
+        "ad_delivery_start_time": "2022-12-17",
+        "ad_delivery_stop_time": "2022-12-18",
+        "bylines": "Pavel Studenik",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "South Moravian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001604",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000802",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.004812",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.033681",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.115477",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00401",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.121091",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.068164",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.1668",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.17482",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.113071",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.070569",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.10826",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.014435",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002406",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "104343035856974",
+        "page_name": "Pavel Studeník, radní Brno-střed",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "_id": "6190580597619935"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1247312709460331&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-12-16",
+        "ad_creative_bodies": [
+            "Přijďte za mnou 17. prosince od 17:00 do 21:00 na Moravské náměstí k soše Jošta na stánek nadačního fondu Emil a podpořte projekt, který vás zahřeje nejen na srdci. 💕 Kupte si punč a přispějte tak malému Mikulášovi na speciální ortézy. 🍹👏 #brnenskevanoce #vanocnitrhy #103puncuproemila"
+        ],
+        "ad_delivery_start_time": "2022-12-17",
+        "ad_delivery_stop_time": "2022-12-18",
+        "bylines": "Pavel Studenik",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "South Moravian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.00075",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.128282",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.07802",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.059265",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.095649",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.102401",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.122281",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.112903",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.082521",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000375",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.067892",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.034509",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.047262",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.065266",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000375",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00075",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000375",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001125",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "2000",
+            "upper_bound": "2999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "104343035856974",
+        "page_name": "Pavel Studeník, radní Brno-střed",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "_id": "1247312709460331"
+    }
+]

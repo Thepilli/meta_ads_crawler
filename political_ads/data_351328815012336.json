@@ -1,0 +1,1662 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=321129110726454&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-05",
+        "ad_creative_bodies": [
+            "🔴 Na tiskové konferenci koalice STAČILO! jsem coby kandidát představil jednu z nejdůležitějších priorit našeho programu, a to mírovou politiku a konec nesmyslných investic do zbrojení.\n\n👉 Poslechněte si moje vystoupení ve videu ⬇️⬇️⬇️"
+        ],
+        "ad_creative_link_titles": [
+            "Milan Krajča, místopředseda KSČM - Tisková konference koalice STAČILO!"
+        ],
+        "ad_delivery_start_time": "2023-12-05",
+        "ad_delivery_stop_time": "2023-12-08",
+        "bylines": "Petra Prokšanová",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.048561",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.06295",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.104916",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.059353",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.039568",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.042566",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.041966",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.063549",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.169664",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.040168",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.053957",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.095324",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.126499",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.050959",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001188",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001188",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001783",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001188",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.003565",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001783",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.010101",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.035056",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.253714",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.197861",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.006536",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.26322",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.082591",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.124183",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.014854",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001188",
+                "age": "18-24",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "2000",
+            "upper_bound": "2999"
+        },
+        "page_id": "351328815012336",
+        "page_name": "Milan Krajča",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 1676,
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "male": 209,
+                        "female": 25,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 427,
+                        "female": 139,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 6,
+                        "female": 2,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 17,
+                        "female": 3
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 59,
+                        "female": 11
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 443,
+                        "female": 333,
+                        "unknown": 3
+                    }
+                ]
+            }
+        ],
+        "_id": "321129110726454"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=657334569851076&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-23",
+        "ad_creative_bodies": [
+            "🔴 KSČM vyzývá všechny své členy a sympatizanty, aby se do stávek a dalších protestních akcí organizovaných odbory 27. listopadu zapojili či je jinak podpořili. Komunisté jsou vždy na straně pracujících ‼"
+        ],
+        "ad_creative_link_titles": [
+            "KSČM podporuje protivládní akce odborů"
+        ],
+        "ad_delivery_start_time": "2023-11-23",
+        "ad_delivery_stop_time": "2023-11-26",
+        "bylines": "Petra Prokšanová",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000403",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.048329",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.078937",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.094241",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.053967",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.039871",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.052356",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.038663",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.053967",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.151832",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.057189",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.052356",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.082159",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.147402",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.048329",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000404",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.004037",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.013726",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000404",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.029471",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.027453",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.099314",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.289463",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00323",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.219217",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.123537",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.184497",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002826",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002019",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000404",
+                "age": "18-24",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "2000",
+            "upper_bound": "2999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "351328815012336",
+        "page_name": "Milan Krajča",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 2450,
+        "beneficiary_payers": [
+            {
+                "payer": "Petra Prokšanová",
+                "beneficiary": "Petra Prokšanová",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 7,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 246,
+                        "female": 68,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 73,
+                        "female": 8,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 34,
+                        "female": 10
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 457,
+                        "female": 306
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 543,
+                        "female": 717,
+                        "unknown": 5
+                    }
+                ]
+            }
+        ],
+        "_id": "657334569851076"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=864187918713145&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-21",
+        "ad_creative_bodies": [
+            "🟥 Proti přítomnosti vojsk USA v České republice! 🟥\n\nBoj za mír a suverenitu naší země nevzdáváme! Právě teď probíhá v Petičním výboru Poslanecké sněmovny Parlamentu České republiky další projednávání petic, skrze které desítky tisíc občanů naší země jednoznačně odmítají přítomnost vojsk USA na našem území. Ve svém vystoupení jsem poslancům i zástupcům současné protilidové vlády Petra Fialy mimo jiné řekl:\n\n👉 Není to poprvé, co se snahy o umístění cizích vojsk v České republice setkávají s odporem našich občanů. Vzpomeňme na pokus instalovat vojenskou základnu Spojených států amerických v Brdech, která byla před několika lety jednoznačně odmítnuta nejen naprostým veřejným nesouhlasem, ale i mohutným lidovým hnutím a nesčetnými demonstracemi, petičními akcemi, veřejnými debatami a různými formami občanského protestu. Lidé tehdy zkrátka cizí vojska u nás jednoznačně odmítli. Pakliže tedy tuto otázku nyní současná vládní moc opět nastoluje, je to naprostá nehoráznost!  \n\n👉 Úvahy představitelů současné vlády ODS, KDU-ČSL, TOP09, STAN a Pirátů o cizí vojenské přítomnosti se nyní zhmotnily ve vojenské smlouvě se Spojenými státy americkými, jejímž obsahem je právě umístění cizích vojsk na našem území. Zcela zřejmě se tak děje v souvislosti s proválečnou politikou současné vlády, jejíž součástí je soustavná podpora eskalace konfliktu ve východní Evropě a odmítání jeho mírového řešení či mohutný mnohamiliardový nárůst výdajů na zbrojení v době, kdy ve všech ostatních sférách přichází stávající moc s drastickými rozpočtovými škrty. Dle našeho názoru je uvedená vojenská smlouva smlouvou vazalskou, likvidující další zbytky suverenity naší země a proto ji rozhodně odmítáme!\n\n👉 Připomínám, že ve vojenské smlouvě se Spojenými státy americkými je konkrétně uvedeno 11 míst, kde by mohla být jejich vojska v naší republice rozmístěna. Jedná se jmenovitě o vojenská letiště v Čáslavi, Náměšti nad Oslavou a\nv Pardubicích, Logistické centrum v Mošnově, vojenské výcvikové prostory v Hradišti, na Libavé, v Boleticích a v Březině a vojenské posádky ve Vyškově, Rancířově a Staré Boleslavi. A i z těchto míst se nyní ozývají hlasy odporu od lidí, kteří nechtějí mít ve svém bezprostředním sousedství zahraniční vojáky. I proto jsme tady, abychom se zastali těch, kteří budou uvedenou vazalskou vojenskou smlouvou postiženi jako první!\n\n👉 Rád bych zdůraznil, že množství podpisů, které se sešlo pod dnes projednávanou peticí, a které neustále roste, mne společně s kolegy z Komunistické strany Čech a Moravy, iniciativy Ne základnám, Českého mírového hnutí a mnoha dalšími zavazuje k tomu, abychom udělali vše proto, aby v naší zemi žádná cizí vojska rozmístěna nebyla. Cizí vojenská přítomnost na našem území by totiž zcela jednoznačně byla v naprostém rozporu s objektivními zájmy naší republiky a jejích obyvatel. Usilujeme o to, aby naše země ve stále se zhoršující mezinárodní situaci prosazovala coby suverénní země mírovou politiku a ne, aby se hanebnými kroky své vlády zbavovala zbytků nezávislosti a dokonce zde zvala k rozmístění cizí armádu. Naprosto jasně proto říkáme, že cizí vojska v České republice nechceme!"
+        ],
+        "ad_delivery_start_time": "2023-11-21",
+        "ad_delivery_stop_time": "2023-11-25",
+        "bylines": "Petra Prokšanová",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.040575",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.03973",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.076078",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.049028",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.08115",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.058326",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.087067",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.12257",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.053254",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.033812",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.047337",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.150465",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.05579",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.104818",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000851",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001702",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.003404",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.003404",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.026383",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.036596",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.006809",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.200851",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.068085",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.269787",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.135319",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.242553",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002553",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001702",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "351328815012336",
+        "page_name": "Milan Krajča",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 1162,
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 3,
+                        "female": 2
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 31,
+                        "female": 4,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 4,
+                        "female": 8
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 80,
+                        "female": 43
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 236,
+                        "female": 159,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 285,
+                        "female": 317
+                    }
+                ]
+            }
+        ],
+        "_id": "864187918713145"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=990360688884157&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-09-26",
+        "ad_creative_bodies": [
+            "❌ Přesně za měsíc přijde do kin film „Bratři“ režiséra Tomáše Mašína, na jehož vzniku se podílel Státní fond kinematografie částkou 15 milionů korun a který byl Českou filmovou a televizní akademií vyslán do boje o Oscara.\n\nℹ️ Jak název i jméno režiséra napovídá, jedná se o zfilmovaný příběh bratrů Mašínů – vrahů, kteří v zájmu vlastního prospěchu neváhali zabíjet a okrádat nevinné spoluobčany, aby pak zbaběle prchli za hranice vlasti. Pokřivený polistopadový režim vytvořil z bestiálních vrahů své hrdiny a jejich zločin zahalil do antikomunistického pláště pseudoodvahy. Je ostudou dnešní české kinematografie, že investuje státní peníze do projektů, o jejichž objektivitě lze i bez shlédnutí výsledku důvodně pochybovat. Ostatně sám režisér – vzdálený příbuzný vrahů Mašínů - se nechal slyšet, že “je to téma blízké mému vnitřnímu nastavení. Když se někdo postaví jasné přesile, tak mu fandím.” Stejně nehorázný je i fakt, že Českou republiku bude ve filmovém světě reprezentovat příběh zbabělosti, násilí, krutosti a nenávisti vydávaný za heroický epos.\n\n🟥 Abyste se na tuto filmovou novinku lépe navnadili a zkrátili si čekání na její premiéru, zvu vás na pietní akt u příležitosti 72. výročí zavraždění příslušníka SNB, štábního strážmistra Jaroslava Honzátka. Otec dvou malých dětí byl během své služby vylákán ze služebny pod záminkou autonehody, následně svázán, omámen chloroformem, zavlečen zpět na služebnu a nakonec zcela nepochopitelně podříznut „hrdinným bojovníkem proti komunismu“ Ctiradem Mašínem, který se za tímto účelem dokonce vrátil z automobilu. Mladý život bezbranného a nevinného člověka vykrvácel na podlahu čelákovické služebny.\n\n👉 28. září 2023 proběhne v 11:00 v Čelákovicích na adrese Masarykova 234 u prodejny “Elektro Borecký” tichá vzpomínka na Jaroslava Honzátka. Připojte se tak k protestu proti heroizování vrahů Mašínů současným režimem.\n\nVrah zůstane vrahem. Nezapomeneme❗"
+        ],
+        "ad_delivery_start_time": "2023-09-26",
+        "ad_delivery_stop_time": "2023-09-28",
+        "bylines": "Petra Prokšanová",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.052371",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.08988",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.122435",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.050248",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.037509",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.031847",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.043878",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.076433",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.138712",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.052371",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.058033",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.087049",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.106157",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.053079",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.00212",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.031095",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.111661",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.230389",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.024735",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.221908",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.250177",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.108834",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.004947",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001413",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.004947",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002827",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00424",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000707",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "351328815012336",
+        "page_name": "Milan Krajča",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "19",
+            "65"
+        ],
+        "eu_total_reach": 1412,
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "male": 158,
+                        "female": 35,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 3,
+                        "female": 2
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 6,
+                        "female": 7
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 44,
+                        "female": 7
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 354,
+                        "female": 314,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 326,
+                        "female": 154
+                    }
+                ]
+            }
+        ],
+        "_id": "990360688884157"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=252675770527040&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-09-15",
+        "ad_creative_bodies": [
+            "🔥 Sledujte stránku místopředsedy KSČM Milana Krajči. 🟥 Komunistická strana Čech a Moravy - jediná skutečně protivládní alternativa. 🟥"
+        ],
+        "ad_creative_link_captions": [
+            "facebook.com"
+        ],
+        "ad_creative_link_titles": [
+            "Milan Krajča"
+        ],
+        "ad_delivery_start_time": "2023-09-15",
+        "ad_delivery_stop_time": "2023-09-22",
+        "bylines": "Petra Prokšanová",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.045756",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.086695",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.114991",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.063215",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.042745",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.032511",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.039735",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.080674",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.151716",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.048164",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.061409",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.078266",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.121011",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.033113",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000604",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.018709",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.013277",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.170791",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.041038",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.133977",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.085697",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.298733",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.164152",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.005432",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002414",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.054919",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001207",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001207",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.003621",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.004225",
+                "age": "18-24",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "2000",
+            "upper_bound": "2999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "351328815012336",
+        "page_name": "Milan Krajča",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 1656,
+        "beneficiary_payers": [
+            {
+                "payer": "Petra Prokšanová",
+                "beneficiary": "Petra Prokšanová",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 31,
+                        "female": 9,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 7,
+                        "female": 6
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 68,
+                        "female": 22,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 222,
+                        "female": 272,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 142,
+                        "female": 91
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 283,
+                        "female": 495,
+                        "unknown": 4
+                    }
+                ]
+            }
+        ],
+        "_id": "252675770527040"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=638879781143937&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-09-22",
+        "ad_creative_bodies": [
+            "V nadcházejících komunálních volbách 23. a 24. září kandiduje na 9000 kandidátů a kandidátek KSČM v takřka 700 obcích. Do Zastupitelstva hlavního města Prahy kandidují komunisté s volebním číslem 13. Programem komunistické strany i v naší metropoli je obrana a prosazování zájmů naprosté většiny občanů. KSČM bojuje proti zdražování, korupci a aroganci moci, za dostupné bydlení, rozvoj dopravní infrastruktury s bezplatnou MHD a zachování sociálních služeb. Celý program je zde: \n\nVOLEBNÍ PROGRAM KSČM DO ZHMP NA OBDOBÍ 2022-2026\n\nPrávo bydlet - byty nejen pro bohaté\n\n• Návrh zákonů regulujících krátkodobé ubytování, řešící dlouhodobě prázdné byty a k posílení práv SVJ, družstev a obcí.\n\n• Posílení role územního plánování k zajištění komplexní bytové výstavby, tedy výstavba bytů včetně všech služeb pro obyvatele v místě.\n\n• Aktivní podpora obecní a družstevní výstavby bytů za pomoci státu i města.\n\n• Návrh pravidel pronájmu obecních bytů podle sociálního postavení, zdravotního stavu, případně s přihlédnutím k profesním potřebám města, zavedení veřejně přístupných seznamů žadatelů a vyřízených žádostí o nájem obecního bytu a bytu v domě s pečovatelskou službou pod kontrolou zastupitelstev.\n\n• Chceme, aby nájemné v obecních bytech bylo svým charakterem neziskové a v diferencované podobě odráželo příjmové možnosti bydlících tak, aby bylo dostupné i pro nájemce s nízkými příjmy. Odmítáme pronajímání obecních bytů obálkovou metodou těm, kteří nabídnou nejvyšší nájemné.\n\n• Posazujeme převod celého výnosu nájemného a z prodeje obecních bytů do fondu, který bude účelově užíván pouze k údržbě, obnově a výstavbě bytového fondu města. \n\n• Podporujeme činnost sdružení nájemníků, domovních rad, sdružení bytových družstev a společenství vlastníků bytů.\n\n• Budeme bránit vzniku ghett sociálně vyloučených. Zasadíme se o důsledné odstraňování bezdomovectví právními, sociálními a ekonomickými opatřeními.\n\nRozvoj dopravní infrastruktury a bezplatná městská hromadná doprava\n\n• S cílem zajistit významné snížení tranzitní dopravy uvnitř města se zasadíme o urychlené dokončení dálničního okruhu včetně mostu na severním okraji Prahy. Město musí urychleně dokončit výkup pozemků a vstřícnými kroky umožnit výstavbu této klíčové komunikace státem. Urychlíme rekonstrukce městské dopravní infrastruktury, zejména mostů a lávek, budeme prosazovat další výstavbu vnitřního okruhu a vybudování radiálních napojení na silniční okruh kolem Prahy s eliminací nežádoucích dopadů na okolí. Chceme prosadit efektivnější koordinaci dopravních uzavírek.\n\n• Priorita náleží hromadné dopravě šetřící čas a životní prostředí. Odmítáme Budeme usilovat o rozšiřovaní kategorií osob s bezplatnou přepravou. Ta bude uplatněna pro všechny obyvatele v době smogu. Cílem je bezplatná přeprava v pražské městské hromadné dopravě.\n\n• Rozvíjet společnou integrovanou osobní dopravu na území Prahy a Středočeského kraje s cílem snížit individuální automobilovou osobní dopravu ve městě.\n\n• Prosazujeme zachování majetkové celistvosti i vlastnictví Dopravního podniku hl. m. Prahy a rozvoj jeho služeb. Chceme, aby dopravní podnik realizoval cílená opatření ke stabilizaci zaměstnanců a ke zlepšení jejich pracovních podmínek.\n\n• Obnova vozového parku o elektrobusy, nízkoemisními autobusy a obousměrné tramvaje.\n\n• Budeme i nadále usilovat o rozšíření autobusových a tramvajových tras a jejich preferenci (přednostní řazení na křižovatkách, oddělení tratí bariérou, samostatné jízdní pruhy…) a rozsáhlejší zapojení železniční dopravy. Zasadíme se o rekonstrukce železničních tratí, včetně kladenské s odbočkou na letiště, vytváření                                                                                 \n\n• dalších přestupních uzlů mezi železnicí a městskou hromadnou dopravou.\n\n• Urychlení výstavby linky D metra včetně jeho směrování od hlavního nádraží přes Žižkov do Vysočan.\n\n• Rekonstrukce a výstavba nových tramvajových tratí (např. z Vinohradské před vstup na hlavní nádraží, z Pankráce na Zlíchov, Počernickou do Malešic, trati z Modřan na Libuš a Nové Dvory a z Kobylis do Bohnic, návrat tramvaje na starý dolní Žižkov, připojení Dědiny a Ruzyně, do Suchdola…).\n\n• Vybavení novými elektronickými prvky k informování a orientaci cestujících na komunikacích, v dopravních zařízeních a vozidlech. Považujeme je za naplňování vize chytrého města, které má naši podporu. Budeme iniciovat vznik dalších přístřešků na zastávkách.\n\n• Výstavbu cyklistických komunikací oddělených od automobilového provozu. \n\n• Řešení dopravy v klidu především výstavbou objektových garáží s cenově dostupným parkovným a současně omezování parkování v ulicích ve prospěch pěších, cyklistů a zeleně. Rozšíření sítě levných záchytných parkovišť P+R s možností přestupu na MHD. Parkování na komunikacích řešit jednotnými pravidly v celopražské zóně.\n\n• Zprovoznění přechodů se světelnou signalizací s doplněním o bezpečnostní prvky, především na cestách dětí do škol a občanů do zdravotnických zařízení a obchodních center.\n\n• Rekonstrukci chodníků ve spolupráci s jejich majiteli, vlastníky přilehlých nemovitostí a firmami, jež je poškozují při své stavební činnosti, s přísným dozorem příslušných městských orgánů.\n\n• Omezení automobilové dopravy v Pražské památkové rezervaci s proměnou vybraných hradčanských, malostranských a staroměstských ulic v pěší zónu bez automobilové dopravy.\n\n• Vytváření systému dopravních opatření ke zklidnění vedlejších komunikací v obytných zónách.\n\nDostupná zdravotní a sociální péče, pomoc lidem v nouzi\n\n• Obnovení sítě poliklinik s praxemi praktických a odborných lékařů, s lékařskou první pomocí a s lékárnou s nepřetržitým provozem.\n\n• Zachování sítě veřejných nemocnic a oborů v nich při udržení kvality péče.\n\n• Rozšíření počtu lůžek pro následnou péči a pro dlouhodobě nemocné.\n\n• Umožnění bezbariérového pohybu všemi prostory města a přístupu do dopravních prostředků, úpravy bytů pro zdravotně postižené, lepší podmínky pro zapojení zdravotně postižených občanů do aktivního života včetně podpory jejich zaměstnávání městem a jeho institucemi.\n\n• Rozšíření sítě a kapacit obecních sociálních služeb a center (terénní služba, domovy seniorů a ústavy pro zdravotně postižené s pobytovými stacionáři, azylové ubytování) na území města.\n\n• Vytváření sociálního systému pro potřebné občany Prahy, kteří se přechodně dostali do tíživé situace.\n\n• Azylová zařízení s resocializačními programy (bydlení + práce) pro bezdomovce k jejich návratu do společnosti.\n\n• Terénní práce mezi drogově závislými a bezprostředně ohroženými a podpora doléčovacích center.\n\n• Zkvalitnění spolupráce s organizacemi působícími v oblasti zdravotnictví a sociálních služeb (Český červený kříž, spolky zdravotně postižených občanů…). Výchova k pomoci potřebným. Podpora vytváření chráněných dílen.\n\nKvalitní a bezplatné vzdělávání dostupné pro všechny generace\n\n• Vytváření podmínek pro realizaci celoživotního vzdělávání, včetně výchovy k úctě k životu, k člověku, k práci, k národním a pokrokovým tradicím, k míru a solidaritě.\n\n• Posílení veřejného školství financovaného z veřejných zdrojů jako převažující základ vzdělávací soustavy na všech stupních. Zvýšit podíl veřejných výdajů na vzdělávání.\n\n• Zachování sítě veřejných škol, včetně speciálních a uměleckých. V případě vynucené optimalizace rozhodovat v souladu s dlouhodobým záměrem vzdělávání, s ohledem na zaměření slučovaných škol, na dostupnost, demografický vývoj a možnosti pracovního uplatnění. Uvolněné školní prostory využívat dál pro potřeby dětí a mládeže.\n\n• Obnovení sítě jeslí, rozšíření kapacity mateřských a základních škol.\n\n• Podpora učňovského a odborného technického školství.\nVytváření podmínek pro rozvoj vědecko-technické činnosti vysokých škol.\n\n• Bezplatné vzdělávání na všech stupních škol, včetně poskytování učebnic a pomůcek i ochranných pro praxi.\n\n• Vytváření systému krajských stipendií pro učně a pro nadané studenty ze sociálně slabšího prostředí.\n\n• Kurzy českého jazyka pro děti s odlišným mateřským jazykem před jejich začleněním do běžných tříd.\n\n• Bezplatný pobyt ve školních družinách a klubech, zrušení poplatků za pobyt v mateřských školách a bezplatné stravování ve školních jídelnách mateřských a základních škol.\n\n• Bezplatné užívání školních prostor pro mimoškolní zájmovou činnost dětí a mládeže.\n\n• Vytváření podmínek (i finančního ohodnocení) pro práci učitelů, školních psychologů a asistentů i nepedagogických pracovníků škol.\n\n• Spolupráce škol s rodiči, podpora žákovských a studentských samospráv.\n\nÚzemní plán pro obyvatele s respektem k ochraně životního prostředí\n\n• Postavíme se proti zběsilému řádění developerů, proti nežádoucímu zahušťování sídlišť a změnám územního plánu, které by umožnily zastavět současnou zeleň, rekreační a sportovní plochy. Urbanismus musí respektovat nejen odborná hlediska tvůrců města, ale brát především na zřetel oprávněné zájmy a potřeby občanů. Budeme důrazně a zásadově čelit spekulativnímu a nátlakovému jednání developerů.\n\n• Původní termín schválení nového územního plánu, byl změněn z roku 2020 na rok 2023. Prosazovali jsme, aby nový, tzv. Metropolitní plán naplnil vizi strategického plánu Prahy, byl pro občany přehledný, srozumitelný a umožňoval jednoznačný a nezpochybnitelný výklad. V průběhu přípravy nového plánu jsme využili možností připomínkovat takové zpracování plánu, které v konkrétních situacích směřovalo proti zájmům a potřebám obyvatel, případně ohrožovalo funkčně vyvážený komplexní rozvoj města. Namísto výstavby dalších kancelářských ploch, chceme vytvořit podmínky pro rozsáhlejší bytovou výstavbu, nikoli však na úkor zeleně, rekreačních a sportovních ploch, které chceme zachovat i pro budoucí generace.\n\n• Odlehčit přetížené páteřní komunikace od tranzitní dopravy těžce poškozující životní prostředí v Praze. Zejména v těchto postižených lokalitách budeme nadále trvat na monitorování stavu životního prostředí a na provádění komplexních aktivních opatřeních ke snížení hluku, prašnosti a imisí. Eliminovat tyto nežádoucí dopady budeme rovněž rozšiřováním a péčí o zeleň, ovzduší, vodní toky, čistotu města. \n\n• Přizpůsobit se probíhající klimatické změně je nutnost, ale konat s odbornou znalostí a rozumem, aby některé kroky nakonec nevyvolávaly neekologické výsledky dokonce za vysoké finanční náklady. Podpora obnovitelných zdrojů energie. Snížení energetické náročnosti veřejných budov.\n\n• Prosazujeme důslednou správu a kontrolu chráněných přírodních území v celém pražském regionu.\n\n• Pokračovat ve výsadbě zeleného pásu kolem Prahy. Zakládat parkové a rekreační lesy s areály zdraví, dětskými hřišti a veřejnými sportovišti. Budeme bránit snahám o zahušťování území další zástavbou na úkor zeleně.\n\n• Uplatníme jednotnou péči o lesy na území města, změny v lesním hospodářském plánu, omezené mýcení porostů nad 80 let stáří a kácení stromů rostoucích mimo les, zodpovědný a odborný zdravotní výběr stromů, pěstební zásahy v mladých porostech, obměnu nevhodných akátových porostů za původní druhovou skladbu dřevin.\n\n• Chceme zlepšit kvalitu vody pražských přítoků Vltavy, včetně nádrží, dokončit obnovu vltavských břehů, omezit výstavbu, především bytovou, v záplavovém území a rozšiřovat technická opatření proti povodním. Vytvořit novou přírodní a rekreační oblast Chuchle - Radotín - Zbraslav respektující hydrogeologickou situaci soutoku Vltavy a Berounky.\n\n• Opatření ke snižování ztrát vody z potrubí vodárenské soustavy. Zajistit a kontrolovat, aby organizační, technologické a provozní nedostatky provozovatele vodárenské soustavy nebyly řešeny na účet spotřebitelů neustálým zvyšováním cen vodného a stočného.\n\n• Rozšíření sítě bezplatných a bezbariérových veřejných toalet s nepřetržitým provozem.\n\n• Doplnění sítě kanalizace a čističek v okrajových malých městských částech.\n\n• Rozšíření sběru a třídění odpadu občany a firmami zvýšením počtu a vhodným umístěním sběrných nádob a míst, zajištění pravidelného svozu odpadu a jeho recyklace. Požadujeme výrazné zlepšení pravidelného úklidu veřejných komunikací a prostor. Odstranit černé skládky a vraky, rekultivovat zaplevelené úhory, skládky a poničený zemědělský fond, podpořit zahrádkářské osady Českého zahrádkářského svazu.\n\n• Budeme iniciovat kroky ke zlepšení vzhledu města, včetně postihu vlastníků budov, které jsou spekulativně ponechány devastaci a neplní funkce určení.\n\nPosílení role občana při rozhodování\n\n• Zastoupení odborníků, občanských sdružení a iniciativ činných na území města v komisích rad a poměrné zastoupení ve výborech zastupitelstev dle výsledku voleb. \n\n• Vytváření místních občanských rad ze zástupců občanských sdružení, iniciativ a aktivních občanů, které budou poradními orgány zastupitelstev a jejich výborů. \n\n• Přímá účast občanů na přípravě rozpočtů, tj. na rozhodování o výdajích.\n\n• Rozšíření komunitního plánování služeb, tj. dohodou mezi zástupci města (městských částí), poskytovateli a uživateli služeb.\n\n• Veřejné diskuse s občany nad územním a strategickým plánem, urbanistickými a architektonickými studiemi a nad zásadními projekty města a jeho městských částí před jejich schválením, a to i s možností uplatnění místního referenda, jehož závěry budou závazné.\n\n• Posílení významu petic a podnětů občanů a jejich odpovědné řešení. Odmítáme dosavadní praxi, která místo zaujetí věcného stanoviska zastupitelstvem, konstatuje pouze vzetí petice na vědomí.\n\n• Právo každého Pražana vystoupit k projednávané věci na zasedáních všech pražských zastupitelstvech a jejich výborech a při interpelacích.\n\n• Rychlé a korektní jednání při vyřizování záležitostí občanů na úřadech. Rozšíření úředních hodin. Zjednodušení vyřizování věcí a žádostí občanů, i bez znalosti práce s počítačem.\n\n• Provozování městského rozhlasového a televizního kanálu pod kontrolou rady, složené ze zástupců všech politických stran, jejichž členové byli zvoleni do zastupitelstev v Praze.\n\n• Rovný přístup do všech radničních novin, jejich vydávání pod kontrolou redakčních rad složených ze zástupců všech politických klubů v zastupitelstvech.\n\n• Podávání informací občanům a občanským sdružením na radnicích vždy zdarma.\n\n• Zajištění dostupnosti informací moderními komunikačními systémy.\n\n• Zřízení bezplatných občanských poraden na radnicích.\n\nDůsledná kontrola hospodaření s městským majetkem\n\n• Posílení postavení zastupitelstva vůči radě v rozhodovací a kontrolní činnosti úpravou zákona.\n\n• Přímá kontrola činnosti úřadů města a městských částí a jimi zřizovaných organizací každým členem zastupitelstva a NKÚ včetně kontroly početního a odborného stavu úředníků radnic i pracovníků podřízených organizací a efektivnosti jejich práce.\n\n• Zrušení nevýhodného zadávání činností, které lze zajistit pracovníky městských úřadů a jejich organizací, externím firmám.\n\n• Řádná evidence, správa a ochrana majetku města, uvážlivé hospodaření, perspektivní posilování výše majetku a výnosů z něho. Zabránění rozprodávání majetku pod cenou. Zemědělské a další plochy zeleně nesmí být předmětem pozemkových spekulací. Uvážlivými stavebními uzávěrami držet územní rezervy pro budoucí rozvoj. Požadujeme, aby Praha prováděla včasný výkup pozemků za účelem výstavby infrastruktury a stabilizace zelených ploch.\n\n• Posílení kontroly průběhu výběrových řízení na veřejné zakázky či veřejné soutěže s důraznějším využitím práv zřizovatele a s cílem zabránit předražování, tunelování, korupci a klientelismu. Prověření účelnosti dříve uzavřených hospodářských smluv. Provést audit veřejných zakázek.\n\n• Transparentní výběr při obsazování funkcí v orgánech firem s vlastnickou strukturou Prahy. Zasadíme se o navrácení distribuce pitné vody, odpadového hospodářství pod plnou kontrolu města. Klíčové služby Pražanům koncentrovat do komunálních firem. Tak efektivněji kontrolovat tvorbu cen, zamezit nežádoucímu zdražování a vrátit zisky z podnikání ve veřejných službách zpátky do městské pokladny.\n\n• Zvýšení podílu dotací z EU a od státu na pražské investice. Zvýšení finanční spoluúčasti developerů na výstavbě veřejného prostoru a infrastruktury města.\n\n• Posílení kontroly kvality a hospodárnosti činnosti organizací, jež uspěly v grantovém řízení.\n\nBezpečnost občanů a ochrana majetku\n\n•  Zvýšení počtu, profesionální připravenosti a efektivnosti práce strážníků Městské policie, rozšíření služeb strážníků – okrskářů Městské policie a hlídek příslušníků Policie ČR v terénu k zajištění bezpečnosti občanů a ochraně majetku.\n\n• Realizaci uceleného systému prevence kriminality zaměřeného především na ochranu dětí, mládeže, žen a důchodců a na rizikové chování osob a skupin (obchod s lidmi, kuplířství, lichva, otrocká práce a šikana, divácké násilí, sprejerství a vandalismus…).\n\n• Zlepšení dopravní kázně a snížení nehodovosti zkvalitňováním přímého dohledu nad dodržováním pravidel provozu moderními prostředky a nekompromisní řešení dopravních přestupků. Rozšíření dozoru kritických míst (přechody, křižovatky, vyhrazené jízdní pruhy, pěší zóny).\n\n• Zkvalitnění integrovaného záchranného systému, včetně úpravy krizového řízení.\n\nZajištění ochrany a připravenosti obyvatelstva, především na řešení následků možných mimořádných událostí (povodeň, průmyslové a ekologické havárie…).\n\n• Zamezení aktivit a propagace neonacismu, rasové a národnostní nesnášenlivosti, ale i nečinnosti úřadů k těmto jevům.\n\n• Nulová tolerance k hazardu - likvidaci sítě herních automatů, kasin.\n\n• Opatření ke snižování poptávky po drogách protidrogovou prevencí, ale i zákazem reklamy na tabákové výrobky a alkoholické nápoje. Vytrvalé potírání drogové dealerské sítě.\n\nOchrana kulturního dědictví, dostupnost kultury a sportu pro všechny\n \n• Zpracování dlouhodobého výhledu kulturního rozvoje města, včetně financování kulturních zařízení a akcí, při zajištění jejich cenové dostupnosti pro občany.\n\n• Ochranu kulturního dědictví, památek a míst piety významných osobností a událostí dějin před jejich devastací, znevažováním a nevhodným využitím.\n\n• Zastavení privatizace kulturního dědictví a historických památek. Spravovat je musí stát nebo Praha tak, aby sloužily všem občanům a návštěvníkům města.\n\n• Podporu tradičních institucí i nově vznikajících kulturních aktivit. Podporu pražské kultuře ze strany státu, města a městských částí. Jednoznačné rozlišení akcí města a akcí dotovaných z grantů, nabídka i nefinanční pomoci města a jeho organizací.\n\n• Ochranu historických kulturních památek před jejich devastací a nevhodným komerčním využíváním.\n\n• Zavedení cenově výhodného ročního předplatného pro vstup do galerií, knihoven, muzeí a památek, jež jsou ve správě města a městských částí nebo jsou jimi finančně dotovány. Zdarma pro děti mladší 15 let.\n\n• Rozšíření sítě poboček Městské knihovny a jejich modernizace.\n\n• Rozvoj místní kultury v městských částech, lidové umělecké tvořivosti a kultur národnostních menšin.\n\n• Rekonstrukce Výstaviště, včetně obnovy Průmyslového paláce a postavení pavilonu pro Muchovu Slovanskou epopej na bruselské cestě, s ohledem na zachování klidové zóny zeleně a oddechu ve Stromovce.\n\n• Rozvoj a obnova sportovišť v městských částech. Podpora domů dětí a mládeže, tělovýchovných jednot, občanských sdružení a organizací dětí a mládeže."
+        ],
+        "ad_delivery_start_time": "2022-09-22",
+        "ad_delivery_stop_time": "2022-09-23",
+        "bylines": "KV KSČM Praha",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.943499",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.05588",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.000248",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.000124",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.000248",
+                "region": "Moravian-Silesian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000633",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.119367",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001519",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.009873",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.02038",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.023544",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.106329",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.064304",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.130886",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000759",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.171519",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.134304",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.079747",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.097089",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.036076",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001646",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001772",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000253",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "500001",
+            "upper_bound": "1000000"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "351328815012336",
+        "page_name": "Milan Krajča",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "4000",
+            "upper_bound": "4499"
+        },
+        "_id": "638879781143937"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1327371811002467&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-09-18",
+        "ad_creative_bodies": [
+            "V nadcházejících komunálních volbách 23. a 24. září kandiduje na 9000 kandidátů a kandidátek KSČM v takřka 700 obcích. Do Zastupitelstva hlavního města Prahy kandidují komunisté s volebním číslem 13. Programem komunistické strany i v naší metropoli je obrana a prosazování zájmů naprosté většiny občanů. KSČM bojuje proti zdražování, korupci a aroganci moci, za dostupné bydlení, rozvoj dopravní infrastruktury s bezplatnou MHD a zachování sociálních služeb. Celý program je zde: \n\nVOLEBNÍ PROGRAM KSČM DO ZHMP NA OBDOBÍ 2022-2026\n\nPrávo bydlet - byty nejen pro bohaté\n\n• Návrh zákonů regulujících krátkodobé ubytování, řešící dlouhodobě prázdné byty a k posílení práv SVJ, družstev a obcí.\n\n• Posílení role územního plánování k zajištění komplexní bytové výstavby, tedy výstavba bytů včetně všech služeb pro obyvatele v místě.\n\n• Aktivní podpora obecní a družstevní výstavby bytů za pomoci státu i města.\n\n• Návrh pravidel pronájmu obecních bytů podle sociálního postavení, zdravotního stavu, případně s přihlédnutím k profesním potřebám města, zavedení veřejně přístupných seznamů žadatelů a vyřízených žádostí o nájem obecního bytu a bytu v domě s pečovatelskou službou pod kontrolou zastupitelstev.\n\n• Chceme, aby nájemné v obecních bytech bylo svým charakterem neziskové a v diferencované podobě odráželo příjmové možnosti bydlících tak, aby bylo dostupné i pro nájemce s nízkými příjmy. Odmítáme pronajímání obecních bytů obálkovou metodou těm, kteří nabídnou nejvyšší nájemné.\n\n• Posazujeme převod celého výnosu nájemného a z prodeje obecních bytů do fondu, který bude účelově užíván pouze k údržbě, obnově a výstavbě bytového fondu města. \n\n• Podporujeme činnost sdružení nájemníků, domovních rad, sdružení bytových družstev a společenství vlastníků bytů.\n\n• Budeme bránit vzniku ghett sociálně vyloučených. Zasadíme se o důsledné odstraňování bezdomovectví právními, sociálními a ekonomickými opatřeními.\n\nRozvoj dopravní infrastruktury a bezplatná městská hromadná doprava\n\n• S cílem zajistit významné snížení tranzitní dopravy uvnitř města se zasadíme o urychlené dokončení dálničního okruhu včetně mostu na severním okraji Prahy. Město musí urychleně dokončit výkup pozemků a vstřícnými kroky umožnit výstavbu této klíčové komunikace státem. Urychlíme rekonstrukce městské dopravní infrastruktury, zejména mostů a lávek, budeme prosazovat další výstavbu vnitřního okruhu a vybudování radiálních napojení na silniční okruh kolem Prahy s eliminací nežádoucích dopadů na okolí. Chceme prosadit efektivnější koordinaci dopravních uzavírek.\n\n• Priorita náleží hromadné dopravě šetřící čas a životní prostředí. Odmítáme Budeme usilovat o rozšiřovaní kategorií osob s bezplatnou přepravou. Ta bude uplatněna pro všechny obyvatele v době smogu. Cílem je bezplatná přeprava v pražské městské hromadné dopravě.\n\n• Rozvíjet společnou integrovanou osobní dopravu na území Prahy a Středočeského kraje s cílem snížit individuální automobilovou osobní dopravu ve městě.\n\n• Prosazujeme zachování majetkové celistvosti i vlastnictví Dopravního podniku hl. m. Prahy a rozvoj jeho služeb. Chceme, aby dopravní podnik realizoval cílená opatření ke stabilizaci zaměstnanců a ke zlepšení jejich pracovních podmínek.\n\n• Obnova vozového parku o elektrobusy, nízkoemisními autobusy a obousměrné tramvaje.\n\n• Budeme i nadále usilovat o rozšíření autobusových a tramvajových tras a jejich preferenci (přednostní řazení na křižovatkách, oddělení tratí bariérou, samostatné jízdní pruhy…) a rozsáhlejší zapojení železniční dopravy. Zasadíme se o rekonstrukce železničních tratí, včetně kladenské s odbočkou na letiště, vytváření                                                                                 \n\n• dalších přestupních uzlů mezi železnicí a městskou hromadnou dopravou.\n\n• Urychlení výstavby linky D metra včetně jeho směrování od hlavního nádraží přes Žižkov do Vysočan.\n\n• Rekonstrukce a výstavba nových tramvajových tratí (např. z Vinohradské před vstup na hlavní nádraží, z Pankráce na Zlíchov, Počernickou do Malešic, trati z Modřan na Libuš a Nové Dvory a z Kobylis do Bohnic, návrat tramvaje na starý dolní Žižkov, připojení Dědiny a Ruzyně, do Suchdola…).\n\n• Vybavení novými elektronickými prvky k informování a orientaci cestujících na komunikacích, v dopravních zařízeních a vozidlech. Považujeme je za naplňování vize chytrého města, které má naši podporu. Budeme iniciovat vznik dalších přístřešků na zastávkách.\n\n• Výstavbu cyklistických komunikací oddělených od automobilového provozu. \n\n• Řešení dopravy v klidu především výstavbou objektových garáží s cenově dostupným parkovným a současně omezování parkování v ulicích ve prospěch pěších, cyklistů a zeleně. Rozšíření sítě levných záchytných parkovišť P+R s možností přestupu na MHD. Parkování na komunikacích řešit jednotnými pravidly v celopražské zóně.\n\n• Zprovoznění přechodů se světelnou signalizací s doplněním o bezpečnostní prvky, především na cestách dětí do škol a občanů do zdravotnických zařízení a obchodních center.\n\n• Rekonstrukci chodníků ve spolupráci s jejich majiteli, vlastníky přilehlých nemovitostí a firmami, jež je poškozují při své stavební činnosti, s přísným dozorem příslušných městských orgánů.\n\n• Omezení automobilové dopravy v Pražské památkové rezervaci s proměnou vybraných hradčanských, malostranských a staroměstských ulic v pěší zónu bez automobilové dopravy.\n\n• Vytváření systému dopravních opatření ke zklidnění vedlejších komunikací v obytných zónách.\n\nDostupná zdravotní a sociální péče, pomoc lidem v nouzi\n\n• Obnovení sítě poliklinik s praxemi praktických a odborných lékařů, s lékařskou první pomocí a s lékárnou s nepřetržitým provozem.\n\n• Zachování sítě veřejných nemocnic a oborů v nich při udržení kvality péče.\n\n• Rozšíření počtu lůžek pro následnou péči a pro dlouhodobě nemocné.\n\n• Umožnění bezbariérového pohybu všemi prostory města a přístupu do dopravních prostředků, úpravy bytů pro zdravotně postižené, lepší podmínky pro zapojení zdravotně postižených občanů do aktivního života včetně podpory jejich zaměstnávání městem a jeho institucemi.\n\n• Rozšíření sítě a kapacit obecních sociálních služeb a center (terénní služba, domovy seniorů a ústavy pro zdravotně postižené s pobytovými stacionáři, azylové ubytování) na území města.\n\n• Vytváření sociálního systému pro potřebné občany Prahy, kteří se přechodně dostali do tíživé situace.\n\n• Azylová zařízení s resocializačními programy (bydlení + práce) pro bezdomovce k jejich návratu do společnosti.\n\n• Terénní práce mezi drogově závislými a bezprostředně ohroženými a podpora doléčovacích center.\n\n• Zkvalitnění spolupráce s organizacemi působícími v oblasti zdravotnictví a sociálních služeb (Český červený kříž, spolky zdravotně postižených občanů…). Výchova k pomoci potřebným. Podpora vytváření chráněných dílen.\n\nKvalitní a bezplatné vzdělávání dostupné pro všechny generace\n\n• Vytváření podmínek pro realizaci celoživotního vzdělávání, včetně výchovy k úctě k životu, k člověku, k práci, k národním a pokrokovým tradicím, k míru a solidaritě.\n\n• Posílení veřejného školství financovaného z veřejných zdrojů jako převažující základ vzdělávací soustavy na všech stupních. Zvýšit podíl veřejných výdajů na vzdělávání.\n\n• Zachování sítě veřejných škol, včetně speciálních a uměleckých. V případě vynucené optimalizace rozhodovat v souladu s dlouhodobým záměrem vzdělávání, s ohledem na zaměření slučovaných škol, na dostupnost, demografický vývoj a možnosti pracovního uplatnění. Uvolněné školní prostory využívat dál pro potřeby dětí a mládeže.\n\n• Obnovení sítě jeslí, rozšíření kapacity mateřských a základních škol.\n\n• Podpora učňovského a odborného technického školství.\nVytváření podmínek pro rozvoj vědecko-technické činnosti vysokých škol.\n\n• Bezplatné vzdělávání na všech stupních škol, včetně poskytování učebnic a pomůcek i ochranných pro praxi.\n\n• Vytváření systému krajských stipendií pro učně a pro nadané studenty ze sociálně slabšího prostředí.\n\n• Kurzy českého jazyka pro děti s odlišným mateřským jazykem před jejich začleněním do běžných tříd.\n\n• Bezplatný pobyt ve školních družinách a klubech, zrušení poplatků za pobyt v mateřských školách a bezplatné stravování ve školních jídelnách mateřských a základních škol.\n\n• Bezplatné užívání školních prostor pro mimoškolní zájmovou činnost dětí a mládeže.\n\n• Vytváření podmínek (i finančního ohodnocení) pro práci učitelů, školních psychologů a asistentů i nepedagogických pracovníků škol.\n\n• Spolupráce škol s rodiči, podpora žákovských a studentských samospráv.\n\nÚzemní plán pro obyvatele s respektem k ochraně životního prostředí\n\n• Postavíme se proti zběsilému řádění developerů, proti nežádoucímu zahušťování sídlišť a změnám územního plánu, které by umožnily zastavět současnou zeleň, rekreační a sportovní plochy. Urbanismus musí respektovat nejen odborná hlediska tvůrců města, ale brát především na zřetel oprávněné zájmy a potřeby občanů. Budeme důrazně a zásadově čelit spekulativnímu a nátlakovému jednání developerů.\n\n• Původní termín schválení nového územního plánu, byl změněn z roku 2020 na rok 2023. Prosazovali jsme, aby nový, tzv. Metropolitní plán naplnil vizi strategického plánu Prahy, byl pro občany přehledný, srozumitelný a umožňoval jednoznačný a nezpochybnitelný výklad. V průběhu přípravy nového plánu jsme využili možností připomínkovat takové zpracování plánu, které v konkrétních situacích směřovalo proti zájmům a potřebám obyvatel, případně ohrožovalo funkčně vyvážený komplexní rozvoj města. Namísto výstavby dalších kancelářských ploch, chceme vytvořit podmínky pro rozsáhlejší bytovou výstavbu, nikoli však na úkor zeleně, rekreačních a sportovních ploch, které chceme zachovat i pro budoucí generace.\n\n• Odlehčit přetížené páteřní komunikace od tranzitní dopravy těžce poškozující životní prostředí v Praze. Zejména v těchto postižených lokalitách budeme nadále trvat na monitorování stavu životního prostředí a na provádění komplexních aktivních opatřeních ke snížení hluku, prašnosti a imisí. Eliminovat tyto nežádoucí dopady budeme rovněž rozšiřováním a péčí o zeleň, ovzduší, vodní toky, čistotu města. \n\n• Přizpůsobit se probíhající klimatické změně je nutnost, ale konat s odbornou znalostí a rozumem, aby některé kroky nakonec nevyvolávaly neekologické výsledky dokonce za vysoké finanční náklady. Podpora obnovitelných zdrojů energie. Snížení energetické náročnosti veřejných budov.\n\n• Prosazujeme důslednou správu a kontrolu chráněných přírodních území v celém pražském regionu.\n\n• Pokračovat ve výsadbě zeleného pásu kolem Prahy. Zakládat parkové a rekreační lesy s areály zdraví, dětskými hřišti a veřejnými sportovišti. Budeme bránit snahám o zahušťování území další zástavbou na úkor zeleně.\n\n• Uplatníme jednotnou péči o lesy na území města, změny v lesním hospodářském plánu, omezené mýcení porostů nad 80 let stáří a kácení stromů rostoucích mimo les, zodpovědný a odborný zdravotní výběr stromů, pěstební zásahy v mladých porostech, obměnu nevhodných akátových porostů za původní druhovou skladbu dřevin.\n\n• Chceme zlepšit kvalitu vody pražských přítoků Vltavy, včetně nádrží, dokončit obnovu vltavských břehů, omezit výstavbu, především bytovou, v záplavovém území a rozšiřovat technická opatření proti povodním. Vytvořit novou přírodní a rekreační oblast Chuchle - Radotín - Zbraslav respektující hydrogeologickou situaci soutoku Vltavy a Berounky.\n\n• Opatření ke snižování ztrát vody z potrubí vodárenské soustavy. Zajistit a kontrolovat, aby organizační, technologické a provozní nedostatky provozovatele vodárenské soustavy nebyly řešeny na účet spotřebitelů neustálým zvyšováním cen vodného a stočného.\n\n• Rozšíření sítě bezplatných a bezbariérových veřejných toalet s nepřetržitým provozem.\n\n• Doplnění sítě kanalizace a čističek v okrajových malých městských částech.\n\n• Rozšíření sběru a třídění odpadu občany a firmami zvýšením počtu a vhodným umístěním sběrných nádob a míst, zajištění pravidelného svozu odpadu a jeho recyklace. Požadujeme výrazné zlepšení pravidelného úklidu veřejných komunikací a prostor. Odstranit černé skládky a vraky, rekultivovat zaplevelené úhory, skládky a poničený zemědělský fond, podpořit zahrádkářské osady Českého zahrádkářského svazu.\n\n• Budeme iniciovat kroky ke zlepšení vzhledu města, včetně postihu vlastníků budov, které jsou spekulativně ponechány devastaci a neplní funkce určení.\n\nPosílení role občana při rozhodování\n\n• Zastoupení odborníků, občanských sdružení a iniciativ činných na území města v komisích rad a poměrné zastoupení ve výborech zastupitelstev dle výsledku voleb. \n\n• Vytváření místních občanských rad ze zástupců občanských sdružení, iniciativ a aktivních občanů, které budou poradními orgány zastupitelstev a jejich výborů. \n\n• Přímá účast občanů na přípravě rozpočtů, tj. na rozhodování o výdajích.\n\n• Rozšíření komunitního plánování služeb, tj. dohodou mezi zástupci města (městských částí), poskytovateli a uživateli služeb.\n\n• Veřejné diskuse s občany nad územním a strategickým plánem, urbanistickými a architektonickými studiemi a nad zásadními projekty města a jeho městských částí před jejich schválením, a to i s možností uplatnění místního referenda, jehož závěry budou závazné.\n\n• Posílení významu petic a podnětů občanů a jejich odpovědné řešení. Odmítáme dosavadní praxi, která místo zaujetí věcného stanoviska zastupitelstvem, konstatuje pouze vzetí petice na vědomí.\n\n• Právo každého Pražana vystoupit k projednávané věci na zasedáních všech pražských zastupitelstvech a jejich výborech a při interpelacích.\n\n• Rychlé a korektní jednání při vyřizování záležitostí občanů na úřadech. Rozšíření úředních hodin. Zjednodušení vyřizování věcí a žádostí občanů, i bez znalosti práce s počítačem.\n\n• Provozování městského rozhlasového a televizního kanálu pod kontrolou rady, složené ze zástupců všech politických stran, jejichž členové byli zvoleni do zastupitelstev v Praze.\n\n• Rovný přístup do všech radničních novin, jejich vydávání pod kontrolou redakčních rad složených ze zástupců všech politických klubů v zastupitelstvech.\n\n• Podávání informací občanům a občanským sdružením na radnicích vždy zdarma.\n\n• Zajištění dostupnosti informací moderními komunikačními systémy.\n\n• Zřízení bezplatných občanských poraden na radnicích.\n\nDůsledná kontrola hospodaření s městským majetkem\n\n• Posílení postavení zastupitelstva vůči radě v rozhodovací a kontrolní činnosti úpravou zákona.\n\n• Přímá kontrola činnosti úřadů města a městských částí a jimi zřizovaných organizací každým členem zastupitelstva a NKÚ včetně kontroly početního a odborného stavu úředníků radnic i pracovníků podřízených organizací a efektivnosti jejich práce.\n\n• Zrušení nevýhodného zadávání činností, které lze zajistit pracovníky městských úřadů a jejich organizací, externím firmám.\n\n• Řádná evidence, správa a ochrana majetku města, uvážlivé hospodaření, perspektivní posilování výše majetku a výnosů z něho. Zabránění rozprodávání majetku pod cenou. Zemědělské a další plochy zeleně nesmí být předmětem pozemkových spekulací. Uvážlivými stavebními uzávěrami držet územní rezervy pro budoucí rozvoj. Požadujeme, aby Praha prováděla včasný výkup pozemků za účelem výstavby infrastruktury a stabilizace zelených ploch.\n\n• Posílení kontroly průběhu výběrových řízení na veřejné zakázky či veřejné soutěže s důraznějším využitím práv zřizovatele a s cílem zabránit předražování, tunelování, korupci a klientelismu. Prověření účelnosti dříve uzavřených hospodářských smluv. Provést audit veřejných zakázek.\n\n• Transparentní výběr při obsazování funkcí v orgánech firem s vlastnickou strukturou Prahy. Zasadíme se o navrácení distribuce pitné vody, odpadového hospodářství pod plnou kontrolu města. Klíčové služby Pražanům koncentrovat do komunálních firem. Tak efektivněji kontrolovat tvorbu cen, zamezit nežádoucímu zdražování a vrátit zisky z podnikání ve veřejných službách zpátky do městské pokladny.\n\n• Zvýšení podílu dotací z EU a od státu na pražské investice. Zvýšení finanční spoluúčasti developerů na výstavbě veřejného prostoru a infrastruktury města.\n\n• Posílení kontroly kvality a hospodárnosti činnosti organizací, jež uspěly v grantovém řízení.\n\nBezpečnost občanů a ochrana majetku\n\n•  Zvýšení počtu, profesionální připravenosti a efektivnosti práce strážníků Městské policie, rozšíření služeb strážníků – okrskářů Městské policie a hlídek příslušníků Policie ČR v terénu k zajištění bezpečnosti občanů a ochraně majetku.\n\n• Realizaci uceleného systému prevence kriminality zaměřeného především na ochranu dětí, mládeže, žen a důchodců a na rizikové chování osob a skupin (obchod s lidmi, kuplířství, lichva, otrocká práce a šikana, divácké násilí, sprejerství a vandalismus…).\n\n• Zlepšení dopravní kázně a snížení nehodovosti zkvalitňováním přímého dohledu nad dodržováním pravidel provozu moderními prostředky a nekompromisní řešení dopravních přestupků. Rozšíření dozoru kritických míst (přechody, křižovatky, vyhrazené jízdní pruhy, pěší zóny).\n\n• Zkvalitnění integrovaného záchranného systému, včetně úpravy krizového řízení.\n\nZajištění ochrany a připravenosti obyvatelstva, především na řešení následků možných mimořádných událostí (povodeň, průmyslové a ekologické havárie…).\n\n• Zamezení aktivit a propagace neonacismu, rasové a národnostní nesnášenlivosti, ale i nečinnosti úřadů k těmto jevům.\n\n• Nulová tolerance k hazardu - likvidaci sítě herních automatů, kasin.\n\n• Opatření ke snižování poptávky po drogách protidrogovou prevencí, ale i zákazem reklamy na tabákové výrobky a alkoholické nápoje. Vytrvalé potírání drogové dealerské sítě.\n\nOchrana kulturního dědictví, dostupnost kultury a sportu pro všechny\n \n• Zpracování dlouhodobého výhledu kulturního rozvoje města, včetně financování kulturních zařízení a akcí, při zajištění jejich cenové dostupnosti pro občany.\n\n• Ochranu kulturního dědictví, památek a míst piety významných osobností a událostí dějin před jejich devastací, znevažováním a nevhodným využitím.\n\n• Zastavení privatizace kulturního dědictví a historických památek. Spravovat je musí stát nebo Praha tak, aby sloužily všem občanům a návštěvníkům města.\n\n• Podporu tradičních institucí i nově vznikajících kulturních aktivit. Podporu pražské kultuře ze strany státu, města a městských částí. Jednoznačné rozlišení akcí města a akcí dotovaných z grantů, nabídka i nefinanční pomoci města a jeho organizací.\n\n• Ochranu historických kulturních památek před jejich devastací a nevhodným komerčním využíváním.\n\n• Zavedení cenově výhodného ročního předplatného pro vstup do galerií, knihoven, muzeí a památek, jež jsou ve správě města a městských částí nebo jsou jimi finančně dotovány. Zdarma pro děti mladší 15 let.\n\n• Rozšíření sítě poboček Městské knihovny a jejich modernizace.\n\n• Rozvoj místní kultury v městských částech, lidové umělecké tvořivosti a kultur národnostních menšin.\n\n• Rekonstrukce Výstaviště, včetně obnovy Průmyslového paláce a postavení pavilonu pro Muchovu Slovanskou epopej na bruselské cestě, s ohledem na zachování klidové zóny zeleně a oddechu ve Stromovce.\n\n• Rozvoj a obnova sportovišť v městských částech. Podpora domů dětí a mládeže, tělovýchovných jednot, občanských sdružení a organizací dětí a mládeže."
+        ],
+        "ad_delivery_start_time": "2022-09-18",
+        "ad_delivery_stop_time": "2022-09-22",
+        "bylines": "KV KSČM Praha",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.0001",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.0001",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.945924",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.053875",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001029",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.03117",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000926",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00072",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.03333",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.139595",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.062545",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.046703",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.08816",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001646",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.098652",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.120152",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.016356",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.078078",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002263",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.08816",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.189795",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00072",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "500001",
+            "upper_bound": "1000000"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "351328815012336",
+        "page_name": "Milan Krajča",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "4000",
+            "upper_bound": "4499"
+        },
+        "_id": "1327371811002467"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=402259405319343&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-09-16",
+        "ad_creative_bodies": [
+            "V nadcházejících komunálních volbách 23. a 24. září kandiduje na 9000 kandidátů a kandidátek KSČM v takřka 700 obcích. Do Zastupitelstva hlavního města Prahy kandidují komunisté s volebním číslem 13. Programem komunistické strany i v naší metropoli je obrana a prosazování zájmů naprosté většiny občanů. KSČM bojuje proti zdražování, korupci a aroganci moci, za dostupné bydlení, rozvoj dopravní infrastruktury s bezplatnou MHD a zachování sociálních služeb. Celý program je zde: \n\nVOLEBNÍ PROGRAM KSČM DO ZHMP NA OBDOBÍ 2022-2026\n\nPrávo bydlet - byty nejen pro bohaté\n\n• Návrh zákonů regulujících krátkodobé ubytování, řešící dlouhodobě prázdné byty a k posílení práv SVJ, družstev a obcí.\n\n• Posílení role územního plánování k zajištění komplexní bytové výstavby, tedy výstavba bytů včetně všech služeb pro obyvatele v místě.\n\n• Aktivní podpora obecní a družstevní výstavby bytů za pomoci státu i města.\n\n• Návrh pravidel pronájmu obecních bytů podle sociálního postavení, zdravotního stavu, případně s přihlédnutím k profesním potřebám města, zavedení veřejně přístupných seznamů žadatelů a vyřízených žádostí o nájem obecního bytu a bytu v domě s pečovatelskou službou pod kontrolou zastupitelstev.\n\n• Chceme, aby nájemné v obecních bytech bylo svým charakterem neziskové a v diferencované podobě odráželo příjmové možnosti bydlících tak, aby bylo dostupné i pro nájemce s nízkými příjmy. Odmítáme pronajímání obecních bytů obálkovou metodou těm, kteří nabídnou nejvyšší nájemné.\n\n• Posazujeme převod celého výnosu nájemného a z prodeje obecních bytů do fondu, který bude účelově užíván pouze k údržbě, obnově a výstavbě bytového fondu města. \n\n• Podporujeme činnost sdružení nájemníků, domovních rad, sdružení bytových družstev a společenství vlastníků bytů.\n\n• Budeme bránit vzniku ghett sociálně vyloučených. Zasadíme se o důsledné odstraňování bezdomovectví právními, sociálními a ekonomickými opatřeními.\n\nRozvoj dopravní infrastruktury a bezplatná městská hromadná doprava\n\n• S cílem zajistit významné snížení tranzitní dopravy uvnitř města se zasadíme o urychlené dokončení dálničního okruhu včetně mostu na severním okraji Prahy. Město musí urychleně dokončit výkup pozemků a vstřícnými kroky umožnit výstavbu této klíčové komunikace státem. Urychlíme rekonstrukce městské dopravní infrastruktury, zejména mostů a lávek, budeme prosazovat další výstavbu vnitřního okruhu a vybudování radiálních napojení na silniční okruh kolem Prahy s eliminací nežádoucích dopadů na okolí. Chceme prosadit efektivnější koordinaci dopravních uzavírek.\n\n• Priorita náleží hromadné dopravě šetřící čas a životní prostředí. Odmítáme Budeme usilovat o rozšiřovaní kategorií osob s bezplatnou přepravou. Ta bude uplatněna pro všechny obyvatele v době smogu. Cílem je bezplatná přeprava v pražské městské hromadné dopravě.\n\n• Rozvíjet společnou integrovanou osobní dopravu na území Prahy a Středočeského kraje s cílem snížit individuální automobilovou osobní dopravu ve městě.\n\n• Prosazujeme zachování majetkové celistvosti i vlastnictví Dopravního podniku hl. m. Prahy a rozvoj jeho služeb. Chceme, aby dopravní podnik realizoval cílená opatření ke stabilizaci zaměstnanců a ke zlepšení jejich pracovních podmínek.\n\n• Obnova vozového parku o elektrobusy, nízkoemisními autobusy a obousměrné tramvaje.\n\n• Budeme i nadále usilovat o rozšíření autobusových a tramvajových tras a jejich preferenci (přednostní řazení na křižovatkách, oddělení tratí bariérou, samostatné jízdní pruhy…) a rozsáhlejší zapojení železniční dopravy. Zasadíme se o rekonstrukce železničních tratí, včetně kladenské s odbočkou na letiště, vytváření                                                                                 \n\n• dalších přestupních uzlů mezi železnicí a městskou hromadnou dopravou.\n\n• Urychlení výstavby linky D metra včetně jeho směrování od hlavního nádraží přes Žižkov do Vysočan.\n\n• Rekonstrukce a výstavba nových tramvajových tratí (např. z Vinohradské před vstup na hlavní nádraží, z Pankráce na Zlíchov, Počernickou do Malešic, trati z Modřan na Libuš a Nové Dvory a z Kobylis do Bohnic, návrat tramvaje na starý dolní Žižkov, připojení Dědiny a Ruzyně, do Suchdola…).\n\n• Vybavení novými elektronickými prvky k informování a orientaci cestujících na komunikacích, v dopravních zařízeních a vozidlech. Považujeme je za naplňování vize chytrého města, které má naši podporu. Budeme iniciovat vznik dalších přístřešků na zastávkách.\n\n• Výstavbu cyklistických komunikací oddělených od automobilového provozu. \n\n• Řešení dopravy v klidu především výstavbou objektových garáží s cenově dostupným parkovným a současně omezování parkování v ulicích ve prospěch pěších, cyklistů a zeleně. Rozšíření sítě levných záchytných parkovišť P+R s možností přestupu na MHD. Parkování na komunikacích řešit jednotnými pravidly v celopražské zóně.\n\n• Zprovoznění přechodů se světelnou signalizací s doplněním o bezpečnostní prvky, především na cestách dětí do škol a občanů do zdravotnických zařízení a obchodních center.\n\n• Rekonstrukci chodníků ve spolupráci s jejich majiteli, vlastníky přilehlých nemovitostí a firmami, jež je poškozují při své stavební činnosti, s přísným dozorem příslušných městských orgánů.\n\n• Omezení automobilové dopravy v Pražské památkové rezervaci s proměnou vybraných hradčanských, malostranských a staroměstských ulic v pěší zónu bez automobilové dopravy.\n\n• Vytváření systému dopravních opatření ke zklidnění vedlejších komunikací v obytných zónách.\n\nDostupná zdravotní a sociální péče, pomoc lidem v nouzi\n\n• Obnovení sítě poliklinik s praxemi praktických a odborných lékařů, s lékařskou první pomocí a s lékárnou s nepřetržitým provozem.\n\n• Zachování sítě veřejných nemocnic a oborů v nich při udržení kvality péče.\n\n• Rozšíření počtu lůžek pro následnou péči a pro dlouhodobě nemocné.\n\n• Umožnění bezbariérového pohybu všemi prostory města a přístupu do dopravních prostředků, úpravy bytů pro zdravotně postižené, lepší podmínky pro zapojení zdravotně postižených občanů do aktivního života včetně podpory jejich zaměstnávání městem a jeho institucemi.\n\n• Rozšíření sítě a kapacit obecních sociálních služeb a center (terénní služba, domovy seniorů a ústavy pro zdravotně postižené s pobytovými stacionáři, azylové ubytování) na území města.\n\n• Vytváření sociálního systému pro potřebné občany Prahy, kteří se přechodně dostali do tíživé situace.\n\n• Azylová zařízení s resocializačními programy (bydlení + práce) pro bezdomovce k jejich návratu do společnosti.\n\n• Terénní práce mezi drogově závislými a bezprostředně ohroženými a podpora doléčovacích center.\n\n• Zkvalitnění spolupráce s organizacemi působícími v oblasti zdravotnictví a sociálních služeb (Český červený kříž, spolky zdravotně postižených občanů…). Výchova k pomoci potřebným. Podpora vytváření chráněných dílen.\n\nKvalitní a bezplatné vzdělávání dostupné pro všechny generace\n\n• Vytváření podmínek pro realizaci celoživotního vzdělávání, včetně výchovy k úctě k životu, k člověku, k práci, k národním a pokrokovým tradicím, k míru a solidaritě.\n\n• Posílení veřejného školství financovaného z veřejných zdrojů jako převažující základ vzdělávací soustavy na všech stupních. Zvýšit podíl veřejných výdajů na vzdělávání.\n\n• Zachování sítě veřejných škol, včetně speciálních a uměleckých. V případě vynucené optimalizace rozhodovat v souladu s dlouhodobým záměrem vzdělávání, s ohledem na zaměření slučovaných škol, na dostupnost, demografický vývoj a možnosti pracovního uplatnění. Uvolněné školní prostory využívat dál pro potřeby dětí a mládeže.\n\n• Obnovení sítě jeslí, rozšíření kapacity mateřských a základních škol.\n\n• Podpora učňovského a odborného technického školství.\nVytváření podmínek pro rozvoj vědecko-technické činnosti vysokých škol.\n\n• Bezplatné vzdělávání na všech stupních škol, včetně poskytování učebnic a pomůcek i ochranných pro praxi.\n\n• Vytváření systému krajských stipendií pro učně a pro nadané studenty ze sociálně slabšího prostředí.\n\n• Kurzy českého jazyka pro děti s odlišným mateřským jazykem před jejich začleněním do běžných tříd.\n\n• Bezplatný pobyt ve školních družinách a klubech, zrušení poplatků za pobyt v mateřských školách a bezplatné stravování ve školních jídelnách mateřských a základních škol.\n\n• Bezplatné užívání školních prostor pro mimoškolní zájmovou činnost dětí a mládeže.\n\n• Vytváření podmínek (i finančního ohodnocení) pro práci učitelů, školních psychologů a asistentů i nepedagogických pracovníků škol.\n\n• Spolupráce škol s rodiči, podpora žákovských a studentských samospráv.\n\nÚzemní plán pro obyvatele s respektem k ochraně životního prostředí\n\n• Postavíme se proti zběsilému řádění developerů, proti nežádoucímu zahušťování sídlišť a změnám územního plánu, které by umožnily zastavět současnou zeleň, rekreační a sportovní plochy. Urbanismus musí respektovat nejen odborná hlediska tvůrců města, ale brát především na zřetel oprávněné zájmy a potřeby občanů. Budeme důrazně a zásadově čelit spekulativnímu a nátlakovému jednání developerů.\n\n• Původní termín schválení nového územního plánu, byl změněn z roku 2020 na rok 2023. Prosazovali jsme, aby nový, tzv. Metropolitní plán naplnil vizi strategického plánu Prahy, byl pro občany přehledný, srozumitelný a umožňoval jednoznačný a nezpochybnitelný výklad. V průběhu přípravy nového plánu jsme využili možností připomínkovat takové zpracování plánu, které v konkrétních situacích směřovalo proti zájmům a potřebám obyvatel, případně ohrožovalo funkčně vyvážený komplexní rozvoj města. Namísto výstavby dalších kancelářských ploch, chceme vytvořit podmínky pro rozsáhlejší bytovou výstavbu, nikoli však na úkor zeleně, rekreačních a sportovních ploch, které chceme zachovat i pro budoucí generace.\n\n• Odlehčit přetížené páteřní komunikace od tranzitní dopravy těžce poškozující životní prostředí v Praze. Zejména v těchto postižených lokalitách budeme nadále trvat na monitorování stavu životního prostředí a na provádění komplexních aktivních opatřeních ke snížení hluku, prašnosti a imisí. Eliminovat tyto nežádoucí dopady budeme rovněž rozšiřováním a péčí o zeleň, ovzduší, vodní toky, čistotu města. \n\n• Přizpůsobit se probíhající klimatické změně je nutnost, ale konat s odbornou znalostí a rozumem, aby některé kroky nakonec nevyvolávaly neekologické výsledky dokonce za vysoké finanční náklady. Podpora obnovitelných zdrojů energie. Snížení energetické náročnosti veřejných budov.\n\n• Prosazujeme důslednou správu a kontrolu chráněných přírodních území v celém pražském regionu.\n\n• Pokračovat ve výsadbě zeleného pásu kolem Prahy. Zakládat parkové a rekreační lesy s areály zdraví, dětskými hřišti a veřejnými sportovišti. Budeme bránit snahám o zahušťování území další zástavbou na úkor zeleně.\n\n• Uplatníme jednotnou péči o lesy na území města, změny v lesním hospodářském plánu, omezené mýcení porostů nad 80 let stáří a kácení stromů rostoucích mimo les, zodpovědný a odborný zdravotní výběr stromů, pěstební zásahy v mladých porostech, obměnu nevhodných akátových porostů za původní druhovou skladbu dřevin.\n\n• Chceme zlepšit kvalitu vody pražských přítoků Vltavy, včetně nádrží, dokončit obnovu vltavských břehů, omezit výstavbu, především bytovou, v záplavovém území a rozšiřovat technická opatření proti povodním. Vytvořit novou přírodní a rekreační oblast Chuchle - Radotín - Zbraslav respektující hydrogeologickou situaci soutoku Vltavy a Berounky.\n\n• Opatření ke snižování ztrát vody z potrubí vodárenské soustavy. Zajistit a kontrolovat, aby organizační, technologické a provozní nedostatky provozovatele vodárenské soustavy nebyly řešeny na účet spotřebitelů neustálým zvyšováním cen vodného a stočného.\n\n• Rozšíření sítě bezplatných a bezbariérových veřejných toalet s nepřetržitým provozem.\n\n• Doplnění sítě kanalizace a čističek v okrajových malých městských částech.\n\n• Rozšíření sběru a třídění odpadu občany a firmami zvýšením počtu a vhodným umístěním sběrných nádob a míst, zajištění pravidelného svozu odpadu a jeho recyklace. Požadujeme výrazné zlepšení pravidelného úklidu veřejných komunikací a prostor. Odstranit černé skládky a vraky, rekultivovat zaplevelené úhory, skládky a poničený zemědělský fond, podpořit zahrádkářské osady Českého zahrádkářského svazu.\n\n• Budeme iniciovat kroky ke zlepšení vzhledu města, včetně postihu vlastníků budov, které jsou spekulativně ponechány devastaci a neplní funkce určení.\n\nPosílení role občana při rozhodování\n\n• Zastoupení odborníků, občanských sdružení a iniciativ činných na území města v komisích rad a poměrné zastoupení ve výborech zastupitelstev dle výsledku voleb. \n\n• Vytváření místních občanských rad ze zástupců občanských sdružení, iniciativ a aktivních občanů, které budou poradními orgány zastupitelstev a jejich výborů. \n\n• Přímá účast občanů na přípravě rozpočtů, tj. na rozhodování o výdajích.\n\n• Rozšíření komunitního plánování služeb, tj. dohodou mezi zástupci města (městských částí), poskytovateli a uživateli služeb.\n\n• Veřejné diskuse s občany nad územním a strategickým plánem, urbanistickými a architektonickými studiemi a nad zásadními projekty města a jeho městských částí před jejich schválením, a to i s možností uplatnění místního referenda, jehož závěry budou závazné.\n\n• Posílení významu petic a podnětů občanů a jejich odpovědné řešení. Odmítáme dosavadní praxi, která místo zaujetí věcného stanoviska zastupitelstvem, konstatuje pouze vzetí petice na vědomí.\n\n• Právo každého Pražana vystoupit k projednávané věci na zasedáních všech pražských zastupitelstvech a jejich výborech a při interpelacích.\n\n• Rychlé a korektní jednání při vyřizování záležitostí občanů na úřadech. Rozšíření úředních hodin. Zjednodušení vyřizování věcí a žádostí občanů, i bez znalosti práce s počítačem.\n\n• Provozování městského rozhlasového a televizního kanálu pod kontrolou rady, složené ze zástupců všech politických stran, jejichž členové byli zvoleni do zastupitelstev v Praze.\n\n• Rovný přístup do všech radničních novin, jejich vydávání pod kontrolou redakčních rad složených ze zástupců všech politických klubů v zastupitelstvech.\n\n• Podávání informací občanům a občanským sdružením na radnicích vždy zdarma.\n\n• Zajištění dostupnosti informací moderními komunikačními systémy.\n\n• Zřízení bezplatných občanských poraden na radnicích.\n\nDůsledná kontrola hospodaření s městským majetkem\n\n• Posílení postavení zastupitelstva vůči radě v rozhodovací a kontrolní činnosti úpravou zákona.\n\n• Přímá kontrola činnosti úřadů města a městských částí a jimi zřizovaných organizací každým členem zastupitelstva a NKÚ včetně kontroly početního a odborného stavu úředníků radnic i pracovníků podřízených organizací a efektivnosti jejich práce.\n\n• Zrušení nevýhodného zadávání činností, které lze zajistit pracovníky městských úřadů a jejich organizací, externím firmám.\n\n• Řádná evidence, správa a ochrana majetku města, uvážlivé hospodaření, perspektivní posilování výše majetku a výnosů z něho. Zabránění rozprodávání majetku pod cenou. Zemědělské a další plochy zeleně nesmí být předmětem pozemkových spekulací. Uvážlivými stavebními uzávěrami držet územní rezervy pro budoucí rozvoj. Požadujeme, aby Praha prováděla včasný výkup pozemků za účelem výstavby infrastruktury a stabilizace zelených ploch.\n\n• Posílení kontroly průběhu výběrových řízení na veřejné zakázky či veřejné soutěže s důraznějším využitím práv zřizovatele a s cílem zabránit předražování, tunelování, korupci a klientelismu. Prověření účelnosti dříve uzavřených hospodářských smluv. Provést audit veřejných zakázek.\n\n• Transparentní výběr při obsazování funkcí v orgánech firem s vlastnickou strukturou Prahy. Zasadíme se o navrácení distribuce pitné vody, odpadového hospodářství pod plnou kontrolu města. Klíčové služby Pražanům koncentrovat do komunálních firem. Tak efektivněji kontrolovat tvorbu cen, zamezit nežádoucímu zdražování a vrátit zisky z podnikání ve veřejných službách zpátky do městské pokladny.\n\n• Zvýšení podílu dotací z EU a od státu na pražské investice. Zvýšení finanční spoluúčasti developerů na výstavbě veřejného prostoru a infrastruktury města.\n\n• Posílení kontroly kvality a hospodárnosti činnosti organizací, jež uspěly v grantovém řízení.\n\nBezpečnost občanů a ochrana majetku\n\n•  Zvýšení počtu, profesionální připravenosti a efektivnosti práce strážníků Městské policie, rozšíření služeb strážníků – okrskářů Městské policie a hlídek příslušníků Policie ČR v terénu k zajištění bezpečnosti občanů a ochraně majetku.\n\n• Realizaci uceleného systému prevence kriminality zaměřeného především na ochranu dětí, mládeže, žen a důchodců a na rizikové chování osob a skupin (obchod s lidmi, kuplířství, lichva, otrocká práce a šikana, divácké násilí, sprejerství a vandalismus…).\n\n• Zlepšení dopravní kázně a snížení nehodovosti zkvalitňováním přímého dohledu nad dodržováním pravidel provozu moderními prostředky a nekompromisní řešení dopravních přestupků. Rozšíření dozoru kritických míst (přechody, křižovatky, vyhrazené jízdní pruhy, pěší zóny).\n\n• Zkvalitnění integrovaného záchranného systému, včetně úpravy krizového řízení.\n\nZajištění ochrany a připravenosti obyvatelstva, především na řešení následků možných mimořádných událostí (povodeň, průmyslové a ekologické havárie…).\n\n• Zamezení aktivit a propagace neonacismu, rasové a národnostní nesnášenlivosti, ale i nečinnosti úřadů k těmto jevům.\n\n• Nulová tolerance k hazardu - likvidaci sítě herních automatů, kasin.\n\n• Opatření ke snižování poptávky po drogách protidrogovou prevencí, ale i zákazem reklamy na tabákové výrobky a alkoholické nápoje. Vytrvalé potírání drogové dealerské sítě.\n\nOchrana kulturního dědictví, dostupnost kultury a sportu pro všechny\n \n• Zpracování dlouhodobého výhledu kulturního rozvoje města, včetně financování kulturních zařízení a akcí, při zajištění jejich cenové dostupnosti pro občany.\n\n• Ochranu kulturního dědictví, památek a míst piety významných osobností a událostí dějin před jejich devastací, znevažováním a nevhodným využitím.\n\n• Zastavení privatizace kulturního dědictví a historických památek. Spravovat je musí stát nebo Praha tak, aby sloužily všem občanům a návštěvníkům města.\n\n• Podporu tradičních institucí i nově vznikajících kulturních aktivit. Podporu pražské kultuře ze strany státu, města a městských částí. Jednoznačné rozlišení akcí města a akcí dotovaných z grantů, nabídka i nefinanční pomoci města a jeho organizací.\n\n• Ochranu historických kulturních památek před jejich devastací a nevhodným komerčním využíváním.\n\n• Zavedení cenově výhodného ročního předplatného pro vstup do galerií, knihoven, muzeí a památek, jež jsou ve správě města a městských částí nebo jsou jimi finančně dotovány. Zdarma pro děti mladší 15 let.\n\n• Rozšíření sítě poboček Městské knihovny a jejich modernizace.\n\n• Rozvoj místní kultury v městských částech, lidové umělecké tvořivosti a kultur národnostních menšin.\n\n• Rekonstrukce Výstaviště, včetně obnovy Průmyslového paláce a postavení pavilonu pro Muchovu Slovanskou epopej na bruselské cestě, s ohledem na zachování klidové zóny zeleně a oddechu ve Stromovce.\n\n• Rozvoj a obnova sportovišť v městských částech. Podpora domů dětí a mládeže, tělovýchovných jednot, občanských sdružení a organizací dětí a mládeže."
+        ],
+        "ad_delivery_start_time": "2022-09-17",
+        "ad_delivery_stop_time": "2022-09-18",
+        "bylines": "KV KSČM Praha",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.006711",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.90604",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.087248",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.013986",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.146853",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.048951",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.034965",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.118881",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.104895",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.132867",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.06993",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.006993",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.055944",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.202797",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.062937",
+                "age": "35-44",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100",
+            "upper_bound": "1000"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "351328815012336",
+        "page_name": "Milan Krajča",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "900",
+            "upper_bound": "999"
+        },
+        "_id": "402259405319343"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1114218012845295&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-08-30",
+        "ad_creative_bodies": [
+            "Praha dnes plní stránky novin coby město diletantství, korupce, klientelismu, mafiánských praktik a arogance moci. A i mimo v současnosti odhalované skandální kauzy je výsledek dosavadního vedení města naprosto tristní. Místo řešení problémů Pražanů totiž věnovalo své úsilí spíše takovým ostudným záležitostem, jako je odstraňování veřejných připomínek boje proti fašismu a na osvobození města od hitlerovské okupace. I proto usilujeme o změnu. Jako komunisté chceme udělat vše pro to, aby se v Praze žilo dobře všem, nejen hrstce nejbohatších. Kromě aktuálních dopadů kapitalistické krize, jako je současné drastické zdražování a s ním spojený nárůst chudoby, trápí obyvatele naší metropole především takové otázky, jako je nedostupné bydlení, kolabující doprava či stále se zhoršující přístup k základním službám. Jako KSČM proto kandidujeme ve volbách do Zastupitelstva hlavního města Prahy s konkrétním programem na jejich řešení. \n\nJsme přesvědčeni, že střecha nad hlavou nesmí být nedostupný luxus! Zajištění dostupného bydlení je pro KSČM jednou z klíčových priorit. Říkáme zcela jasně, že řešením je opětovné nastartování výstavby obecního a družstevního bydlení. Chceme, aby nájemné v obecních bytech bylo svým charakterem neziskové a v diferencované podobě odráželo příjmové možnosti bydlících tak, aby bylo dostupné i pro nájemce s nízkými příjmy. Odmítáme pronajímání obecních bytů obálkovou metodou těm, kteří nabídnou nejvyšší nájemné. Zasazujeme se o regulaci krátkodobého ubytování typu Airbnb a chceme v této souvislosti posílit práva sdružení vlastníků jednotek, bytových družstev i obcí. V neposlední řadě pak patří mezi řešení problémů s bydlením také zastropování nájemného. Prosazujeme proto opětovné zavedení regulovaného nájemného. \n\nNejen kvůli snížení tranzitní dopravy uvnitř města je nutné co nejrychleji konečně dokončit vnější Pražský okruh včetně mostu na severním okraji Prahy. Město proto musí urychleně završit výkup pozemků a umožnit výstavbu této klíčové komunikace státem. Je také nutné urychlit rekonstrukci městské dopravní infrastruktury, zejména mostů a lávek. Prosazujeme další výstavbu vnitřního Městského okruhu a vybudování radiálních napojení na dálniční okruh kolem Prahy s eliminací nežádoucích dopadů na okolí. Za poslední tři desítky let se nakupil velký dluh také v rozšiřování hromadné dopravy, jako je výstavba dalších tras metra či nových tramvajových tratí. Zdražování MHD zcela zásadně odmítáme! Jako komunisté jsme naopak přesvědčeni, že by se Praha mohla a měla zařadit k městům s bezplatnou MHD. Důvodů pro tuto změnu v pražské dopravě je celá řada. Mezi její přínosy by zdaleka nepatřilo jen snížení automobilové dopravy a zlepšení životního prostředí v hlavním městě. Zároveň by totiž znamenala i zásadní finanční úsporu pro podstatnou část Pražanů a  realizaci práva na mobilitu, které je dnes zpoplatněním MHD, především u  těch nejchudších, značně omezeno. \n\nUděláme vše pro dostupnou zdravotní a sociální péči. Aktivně se zasadíme za obnovení sítě poliklinik s praxemi praktických a odborných lékařů, s lékařskou první pomocí a lékárnou s nepřetržitým provozem. Budeme požadovat, aby město podporovalo opravy poliklinik. Jsme pro zachování sítě veřejných nemocnic a oborů v nich při udržení kvality péče a rozšíření počtu lůžek pro následnou péči a v léčebnách pro dlouhodobě nemocné. Podporujeme další rozšiřování systému veřejného školství na území metropole. I proto jsme pro navýšení financí určených na vzdělávání ze strany města. Dlouhodobým programovým požadavkem KSČM je zajištění bezplatného vzdělávání na všech stupních státních a veřejných škol. Pro realizaci těchto kroků je potřeba nejen posílit roli občanů při rozhodování, ale také se postavit rozkrádání, devastaci a nevýhodnému rozprodávání majetku města. Chceme proto posílit efektivní hospodaření města postupnou reorganizací firem do městského majetkového holdingu, který bude plně pod vlastnickou kontrolou Prahy. Jeho prostřednictvím budou zajišťovány základní funkce města a služby obyvatelům. Více než tři desítky diletantské správy naší metropole stačily! \n\nKSČM jako strana socialistické alternativy usiluje o zásadní změnu v tom, jak je naše hlavní město spravováno. Naše vize je jasná – dostupné bydlení, rozvoj dopravní infrastruktury s bezplatnou MHD, zdravotní a sociální péče pro všechny, kvalitní a bezplatné vzdělání, posílení role občanů při rozhodování a také důsledná kontrola hospodaření s městským majetkem. Pokud souhlasíte s našimi vizemi, podpořte nás 23. a 24. září při volbách do Zastupitelstva hlavního města Prahy i zastupitelstev jednotlivých městských částí.\n\nMilan KRAJČA, místopředseda KSČM a kandidát na primátora Prahy"
+        ],
+        "ad_delivery_start_time": "2022-08-30",
+        "ad_delivery_stop_time": "2022-09-21",
+        "bylines": "KV KSČM Praha",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.918628",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.081372",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001446",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.180753",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001147",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000449",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001695",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.072999",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.022139",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.025729",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.051159",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001396",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.088706",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.039342",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.144303",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.095587",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.183296",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.080628",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.008527",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000698",
+                "age": "18-24",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "500001",
+            "upper_bound": "1000000"
+        },
+        "impressions": {
+            "lower_bound": "35000",
+            "upper_bound": "39999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "351328815012336",
+        "page_name": "Milan Krajča",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "4500",
+            "upper_bound": "4999"
+        },
+        "_id": "1114218012845295"
+    }
+]

@@ -1,0 +1,205 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1081056096252324&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-14",
+        "ad_creative_link_captions": [
+            "ezylook.com"
+        ],
+        "ad_delivery_start_time": "2023-12-15",
+        "ad_delivery_stop_time": "2023-12-15",
+        "currency": "USD",
+        "delivery_by_region": [
+            {
+                "percentage": "0.002732",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.043716",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.147541",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.117486",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.054645",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.02459",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.013661",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.043716",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.062842",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.144809",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.035519",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.054645",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.101093",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.10929",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.043716",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.046448",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.02459",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.13388",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.180328",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.150273",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.054645",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.131148",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.20765",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.040984",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.027322",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002732",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "en"
+        ],
+        "page_id": "168118896387015",
+        "page_name": "Business Development Accelerator",
+        "publisher_platforms": [
+            "facebook",
+            "instagram",
+            "audience_network",
+            "messenger"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "30",
+            "65"
+        ],
+        "eu_total_reach": 369,
+        "beneficiary_payers": [
+            {
+                "payer": "Embassy of Japan in Armenia",
+                "beneficiary": "Embassy of Japan in Armenia",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 55,
+                        "female": 15
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 66,
+                        "female": 9
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 76,
+                        "female": 10
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 48,
+                        "female": 17,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 49,
+                        "female": 20
+                    }
+                ]
+            }
+        ],
+        "_id": "1081056096252324"
+    }
+]

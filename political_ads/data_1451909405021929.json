@@ -1,0 +1,2463 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=7588905744466157&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-04",
+        "ad_creative_link_captions": [
+            "applifting.io",
+            "applifting.io",
+            "applifting.io",
+            "applifting.io"
+        ],
+        "ad_delivery_start_time": "2024-01-05",
+        "ad_delivery_stop_time": "2024-01-11",
+        "bylines": "Applifting s.r.o.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.81414",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.181487",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.004373",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.013534",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.051128",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.034586",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.100752",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.17594",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.184962",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.307519",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.021805",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.018797",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.006015",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.003759",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.003008",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000752",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.028571",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.038346",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001504",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.009023",
+                "age": "18-24",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "2000",
+            "upper_bound": "2999"
+        },
+        "languages": [
+            "en"
+        ],
+        "page_id": "1451909405021929",
+        "page_name": "Applifting",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 1345,
+        "beneficiary_payers": [
+            {
+                "payer": "Applifting s.r.o.",
+                "beneficiary": "Applifting s.r.o.",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "55-64",
+                        "male": 51,
+                        "female": 18,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 409,
+                        "female": 68,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 134,
+                        "female": 29,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 246,
+                        "female": 46,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 234,
+                        "female": 25,
+                        "unknown": 12
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 38,
+                        "female": 8
+                    }
+                ]
+            }
+        ],
+        "_id": "7588905744466157"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=361784772874471&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-10",
+        "ad_creative_link_captions": [
+            "applifting.io",
+            "applifting.io"
+        ],
+        "ad_delivery_start_time": "2023-11-13",
+        "ad_delivery_stop_time": "2023-11-20",
+        "bylines": "Applifting s.r.o.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Prague"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001796",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.159035",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.006285",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.019192",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.227273",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.055219",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.094613",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.056902",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.370258",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.004714",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.004714",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "9000",
+            "upper_bound": "9999"
+        },
+        "languages": [
+            "en"
+        ],
+        "page_id": "1451909405021929",
+        "page_name": "Applifting",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "target_locations": [
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "23",
+            "45"
+        ],
+        "eu_total_reach": 8950,
+        "beneficiary_payers": [
+            {
+                "payer": "Applifting s.r.o.",
+                "beneficiary": "Applifting s.r.o.",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 1417,
+                        "female": 507,
+                        "unknown": 42
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 3299,
+                        "female": 843,
+                        "unknown": 42
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 2025,
+                        "female": 492,
+                        "unknown": 16
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 171,
+                        "female": 56
+                    }
+                ]
+            }
+        ],
+        "_id": "361784772874471"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=724834768981225&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-09",
+        "ad_creative_link_captions": [
+            "applifting.io",
+            "applifting.io",
+            "applifting.io",
+            "applifting.io",
+            "applifting.io",
+            "applifting.io",
+            "applifting.io",
+            "applifting.io"
+        ],
+        "ad_delivery_start_time": "2023-11-13",
+        "ad_delivery_stop_time": "2023-11-21",
+        "bylines": "Applifting s.r.o.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Prague"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000452",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002033",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.003276",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.16437",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.058518",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.097153",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.177587",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.422503",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.004858",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.054112",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.011862",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.003276",
+                "age": "18-24",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "8000",
+            "upper_bound": "8999"
+        },
+        "languages": [
+            "en"
+        ],
+        "page_id": "1451909405021929",
+        "page_name": "Applifting",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "target_locations": [
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "23",
+            "45"
+        ],
+        "eu_total_reach": 8893,
+        "beneficiary_payers": [
+            {
+                "payer": "Applifting s.r.o.",
+                "beneficiary": "Applifting s.r.o.",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "male": 105,
+                        "female": 43,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 1455,
+                        "female": 518,
+                        "unknown": 29
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 3740,
+                        "female": 860,
+                        "unknown": 29
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 1572,
+                        "female": 479,
+                        "unknown": 18
+                    }
+                ]
+            }
+        ],
+        "_id": "724834768981225"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=727454862616236&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-13",
+        "ad_creative_link_captions": [
+            "applifting.io",
+            "applifting.io",
+            "applifting.io",
+            "applifting.io",
+            "applifting.io",
+            "applifting.io",
+            "applifting.io"
+        ],
+        "ad_delivery_start_time": "2023-11-13",
+        "ad_delivery_stop_time": "2023-11-20",
+        "bylines": "Applifting s.r.o.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.039503",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.128143",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.134117",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.052895",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.036034",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.033915",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.0343",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.055015",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.130263",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.038347",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.073707",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.099624",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.089315",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.054822",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.003815",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001049",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.006008",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.089453",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.064562",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.050257",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.389758",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.196929",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.016975",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.177284",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.003815",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "9.5E-5",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "500001",
+            "upper_bound": "1000000"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "en"
+        ],
+        "page_id": "1451909405021929",
+        "page_name": "Applifting",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "23",
+            "45"
+        ],
+        "eu_total_reach": 10492,
+        "beneficiary_payers": [
+            {
+                "payer": "Applifting s.r.o.",
+                "beneficiary": "Applifting s.r.o.",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "male": 178,
+                        "female": 63,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 1859,
+                        "female": 527,
+                        "unknown": 40
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 4087,
+                        "female": 938,
+                        "unknown": 40
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 2065,
+                        "female": 677,
+                        "unknown": 11
+                    }
+                ]
+            }
+        ],
+        "_id": "727454862616236"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=3587438828169463&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-09",
+        "ad_creative_link_captions": [
+            "applifting.io",
+            "applifting.io"
+        ],
+        "ad_delivery_start_time": "2023-11-13",
+        "ad_delivery_stop_time": "2023-11-20",
+        "bylines": "Applifting s.r.o.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Prague"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.247508",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.36423",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.111739",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.08505",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.022259",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.008306",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.109192",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.042857",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002879",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000221",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.004208",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00155",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "9000",
+            "upper_bound": "9999"
+        },
+        "languages": [
+            "en"
+        ],
+        "page_id": "1451909405021929",
+        "page_name": "Applifting",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "target_locations": [
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "23",
+            "45"
+        ],
+        "eu_total_reach": 9075,
+        "beneficiary_payers": [
+            {
+                "payer": "Applifting s.r.o.",
+                "beneficiary": "Applifting s.r.o.",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "male": 201,
+                        "female": 75,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 986,
+                        "female": 387,
+                        "unknown": 26
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 3289,
+                        "female": 1009,
+                        "unknown": 38
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 2235,
+                        "female": 768,
+                        "unknown": 14
+                    }
+                ]
+            }
+        ],
+        "_id": "3587438828169463"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=7002161429846921&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-10-12",
+        "ad_creative_link_captions": [
+            "applifting.io",
+            "applifting.io",
+            "applifting.io",
+            "applifting.io"
+        ],
+        "ad_delivery_start_time": "2023-10-12",
+        "ad_delivery_stop_time": "2023-10-16",
+        "bylines": "Applifting s.r.o.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Prague"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000111",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001441",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.07127",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.122257",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.182886",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.135003",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.415318",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.049435",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.003104",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.005431",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002328",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.011417",
+                "age": "45-54",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "9000",
+            "upper_bound": "9999"
+        },
+        "page_id": "1451909405021929",
+        "page_name": "Applifting",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "23",
+            "45"
+        ],
+        "eu_total_reach": 9171,
+        "beneficiary_payers": [
+            {
+                "payer": "Applifting s.r.o.",
+                "beneficiary": "Applifting s.r.o.",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "male": 103,
+                        "female": 49,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 1218,
+                        "female": 446,
+                        "unknown": 21
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 3747,
+                        "female": 1103,
+                        "unknown": 28
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 1650,
+                        "female": 643,
+                        "unknown": 13
+                    }
+                ]
+            }
+        ],
+        "_id": "7002161429846921"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=709918300959604&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-09-13",
+        "ad_creative_bodies": [
+            "What exactly is a crisis? And how should you handle it, when you or anyone else is going through one? 🫂 Věra Králová is a coach, psychology student and also a business support specialist at Applifting and she told us everything from crisis recognition all the way to its possible solutions. Learn more about personal crisis and listen to our new episode of podcast, link is in the bio 👆\n\n#Applifting #personalcrisis #crisisolutioin #crisi #podcast #programming #tech #coding #javascript #webdevelopment #startup #coder #technology #it #innovation #design #digital #ux #ui #webdesign #code #softwaredeveloper #app #codinglife #programmer #coderpower #react #devlife",
+            "What exactly is a crisis? And how should you handle it, when you or anyone else is going through one? 🫂 Věra Králová is a coach, psychology student and also a business support specialist at Applifting and she told us everything from crisis recognition all the way to its possible solutions. Learn more about personal crisis and listen to our new episode of podcast, link is in the bio 👆\n\n#Applifting #personalcrisis #crisisolutioin #crisi #podcast #programming #tech #coding #javascript #webdevelopment #startup #coder #technology #it #innovation #design #digital #ux #ui #webdesign #code #softwaredeveloper #app #codinglife #programmer #coderpower #react #devlife"
+        ],
+        "ad_creative_link_captions": [
+            "open.spotify.com"
+        ],
+        "ad_delivery_start_time": "2023-09-15",
+        "ad_delivery_stop_time": "2023-09-22",
+        "bylines": "Applifting s.r.o.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Prague"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001179",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.112553",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.071609",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.290649",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.256108",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.216681",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.037911",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.010615",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002696",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "page_id": "1451909405021929",
+        "page_name": "Applifting",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "target_locations": [
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "40"
+        ],
+        "eu_total_reach": 5937,
+        "beneficiary_payers": [
+            {
+                "payer": "Applifting s.r.o.",
+                "beneficiary": "Applifting s.r.o.",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 1725,
+                        "female": 1286,
+                        "unknown": 63
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 1520,
+                        "female": 668,
+                        "unknown": 16
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 425,
+                        "female": 225,
+                        "unknown": 7
+                    }
+                ]
+            }
+        ],
+        "_id": "709918300959604"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1482707519214842&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-06-02",
+        "ad_creative_link_captions": [
+            "applifting.io",
+            "applifting.io",
+            "applifting.io",
+            "applifting.io",
+            "applifting.io",
+            "applifting.io",
+            "applifting.io",
+            "applifting.io",
+            "applifting.io"
+        ],
+        "ad_delivery_start_time": "2023-06-03",
+        "ad_delivery_stop_time": "2023-06-05",
+        "bylines": "Applifting s.r.o.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Prague"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000541",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002165",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.012987",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.011364",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.170455",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.089286",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.184524",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.298701",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.103355",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.120671",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.005952",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "3000",
+            "upper_bound": "3999"
+        },
+        "languages": [
+            "en"
+        ],
+        "page_id": "1451909405021929",
+        "page_name": "Applifting",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "_id": "1482707519214842"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=542858288025204&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-04-17",
+        "ad_creative_link_captions": [
+            "applifting.io",
+            "applifting.io"
+        ],
+        "ad_delivery_start_time": "2023-04-17",
+        "ad_delivery_stop_time": "2023-04-20",
+        "bylines": "Applifting s.r.o.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Prague"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000213",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.008654",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.094836",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001348",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.281316",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.310753",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.143566",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.112073",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.03504",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.007944",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001561",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002695",
+                "age": "45-54",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "20000",
+            "upper_bound": "24999"
+        },
+        "languages": [
+            "en"
+        ],
+        "page_id": "1451909405021929",
+        "page_name": "Applifting",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "_id": "542858288025204"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1462098824608853&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-04-12",
+        "ad_creative_bodies": [
+            "Blood donation at #Applifting 🩸\n\n#donors #blooddonation #software #developer #programming #tech #coding #javascript #webdevelopment #startup #coder #technology #it #innovation #design #digital #ux #ui #webdesign #code #softwaredeveloper #app #codinglife #programmer #coderpower #react #devlife"
+        ],
+        "ad_delivery_start_time": "2023-04-12",
+        "ad_delivery_stop_time": "2023-04-14",
+        "bylines": "Applifting s.r.o.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Prague"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001404",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.049855",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.016451",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.234728",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.220684",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.39663",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.054569",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.021968",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001505",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000702",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001204",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000301",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "page_id": "1451909405021929",
+        "page_name": "Applifting",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "300",
+            "upper_bound": "399"
+        },
+        "_id": "1462098824608853"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=774775763904807&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-04-12",
+        "ad_creative_link_captions": [
+            "applifting.io",
+            "applifting.io",
+            "applifting.io",
+            "applifting.io",
+            "applifting.io",
+            "applifting.io"
+        ],
+        "ad_delivery_start_time": "2023-04-12",
+        "ad_delivery_stop_time": "2023-04-15",
+        "bylines": "Applifting s.r.o.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Prague"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001913",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.003384",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.054297",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.188346",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.038846",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.094909",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.411713",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.192319",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.011624",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00103",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001324",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000294",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "9000",
+            "upper_bound": "9999"
+        },
+        "page_id": "1451909405021929",
+        "page_name": "Applifting",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "_id": "774775763904807"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=262921882830712&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-04-12",
+        "ad_creative_bodies": [
+            "We were at COFIT. 🚀 \n\n#software #developer #programming #tech #coding #javascript #webdevelopment #startup #coder #technology #it #innovation #design #digital #ux #ui #webdesign #code #softwaredeveloper #app #codinglife #programmer #coderpower #react #devlife #careers #jobfair #students"
+        ],
+        "ad_creative_link_captions": [
+            "applifting.io"
+        ],
+        "ad_delivery_start_time": "2023-04-12",
+        "ad_delivery_stop_time": "2023-04-15",
+        "bylines": "Applifting s.r.o.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Prague"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000499",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001579",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001828",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.183677",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.074385",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.05128",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.437251",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.222656",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.014129",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.01122",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001496",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "15000",
+            "upper_bound": "19999"
+        },
+        "languages": [
+            "en"
+        ],
+        "page_id": "1451909405021929",
+        "page_name": "Applifting",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "_id": "262921882830712"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=951930195835840&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-04-04",
+        "ad_creative_bodies": [
+            "Krev našich Applifterů pomáhá.🩸 Díky ochotným zdravotníkům z Všeobecné fakultní nemocnice v Praze jsme zorganizovali darování krve u nás v Appliftingu. Věříme, že tak pomůžeme těm, kteří to potřebují a děkujeme všem zúčastněným. ❤️"
+        ],
+        "ad_delivery_start_time": "2023-04-05",
+        "ad_delivery_stop_time": "2023-04-09",
+        "bylines": "Applifting s.r.o.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Prague"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001577",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000901",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.010928",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.294051",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.311402",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.159531",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.021969",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.067147",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.120324",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.01059",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000225",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001352",
+                "age": "45-54",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1451909405021929",
+        "page_name": "Applifting",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "_id": "951930195835840"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1661943250900760&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-04-04",
+        "ad_creative_link_captions": [
+            "applifting.io",
+            "applifting.io",
+            "applifting.io",
+            "applifting.io",
+            "applifting.io",
+            "applifting.io"
+        ],
+        "ad_delivery_start_time": "2023-04-05",
+        "ad_delivery_stop_time": "2023-04-07",
+        "bylines": "Applifting s.r.o.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Prague"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.014075",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.008472",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001776",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.149084",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.288877",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.122438",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.234764",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.109319",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.004236",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.064089",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002733",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000137",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "page_id": "1451909405021929",
+        "page_name": "Applifting",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "_id": "1661943250900760"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=241401695028596&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-03-29",
+        "ad_creative_bodies": [
+            "What is the key to a successful startup? 🎙️ Let’s find out in the next episode of our podcast with the co-founder and COO of the real estate crowdfunding platform @investown.cz. Link is in the bio. 👆\n\n#Applifting #software #developer #programming #tech #coding #javascript #webdevelopment #startup #coder #technology #it #innovation #design #digital #ux #ui #webdesign #code #softwaredeveloper #app #codinglife #programmer #coderpower #react #devlife #pitch #MVP #cofounder #founder"
+        ],
+        "ad_creative_link_captions": [
+            "applifting.io"
+        ],
+        "ad_delivery_start_time": "2023-03-30",
+        "ad_delivery_stop_time": "2023-04-01",
+        "bylines": "Applifting s.r.o.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Prague"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000497",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000316",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001808",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.17713",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.080542",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.011751",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.447503",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.23096",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.035797",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.012294",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001401",
+                "age": "45-54",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "30000",
+            "upper_bound": "34999"
+        },
+        "page_id": "1451909405021929",
+        "page_name": "Applifting Česko",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "500",
+            "upper_bound": "599"
+        },
+        "_id": "241401695028596"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=742771987449788&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-03-23",
+        "ad_creative_link_captions": [
+            "applifting.io",
+            "applifting.io"
+        ],
+        "ad_delivery_start_time": "2023-03-23",
+        "ad_delivery_stop_time": "2023-03-26",
+        "bylines": "Applifting s.r.o.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Prague"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001748",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "9.7E-5",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001942",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.033595",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.341101",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.128556",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.081076",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.269347",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.118458",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.014273",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.008545",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001262",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "15000",
+            "upper_bound": "19999"
+        },
+        "page_id": "1451909405021929",
+        "page_name": "Applifting Česko",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "300",
+            "upper_bound": "399"
+        },
+        "_id": "742771987449788"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=745419550291493&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-03-23",
+        "ad_creative_bodies": [
+            "Flowers for International Women’s Day are nice, but they won’t close the gender pay gap. At Applifting, we make sure that women earn the same as their male colleagues with the same work experience. 👩‍🚀🧑‍🚀How can we be so sure? With our open salaries based on proven skills, we simply know how much every one of us makes. 💸\n\nHow does it all work?\nEvery Applifter has a competency model for their role that describes the knowledge and skills they should possess at any given level. So we know exactly what to improve on, and it’s up to us how fast we grow—regardless of our gender and identity. Our professional and financial growth is entirely in our hands. 🚀\n\nWhile we did give our female colleagues small gifts on this special day, we believe that constant development and equal opportunities throughout the year are more valuable than one small gift and recognition on one dedicated day. 🤔 We believe in creating a culture of trust and transparency, where everyone is valued and compensated fairly.\n\n#genderequality #gender #genderpaygap #applifting #fuelledbytrust #womensday"
+        ],
+        "ad_creative_link_captions": [
+            "applifting.io"
+        ],
+        "ad_delivery_start_time": "2023-03-23",
+        "ad_delivery_stop_time": "2023-03-26",
+        "bylines": "Applifting s.r.o.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Prague"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000851",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00017",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.003829",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.062963",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.013273",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.189654",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.09589",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.097677",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.213903",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.315239",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00485",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001702",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "15000",
+            "upper_bound": "19999"
+        },
+        "languages": [
+            "en"
+        ],
+        "page_id": "1451909405021929",
+        "page_name": "Applifting Česko",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "_id": "745419550291493"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=582675020588465&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-03-23",
+        "ad_creative_bodies": [
+            "Would you be able to escape from a corporate interview? Let’s find out! Mark your calendar for March 30 and join us at COFIT! Our co-founder Filip Kirschner and our QA tech lead Damian Gorny have prepared an escape game for you, so come and try it yourself. \n\nBesides that, there will be more fun stuff waiting for you!\n\n🚀 Our yellow Mustang\n🚀 Free @candycanecoffee \n🚀 Our merch and Applifters, who will answer all your technical questions\n\nWe are looking forward to seeing you. 👋\n\n#Applifting #software #developer #forstudents"
+        ],
+        "ad_delivery_start_time": "2023-03-24",
+        "ad_delivery_stop_time": "2023-03-29",
+        "bylines": "Applifting s.r.o.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Prague"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000125",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.007148",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001798",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.193838",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.151033",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.358415",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.091339",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.132639",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.05752",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002257",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.003052",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000836",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "35000",
+            "upper_bound": "39999"
+        },
+        "languages": [
+            "en"
+        ],
+        "page_id": "1451909405021929",
+        "page_name": "Applifting Česko",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "_id": "582675020588465"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=171742902373846&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-03-22",
+        "ad_creative_bodies": [
+            "Spring breakfast at #Applifting 🍰🧁\n\n#webdevelopment #startup #coder #technology #it #innovation #design #digital #ux #ui #webdesign #code #softwaredeveloper #app #codinglife #programmer #coderpower #react #devlife"
+        ],
+        "ad_delivery_start_time": "2023-03-22",
+        "ad_delivery_stop_time": "2023-03-25",
+        "bylines": "Applifting s.r.o.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Prague"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001631",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.449126",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.014225",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.212739",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.195162",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.027725",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.084624",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.012866",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000997",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000362",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000544",
+                "age": "45-54",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "en"
+        ],
+        "page_id": "1451909405021929",
+        "page_name": "Applifting Česko",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "_id": "171742902373846"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1282250995980024&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-03-17",
+        "ad_creative_bodies": [
+            "POV your favourite coworker is leaving you... \n\n#Applifting #software #developer #programming #tech #coding #javascript #webdevelopment #startup #coder #technology #it #innovation #design #digital #ux #ui #webdesign #code #softwaredeveloper #app #codinglife #programmer #coderpower #react #devlife"
+        ],
+        "ad_delivery_start_time": "2023-03-17",
+        "ad_delivery_stop_time": "2023-03-20",
+        "bylines": "Applifting s.r.o.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Prague"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000364",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000818",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.005999",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.013544",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.256613",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.476411",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.05445",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.15744",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.032088",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002091",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000182",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "15000",
+            "upper_bound": "19999"
+        },
+        "languages": [
+            "en"
+        ],
+        "page_id": "1451909405021929",
+        "page_name": "Applifting Česko",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "_id": "1282250995980024"
+    }
+]

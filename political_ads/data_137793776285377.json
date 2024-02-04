@@ -1,0 +1,770 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=3579314189022802&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-28",
+        "ad_creative_bodies": [
+            "CNN Prima News nás 14.11.2023 oslovila s otázkami pro reportáž v Hlavních zprávách v 18:55,📺  S vystavením vánočních brigád neváhejte, je pravý čas. 😊"
+        ],
+        "ad_creative_link_titles": [
+            "Rozhovor pro CNN Prima News"
+        ],
+        "ad_delivery_start_time": "2023-11-28",
+        "ad_delivery_stop_time": "2023-11-30",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.054066",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.138653",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.127534",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.051232",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.045564",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.024417",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.031829",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.06453",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.106388",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.055592",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.049488",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.128842",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.069544",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.052322",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.024444",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.118917",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.11209",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.036336",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.136534",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.170887",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.206783",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.027527",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.045144",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.119577",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001101",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00022",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00044",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "9000",
+            "upper_bound": "9999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "137793776285377",
+        "page_name": "JenPráce.cz",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "600",
+            "upper_bound": "699"
+        },
+        "target_locations": [
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": true
+            },
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "60"
+        ],
+        "eu_total_reach": 4646,
+        "beneficiary_payers": [
+            {
+                "payer": "Coweo Technologies s.r.o.",
+                "beneficiary": "Coweo Technologies s.r.o.",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 205,
+                        "female": 111,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 939,
+                        "female": 543,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 776,
+                        "female": 620,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 509,
+                        "female": 540
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 125,
+                        "female": 165
+                    }
+                ]
+            }
+        ],
+        "_id": "3579314189022802"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=362950642759408&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-16",
+        "ad_creative_bodies": [
+            "CNN Prima News nás 14.11.2023 oslovila s otázkami pro reportáž v Hlavních zprávách v 18:55, tématem byly předvánoční brigády. 📺 \n\nSledujeme nyní velký nárůst vystavených pozic o desítky %, poptávka po nich pak také roste v podobných číslech. S vystavením vánočních brigád neváhejte, je pravý čas. 😊"
+        ],
+        "ad_creative_link_titles": [
+            "Rozhovor pro CNN Prima News"
+        ],
+        "ad_delivery_start_time": "2023-11-16",
+        "ad_delivery_stop_time": "2023-11-16",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.050296",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.107988",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.147929",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.057692",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.056213",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.023669",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.019231",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.088757",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.130178",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.042899",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.04142",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.10503",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.060651",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.068047",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.032544",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.047337",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.137574",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.178994",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.174556",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.047337",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.139053",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.011834",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.14645",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.08432",
+                "age": "25-34",
+                "gender": "female"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "137793776285377",
+        "page_name": "JenPráce.cz",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": true
+            },
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "60"
+        ],
+        "eu_total_reach": 675,
+        "beneficiary_payers": [
+            {
+                "payer": "Coweo Technologies s.r.o.",
+                "beneficiary": "Coweo Technologies s.r.o.",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 22,
+                        "female": 8
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 118,
+                        "female": 57
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 121,
+                        "female": 94
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 99,
+                        "female": 93
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 32,
+                        "female": 32
+                    }
+                ]
+            }
+        ],
+        "_id": "362950642759408"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1578356379312321&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-04-14",
+        "ad_creative_bodies": [
+            "#nebudhr č. 11  Rovné podmínky na pracovišti by měly být samozřejmostí. 👩‍ 👨 Zaměstnavatel nesmí diskriminovat člověka na základě věku, pohlaví nebo náboženského vyznání. V České republice diskriminaci zakazuje Listina základních práv a svobod. ⚖️\n\nRovné zacházení musí být zajištěno na těchto úrovních:\n▪️ pracovní podmínky (např. pracovní doba)\n▪️ odměňování za práci (např. plat + bonusy, prémie nebo benefity)\n▪️ odborná příprava (např. odborná školení)\n▪️ příležitost dosáhnout postupu v zaměstnání\n\n❕Pozor, diskriminací není například požadavek minimálního věku, odborné praxe či délky zaměstnání, jestliže je to pro výkon práce nezbytné.\n\nDiskriminaci se lze bránit. Doporučujeme shromáždit důkazy či svědky a poté kontaktovat nadřízeného nebo inspektorát práce. 👩‍⚖️"
+        ],
+        "ad_delivery_start_time": "2023-04-14",
+        "ad_delivery_stop_time": "2023-04-15",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.00026",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.045195",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.244935",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.130649",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.052987",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.043117",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.015065",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.035584",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.048312",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.093506",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.036104",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.051948",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.106234",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.050649",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.045455",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000258",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.106866",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001291",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.011616",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.006711",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002065",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.139133",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.09809",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.042592",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001033",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.025813",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.148684",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.075891",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.118998",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.043624",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.162623",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.013939",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000774",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "3000",
+            "upper_bound": "3999"
+        },
+        "page_id": "137793776285377",
+        "page_name": "JenPráce.cz",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "_id": "1578356379312321"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=3251843515076378&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-01-02",
+        "ad_creative_bodies": [
+            "Celý pracovní rok máme před sebou, kdy si v něm mimo víkendů odpočineme? Podívejte se na přehled svátků v roce 2023 a těšte se na pár prodloužených víkendů 😎"
+        ],
+        "ad_delivery_start_time": "2023-01-02",
+        "ad_delivery_stop_time": "2023-01-30",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.059378",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.065975",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.106503",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.054665",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.044298",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.032045",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.047125",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.075401",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.153629",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.058435",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.046183",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.098021",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.094251",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.06409",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000943",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000943",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.016023",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.088596",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.135721",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.201697",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.137606",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.03016",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.110273",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.057493",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.066918",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.032045",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.025448",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.094251",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000943",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000943",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "5001",
+            "upper_bound": "10000"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "137793776285377",
+        "page_name": "JenPráce.cz",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "_id": "3251843515076378"
+    }
+]

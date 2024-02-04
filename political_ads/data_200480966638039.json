@@ -1,0 +1,1408 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1451711838706787&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-10-13",
+        "ad_creative_link_captions": [
+            "itunes.apple.com"
+        ],
+        "ad_delivery_start_time": "2023-10-13",
+        "ad_delivery_stop_time": "2023-11-03",
+        "currency": "EUR",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "All (Automated App Ads)"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.002892",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.032521",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001496",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000742",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.005163",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.06652",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000991",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.029944",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.004717",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.003104",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.187092",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.370984",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.26219",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.010699",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.007328",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.012995",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000289",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000333",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "350000",
+            "upper_bound": "399999"
+        },
+        "page_id": "200480966638039",
+        "page_name": "Supremacy 1914",
+        "publisher_platforms": [
+            "facebook",
+            "instagram",
+            "audience_network",
+            "messenger"
+        ],
+        "spend": {
+            "lower_bound": "2000",
+            "upper_bound": "2499"
+        },
+        "target_locations": [
+            {
+                "name": "Ireland",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            },
+            {
+                "name": "Netherlands",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            },
+            {
+                "name": "Spain",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            },
+            {
+                "name": "Sweden",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            },
+            {
+                "name": "Finland",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            },
+            {
+                "name": "Denmark",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            },
+            {
+                "name": "Belgium",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            },
+            {
+                "name": "Greece",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            },
+            {
+                "name": "Poland",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            },
+            {
+                "name": "Portugal",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            },
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            },
+            {
+                "name": "Hungary",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 84562,
+        "beneficiary_payers": [
+            {
+                "payer": "Bytro Labs GmbH",
+                "beneficiary": "Bytro Labs GmbH",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "GR",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "55-64",
+                        "male": 53,
+                        "female": 2,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 3881,
+                        "female": 162,
+                        "unknown": 14
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 2941,
+                        "female": 293,
+                        "unknown": 49
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 1034,
+                        "female": 36,
+                        "unknown": 21
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 74,
+                        "female": 4,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 328,
+                        "female": 24,
+                        "unknown": 7
+                    }
+                ]
+            },
+            {
+                "country": "SE",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 2215,
+                        "female": 129,
+                        "unknown": 9
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 1380,
+                        "female": 109,
+                        "unknown": 15
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 66,
+                        "female": 4,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 1218,
+                        "female": 72,
+                        "unknown": 23
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 450,
+                        "female": 20,
+                        "unknown": 16
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 35,
+                        "female": 4,
+                        "unknown": 5
+                    }
+                ]
+            },
+            {
+                "country": "ES",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 4936,
+                        "female": 439,
+                        "unknown": 56
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 4043,
+                        "female": 653,
+                        "unknown": 120
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 137,
+                        "female": 5,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 93,
+                        "female": 10,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 1621,
+                        "female": 79,
+                        "unknown": 20
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 576,
+                        "female": 51,
+                        "unknown": 12
+                    }
+                ]
+            },
+            {
+                "country": "FI",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 178,
+                        "female": 8,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 122,
+                        "female": 10,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 4,
+                        "female": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 96,
+                        "female": 3
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 26,
+                        "female": 2,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 3,
+                        "female": 2
+                    }
+                ]
+            },
+            {
+                "country": "DK",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 2094,
+                        "female": 73,
+                        "unknown": 11
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 1194,
+                        "female": 66,
+                        "unknown": 8
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 334,
+                        "female": 13,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 40,
+                        "female": 5
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 953,
+                        "female": 36,
+                        "unknown": 16
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 10,
+                        "female": 1
+                    }
+                ]
+            },
+            {
+                "country": "NL",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 3761,
+                        "female": 265,
+                        "unknown": 18
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 1454,
+                        "female": 88,
+                        "unknown": 15
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 89,
+                        "female": 6,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 446,
+                        "female": 36,
+                        "unknown": 9
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 2845,
+                        "female": 283,
+                        "unknown": 41
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 54,
+                        "female": 3,
+                        "unknown": 1
+                    }
+                ]
+            },
+            {
+                "country": "PL",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 3107,
+                        "female": 233,
+                        "unknown": 34
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 2503,
+                        "female": 425,
+                        "unknown": 96
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 247,
+                        "female": 13,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 1347,
+                        "female": 70,
+                        "unknown": 13
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 95,
+                        "female": 4,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 28,
+                        "female": 1,
+                        "unknown": 2
+                    }
+                ]
+            },
+            {
+                "country": "HU",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 816,
+                        "female": 71,
+                        "unknown": 12
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 816,
+                        "female": 130,
+                        "unknown": 30
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 11,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 285,
+                        "female": 12,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 16,
+                        "female": 5,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 68,
+                        "female": 7,
+                        "unknown": 1
+                    }
+                ]
+            },
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 2099,
+                        "female": 157,
+                        "unknown": 39
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 2368,
+                        "female": 284,
+                        "unknown": 130
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 98,
+                        "female": 15,
+                        "unknown": 9
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 516,
+                        "female": 32,
+                        "unknown": 13
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 65,
+                        "female": 4,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 18,
+                        "female": 1
+                    }
+                ]
+            },
+            {
+                "country": "PT",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 4677,
+                        "female": 538,
+                        "unknown": 40
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 3361,
+                        "female": 639,
+                        "unknown": 53
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 507,
+                        "female": 41,
+                        "unknown": 10
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 63,
+                        "female": 6,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 1372,
+                        "female": 121,
+                        "unknown": 11
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 74,
+                        "female": 10,
+                        "unknown": 1
+                    }
+                ]
+            },
+            {
+                "country": "BE",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 3924,
+                        "female": 146,
+                        "unknown": 17
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 3025,
+                        "female": 269,
+                        "unknown": 49
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 380,
+                        "female": 19,
+                        "unknown": 9
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 42,
+                        "female": 2
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 47,
+                        "female": 2,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 1328,
+                        "female": 64,
+                        "unknown": 24
+                    }
+                ]
+            },
+            {
+                "country": "IE",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 1709,
+                        "female": 116,
+                        "unknown": 13
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 763,
+                        "female": 52,
+                        "unknown": 10
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 46,
+                        "female": 5
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 25,
+                        "female": 1
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 901,
+                        "female": 149,
+                        "unknown": 19
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 301,
+                        "female": 32,
+                        "unknown": 11
+                    }
+                ]
+            }
+        ],
+        "_id": "1451711838706787"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=906553453884936&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-04-13",
+        "ad_creative_bodies": [
+            "Time to change History"
+        ],
+        "ad_creative_link_captions": [
+            "itunes.apple.com"
+        ],
+        "ad_creative_link_titles": [
+            "The WW1 Strategy Game",
+            "WWI Grand Strategy Game",
+            "Time to change History"
+        ],
+        "ad_delivery_start_time": "2023-04-13",
+        "ad_delivery_stop_time": "2023-04-30",
+        "currency": "EUR",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "All (Automated App Ads)"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "1.0E-6",
+                "age": "13-17",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.005979",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.136612",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.028014",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.01363",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.393923",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.020082",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.112775",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.255357",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.014232",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001096",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.007545",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001277",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001756",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002646",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000379",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002325",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001933",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000439",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "1000000"
+        },
+        "page_id": "200480966638039",
+        "page_name": "Supremacy 1914",
+        "publisher_platforms": [
+            "facebook",
+            "instagram",
+            "audience_network",
+            "messenger"
+        ],
+        "spend": {
+            "lower_bound": "15000",
+            "upper_bound": "19999"
+        },
+        "_id": "906553453884936"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1422596525180035&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-04-13",
+        "ad_creative_bodies": [
+            "Time to change History"
+        ],
+        "ad_creative_link_captions": [
+            "play.google.com"
+        ],
+        "ad_creative_link_titles": [
+            "The WW1 Strategy Game",
+            "WWI Grand Strategy Game"
+        ],
+        "ad_delivery_start_time": "2023-04-13",
+        "ad_delivery_stop_time": "2023-04-19",
+        "currency": "EUR",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "All (Automated App Ads)"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000407",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002241",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002978",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000237",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001652",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001547",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.091257",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.012677",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.015417",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.277704",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.115282",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.006919",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.005386",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.022383",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.022138",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000906",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.419657",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001213",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "500000",
+            "upper_bound": "599999"
+        },
+        "languages": [
+            "en"
+        ],
+        "page_id": "200480966638039",
+        "page_name": "Supremacy 1914",
+        "publisher_platforms": [
+            "facebook",
+            "instagram",
+            "audience_network",
+            "messenger"
+        ],
+        "spend": {
+            "lower_bound": "4000",
+            "upper_bound": "4499"
+        },
+        "_id": "1422596525180035"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=538425828184056&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-03-14",
+        "ad_creative_bodies": [
+            "Time to change History"
+        ],
+        "ad_creative_link_captions": [
+            "play.google.com"
+        ],
+        "ad_creative_link_titles": [
+            "The WW1 Strategy Game",
+            "WWI Grand Strategy Game"
+        ],
+        "ad_delivery_start_time": "2023-03-14",
+        "ad_delivery_stop_time": "2023-03-20",
+        "currency": "EUR",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "All (Automated App Ads)"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "1.0E-6",
+                "age": "13-17",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.007475",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.012745",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002247",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.020608",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.464521",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.078068",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.387883",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002904",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.015156",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000109",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00057",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.004462",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001252",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001166",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000381",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000177",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "3.4E-5",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000242",
+                "age": "55-64",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "1000000"
+        },
+        "page_id": "200480966638039",
+        "page_name": "Supremacy 1914",
+        "publisher_platforms": [
+            "facebook",
+            "instagram",
+            "audience_network",
+            "messenger"
+        ],
+        "spend": {
+            "lower_bound": "5000",
+            "upper_bound": "5999"
+        },
+        "_id": "538425828184056"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=566222441942744&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-03-14",
+        "ad_creative_bodies": [
+            "Time to change History"
+        ],
+        "ad_creative_link_captions": [
+            "itunes.apple.com"
+        ],
+        "ad_creative_link_titles": [
+            "The WW1 Strategy Game",
+            "WWI Grand Strategy Game",
+            "Time to change History"
+        ],
+        "ad_delivery_start_time": "2023-03-14",
+        "ad_delivery_stop_time": "2023-05-13",
+        "currency": "EUR",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "All (Automated App Ads)"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0",
+                "age": "13-17",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.017259",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.043993",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.006383",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.244254",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.361045",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.131226",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.129367",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.021155",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.019761",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000463",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001757",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001642",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.010286",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.004669",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002671",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002526",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000945",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000599",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0",
+                "age": "13-17",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "1000000"
+        },
+        "languages": [
+            "en"
+        ],
+        "page_id": "200480966638039",
+        "page_name": "Supremacy 1914",
+        "publisher_platforms": [
+            "facebook",
+            "instagram",
+            "audience_network",
+            "messenger"
+        ],
+        "spend": {
+            "lower_bound": "150000",
+            "upper_bound": "174999"
+        },
+        "_id": "566222441942744"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=899304027941503&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-03-02",
+        "ad_creative_bodies": [
+            "Time to change History"
+        ],
+        "ad_creative_link_captions": [
+            "play.google.com"
+        ],
+        "ad_creative_link_titles": [
+            "The WW1 Strategy Game",
+            "WWI Grand Strategy Game",
+            "Time to change History"
+        ],
+        "ad_delivery_start_time": "2023-03-02",
+        "ad_delivery_stop_time": "2023-05-09",
+        "currency": "EUR",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "All (Automated App Ads)"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0",
+                "age": "13-17",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.010765",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00103",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001489",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002017",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000676",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001655",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001783",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.013379",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.018659",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "1.0E-6",
+                "age": "13-17",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.287028",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.399475",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.170129",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.023546",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.050321",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.013047",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.004608",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000169",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000224",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "1000000"
+        },
+        "page_id": "200480966638039",
+        "page_name": "Supremacy 1914",
+        "publisher_platforms": [
+            "facebook",
+            "instagram",
+            "audience_network",
+            "messenger"
+        ],
+        "spend": {
+            "lower_bound": "100000",
+            "upper_bound": "124999"
+        },
+        "_id": "899304027941503"
+    }
+]

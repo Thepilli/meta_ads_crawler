@@ -1,0 +1,381 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=706154024326100&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-10-19",
+        "ad_creative_bodies": [
+            "Revoluce v odpadech právě začíná! Zavádíme systém, který přinese pokles množství směsného odpadu až o desítky procent, a navíc se zvýší podíl recyklování!♻️Co to znamená pro vás, občany Opatovic nad Labem?😊⤵️ \n \n\nV roce 2024 se v ulicích místo pytlů objeví 120l a 240l modré popelnice na papír a žluté na plast (jak objemné si zvolíte, je jen na vás). Stačí nahlásit svůj požadavek na podatelnu obecního úřadu, a to do konce října letošního roku.📞 Každý kontejner bude označen čárovým nebo QR kódem, který bude propojen s vaším účtem. Stačí kód načíst přes mobilní telefon, a máte odpad evidován. Díky tomu dokážeme například snadno určit případné slevy na poplatku pro jednotlivé domácnosti.😊  \n \n\nCo na tyto změny říkáte? Určitě nám napište váš názor a podělte se, co vás trápí v oblasti odpadů u nás v Opatovicích, a mrkneme se na to. 😊"
+        ],
+        "ad_delivery_start_time": "2023-10-19",
+        "ad_delivery_stop_time": "2023-10-31",
+        "bylines": "Opatovice podle vás",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Pardubice Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000316",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000316",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.071406",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001896",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.092575",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.014218",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.258136",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.113744",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.084676",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.01327",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.018325",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.060664",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.189889",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.054976",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.024013",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00158",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1001",
+            "upper_bound": "5000"
+        },
+        "impressions": {
+            "lower_bound": "15000",
+            "upper_bound": "19999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "571612776215678",
+        "page_name": "Opatovice podle vás",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "target_locations": [
+            {
+                "name": "Opatovice nad Labem, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "17",
+            "65"
+        ],
+        "eu_total_reach": 3194,
+        "beneficiary_payers": [
+            {
+                "payer": "Opatovice podle vás",
+                "beneficiary": "Opatovice podle vás",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 268,
+                        "female": 174,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 601,
+                        "female": 226,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 817,
+                        "female": 360,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 293,
+                        "female": 192,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 76,
+                        "female": 58
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 42,
+                        "female": 45
+                    }
+                ]
+            }
+        ],
+        "_id": "706154024326100"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1084229129601412&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-10-02",
+        "ad_creative_bodies": [
+            "Důležité vítězství pro Opatovice nad Labem u Ústavního soudu přinese 4 miliony korun do rozpočtu obce! \n\nDlouhou dobu jsme se snažili chránit naše obyvatele před negativními vlivy a externalitami spojenými s elektrárnou v naší obci. Proto jsme zavedli vyšší daň z nemovitosti pouze v této konkrétní zóně, abychom zajistili, že naši občané nebudou nespravedlivě zatěžováni.\n\nMinisterstvo vnitra naše rozhodnutí napadlo s argumentem, že bychom měli zvýšit daň plošně. To jsme jednoznačně odmítli. Jsme hrdi na to, že jsme nezůstali mlčet a hájili naše právo na samosprávu a rozhodování. A vyplatilo se, Ústavní soud nám dal za pravdu! 🏆\n\nTato výhra pomůže k tomu, abychom nadále rozvíjeli Opatovice jako skvělé místo k životu. Ostatně, vyšší daň z nemovitosti pro zónu s elektrárnou do rozpočtu obce přinese 4 miliony korun, které poslouží k dalšímu rozvoji služeb pro vás, občany Opatovic nad Labem. Děkujeme vám všem za vaši podporu a za to, že jste stáli na naší straně během tohoto náročného procesu.\n\nSpolečně jsme dokázali, že lokální samospráva může mít úspěch v boji za spravedlnost a zachování kvality života našich občanů."
+        ],
+        "ad_delivery_start_time": "2023-10-02",
+        "ad_delivery_stop_time": "2023-10-19",
+        "bylines": "Opatovice podle vás",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Pardubice Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.00025",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.014243",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.013993",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.01999",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.112694",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.053223",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.05997",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.251874",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.0005",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.069215",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.188906",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.09945",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.084958",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.028236",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00025",
+                "age": "13-17",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00075",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.0005",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1001",
+            "upper_bound": "5000"
+        },
+        "impressions": {
+            "lower_bound": "25000",
+            "upper_bound": "29999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "571612776215678",
+        "page_name": "Opatovice podle vás",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "1500",
+            "upper_bound": "1999"
+        },
+        "target_locations": [
+            {
+                "name": "Opatovice nad Labem, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "17",
+            "65"
+        ],
+        "eu_total_reach": 3833,
+        "beneficiary_payers": [
+            {
+                "payer": "Bondster",
+                "beneficiary": "Bondster",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "55-64",
+                        "male": 113,
+                        "female": 80,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 756,
+                        "female": 277,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 57,
+                        "female": 56
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 398,
+                        "female": 213,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 1008,
+                        "female": 451,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 340,
+                        "female": 240,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "13-17",
+                        "male": 1
+                    }
+                ]
+            }
+        ],
+        "_id": "1084229129601412"
+    }
+]

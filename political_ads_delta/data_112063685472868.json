@@ -1,0 +1,196 @@
+[
+    {
+        "id": "1151128389191612",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1151128389191612&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-28",
+        "ad_creative_bodies": [
+            "Vyhlášení výsledků primárních voleb KDU-ČSL do Zastupitelstva Karlovarského kraje 📣📣\n\n👉 V sobotu 27. 1. 2024 se uskutečnila v Bečově nad Teplou Nominační konference KDU-ČSL primárních voleb pro volby do Zastupitelstva Karlovarského kraje. \n\n✅ Pozici lídra potvrdila radní pro oblast kultury a památkové péče Karlovarského kraje KDU-ČSL Olga Haláková. \n\n✅ Druhé místo obsadil odborník na energetiku Ing. Miloš Holík. \n\n✅ Třetí příčku uzavírá úspěšná podnikatelka a místostarostka obce Nový Kostel Mgr. Anna Kastlová. \n\nVšem zvoleným kandidátům gratulujeme! ❤️"
+        ],
+        "ad_delivery_start_time": "2024-01-28",
+        "ad_delivery_stop_time": "2024-02-01",
+        "bylines": "Krajská organizace Karlovarského kraje KDU-ČSL",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Karlovy Vary Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000345",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.005515",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001724",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000689",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002413",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001034",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.014478",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.015512",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.028266",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001034",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.065839",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.149259",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.151327",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.212341",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.206825",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.089624",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.051706",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002068",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "4000",
+            "upper_bound": "4999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "112063685472868",
+        "page_name": "KDU-ČSL Karlovarský kraj",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "500",
+            "upper_bound": "599"
+        },
+        "target_locations": [
+            {
+                "name": "Karlovy Vary Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 2878,
+        "beneficiary_payers": [
+            {
+                "payer": "KDU-ČSL Karlovarský kraj",
+                "beneficiary": "KDU-ČSL Karlovarský kraj",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "55-64",
+                        "male": 433,
+                        "female": 260,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 191,
+                        "female": 42,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 600,
+                        "female": 616,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 439,
+                        "female": 150,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 82,
+                        "female": 16,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 45,
+                        "female": 7,
+                        "unknown": 2
+                    }
+                ]
+            }
+        ]
+    }
+]

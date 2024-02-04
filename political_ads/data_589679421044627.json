@@ -1,0 +1,4829 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=247991351645184&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-24",
+        "ad_creative_bodies": [
+            "Krásné Vánoce a jen to nejlepší do nového roku přejí Starostové z Vysočiny. ✨❤️ Lukáš Vlček • poslanec za Vysočinu, Hana Žáková, Milan Kunst, Adam Joura, Pavel Pacal, Pavel Hájek • radní Kraje Vysočina, Martin Mrkos, starosta Žďáru nad Sázavou, David Šafránek, Martin Ferdan, Radek Hošek • zastupitel města Jihlavy"
+        ],
+        "ad_delivery_start_time": "2023-12-24",
+        "ad_delivery_stop_time": "2023-12-30",
+        "bylines": "Starostové a nezávislí",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Vysočina Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001495",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.06001",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000575",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00046",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002127",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.085072",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.016037",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.050641",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.015807",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001552",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.090303",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.099845",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.143071",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.164511",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.152727",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.038225",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.07645",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001092",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "25000",
+            "upper_bound": "29999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "589679421044627",
+        "page_name": "STAN Kraj Vysočina",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "target_locations": [
+            {
+                "name": "Vysočina Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 16894,
+        "beneficiary_payers": [
+            {
+                "payer": "Lukáš Vlček • poslanec za Vysočinu",
+                "beneficiary": "Lukáš Vlček • poslanec za Vysočinu",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 279,
+                        "female": 275,
+                        "unknown": 8
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 1737,
+                        "female": 2657,
+                        "unknown": 37
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 1044,
+                        "female": 2489,
+                        "unknown": 19
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 1330,
+                        "female": 2862,
+                        "unknown": 27
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 1571,
+                        "female": 1480,
+                        "unknown": 26
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 881,
+                        "female": 665,
+                        "unknown": 10
+                    }
+                ]
+            }
+        ],
+        "_id": "247991351645184"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=250438801178549&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-12",
+        "ad_creative_bodies": [
+            "Velké Meziříčí je třetím rokem šampionem Zdravých měst, obcí a regionů České republiky. Ocenění získalo za aktivní zapojování veřejnosti, strategické plánování, udržitelný rozvoj a zdraví. 🏆\n\n💬 „Takové nezávislé hodnocení našeho města zvenčí je pro mě potvrzením, že to v rámci českého kontextu děláme dobře. Naše pracovní postupy při řízení samosprávy stojí na všech třech pilířích udržitelného rozvoje – environmentálním, ekonomickém a sociálním. V tom chceme i nadále pokračovat,“ uvedl starosta Alexandros Kaminaras."
+        ],
+        "ad_delivery_start_time": "2023-12-12",
+        "ad_delivery_stop_time": "2023-12-15",
+        "bylines": "Starostové a nezávislí",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.001261",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.998739",
+                "region": "Vysočina Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.002502",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000625",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.010006",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.1995",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.071295",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.103815",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.255159",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.10444",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.116323",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.095059",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.034396",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001876",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.005003",
+                "age": "55-64",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "2000",
+            "upper_bound": "2999"
+        },
+        "page_id": "589679421044627",
+        "page_name": "STAN Kraj Vysočina",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Velke Mezirici, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "55"
+        ],
+        "eu_total_reach": 1586,
+        "beneficiary_payers": [
+            {
+                "payer": "Starostové a nezávislí ",
+                "beneficiary": "Starostové a nezávislí ",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 114,
+                        "female": 55
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 408,
+                        "female": 167,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 319,
+                        "female": 152,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 186,
+                        "female": 166,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 16,
+                        "female": 8
+                    }
+                ]
+            }
+        ],
+        "_id": "250438801178549"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=201022946387712&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-02",
+        "ad_creative_bodies": [
+            "🎄 ADVENT A VÁNOCE VE ŽĎÁŘE\n\nLetošní advent ve Žďáře nad Sázavou bude úplně jiný, než na jaký jste zvyklí! Pojďme se nyní podívat na všechny novinky 👇\n\n✨ 𝗔𝗗𝗩𝗘𝗡𝗧𝗡𝗜́ 𝗞𝗔𝗟𝗘𝗡𝗗𝗔́𝗥̌ 𝗞𝗨𝗟𝗧𝗨𝗥𝗡𝗜́𝗖𝗛 𝗔𝗞𝗖𝗜́: Od 1. prosince se každý den můžete těšit na jednu, ale klidně i víc kulturních lahůdek. Program najdete na webu města 👉 https://cutt.ly/web-advent23\n✨ 𝗡𝗢𝗩𝗘́ 𝗩𝗔́𝗡𝗢𝗖̌𝗡𝗜́ 𝗢𝗦𝗩𝗘̌𝗧𝗟𝗘𝗡𝗜́ 𝗖𝗘𝗡𝗧𝗥𝗔 𝗠𝗘̌𝗦𝗧𝗔: Nová světelná výzdoba včetně 3D prvků vás provede od nazdobené Staré radnice, kašny a vánočního stromu s novou výzdobu z náměstí kolem kostela sv. Prokopa až k muzeu na Tvrzi.\n✨ 𝗩𝗔́𝗡𝗢𝗖̌𝗡𝗜́ 𝗧𝗥𝗛𝗬: Chybět nebudou ani stánky s dobrotami na pěší zóně. Otevřeno budou mít každý den.\n✨ 𝗞𝗟𝗨𝗭𝗜𝗦̌𝗧𝗘̌ 𝗦 𝗨𝗠𝗘̌𝗟𝗬́𝗠 𝗟𝗘𝗗𝗘𝗠: Letos si zabruslíte přímo na náměstí. Plocha 10 x 20 metrů bude bruslařům k dispozici zdarma minimálně do ledna, najednou se vejde až 35 lidí.\n\n👉 „Vše je koncipováno hlavně pro obyvatele města a lidi z regionu. Nechceme z toho dělat Disneyland pro turisty, byť samozřejmě i tyto návštěvníky může náš koncept zaujmout,“ říká Martin Mrkos, starosta Žďáru nad Sázavou.\n\n#vanocenavysocine"
+        ],
+        "ad_delivery_start_time": "2023-12-02",
+        "ad_delivery_stop_time": "2023-12-07",
+        "bylines": "Starostové a nezávislí",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.996111",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.003889",
+                "region": "Pardubice Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001294",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.050809",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001618",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000647",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.017152",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.023625",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.165049",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.06246",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.177023",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001294",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.111974",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.070874",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.177023",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.053398",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.060841",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.023948",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000647",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000324",
+                "age": "18-24",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "5000",
+            "upper_bound": "5999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "589679421044627",
+        "page_name": "STAN Kraj Vysočina",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Zdar nad Sazavou, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 3080,
+        "beneficiary_payers": [
+            {
+                "payer": "Starostové a nezávislí ",
+                "beneficiary": "Starostové a nezávislí ",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "65+",
+                        "male": 53,
+                        "female": 188,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 157,
+                        "female": 547,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 74,
+                        "female": 346,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 219,
+                        "female": 547,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 73,
+                        "female": 165,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 193,
+                        "female": 510,
+                        "unknown": 4
+                    }
+                ]
+            }
+        ],
+        "_id": "201022946387712"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=872689584444954&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-02",
+        "ad_creative_bodies": [
+            "🎄 ADVENT A VÁNOCE VE SVĚTLÉ NAD SÁZAVOU\n\nSvětlá nad Sázavou je vyhlášená svou výzdobou, jejíž součástí jsou i 3D prvky. Zářící ozdoby tam můžete obdivovat nejen v ulicích, ale hlavně v parku. Letos návštěvníky čeká řada novinek, nepřijdou však ani o tradiční Zpívající ostrov, odkud se opět poline hudba, či Ježíškovu poštu. 📯\n\n✨ 𝗭𝗜𝗠𝗡𝗜́ 𝗣𝗥𝗢𝗖𝗛𝗔́𝗭𝗞𝗔: Vydejte se do tajuplného světa světýlek a 3D zvířátek. Zimní procházka se ve Světlé stala už tradiční a návštěvníky zavede z náměstí přes most a zlatou bránu do zámeckého parku, kde si mohou vybrat jednu z hvězdných cestiček.\n✨ 𝗭𝗣𝗜́𝗩𝗔𝗝𝗜́𝗖𝗜́ 𝗢𝗦𝗧𝗥𝗢𝗩: Zimní procházka vás zavede až k Dolnímu parkovému rybníky, na kterém se zabydlely dvě svítící labutě a z ostrůvku za nimi se line jemná hudba, která vám vykouzlí nejen úsměv na rtech, ale dýchne na vás tou pravou vánoční atmosférou.\n✨ 𝗝𝗘𝗭̌𝗜́𝗦̌𝗞𝗢𝗩𝗔 𝗣𝗢𝗦̌𝗧𝗔: Nezapomeňte s sebou na procházku vzít i dopisy Ježíškovi. Nedaleko Dolního parkového rybníka má totiž svou schránku.\n✨ 𝗠𝗜𝗞𝗨𝗟𝗔́𝗦̌𝗦𝗞𝗘́ 𝗧𝗥𝗛𝗬 𝗔 𝗖̌𝗘𝗥𝗧𝗜 𝗩 𝗣𝗢𝗗𝗭𝗘𝗠𝗜́: V úterý 5. prosince se světelské podzemí promění na pekelnou říši. Čerti se po roce vrátili domů a čekají na zlobivé děti. Za odměnu si pak všichni účastníci mohou na mikulášských trzích koupit něco dobrého na zub nebo pro radost a nasát vánoční atmosféru.\n✨ 𝗩𝗬́𝗦𝗧𝗔𝗩𝗬: Chybět nebudou ani výstavy ve světelské galerii a na světelském zámku. Těšit se můžete na obrazy, keramiku, ukázku historie českých Vánoc a vánočních zvyků nebo třeba české korunovační klenoty.\n\n👉 „Adventní program ve Světlé bude opravdu bohatý. Těšit se můžete i na spoustu kulturních vystoupení. Kouzelnou atmosféru letos doplňuje i sníh, takže procházka osvětleným parkem, kterou připravila KyTICe a TBS, bude opravdu nádherná. Ostatní přijeďte se podívat sami,“ láká světelský místostarosta Tomáš Rosecký.\n\n#vanocenavysocine"
+        ],
+        "ad_delivery_start_time": "2023-12-02",
+        "ad_delivery_stop_time": "2023-12-07",
+        "bylines": "Starostové a nezávislí",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.984228",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.015772",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001139",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.048577",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000759",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000759",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000759",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.009108",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.013662",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.061101",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.012524",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.116509",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.075522",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.187476",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.04592",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.193548",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.197723",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.034156",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000759",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "3000",
+            "upper_bound": "3999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "589679421044627",
+        "page_name": "STAN Kraj Vysočina",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Svetla nad Sazavou, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 2659,
+        "beneficiary_payers": [
+            {
+                "payer": "Starostové a nezávislí",
+                "beneficiary": "Starostové a nezávislí",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "35-44",
+                        "male": 121,
+                        "female": 521,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 24,
+                        "female": 199,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 33,
+                        "female": 307,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 90,
+                        "female": 510,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 128,
+                        "female": 494,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 36,
+                        "female": 161
+                    }
+                ]
+            }
+        ],
+        "_id": "872689584444954"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=175552205548292&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-10-25",
+        "ad_creative_bodies": [
+            "Vynikající herec, dabér a především třebíčský rodák Miloslav Mejzlík je od včerejška čestným občanem Město Třebíč. ❤️ Nejvyšší ocenění města mu předal starosta Pavel Pacal. Na slavnostním večeru nechyběla ani senátorka Hana Žáková."
+        ],
+        "ad_delivery_start_time": "2023-10-25",
+        "ad_delivery_stop_time": "2023-10-30",
+        "bylines": "Starostové a nezávislí",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.024945",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.975055",
+                "region": "Vysočina Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000434",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.1141",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001302",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000868",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001735",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.022993",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.042516",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.01692",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.101518",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.03731",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.039046",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.131453",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.169197",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.10846",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.087636",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.122777",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001735",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "2000",
+            "upper_bound": "2999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "589679421044627",
+        "page_name": "STAN Kraj Vysočina",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Vysočina Region, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 2269,
+        "beneficiary_payers": [
+            {
+                "payer": "Starostové a nezávislí",
+                "beneficiary": "Starostové a nezávislí",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 86,
+                        "female": 39,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 202,
+                        "female": 390,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 53,
+                        "female": 263,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 90,
+                        "female": 303,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 283,
+                        "female": 250,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 234,
+                        "female": 98
+                    }
+                ]
+            }
+        ],
+        "_id": "175552205548292"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=349605557635592&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-10-21",
+        "ad_creative_bodies": [
+            "MINISTR MARTIN DVOŘÁK A POSLANEC MARTIN EXNER V JIHLAVĚ!\n \n💶 Jaké jsou výhody a nevýhody přijetí eura v České republice? Vyplatí se Česku přijmout euro? A jaká je vlastně historie společné evropské měny? Přijďte diskutovat s ministrem pro evropské záležitosti Martinem Dvořákem a poslancem Martinem Exnerem.\n\n📆 pátek 27. října od 16:30\n📍 STAN Coworking Jihlava (na rohu ulic Benešova a Věžní)\n\nTěšíme se na vás!"
+        ],
+        "ad_creative_link_captions": [
+            "Euro v Česku | jihlavská debata s Martinem Dvořákem a Martinem Exnerem o EU a společné měně 🇪🇺"
+        ],
+        "ad_creative_link_descriptions": [
+            "MINISTR MARTIN DVOŘÁK A POSLANEC MARTIN EXNER V JIHLAVĚ!\n \n💶 Jaké jsou výhody a nevýhody přijetí eura v České republice? Vyplatí se Česku přijmout euro? A jaká je vlastně historie společné evropské měny? Přijďte diskutovat s ministrem pro evropské záležitosti Martinem Dvořákem a poslancem Martinem Exnerem.\n\n📆 pátek 27. října od 16:30\n📍 STAN Coworking Jihlava (na rohu ulic Benešova a Věžní)\n\nTěšíme se na vás!"
+        ],
+        "ad_creative_link_titles": [
+            "Euro v Česku | jihlavská debata s Martinem Dvořákem a Martinem Exnerem o EU a společné měně 🇪🇺"
+        ],
+        "ad_delivery_start_time": "2023-10-21",
+        "ad_delivery_stop_time": "2023-10-27",
+        "bylines": "Starostové a nezávislí",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Vysočina Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.0006",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002401",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.039616",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.066627",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.060624",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.085834",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.063025",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.115246",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.110444",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.134454",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.051621",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.132053",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.016206",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.115846",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.003001",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002401",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "3000",
+            "upper_bound": "3999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "589679421044627",
+        "page_name": "STAN Kraj Vysočina",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "target_locations": [
+            {
+                "name": "Jihlava, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 1693,
+        "beneficiary_payers": [
+            {
+                "payer": "Starostové a nezávislí",
+                "beneficiary": "Starostové a nezávislí",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "55-64",
+                        "male": 143,
+                        "female": 111,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 66,
+                        "female": 27
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 192,
+                        "female": 86,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 224,
+                        "female": 101,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 184,
+                        "female": 105,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 193,
+                        "female": 220
+                    }
+                ]
+            }
+        ],
+        "_id": "349605557635592"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=995587414851433&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-09-05",
+        "ad_creative_bodies": [
+            "Do lavic na základních školách v Kraji Vysočina dnes usedlo téměř 5600 prvňáčků. 👧👦 Do nové životní etapy je přivítali i senátorka Hana Žáková, poslanec Lukáš Vlček, radní Kraje Vysočina Pavel Hájek, starosta Třebíče Pavel Pacal, starosta Žďáru nad Sázavou Martin Mrkos, starosta Velkého Meziříčí Alex Kaminaras, starosta Moravských Budějovic Martin Ferdan, starosta Horní Cerekve Milan Kunst, starosta Nové Cerekve Zdeněk Rajdlík či místostarosta Humpolce Pavel Hrala.\n\nPřejeme žákům i studentům mnoho školních úspěchů a ať se jim ve školách daří. 💙💛❤️💚"
+        ],
+        "ad_delivery_start_time": "2023-09-05",
+        "ad_delivery_stop_time": "2023-09-07",
+        "bylines": "Starostové a nezávislí",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.064997",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.042338",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.794872",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.072749",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.025045",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000607",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.030358",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.011536",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.006072",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.011536",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.146934",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.031573",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.398907",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.035216",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.060109",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.216758",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.039466",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.0085",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001214",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001214",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "2000",
+            "upper_bound": "2999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "589679421044627",
+        "page_name": "STAN Kraj Vysočina",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Vysočina Region, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 1693,
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 65,
+                        "female": 357,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 14,
+                        "female": 50
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 58,
+                        "female": 657,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 19,
+                        "female": 242,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 10,
+                        "female": 99
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 19,
+                        "female": 52
+                    }
+                ]
+            }
+        ],
+        "_id": "995587414851433"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=816887426583595&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-06-04",
+        "ad_creative_bodies": [
+            "Třebíč se zbarvila do modra 💙\n\nPrvní červnovy víkend totiž už tradičně patřil festivalu Zámostí, který se konal v Podzámecké nivě. 🎶"
+        ],
+        "ad_delivery_start_time": "2023-06-04",
+        "ad_delivery_stop_time": "2023-06-10",
+        "bylines": "Starostové a nezávislí",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.999115",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.000885",
+                "region": "South Moravian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000892",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000595",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.189712",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.148677",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.19774",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.114778",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.127267",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.078204",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.097235",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.042522",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001487",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000892",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "4000",
+            "upper_bound": "4999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "589679421044627",
+        "page_name": "STAN Kraj Vysočina",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "_id": "816887426583595"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=248950887466085&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-03-09",
+        "ad_creative_bodies": [
+            "Dnes proběhl ustanovující sněm mSTAN na Vysočině 💓🎉\n \nGratulujeme Vojtěch Šoula ke zvolení předsedou a Denče Bláhové k pozici místopředsedkyně! Oběma přejeme hodně štěstí ve funkci 🥰"
+        ],
+        "ad_creative_link_captions": [
+            "mladistarostove.cz"
+        ],
+        "ad_creative_link_descriptions": [
+            "All Courses Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis. What Our Students Have to Say Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar da..."
+        ],
+        "ad_creative_link_titles": [
+            "Kraj Vysočina"
+        ],
+        "ad_delivery_start_time": "2023-03-10",
+        "ad_delivery_stop_time": "2023-03-31",
+        "bylines": "Starostové a nezávislí",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Vysočina Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.003534",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.134865",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.230271",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.313899",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.316254",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001178",
+                "age": "18-24",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "7000",
+            "upper_bound": "7999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "589679421044627",
+        "page_name": "STAN Kraj Vysočina",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "500",
+            "upper_bound": "599"
+        },
+        "_id": "248950887466085"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=5858652984231125&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-03-09",
+        "ad_creative_bodies": [
+            "Město Třešť má nově zrekonstruovanou budovu školy na náměstí. Budova byla 10 let opuštěná a bez využití. Teď v ní ale najdou zázemí žáci třešťské ZUŠ, která se tam od nového školního roku přestěhuje. Slavnostního přestřižení pásky se zúčastnila místostarostka Eva Požárová a náměstek hejtmana Roman Fabeš 🎷🩰🎸"
+        ],
+        "ad_delivery_start_time": "2023-03-09",
+        "ad_delivery_stop_time": "2023-03-14",
+        "bylines": "Starostové a nezávislí",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.001658",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.998342",
+                "region": "Vysočina Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000666",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000333",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.094968",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.078307",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.211929",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.063312",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.181939",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.166278",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.132622",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.066978",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002333",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000333",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "4000",
+            "upper_bound": "4999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "589679421044627",
+        "page_name": "STAN Kraj Vysočina",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "_id": "5858652984231125"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=952648569094976&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-03-09",
+        "ad_creative_bodies": [
+            "⚠️ TIME TO BE REAL ⚠️\nMartin Mrkos, starosta Žďáru nad Sázavou na obhlídkách nové sportovní haly, ve které vzniká navíc i lezecká stěna. Sportovní hala bude fungovat od nového školního roku a kromě středoškoláků ji budou využívat i sportovní kluby a veřejnost 🎾🏐🥅🤾‍♀️⛹️‍♀️"
+        ],
+        "ad_delivery_start_time": "2023-03-09",
+        "ad_delivery_stop_time": "2023-03-14",
+        "bylines": "Starostové a nezávislí",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Vysočina Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.002874",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.233333",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.032184",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.162644",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.336207",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.213793",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.003448",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.015517",
+                "age": "35-44",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "5001",
+            "upper_bound": "10000"
+        },
+        "impressions": {
+            "lower_bound": "3000",
+            "upper_bound": "3999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "589679421044627",
+        "page_name": "STAN Kraj Vysočina",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "_id": "952648569094976"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=202758282443195&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-03-09",
+        "ad_creative_bodies": [
+            "Představujeme nominace na ceny Kraje Vysočina za kulturní počin 2022 v anketě Zlatá jeřabina 🏆\n\nNa podzim roku 2022 byla dokončena kompletní revitalizace Karlova náměstí v Město Třebíč. Starosta Pavel Pacal k projektu dodává: „Lidé mají zase důvod chodit na náměstí. Rekonstrukce se podařila včas a v dobré kvalitě. A navíc na tom pracovaly místní firmy, výsledek stojí za to!“ 👏🥰\n\nRekonstrukce centrálního třebíčského náměstí zahrnovala výměnu veškerých sítí (kanalizace, vodovody, plynovody, elektrické a optické kabely, teplovod a další) včetně přípojek ke všem domům, nové povrchy (chodníky, komunikace, centrální plocha, parkoviště), podzemní kontejnery na tříděný odpad, retenční podzemní nádrž na dešťovou vodu, dva nové vodní prvky, autobusové zastávky, sloupy veřejného osvětlení, mobiliář a více zeleně.\n\n👉 Pro revitalizaci Karlova náměstí můžete hlasovat do 31. března na tomto odkaze: https://extranet.kr-vysocina.cz/zlata-jerabina/\n\n© Fotograf Jakub Mertl www.fotografjakubmertl.cz"
+        ],
+        "ad_delivery_start_time": "2023-03-09",
+        "ad_delivery_stop_time": "2023-03-15",
+        "bylines": "Starostové a nezávislí",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.005935",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.001187",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.992878",
+                "region": "Vysočina Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001163",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.01338",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.034322",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.037231",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.095404",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.079116",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.19139",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.104712",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.048866",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.101222",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.201862",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.075044",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.013962",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001745",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000582",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "2000",
+            "upper_bound": "2999"
+        },
+        "page_id": "589679421044627",
+        "page_name": "STAN Kraj Vysočina",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "_id": "202758282443195"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=542106771317581&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-01-29",
+        "ad_creative_bodies": [
+            "Druhý den na cestách po Vysočině stál za to 💛 Děkujeme za přivítání v 8smičce, Potravinové bance i v Záchranné stanici Pavlov!"
+        ],
+        "ad_creative_link_captions": [
+            "www.instagram.com"
+        ],
+        "ad_delivery_start_time": "2023-01-30",
+        "ad_delivery_stop_time": "2023-02-06",
+        "bylines": "Starostové a nezávislí",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Vysočina Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.0005",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.003501",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.007001",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.034172",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.052842",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.220703",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.22037",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.28038",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.166861",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000333",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.011835",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.0015",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "15000",
+            "upper_bound": "19999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "589679421044627",
+        "page_name": "STAN Kraj Vysočina",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "_id": "542106771317581"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=448982877446119&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-12-23",
+        "ad_creative_bodies": [
+            "💚 Před dvěma roky jsme se stali plnohodnotným členem Rady Kraje Vysočina 💙\n\nDěkujeme za podporu. I následující dva roky budeme pokračovat v modernizaci Kraj Vysočina!\n\n„Výhodou nás starostů je to, že se člověk nemusí dlouho rozkoukávat a může okamžitě naplňovat priority, se kterými do voleb šel. V mém případě to byla hned od začátku práce na úpravě dotační politiky Kraje Vysočina v oblasti životního prostředí, řešení problematiky odpadového hospodářství a energetického využití odpadu či strategická témata propojování vodárenských soustav a zajištění dostupné pitné vody,“ dodává Lukáš Vlček • STAN ke svému prvnímu roku, kdy působil v Radě.\n\nPo úspěchu ve volbách do Poslanecké sněmovny vystřídal Lukáše Vlčka v Radě dlouholetý starosta obce Těchobuz Pavel Hájek • STAN:\n„V Radě mezi námi panuje kolegialita. Jako zásadní vnímám shodu nad rozpočtem a to, že se mi daří prosazovat témata, která jsou pro STAN důležitá.\nPříští rok se rozjede rozšířený program Ekologická výchova, budeme pokračovat v podpoře vodárenských projektů a navážeme na dokončený program na zvládání sucha.“\n\nZa skvělou práci patří dík Romanu Fabešovi, našemu náměstkovi hejtmana pro oblast kultury a památkové péče a děkujeme i našim krajským zastupitelům Pavlovi Pacalovi, Martin Mrkos, starosta Žďáru nad Sázavou a Zdeňkovi Navrátilovi."
+        ],
+        "ad_delivery_start_time": "2022-12-23",
+        "ad_delivery_stop_time": "2022-12-25",
+        "bylines": "Starostové a nezávislí",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.056266",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.081841",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.143223",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.056266",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.11509",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.033248",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.033248",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.071611",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.104859",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.043478",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.061381",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.066496",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.089514",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.043478",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.017903",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.043478",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.153453",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.048593",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.040921",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.025575",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.099744",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.069054",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.140665",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.258312",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.058824",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.040921",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002558",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "589679421044627",
+        "page_name": "STAN Kraj Vysočina",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "_id": "448982877446119"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=741644953620464&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-05-24",
+        "ad_creative_bodies": [
+            "Máte klíč 🔑 k rozhýbání Havlíčkobrodska? Pojďte do toho s námi!\n\nNapište nám zprávu 📲 a my se vám ozveme zpět!"
+        ],
+        "ad_creative_link_captions": [
+            "fb.com"
+        ],
+        "ad_creative_link_titles": [
+            "Napište nám!"
+        ],
+        "ad_delivery_start_time": "2022-05-24",
+        "ad_delivery_stop_time": "2022-06-10",
+        "bylines": "Starostové a nezávislí",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.981146",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.000754",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.0181",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000754",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000754",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.153846",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.033183",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.242081",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.257164",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.165913",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.024133",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.059578",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.062594",
+                "age": "18-24",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "4000",
+            "upper_bound": "4999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "589679421044627",
+        "page_name": "STAN Kraj Vysočina",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "_id": "741644953620464"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=535761494851925&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-05-06",
+        "ad_creative_bodies": [
+            "Přidejte se do našeho týmu úspěšných starostů! ❤️\n\nMáte klíč 🔑 k pozitivní změně ve vaší obci nebo městě? Registrujte se na 🌐 www.chcikandidovat.cz!\n\nLukáš Vlček • STAN | Martin Mrkos, starosta Žďáru nad Sázavou | Pavel Pacal | Pavel Hájek • STAN"
+        ],
+        "ad_creative_link_captions": [
+            "chcikandidovat.cz"
+        ],
+        "ad_creative_link_titles": [
+            "Starostové a nezávislí"
+        ],
+        "ad_delivery_start_time": "2022-05-06",
+        "ad_delivery_stop_time": "2022-05-16",
+        "bylines": "Starostové a nezávislí",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Vysočina Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.00125",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002708",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.013333",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.085208",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.168125",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.154375",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.143542",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.12",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.288333",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.020625",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.0025",
+                "age": "18-24",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "20000",
+            "upper_bound": "24999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "589679421044627",
+        "page_name": "STAN Kraj Vysočina",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "2000",
+            "upper_bound": "2499"
+        },
+        "_id": "535761494851925"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=296720705866940&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-03-29",
+        "ad_creative_bodies": [
+            "Předseda STAN Vít Rakušan už tento pátek navštíví Vysočinu. Od 15:30 vás srdečně zve na veřejnou debatu v nové aule Vysoké školy polytechnické ➡️ Debata s Vítem Rakušanem v Jihlavě!"
+        ],
+        "ad_creative_link_captions": [
+            "starostove-nezavisli.cz"
+        ],
+        "ad_creative_link_descriptions": [
+            "Vicepremiér, ministr vnitra a předseda hnutí STAN Vít Rakušan navštíví v&nbsp;pátek 1. dubna Kraj Vysočina. V&nbsp;rámci svého dopoledního ministerského programu zavítá za policisty a hasiči v&nbsp;kraji a odpoledne bude debatovat s&nbsp;veřejností."
+        ],
+        "ad_creative_link_titles": [
+            "Ministr Rakušan bude v pátek debatovat s občany v Jihlavě - Starostové a nezávislí"
+        ],
+        "ad_delivery_start_time": "2022-03-29",
+        "ad_delivery_stop_time": "2022-04-01",
+        "bylines": "Starostové a nezávislí",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000242",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.999758",
+                "region": "Vysočina Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001766",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.110382",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000378",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.146209",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.087927",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.038728",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.095118",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.11013",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.060679",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000505",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.110887",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.102182",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.057525",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.047685",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000883",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.028384",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000631",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "15000",
+            "upper_bound": "19999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "589679421044627",
+        "page_name": "STAN Kraj Vysočina",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "2000",
+            "upper_bound": "2499"
+        },
+        "_id": "296720705866940"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=731767898207949&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-03-25",
+        "ad_creative_bodies": [
+            "Zveme vás na veřejné diskuzní setkání s Vítem Rakušanem –⁠ ministrem vnitra, prvním místopředsedou vlády a předsedou hnutí STAN, které se bude konat v pátek 1. dubna od 15:30 v nové aule Vysoké školy polytechnické v Jihlavě!"
+        ],
+        "ad_creative_link_captions": [
+            "Debata s ministrem vnitra Vítem Rakušanem v Jihlavě!"
+        ],
+        "ad_creative_link_descriptions": [
+            "Zveme vás na veřejné diskuzní setkání s Vítem Rakušanem –⁠ ministrem vnitra, prvním místopředsedou vlády a předsedou hnutí STAN, které se bude konat v pátek 1. dubna od 15:30 v nové aule Vysoké školy polytechnické v Jihlavě!"
+        ],
+        "ad_creative_link_titles": [
+            "Debata s ministrem vnitra Vítem Rakušanem v Jihlavě!"
+        ],
+        "ad_delivery_start_time": "2022-03-25",
+        "ad_delivery_stop_time": "2022-03-31",
+        "bylines": "Starostové a nezávislí",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000137",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.026233",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.944391",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.021178",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.008061",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.012124",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001078",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.149535",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.163546",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.134178",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.096996",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.068975",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.165836",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.144685",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.044052",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.013741",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002694",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000808",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001751",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "20000",
+            "upper_bound": "24999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "589679421044627",
+        "page_name": "STAN Kraj Vysočina",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "2000",
+            "upper_bound": "2499"
+        },
+        "_id": "731767898207949"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=484542439691962&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-02-06",
+        "ad_creative_bodies": [
+            "Už jen pár desítek hodin zbývá do Otevření STAN Coworkingu v Jihlavě! 🔥\n\nSlavnostního otevření se v úterý 𝟴. 𝟮. 𝗼𝗱 𝟭𝟱 𝗵𝗼𝗱𝗶𝗻 kromě poslance a předsedy STAN Kraj Vysočina Lukáš Vlček zúčastní také vážení hosté, mezi nimi 1. místopředsedkyně poslanecké sněmovny Věra Kovářová, poslankyně a předsedkyně sněmovního výboru pro životní prostředí Jana Krutáková, z Vysočiny pak senátorka Hana Žáková, krajský radní Pavel Hájek nebo předsedové oblastních sdružení, mimo jiné starostové Třebíče Pavel Pacal a Žďáru nad Sázavou Martin Mrkos, spolu s předsedou STAN Jihlavsko Libor Kuchyňa. 😊\n\nVe fotogalerii se sami můžete přesvědčit, jak skvěle prostory v centru Jihlavy (ulice Věžní 16) nového coworkingového centra vypadají.👌\n\nVíce na https://www.starostove-nezavisli.cz/regiony/vysocina/aktuality/starostove-a-nezavisli-otevrou-v-jihlave-coworkingove-centrum"
+        ],
+        "ad_delivery_start_time": "2022-02-06",
+        "ad_delivery_stop_time": "2022-02-08",
+        "bylines": "Starostové a nezávislí",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Vysočina Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.144107",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.179697",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.23804",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.196616",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.135939",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.101517",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00175",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001167",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001167",
+                "age": "18-24",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "5000",
+            "upper_bound": "5999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "589679421044627",
+        "page_name": "STAN Kraj Vysočina",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "600",
+            "upper_bound": "699"
+        },
+        "_id": "484542439691962"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=473511137489178&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-02-05",
+        "ad_creative_bodies": [
+            "Otevření STAN Coworkingu v Jihlavě proběhne už v úterý od 15 hodin! 🎉\n\nNové místo pro setkávání, práci, ale i pořádání odborných konferencí, seminářů nebo kurzů – to vše může nabídnout sdílený prostor, který uvítá širokou veřejnost. 🤗\n\nPro koho je centrum určeno a jací hosté si nenechají slavnostní otevření ujít? Více v článku na webu právě teď ⬇️"
+        ],
+        "ad_creative_link_captions": [
+            "starostove-nezavisli.cz"
+        ],
+        "ad_creative_link_descriptions": [
+            "Nové místo pro setkávání, práci, ale i pořádání odborných konferencí, seminářů nebo kurzů otevřou v úterý 8. února Starostové a nezávislí v centru Jihlavy pro veřejnost."
+        ],
+        "ad_creative_link_titles": [
+            "Starostové a nezávislí otevřou v Jihlavě coworkingové centrum - Starostové a nezávislí"
+        ],
+        "ad_delivery_start_time": "2022-02-06",
+        "ad_delivery_stop_time": "2022-02-08",
+        "bylines": "Starostové a nezávislí",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Vysočina Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.082751",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.260075",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.131112",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002687",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.259538",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.171951",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.089737",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001075",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001075",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "5001",
+            "upper_bound": "10000"
+        },
+        "impressions": {
+            "lower_bound": "4000",
+            "upper_bound": "4999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "589679421044627",
+        "page_name": "STAN Kraj Vysočina",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "_id": "473511137489178"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=495599245139956&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2021-12-08",
+        "ad_creative_bodies": [
+            "✨ KOUZLO VÁNOC ✨\n\nVánočně nazdobené Město Třebíč láká turisty z celé republiky :)\n\nV galerii u článku si můžete prohlédnout nádherné fotky od Fotograf Jakub Mertl 📷👇"
+        ],
+        "ad_creative_link_captions": [
+            "starostove-nezavisli.cz"
+        ],
+        "ad_creative_link_descriptions": [
+            "Mlýn lemující tisíci žároviček, zářící veverky a jelení rodinka nebo třeba nevšední adventní věnec před divadlem Pasáž. To je jen malý zlomek toho, co nabízí originální vánoční výzdoba Třebíče, která zaujala lidi napříč republikou."
+        ],
+        "ad_creative_link_titles": [
+            "Třebíč rozzářily tisíce světýlek. Originální výzdoba láká turisty z celé republiky - Starostové a nezávislí"
+        ],
+        "ad_delivery_start_time": "2021-12-08",
+        "ad_delivery_stop_time": "2021-12-13",
+        "bylines": "Starostové a nezávislí",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Vysočina Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000527",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001318",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.013182",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.122331",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.245452",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.07382",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.255471",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.132613",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.029001",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.123649",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002636",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "5000",
+            "upper_bound": "5999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "589679421044627",
+        "page_name": "STAN Kraj Vysočina",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "300",
+            "upper_bound": "399"
+        },
+        "_id": "495599245139956"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=907440406816967&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2021-10-07",
+        "ad_creative_bodies": [
+            "Přál bych si, aby politici zase sloužili lidem. Aby skončily korupční kauzy, vládní chaos a bezohledné zadlužování nás i našich dětí. Budoucnost by neměla být hrozba, ale jistota. Proto volím Lukáše Vlčka a Pavla Hájka. Věřím, že České republice vrátí její budoucnost."
+        ],
+        "ad_delivery_start_time": "2021-10-07",
+        "ad_delivery_stop_time": "2021-10-08",
+        "bylines": "Starostové a nezávislí",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.130398",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.815411",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.054191",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.002551",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.070578",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.033163",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.132653",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.211735",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.084184",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.029762",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.036565",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.134354",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.12415",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.138605",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00085",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00085",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "5001",
+            "upper_bound": "10000"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "589679421044627",
+        "page_name": "STAN Kraj Vysočina",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "300",
+            "upper_bound": "399"
+        },
+        "_id": "907440406816967"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=382637910008782&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2021-10-06",
+        "ad_delivery_start_time": "2021-10-07",
+        "ad_delivery_stop_time": "2021-10-08",
+        "bylines": "Starostové a nezávislí",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Vysočina Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001339",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.031364",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.139606",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.307516",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.136546",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.352266",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.030981",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000382",
+                "age": "18-24",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "5000",
+            "upper_bound": "5999"
+        },
+        "page_id": "589679421044627",
+        "page_name": "STAN Kraj Vysočina",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "_id": "382637910008782"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=418524476509895&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2021-10-06",
+        "ad_delivery_start_time": "2021-10-07",
+        "ad_delivery_stop_time": "2021-10-08",
+        "bylines": "Starostové a nezávislí",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Vysočina Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001555",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.027674",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.363806",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.183147",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.141791",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.273632",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.008396",
+                "age": "35-44",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "3000",
+            "upper_bound": "3999"
+        },
+        "page_id": "589679421044627",
+        "page_name": "STAN Kraj Vysočina",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "800",
+            "upper_bound": "899"
+        },
+        "_id": "418524476509895"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=908643146439669&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2021-10-06",
+        "ad_delivery_start_time": "2021-10-07",
+        "ad_delivery_stop_time": "2021-10-08",
+        "bylines": "Starostové a nezávislí",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Vysočina Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.04212",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.379076",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.244112",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.200181",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.11413",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.019022",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000453",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000453",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000453",
+                "age": "18-24",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "2000",
+            "upper_bound": "2999"
+        },
+        "page_id": "589679421044627",
+        "page_name": "STAN Kraj Vysočina",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "300",
+            "upper_bound": "399"
+        },
+        "_id": "908643146439669"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=150180970658636&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2021-10-06",
+        "ad_creative_bodies": [
+            "Přála bych si, aby politici zase sloužili lidem. Aby skončily korupční kauzy, vládní chaos a bezohledné zadlužování nás i našich dětí. Budoucnost by neměla být hrozba, ale jistota. Proto volím Lukáše Vlčka a koalici Piráti a Starostové. Věřím, že České republice vrátí její budoucnost."
+        ],
+        "ad_delivery_start_time": "2021-10-07",
+        "ad_delivery_stop_time": "2021-10-08",
+        "bylines": "Starostové a nezávislí",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Vysočina Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.003835",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.149569",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.04698",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.106424",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.052733",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.130393",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.085331",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.172579",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.180249",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.035475",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.033557",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000959",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000959",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000959",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1001",
+            "upper_bound": "5000"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "589679421044627",
+        "page_name": "STAN Kraj Vysočina",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "300",
+            "upper_bound": "399"
+        },
+        "_id": "150180970658636"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=398614815304166&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2021-10-06",
+        "ad_creative_bodies": [
+            "Přála bych si, aby politici zase sloužili lidem. Aby skončily korupční kauzy, vládní chaos a bezohledné zadlužování nás i našich dětí. Budoucnost by neměla být hrozba, ale jistota. Proto volím Lukáše Vlčka a Pavla Hájka. Věřím, že České republice vrátí její budoucnost."
+        ],
+        "ad_delivery_start_time": "2021-10-07",
+        "ad_delivery_stop_time": "2021-10-08",
+        "bylines": "Starostové a nezávislí",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.12192",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.83228",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.045799",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000615",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000308",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.037208",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.193112",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.054428",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.04059",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.101476",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.171894",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.103936",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.103936",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.161439",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.028905",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001538",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000308",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000308",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "5001",
+            "upper_bound": "10000"
+        },
+        "impressions": {
+            "lower_bound": "3000",
+            "upper_bound": "3999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "589679421044627",
+        "page_name": "STAN Kraj Vysočina",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "600",
+            "upper_bound": "699"
+        },
+        "_id": "398614815304166"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=565643201380816&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2021-10-06",
+        "ad_creative_bodies": [
+            "Starostům věřím. Přál bych si, aby politici zase sloužili lidem. Aby skončily korupční kauzy, vládní chaos a bezohledné zadlužování nás i našich dětí. Budoucnost by neměla být hrozba, ale jistota. Proto volím Lukáše Vlčka. Věřím, že České republice vrátí její budoucnost."
+        ],
+        "ad_delivery_start_time": "2021-10-07",
+        "ad_delivery_stop_time": "2021-10-08",
+        "bylines": "Starostové a nezávislí",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.728501",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.271499",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.049165",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.030653",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002731",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.034598",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.099545",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.113505",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.196358",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.189985",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.157208",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.032777",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.091351",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001214",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000303",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000303",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000303",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "5001",
+            "upper_bound": "10000"
+        },
+        "impressions": {
+            "lower_bound": "3000",
+            "upper_bound": "3999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "589679421044627",
+        "page_name": "STAN Kraj Vysočina",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "_id": "565643201380816"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=595626161574663&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2021-10-06",
+        "ad_creative_bodies": [
+            "Přál bych si, aby politici zase sloužili lidem. Aby skončily korupční kauzy, vládní chaos a bezohledné zadlužování nás i našich dětí. Budoucnost by neměla být hrozba, ale jistota. Proto volím Lukáše Vlčka a koalici Piráti a Starostové. Věřím, že České republice vrátí její budoucnost."
+        ],
+        "ad_delivery_start_time": "2021-10-07",
+        "ad_delivery_stop_time": "2021-10-08",
+        "bylines": "Starostové a nezávislí",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Vysočina Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000888",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.10302",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.095471",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.103908",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.146536",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.198046",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.187389",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.0373",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.038632",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.031528",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.053286",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000888",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000888",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00222",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1001",
+            "upper_bound": "5000"
+        },
+        "impressions": {
+            "lower_bound": "2000",
+            "upper_bound": "2999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "589679421044627",
+        "page_name": "STAN Kraj Vysočina",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "_id": "595626161574663"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=604077787280389&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2021-10-04",
+        "ad_creative_bodies": [
+            "Přál bych si, aby politici zase sloužili lidem. Aby skončily korupční kauzy, vládní chaos a bezohledné zadlužování nás i našich dětí. Budoucnost by neměla být hrozba ale jistota. Proto volím koalici Piráti a Starostové. Věřím, že České republice vrátí její budoucnost.\n- Ladislav Stalmach, starosta, Vír"
+        ],
+        "ad_delivery_start_time": "2021-10-05",
+        "ad_delivery_stop_time": "2021-10-09",
+        "bylines": "Starostové a nezávislí",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Vysočina Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000326",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000978",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000326",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.028022",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.07592",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.119909",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.017921",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.088954",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.16683",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.106549",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.085696",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.055067",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.134246",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.087651",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.031606",
+                "age": "65+",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "5001",
+            "upper_bound": "10000"
+        },
+        "impressions": {
+            "lower_bound": "3000",
+            "upper_bound": "3999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "589679421044627",
+        "page_name": "STAN Kraj Vysočina",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "_id": "604077787280389"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=294827135458559&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2021-10-04",
+        "ad_creative_bodies": [
+            "Přál bych si, aby politici zase sloužili lidem. Aby skončily korupční kauzy, vládní chaos a bezohledné zadlužování nás i našich dětí. Budoucnost by neměla být hrozba ale jistota. Proto volím koalici Piráti a Starostové. Věřím, že České republice vrátí její budoucnost.\n- Vladimír Měrka, starosta, Náměšť nad Oslavou"
+        ],
+        "ad_delivery_start_time": "2021-10-05",
+        "ad_delivery_stop_time": "2021-10-09",
+        "bylines": "Starostové a nezávislí",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Vysočina Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.024762",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.063619",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.022095",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.071238",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.07619",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.13181",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.131048",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.146286",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.025905",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.047619",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.168",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.087238",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001905",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001143",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000762",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000381",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1001",
+            "upper_bound": "5000"
+        },
+        "impressions": {
+            "lower_bound": "2000",
+            "upper_bound": "2999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "589679421044627",
+        "page_name": "STAN Kraj Vysočina",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "_id": "294827135458559"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=578805786502580&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2021-10-04",
+        "ad_creative_bodies": [
+            "Přál bych si, aby politici zase sloužili lidem. Aby skončily korupční kauzy, vládní chaos a bezohledné zadlužování nás i našich dětí. Budoucnost by neměla být hrozba ale jistota. Proto volím koalici Piráti a Starostové. Věřím, že České republice vrátí její budoucnost.\n- Tomáš Kocour, starosta, Pacov"
+        ],
+        "ad_delivery_start_time": "2021-10-05",
+        "ad_delivery_stop_time": "2021-10-09",
+        "bylines": "Starostové a nezávislí",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Vysočina Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001039",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000519",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000519",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.025455",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.024416",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.089351",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.087273",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.136623",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.132987",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.16",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.116364",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.094545",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.062857",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.037403",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.02961",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001039",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1001",
+            "upper_bound": "5000"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "589679421044627",
+        "page_name": "STAN Kraj Vysočina",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "300",
+            "upper_bound": "399"
+        },
+        "_id": "578805786502580"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=315421223683031&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2021-10-04",
+        "ad_creative_bodies": [
+            "Přál bych si, aby politici zase sloužili lidem. Aby skončily korupční kauzy, vládní chaos a bezohledné zadlužování nás i našich dětí. Budoucnost by neměla být hrozba ale jistota. Proto volím koalici Piráti a Starostové. Věřím, že České republice vrátí její budoucnost.\n- Martin Malina, starosta, Salačova Lhota, Lukavec"
+        ],
+        "ad_creative_link_captions": [
+            "starostove-nezavisli.cz"
+        ],
+        "ad_delivery_start_time": "2021-10-05",
+        "ad_delivery_stop_time": "2021-10-09",
+        "bylines": "Starostové a nezávislí",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.002415",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.997585",
+                "region": "Vysočina Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.082725",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.024331",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.096107",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.124088",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.071776",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.09854",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.03528",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.036496",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.160584",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.096107",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.124088",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.047445",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001217",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001217",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1001",
+            "upper_bound": "5000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "589679421044627",
+        "page_name": "STAN Kraj Vysočina",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "_id": "315421223683031"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1596877817179764&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2021-10-04",
+        "ad_creative_bodies": [
+            "Přál bych si, aby politici zase sloužili lidem. Aby skončily korupční kauzy, vládní chaos a bezohledné zadlužování nás i našich dětí. Budoucnost by neměla být hrozba ale jistota. Proto volím koalici Piráti a Starostové. Věřím, že České republice vrátí její budoucnost.\n- Martin Drs, starosta, Velká Chyška"
+        ],
+        "ad_creative_link_captions": [
+            "starostove-nezavisli.cz"
+        ],
+        "ad_delivery_start_time": "2021-10-05",
+        "ad_delivery_stop_time": "2021-10-09",
+        "bylines": "Starostové a nezávislí",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Vysočina Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000801",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000801",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001603",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.023237",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.076122",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.115385",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.165064",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.104167",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.134615",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.097756",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.036859",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.020833",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.06891",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.129808",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.024038",
+                "age": "65+",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1001",
+            "upper_bound": "5000"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "589679421044627",
+        "page_name": "STAN Kraj Vysočina",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "_id": "1596877817179764"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1978890372271482&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2021-10-04",
+        "ad_creative_bodies": [
+            "Přála bych si, aby politici zase sloužili lidem. Aby skončily korupční kauzy, vládní chaos a bezohledné zadlužování nás i našich dětí. Budoucnost by neměla být hrozba ale jistota. Proto volím koalici Piráti a Starostové. Věřím, že České republice vrátí její budoucnost.\n- Jana Kiesewetterová, místostarostka, Moravské Budějovice"
+        ],
+        "ad_delivery_start_time": "2021-10-05",
+        "ad_delivery_stop_time": "2021-10-09",
+        "bylines": "Starostové a nezávislí",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.026593",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.973407",
+                "region": "Vysočina Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000268",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000268",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.019829",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.105038",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.169078",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.114684",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.039389",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.114952",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.093248",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.084405",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.017417",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.143891",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.027599",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.06806",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001072",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000804",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "5001",
+            "upper_bound": "10000"
+        },
+        "impressions": {
+            "lower_bound": "3000",
+            "upper_bound": "3999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "589679421044627",
+        "page_name": "STAN Kraj Vysočina",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "500",
+            "upper_bound": "599"
+        },
+        "_id": "1978890372271482"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=398291918381535&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2021-08-19",
+        "ad_creative_bodies": [
+            "🙌🏻 RADOST V JIHLAVSKÝCH ULICÍCH 🙌🏻\n\nNaše nanuky a hlavně Vít Rakušan, Lukáš Vlček, Miloň Slabý, Blanka Lednická, ale i další kandidáti vyčarovali na mnoha tvářích v ulicích Jihlavy úsměvy! ☺️\n\nDěkujeme za podporu a pokud vás zajímá, kde nás příště potkáte, koukněte na https://www.piratiastarostove.cz/kalendar/?region=VYS&tag=. ⚫⬛\n\n#vratmezemibudoucnost"
+        ],
+        "ad_delivery_start_time": "2021-08-19",
+        "ad_delivery_stop_time": "2021-08-26",
+        "bylines": "Starostové a nezávislí",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Vysočina Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.01395",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002203",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.063877",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.167401",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.187225",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.070485",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.119677",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.161527",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.13583",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.071219",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.006608",
+                "age": "55-64",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1001",
+            "upper_bound": "5000"
+        },
+        "impressions": {
+            "lower_bound": "3000",
+            "upper_bound": "3999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "589679421044627",
+        "page_name": "STAN Kraj Vysočina",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "_id": "398291918381535"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=611549459973300&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2021-08-15",
+        "ad_creative_bodies": [
+            "Léto s Gustem, nanukem a Vítem Rakušanem. Přesně tak bude vypadat čtvrtek od 15 do 16 hodin na jihlavském náměstí. ☀️\n \nStavte se na kus řeči (a nanuku) nejen s předsedou STAN Vítem Rakušanem, ale i kandidáty Pirátů a Starostů na Vysočině! 🥰"
+        ],
+        "ad_creative_link_captions": [
+            "VÍT RAKUŠAN A NANUKÁRA V JIHLAVĚ!"
+        ],
+        "ad_creative_link_descriptions": [
+            "Stavte se na jihlavské Masarykovo náměstí na kus řeči a nanuku s Vítem Rakušanem a vysočinskými kandidáty koalice Pirátů a Starostů! 🥰"
+        ],
+        "ad_creative_link_titles": [
+            "VÍT RAKUŠAN A NANUKÁRA V JIHLAVĚ!"
+        ],
+        "ad_delivery_start_time": "2021-08-16",
+        "ad_delivery_stop_time": "2021-08-19",
+        "bylines": "Starostové a nezávislí",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Vysočina Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000716",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000358",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.053686",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.10272",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.108447",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.085183",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.094488",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.073014",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.060487",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.09592",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.122047",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.054044",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.091983",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.05476",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001432",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000716",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "6000",
+            "upper_bound": "6999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "589679421044627",
+        "page_name": "STAN Kraj Vysočina",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "600",
+            "upper_bound": "699"
+        },
+        "_id": "611549459973300"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=518805579170507&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2021-08-15",
+        "ad_creative_bodies": [
+            "Po obědě pro nanuk a kus řeči s Vítem Rakušanem? V Telči už ve čtvrtek kolem 12. hodiny.☀️\n\nPotkáte i další kandidáty Pirátů a Starostů na Vysočině! 🥰"
+        ],
+        "ad_creative_link_captions": [
+            "VÍT RAKUŠAN A NANUKÁRA V TELČI!"
+        ],
+        "ad_creative_link_descriptions": [
+            "Stavte se na telčské náměstí na kus řeči a nanuku s Vítem Rakušanem a vysočinskými kandidáty koalice Pirátů a Starostů!\n\nodpoledne nás najdete taky v Jihlavě: fb.me/e/1BLOYq62O"
+        ],
+        "ad_creative_link_titles": [
+            "VÍT RAKUŠAN A NANUKÁRA V TELČI!"
+        ],
+        "ad_delivery_start_time": "2021-08-16",
+        "ad_delivery_stop_time": "2021-08-19",
+        "bylines": "Starostové a nezávislí",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.301049",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.698951",
+                "region": "Vysočina Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.045939",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.104184",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.105004",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.086136",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.103363",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.100902",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.102543",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.116489",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.055783",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.07137",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.052502",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.055783",
+                "age": "18-24",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "5001",
+            "upper_bound": "10000"
+        },
+        "impressions": {
+            "lower_bound": "3000",
+            "upper_bound": "3999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "589679421044627",
+        "page_name": "STAN Kraj Vysočina",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "300",
+            "upper_bound": "399"
+        },
+        "_id": "518805579170507"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=140728311543523&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2021-08-14",
+        "ad_creative_bodies": [
+            "Léto s Gustem, nanukem a Vítem Rakušanem. Přesně tak to bude vypadat ve čtvrtek od 15 do 16 hodin na náměstí. ☀️\n \nStavte se na kus řeči (a nanuku) nejen s předsedou STAN Vítem Rakušanem, ale i kandidáty Pirátů a Starostů na Vysočině! 🥰"
+        ],
+        "ad_creative_link_captions": [
+            "VÍT RAKUŠAN A NANUKÁRA V JIHLAVĚ!"
+        ],
+        "ad_creative_link_descriptions": [
+            "Stavte se na jihlavské Masarykovo náměstí na kus řeči a nanuku s Vítem Rakušanem a vysočinskými kandidáty koalice Pirátů a Starostů!"
+        ],
+        "ad_creative_link_titles": [
+            "VÍT RAKUŠAN A NANUKÁRA V JIHLAVĚ!"
+        ],
+        "ad_delivery_start_time": "2021-08-16",
+        "ad_delivery_stop_time": "2021-08-16",
+        "bylines": "Starostové a nezávislí",
+        "currency": "CZK",
+        "estimated_audience_size": {
+            "lower_bound": "100",
+            "upper_bound": "1000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "589679421044627",
+        "page_name": "STAN Kraj Vysočina",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "_id": "140728311543523"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1167251477027947&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2020-12-23",
+        "ad_creative_bodies": [
+            "Krásné vánoční svátky a šťastný nový rok 2021 vám přejí Starostové! 🥰\n\nLukáš Vlček pro Vysočinu\nRoman Fabeš\nKarolína Koubová - primátorka\nPavel Pacal\nMartin Mrkos, starosta Žďáru nad Sázavou\nZdeněk Tůma"
+        ],
+        "ad_creative_link_titles": [
+            "Sváteční přání STAN Kraj Vysočina"
+        ],
+        "ad_delivery_start_time": "2020-12-23",
+        "ad_delivery_stop_time": "2020-12-24",
+        "bylines": "Starostové a nezávislí",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Vysočina Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000873",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.099563",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.152838",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.217467",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.078603",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.08559",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.126638",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.151528",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.084279",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000873",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001747",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "3000",
+            "upper_bound": "3999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "589679421044627",
+        "page_name": "STAN Kraj Vysočina",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "_id": "1167251477027947"
+    }
+]

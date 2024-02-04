@@ -1,0 +1,4261 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=3669417426663872&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-11",
+        "ad_creative_bodies": [
+            "👩‍⚕️👨‍⚕️ Také v letošním roce pokračujeme s poskytováním náborových příspěvků v oblasti zdravotnictví. Evidujeme, že v některých oborech se již personální situaci podařilo stabilizovat, a proto alokovanou částku 11,4 milionu korun dáváme po dohodě s lékařskými zařízeními k dispozici přímo jednotlivým nemocnicím. Ty už si samy určí, které obory je nejvíc trápí a kam tedy finance nasměřují. Nebude už tedy docházet k ryze plošnému vyplácení náborových příspěvků, všechny ostatní parametry ale zůstávají nastaveny tak, jak tomu bylo doposud: pro primáře 600 tisíc, pro lékaře 400 tisíc a pro nelékařský zdravotní personál 150 tisíc korun.\n\nJe pro nás pak velmi příjemným zjištěním, že i po konci vázací doby, která je zpravidla 3 roky, zhruba 80% lékařů a zdravotníků, kteří náborových příspěvků využili, v regionu zůstává.\n\n👉 Náborové příspěvky Karlovarský kraj poskytuje od roku 2018 a od té doby se podařilo získat 188 zdravotnických pracovníků, tedy lékařů i nelékařů."
+        ],
+        "ad_delivery_start_time": "2024-01-11",
+        "ad_delivery_stop_time": "2024-01-12",
+        "bylines": "Petr Kulhánek",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.001976",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.001976",
+                "region": "Sachsen"
+            },
+            {
+                "percentage": "0.843874",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.023715",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.128458",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001002",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.027054",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.003006",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.159319",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.063126",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.028056",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.041082",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.078156",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.054108",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001002",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.256513",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.031062",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.07014",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.081162",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.103206",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001002",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001002",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1017575764980188",
+        "page_name": "Petr Kulhánek",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Karlovy Vary, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 1007,
+        "beneficiary_payers": [
+            {
+                "payer": "Petr Kulhánek",
+                "beneficiary": "Petr Kulhánek",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "65+",
+                        "male": 81,
+                        "female": 255,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 77,
+                        "female": 103,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 70,
+                        "female": 159
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 54,
+                        "female": 63,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 28,
+                        "female": 41,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 27,
+                        "female": 31,
+                        "unknown": 3
+                    }
+                ]
+            },
+            {
+                "country": "DE",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "male": 1
+                    },
+                    {
+                        "age_range": "65+",
+                        "female": 1
+                    }
+                ]
+            }
+        ],
+        "_id": "3669417426663872"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=895871695513284&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-06",
+        "ad_creative_bodies": [
+            "🎬 Rekonstrukce Císařských lázní, návrat turistů do Krušných hor i lázeňských domů, ale i motivační balíček pro lékaře, rekonstrukce heliportu v karlovarské nemocnici, příprava nových zubních ordinací v Chebu, chystání se na otevření nových vysokoškolských oborů nebo nákup 170 autobusů pro regionální dopravu – to jsou některé z milníků roku 2023 pro Karlovarský kraj."
+        ],
+        "ad_creative_link_titles": [
+            "Jaký byl rok 2023 pro Karlovarský kraj?"
+        ],
+        "ad_delivery_start_time": "2024-01-06",
+        "ad_delivery_stop_time": "2024-01-07",
+        "bylines": "Petr Kulhánek",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.652764",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.100444",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.002715",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.241115",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.002962",
+                "region": "Sachsen"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.00025",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.140496",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000501",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.133484",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.16003",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.055597",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.047583",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.110193",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.022539",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00025",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.195592",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.113699",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.008014",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000501",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.008515",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002254",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000501",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "4000",
+            "upper_bound": "4999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1017575764980188",
+        "page_name": "Petr Kulhánek",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Karlovy Vary, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 4022,
+        "beneficiary_payers": [
+            {
+                "payer": "Petr Kulhánek",
+                "beneficiary": "Petr Kulhánek",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 187,
+                        "female": 31,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 533,
+                        "female": 90,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 454,
+                        "female": 557,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 638,
+                        "female": 439,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 779,
+                        "female": 221,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 34,
+                        "female": 9
+                    }
+                ]
+            },
+            {
+                "country": "DE",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 3,
+                        "female": 1
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 1,
+                        "female": 2
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 1,
+                        "female": 1
+                    },
+                    {
+                        "age_range": "65+",
+                        "female": 3
+                    }
+                ]
+            }
+        ],
+        "_id": "895871695513284"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1490671991665904&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-13",
+        "ad_creative_bodies": [
+            "📊 Již šestým rokem vévodí žebříčku obcí hodnocených podle kvality života Říčany u Prahy. Co je ale na letošním měření zajímavé, jsou výrazné posuny některých obcí našeho kraje směrem vzhůru. Největším skokanem roku se tentokrát stal Cheb, který si v žebříčku polepšil hned o 85 pozic, následovaly ho Karlovy Vary (o 54 pozic). Výrazně si polepšily třeba i Mariánské Lázně nebo Aš. A ačkoliv se jedná jen o průzkum, můžeme jeho trendy vnímat jako potvrzení toho, že se náš kraj postupně mění k lepšímu, že má rozhodně lidem co nabídnout a kvalita života v něm roste.\n\nSamozřejmě víme, že každé město a každá obec má své specifické problémy, se kterými se potýká. Probíráme je se starosty při našich pravidelných cestách po regionu. Řešení si ovšem často vyžadují delší čas, nejsou proveditelná ze dne na den. Výsledky průzkumu však můžeme považovat za doklad toho, že jsme na správné cestě.\n\n👉 Žebříček obcí hodnocených podle kvality života sestavuje projek s názvem „Obce v datech“ spolu se společností Deloitte od roku 2018. Více na https://www.obcevdatech.cz/"
+        ],
+        "ad_delivery_start_time": "2023-12-13",
+        "ad_delivery_stop_time": "2023-12-14",
+        "bylines": "Petr Kulhánek",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.919101",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.022472",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.055056",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.003371",
+                "region": "Sachsen"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001136",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.005682",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.020455",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.103409",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.1125",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.182955",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.051136",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.059091",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.269318",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.101136",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.057955",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.013636",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001136",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002273",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.015909",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002273",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1017575764980188",
+        "page_name": "Petr Kulhánek",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Karlovy Vary, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 895,
+        "beneficiary_payers": [
+            {
+                "payer": "Petr Kulhánek",
+                "beneficiary": "Petr Kulhánek",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "65+",
+                        "male": 161,
+                        "female": 237,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 91,
+                        "female": 17,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 98,
+                        "female": 88,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 45,
+                        "female": 5
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 52,
+                        "female": 12
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 51,
+                        "female": 14,
+                        "unknown": 1
+                    }
+                ]
+            },
+            {
+                "country": "DE",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "55-64",
+                        "male": 1,
+                        "female": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "female": 1
+                    }
+                ]
+            }
+        ],
+        "_id": "1490671991665904"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=757832685683321&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-05",
+        "ad_creative_bodies": [
+            "📖 Jak jsme před časem avizovali v rámci našeho robustního balíčku na podporu zdravotnictví, spouštíme nový web pro mediky a lékaře. Je to rozcestník veškerých benefitů poskytovaných Karlovarským krajem a jeho obcemi všem cílovým skupinám ve zdravotnictví. \n\nCo v katalogu najdou? Například pro studenty lékařských fakult nabízí Karlovarský kraj stipendia ve výši 150 000 korun ročně, pro absolventy jsou k dispozici motivační příspěvky na specializační vzdělávání nebo náborový příspěvek pro nástup do nemocnic. Lékaři s atestací pak mohou zažádat o příspěvek na pořízení a obnovu zdravotnické techniky nebo na podporu vzniku a rozšíření ordinací. V nabídce benefitů jsou i ty od měst a obcí, jako například bydlení.\n\nOd spuštění programu se nám už přihlásilo 71 lékařů, z toho je 20 zubařů, což nás těší dvojnásob. Náš motivační systém – v dané chvíli nejsilnější v rámci celé republiky – zatím funguje v míře, kterou jsme možná ani nečekali, a závidí nám ho i ostatní regiony.\n\n🦷 A když už bylo zmíněno 20 nových zubařů. Uděláme-li si jednoduchý propočet, kolik má náš kraj obyvatel a kolik mívá zubař ve svém kmenu pacientů (zhruba 1500 lidí), dojdeme k tomu, že nám v kraji stále do ideálního stavu chybí asi 60 zubařů. Teď už zhruba 10 nových zubařů začíná provozovat praxi nebo alespoň připravuje ordinaci a dalších 20 studuje. To znamená, že se nám daří ten deficit úspěšně snižovat. \n\n👉 Heslo nového webu https://lekarikarlovarskehokraje.cz/ zní ‚Lékaři se starají o pacienty a Karlovarský kraj se stará o lékaře‘ a vznikl v rámci kampaně, která poběží v následujících 4 letech na sociálních sítích a kanálech pro mediky a lékaře. Stojí za ním vedoucí Odboru zdravotnictví Alena Šalátová a krajský mediální tým."
+        ],
+        "ad_delivery_start_time": "2023-12-05",
+        "ad_delivery_stop_time": "2023-12-08",
+        "bylines": "Petr Kulhánek",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.837152",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.05892",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.005728",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.095745",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.000818",
+                "region": "Bayern"
+            },
+            {
+                "percentage": "0.001637",
+                "region": "Sachsen"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.002488",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.216418",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001658",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000829",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.080431",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.080431",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.038972",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.082919",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.063847",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000829",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.063847",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.076285",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.080431",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.116915",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.037313",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.055556",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000829",
+                "age": "18-24",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1017575764980188",
+        "page_name": "Petr Kulhánek",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "target_locations": [
+            {
+                "name": "Karlovy Vary, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 1223,
+        "beneficiary_payers": [
+            {
+                "payer": "Petr Kulhánek",
+                "beneficiary": "Petr Kulhánek",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 44,
+                        "female": 92,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 100,
+                        "female": 97,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 97,
+                        "female": 261,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 97,
+                        "female": 141
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 67,
+                        "female": 77,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 47,
+                        "female": 76,
+                        "unknown": 1
+                    }
+                ]
+            },
+            {
+                "country": "DE",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "female": 1
+                    },
+                    {
+                        "age_range": "25-34",
+                        "female": 1
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 1
+                    }
+                ]
+            }
+        ],
+        "_id": "757832685683321"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=181078888421397&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-02",
+        "ad_creative_bodies": [
+            "🚌 Pokud bydlíte například v Bochově, Andělské Hoře nebo třeba ve Stružné, bude pro vás od 10. prosince cesta autobusem do Prahy snazší. Linka 305 z Prahy-Zličína bude prodloužena do Karlových Varů. Přibydou na ní zastávky s možností návaznosti přestupů na další spoje, některé z nich bude ale možné využít až od ledna 2024. Autobus pojede zhruba každé dvě hodiny a trasu urazí za 2 hodiny a 20 minut. Poslední spoj z Prahy vyjede ve 20:45 s příjezdem do Karlových Varů ve 22:58.\n\n👉 Autobus bude jezdit v rámci projektu „Čtyřmezí“, tedy mezikrajské dopravní obslužnosti mezi Středočeským, Ústeckým, Karlovarským a Plzeňským krajem. Na financování projektu se poměrově podílejí všechny zmíněné kraje.\n\n➡️ Odkaz na jíždní řád: https://1url.cz/@linka-305"
+        ],
+        "ad_delivery_start_time": "2023-12-02",
+        "ad_delivery_stop_time": "2023-12-04",
+        "bylines": "Petr Kulhánek",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.00041",
+                "region": "Bayern"
+            },
+            {
+                "percentage": "0.888934",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.029098",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.002049",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.078279",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.00123",
+                "region": "Sachsen"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000415",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.0966",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001658",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001658",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.042289",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.016998",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.058872",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.088723",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.161692",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000829",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.075041",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.237148",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.099502",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.043118",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.05141",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.021973",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001244",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000829",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "2000",
+            "upper_bound": "2999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1017575764980188",
+        "page_name": "Petr Kulhánek",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Karlovy Vary, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 2461,
+        "beneficiary_payers": [
+            {
+                "payer": "Petr Kulhánek",
+                "beneficiary": "Petr Kulhánek",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 103,
+                        "female": 41,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 214,
+                        "female": 571,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 181,
+                        "female": 389,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 233,
+                        "female": 240,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 142,
+                        "female": 101,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 124,
+                        "female": 53,
+                        "unknown": 2
+                    }
+                ]
+            },
+            {
+                "country": "DE",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "35-44",
+                        "female": 1
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 1
+                    },
+                    {
+                        "age_range": "65+",
+                        "female": 1
+                    },
+                    {
+                        "age_range": "55-64",
+                        "female": 1
+                    }
+                ]
+            }
+        ],
+        "_id": "181078888421397"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=714668554057894&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-01",
+        "ad_creative_bodies": [
+            "🚌 Pokud bydlíte například v Bochově, Andělské Hoře nebo třeba ve Stružné, bude pro vás od 10. prosince cesta autobusem do Prahy snazší. Linka 305 z Prahy-Zličína bude prodloužena do Karlových Varů. Přibydou na ní zastávky s možností návaznosti přestupů na další spoje, některé z nich bude ale možné využít až od ledna 2024. Autobus pojede zhruba každé dvě hodiny a trasu urazí za 2 hodiny a 20 minut. Poslední spoj z Prahy vyjede ve 20:45 s příjezdem do Karlových Varů ve 22:58.\n\n👉 Autobus bude jezdit v rámci projektu „Čtyřmezí“, tedy mezikrajské dopravní obslužnosti mezi Středočeským, Ústeckým, Karlovarským a Plzeňským krajem. Na financování projektu se poměrově podílejí všechny zmíněné kraje.\n\n➡️ Odkaz na jíždní řád: https://1url.cz/@linka-305"
+        ],
+        "ad_delivery_start_time": "2023-12-01",
+        "ad_delivery_stop_time": "2023-12-02",
+        "bylines": "Petr Kulhánek",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.825581",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.046512",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.124031",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.001292",
+                "region": "Bayern"
+            },
+            {
+                "percentage": "0.002584",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.04824",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.15515",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.063885",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.049544",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.036506",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.083442",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.04824",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.10691",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.04824",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.232073",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.050847",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.076923",
+                "age": "45-54",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1017575764980188",
+        "page_name": "Petr Kulhánek",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Karlovy Vary, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 772,
+        "beneficiary_payers": [
+            {
+                "payer": "Petr Kulhánek",
+                "beneficiary": "Petr Kulhánek",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 63,
+                        "female": 28
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 39,
+                        "female": 38
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 49,
+                        "female": 37
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 59,
+                        "female": 82
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 37,
+                        "female": 119
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 37,
+                        "female": 178
+                    }
+                ]
+            },
+            {
+                "country": "DE",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 1
+                    }
+                ]
+            }
+        ],
+        "_id": "714668554057894"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1933600847097197&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-01",
+        "ad_creative_bodies": [
+            "🚌 Pokud bydlíte například v Bochově, Andělské Hoře nebo třeba ve Stružné, bude pro vás od ledna 2024 cesta autobusem do Prahy snazší. Nově na lince 305 mezi Prahou-Zličínem a Karlovými Vary přibydou zastávky i s možností návaznosti přestupů na další spoje, autobus pojede zhruba každé dvě hodiny a trasu urazí za 2 hodiny a 20 minut. Poslední spoj z Prahy vyjede ve 20:45 s příjezdem do Karlových Varů ve 22:58.\n\n👉 Autobus bude jezdit v rámci projetu „Čtyřmezí“, tedy mezikrajské dopravní obslužnosti mezi Středočeským, Ústeckým, Karlovarským a Plzeňským krajem. Na financování projektu se poměrově podílejí všechny zmíněné kraje.\n\n➡️ Odkaz na jíždní řád: https://1url.cz/@linka-305"
+        ],
+        "ad_delivery_start_time": "2023-12-01",
+        "ad_delivery_stop_time": "2023-12-01",
+        "bylines": "Petr Kulhánek",
+        "currency": "CZK",
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1017575764980188",
+        "page_name": "Petr Kulhánek",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Karlovy Vary, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 57,
+        "beneficiary_payers": [
+            {
+                "payer": "Petr Kulhánek",
+                "beneficiary": "Petr Kulhánek",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 9,
+                        "female": 1
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 6,
+                        "female": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 10,
+                        "female": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 5,
+                        "female": 1
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 2,
+                        "female": 6
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 4,
+                        "female": 10,
+                        "unknown": 1
+                    }
+                ]
+            }
+        ],
+        "_id": "1933600847097197"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=679867513525652&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-12-17",
+        "ad_creative_bodies": [
+            "REAKCE NA KOMENTÁŘ ZASTUPITELKY MRAČKOVÉ VILDUMETZOVÉ KE VČERA SCHVÁLENÉMU ROZPOČTU KARLOVARSKÉHO KRAJE  \n\nStyděl bych se být Vámi cokoliv namítat proti schválenému krajskému rozpočtu. Totiž když jsem Vás a všechny další zástupce zastupitelských klubů pozval na projednávání návrhu krajského rozpočtu na rok 2023, kde jsme Vám chtěli společně s vedoucí finančního odboru podrobně představit návrh rozpočtu, ke kterému jsme Vám navíc poslali kompletní podklady, VŮBEC VÁS TO NEZAJÍMALO A NEREAGOVALA JSTE. Na druhou výzvu s návrhem setkání k rozpočtu jste pro změnu odpověděla tak, že se Vám to vlastně vůbec nehodí. Pak jste dorazila, ovšem zcela nepřipravená, neprostudované podklady, které jste měla k dispozici. Vysvětlili jsme Vám v krátkém čase, jenž jste si pro nás vyhradila, základní parametry rozpočtu, abyste se vůbec dokázala v návrhu zorientovat. A teď, když už jste se společně rozpočtem prokousali s ostatními členy hnutí ANO, dovolíte si napadat mě, mým kolegům z vedení kraje říkat „kumpáni“ a zcela nekompetentně míchat páté přes deváté. Doufám, že si všichni lidé s rozumným pohledem na věc udělají jasný obrázek o úrovni, kterou jste tímto stylem nastavila.\n\n➡️ Žádné rozhazování peněz a bohatýrské navyšování výdajů se nekoná. Rozdíl mezi příjmy a výdaji je logicky daný tím, že chceme spolufinancovat velké projekty s evropskými dotacemi. A v okamžiku, kdy máme možnost získat evropské miliardy (nikoliv miliony jako dřív), je to obrovská šance pro rozvoj kraje. A Vy byste nepostupovala jinak.\n\n➡️ Naprosto nepravdivě matete lidem hlavy tím, že rozpočet počítá se ztrátou, to je nesmysl. Schválený rozpočet Karlovarského kraje má schodek, který je plně krytý jak naspořenými zdroji ve výši cca 900 mil. Kč, tak zastupitelstvem schválenými úvěry a je v celém rozsahu určen k financování projektů. Další hloupost je, že utrácíme rezervy kraje. Do Fondu budoucnosti plánujeme převést na rozvojové aktivity a pro případné krizové situace 350 milionů korun, a to přímo v rámci rozpočtu pro rok 2023. Očekáváme opět vysoký přebytek hospodaření za téměř uplynulý rok, a pokud jste to zapomněla, za rok 2021 náš přebytek dosáhl 910 milionů korun. Aktuální stav financí na bankovních účtech Karlovarského kraje je 3,1 miliardy korun. Ale tyhle věci samozřejmě lidem říkat nepotřebujete.\n\n➡️ K hospodaření Karlovarské krajské nemocnice: jak dobře víte, protože to fungovalo i za Vaší krajské vlády, kraj podporuje provoz ztrátových oddělení od roku 2016. Čili i Vy jste nechala proudit miliony z krajského rozpočtu do nemocnice. Meziročně se ale závislost KKN na krajském rozpočtu postupně snižuje od roku 2020 o 30 milionů korun ročně a ten trend pokračuje i pro příští období.\n\nJe mi jasné, že takové věci, jako jsou marketingové aktivity, které nám mimo jiné pomáhají aspoň trochu napravit to, co Váš „velký šéf“ Babiš zkazil jedinou větou, když zatratil kraj jako nejhorší ve všem, Vám moc neříkají.  Jenže my se teď musíme postupně za pomoci kampaní a dalších nástrojů snažit image kraje napravit nejen v očích domácích obyvatel, ale bohužel před celou republikou. Protože ať si špičky hnutí ANO myslí cokoliv, náš kraj je krásný, vyniká v řadě ohledů a žije v něm spousta šikovných a schopných lidí.\n\nPodsouváte veřejnosti obrázek vedení kraje, které zřejmě neustále dělá něco protizákonného a netransparentního. Možná by neškodilo, kdybyste vzala opravdu velké koště a zametla před vlastním prahem a prahem hnutí ANO."
+        ],
+        "ad_delivery_start_time": "2022-12-17",
+        "ad_delivery_stop_time": "2022-12-19",
+        "bylines": "Karlovarská občanská alternativa",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.422648",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.232855",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.039872",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.301435",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.00319",
+                "region": "Sachsen"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001595",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.023923",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.049442",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.023923",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.004785",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001595",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.035088",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.012759",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.204147",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.143541",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.216906",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.070175",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.08453",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.127592",
+                "age": "45-54",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "500001",
+            "upper_bound": "1000000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1017575764980188",
+        "page_name": "Petr Kulhánek",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "_id": "679867513525652"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=702176967932176&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-12-15",
+        "ad_creative_bodies": [
+            "REAKCE NA KOMENTÁŘ ZASTUPITELKY MRAČKOVÉ VILDUMETZOVÉ KE VČERA SCHVÁLENÉMU ROZPOČTU KARLOVARSKÉHO KRAJE  \n\nStyděl bych se být Vámi cokoliv namítat proti schválenému krajskému rozpočtu. Totiž když jsem Vás a všechny další zástupce zastupitelských klubů pozval na projednávání návrhu krajského rozpočtu na rok 2023, kde jsme Vám chtěli společně s vedoucí finančního odboru podrobně představit návrh rozpočtu, ke kterému jsme Vám navíc poslali kompletní podklady, VŮBEC VÁS TO NEZAJÍMALO A NEREAGOVALA JSTE. Na druhou výzvu s návrhem setkání k rozpočtu jste pro změnu odpověděla tak, že se Vám to vlastně vůbec nehodí. Pak jste dorazila, ovšem zcela nepřipravená, neprostudované podklady, které jste měla k dispozici. Vysvětlili jsme Vám v krátkém čase, jenž jste si pro nás vyhradila, základní parametry rozpočtu, abyste se vůbec dokázala v návrhu zorientovat. A teď, když už jste se společně rozpočtem prokousali s ostatními členy hnutí ANO, dovolíte si napadat mě, mým kolegům z vedení kraje říkat „kumpáni“ a zcela nekompetentně míchat páté přes deváté. Doufám, že si všichni lidé s rozumným pohledem na věc udělají jasný obrázek o úrovni, kterou jste tímto stylem nastavila.\n\n➡️ Žádné rozhazování peněz a bohatýrské navyšování výdajů se nekoná. Rozdíl mezi příjmy a výdaji je logicky daný tím, že chceme spolufinancovat velké projekty s evropskými dotacemi. A v okamžiku, kdy máme možnost získat evropské miliardy (nikoliv miliony jako dřív), je to obrovská šance pro rozvoj kraje. A Vy byste nepostupovala jinak.\n\n➡️ Naprosto nepravdivě matete lidem hlavy tím, že rozpočet počítá se ztrátou, to je nesmysl. Schválený rozpočet Karlovarského kraje má schodek, který je plně krytý jak naspořenými zdroji ve výši cca 900 mil. Kč, tak zastupitelstvem schválenými úvěry a je v celém rozsahu určen k financování projektů. Další hloupost je, že utrácíme rezervy kraje. Do Fondu budoucnosti plánujeme převést na rozvojové aktivity a pro případné krizové situace 350 milionů korun, a to přímo v rámci rozpočtu pro rok 2023. Očekáváme opět vysoký přebytek hospodaření za téměř uplynulý rok, a pokud jste to zapomněla, za rok 2021 náš přebytek dosáhl 910 milionů korun. Aktuální stav financí na bankovních účtech Karlovarského kraje je 3,1 miliardy korun. Ale tyhle věci samozřejmě lidem říkat nepotřebujete.\n\n➡️ K hospodaření Karlovarské krajské nemocnice: jak dobře víte, protože to fungovalo i za Vaší krajské vlády, kraj podporuje provoz ztrátových oddělení od roku 2016. Čili i Vy jste nechala proudit miliony z krajského rozpočtu do nemocnice. Meziročně se ale závislost KKN na krajském rozpočtu postupně snižuje od roku 2020 o 30 milionů korun ročně a ten trend pokračuje i pro příští období.\n\nJe mi jasné, že takové věci, jako jsou marketingové aktivity, které nám mimo jiné pomáhají aspoň trochu napravit to, co Váš „velký šéf“ Babiš zkazil jedinou větou, když zatratil kraj jako nejhorší ve všem, Vám moc neříkají.  Jenže my se teď musíme postupně za pomoci kampaní a dalších nástrojů snažit image kraje napravit nejen v očích domácích obyvatel, ale bohužel před celou republikou. Protože ať si špičky hnutí ANO myslí cokoliv, náš kraj je krásný, vyniká v řadě ohledů a žije v něm spousta šikovných a schopných lidí.\n\nPodsouváte veřejnosti obrázek vedení kraje, které zřejmě neustále dělá něco protizákonného a netransparentního. Možná by neškodilo, kdybyste vzala opravdu velké koště a zametla před vlastním prahem a prahem hnutí ANO."
+        ],
+        "ad_delivery_start_time": "2022-12-15",
+        "ad_delivery_stop_time": "2022-12-16",
+        "bylines": "Karlovarská občanská alternativa",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.766423",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.043796",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.182482",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.007299",
+                "region": "Sachsen"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.153285",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.131387",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.080292",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.189781",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.021898",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.131387",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.19708",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.021898",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.058394",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.007299",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.007299",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1017575764980188",
+        "page_name": "Petr Kulhánek",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "_id": "702176967932176"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=2758789884252462&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-12-14",
+        "ad_creative_bodies": [
+            "REAKCE NA KOMENTÁŘ ZASTUPITELKY MRAČKOVÉ VILDUMETZOVÉ KE VČERA SCHVÁLENÉMU ROZPOČTU KARLOVARSKÉHO KRAJE  \n\nStyděl bych se být Vámi cokoliv namítat proti schválenému krajskému rozpočtu. Totiž když jsem Vás a všechny další zástupce zastupitelských klubů pozval na projednávání návrhu krajského rozpočtu na rok 2023, kde jsme Vám chtěli společně s vedoucí finančního odboru podrobně představit návrh rozpočtu, ke kterému jsme Vám navíc poslali kompletní podklady, VŮBEC VÁS TO NEZAJÍMALO A NEREAGOVALA JSTE. Na druhou výzvu s návrhem setkání k rozpočtu jste pro změnu odpověděla tak, že se Vám to vlastně vůbec nehodí. Pak jste dorazila, ovšem zcela nepřipravená, neprostudované podklady, které jste měla k dispozici. Vysvětlili jsme Vám v krátkém čase, jenž jste si pro nás vyhradila, základní parametry rozpočtu, abyste se vůbec dokázala v návrhu zorientovat. A teď, když už jste se společně rozpočtem prokousali s ostatními členy hnutí ANO, dovolíte si napadat mě, mým kolegům z vedení kraje říkat „kumpáni“ a zcela nekompetentně míchat páté přes deváté. Doufám, že si všichni lidé s rozumným pohledem na věc udělají jasný obrázek o úrovni, kterou jste tímto stylem nastavila.\n\n➡️ Žádné rozhazování peněz a bohatýrské navyšování výdajů se nekoná. Rozdíl mezi příjmy a výdaji je logicky daný tím, že chceme spolufinancovat velké projekty s evropskými dotacemi. A v okamžiku, kdy máme možnost získat evropské miliardy (nikoliv miliony jako dřív), je to obrovská šance pro rozvoj kraje. A Vy byste nepostupovala jinak.\n\n➡️ Naprosto nepravdivě matete lidem hlavy tím, že rozpočet počítá se ztrátou, to je nesmysl. Schválený rozpočet Karlovarského kraje má schodek, který je plně krytý jak naspořenými zdroji ve výši cca 900 mil. Kč, tak zastupitelstvem schválenými úvěry a je v celém rozsahu určen k financování projektů. Další hloupost je, že utrácíme rezervy kraje. Do Fondu budoucnosti plánujeme převést na rozvojové aktivity a pro případné krizové situace 350 milionů korun, a to přímo v rámci rozpočtu pro rok 2023. Očekáváme opět vysoký přebytek hospodaření za téměř uplynulý rok, a pokud jste to zapomněla, za rok 2021 náš přebytek dosáhl 910 milionů korun. Aktuální stav financí na bankovních účtech Karlovarského kraje je 3,1 miliardy korun. Ale tyhle věci samozřejmě lidem říkat nepotřebujete.\n\n➡️ K hospodaření Karlovarské krajské nemocnice: jak dobře víte, protože to fungovalo i za Vaší krajské vlády, kraj podporuje provoz ztrátových oddělení od roku 2016. Čili i Vy jste nechala proudit miliony z krajského rozpočtu do nemocnice. Meziročně se ale závislost KKN na krajském rozpočtu postupně snižuje od roku 2020 o 30 milionů korun ročně a ten trend pokračuje i pro příští období.\n\nJe mi jasné, že takové věci, jako jsou marketingové aktivity, které nám mimo jiné pomáhají aspoň trochu napravit to, co Váš „velký šéf“ Babiš zkazil jedinou větou, když zatratil kraj jako nejhorší ve všem, Vám moc neříkají.  Jenže my se teď musíme postupně za pomoci kampaní a dalších nástrojů snažit image kraje napravit nejen v očích domácích obyvatel, ale bohužel před celou republikou. Protože ať si špičky hnutí ANO myslí cokoliv, náš kraj je krásný, vyniká v řadě ohledů a žije v něm spousta šikovných a schopných lidí.\n\nPodsouváte veřejnosti obrázek vedení kraje, které zřejmě neustále dělá něco protizákonného a netransparentního. Možná by neškodilo, kdybyste vzala opravdu velké koště a zametla před vlastním prahem a prahem hnutí ANO."
+        ],
+        "ad_delivery_start_time": "2022-12-14",
+        "ad_delivery_stop_time": "2022-12-17",
+        "bylines": "Karlovarská občanská alternativa",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.806789",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.060052",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.133159",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.007772",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.202073",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.085492",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.204663",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.031088",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.025907",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.119171",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.020725",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.170984",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.124352",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.005181",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002591",
+                "age": "18-24",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1017575764980188",
+        "page_name": "Petr Kulhánek",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "_id": "2758789884252462"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=412393960979444&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-09-21",
+        "ad_creative_bodies": [
+            "🏃‍♂️ Deset etap senátních běhů je úspěšně a ve zdraví za námi. Včerejším 28 km úsekem z Vojkovic přes Velichov, Kyselku, Šemnici, Doupovské Hradiště do Karlových Varů jsme završili bezmála 250 km a 5000 m převýšení běžeckého putování po všech obcích senátního obvodu číslo 1 Karlovarsko. Až na výjimky (jako třeba právě včera) jsme nemokli, klima, terén a podmínky byly přívětivé, setkali jsme se s desítkami lidí, kteří projevovali sympatie. Viděl jsem během etap místa známá i nová, byla to vynikající příležitost, jak si opět doplnit obrázek o regionu, ve kterém žijeme. Díky moc realizačnímu týmu v osobě Jirky Klsáka a spoluběžcům Petru Slezákovi, Štěpánu Javůrkovi, Miloši Škorpilovi a Pepovi Cupalovi. Těším se na další běžecké příležitosti, nejbližší hned tento víkend v Krkonoších 😉\n\n➡️ Na naši včerejší trasu se můžete podívat zde https://www.relive.cc/view/v1vjkQw7eYO"
+        ],
+        "ad_delivery_start_time": "2022-09-21",
+        "ad_delivery_stop_time": "2022-09-24",
+        "bylines": "Karlovarská občanská alternativa",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000792",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.001188",
+                "region": "Bayern"
+            },
+            {
+                "percentage": "0.936238",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.009901",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.051881",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.01806",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.041618",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002356",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001178",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.003534",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.048685",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001963",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001178",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.132313",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.054574",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.159403",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.190813",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.083235",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.096977",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.058893",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.053789",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.05104",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000393",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "3000",
+            "upper_bound": "3999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1017575764980188",
+        "page_name": "Petr Kulhánek",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "_id": "412393960979444"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=764502161360189&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-08-17",
+        "ad_creative_bodies": [
+            "🎬 To, že ve spojení pozice hejtmana a senátora vidím velký potenciál a že ve většině oblastí se dá komunikační vzdálenost mezi krajem a státem zkrátit na minimum, jsme se snažili „dostat“ i do tohoto videa."
+        ],
+        "ad_creative_link_captions": [
+            "www.petrkulhanek.cz"
+        ],
+        "ad_creative_link_titles": [
+            "Video k senátní kamapni"
+        ],
+        "ad_delivery_start_time": "2022-08-18",
+        "ad_delivery_stop_time": "2022-08-25",
+        "bylines": "Karlovarská občanská alternativa",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.001005",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.829734",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.036163",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.130085",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.003014",
+                "region": "Sachsen"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001034",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.083721",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001034",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.046512",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.05168",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.120413",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.003101",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.167442",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.074419",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001034",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.103876",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.093023",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.049612",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.052713",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.077003",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.070284",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002067",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001034",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "4000",
+            "upper_bound": "4999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1017575764980188",
+        "page_name": "Petr Kulhánek",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "_id": "764502161360189"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=997022557557076&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-06-16",
+        "ad_creative_bodies": [
+            "🏃‍♂️ Včera jsem na tiskové konferenci hnutí KOA oficiálně oznámil svou kandidaturu na senátora. A asi není překvapením, že vzhledem ke své běžecké vášni i letos – podobně jako před dvěma lety, kdy jsem v rámci kampaně ke krajským volbám „prokřižoval“ celý Karlovarský kraj – vybíhám na cesty po Karlovarsku. Tentokrát budou jejich cílem místa senátního obvodu Karlovy Vary, v 10 etapách zavítám do všech jeho 53 obcí. První z etap má start již v pátek 17.6. na Božím Daru. A kde a kdy se spolu můžeme na trati potkat? Zde je přehled předpokládaných časů v jednotlivých zastávkách: Boží Dar 17:00 → Abertamy 18:15  →  Pernink 18:35  →  Horní Blatná 19:00 → Potůčky 19:45. Těším se na vás!"
+        ],
+        "ad_delivery_start_time": "2022-06-16",
+        "ad_delivery_stop_time": "2022-06-17",
+        "bylines": "Karlovarská občanská alternativa",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.880435",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.007246",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.112319",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.036232",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.083333",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.130435",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.09058",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.007246",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.155797",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.112319",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.014493",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.115942",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.086957",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.166667",
+                "age": "25-34",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1017575764980188",
+        "page_name": "Petr Kulhánek",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "_id": "997022557557076"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1032091813918942&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2020-09-25",
+        "ad_creative_bodies": [
+            "🏁 Finále. Start byl v Ostrově a cestou přes Radošov jsme se zastavili v pozvolna znovuožívající Kyselce (i tady by mohl být kraj aktivnější). Pak jsme přes Šemnickou skálu doběhli až na Goethovu vyhlídku, kde už nás čekal Vít Rakušan. Spolu jsem pak seběhli do centra Karlových Varů, do cíle nejen dnešní 16. etapy, ale i celého seriálu „Běhů pro budoucnost“.\nVám všem, co jste se k nám na našich cestách krajem připojili nebo nás jakkoliv podpořili, patří náš dík 🤝 – moc si toho vážíme."
+        ],
+        "ad_creative_link_titles": [
+            "4.9. – Běh z Ostrova do Karlových Varů"
+        ],
+        "ad_delivery_start_time": "2020-09-29",
+        "ad_delivery_stop_time": "2020-09-30",
+        "bylines": "Starostové a nezávislí • STAN",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Karlovy Vary Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000208",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.143302",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000208",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001038",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.012876",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.179855",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.081205",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.081205",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.061267",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001454",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.054621",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.085981",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.065628",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.136241",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.063551",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.028245",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002492",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000623",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "6000",
+            "upper_bound": "6999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1017575764980188",
+        "page_name": "Petr Kulhánek",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "_id": "1032091813918942"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=650693102519161&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2020-09-25",
+        "ad_creative_bodies": [
+            "🚩 První zastávka už po pár stech metrů byla u tepelského kláštera. Jiří Klsák nás pak v Mrázově přesvědčil o tom, že na Tepelsku ještě „svět běží pomalu“ a o problémech se stavbou kanalizace pak v přívětivé obci Zádub-Závišín nás informoval starosta Jiří Nešpor. A to, že všechny lázně našeho kraje jsou vlastně jeden homogenní celek, jsme si znovu uvědomili u fontány v Mariánských Lázních. Před zámkem v Lázních Kynžvart jsme si pak závěrem neodpustili zapózovat: z některých fotek si prostě nejde neudělat legraci… 😄"
+        ],
+        "ad_creative_link_titles": [
+            "2.9. – Běh z Teplé do Velké Hleďsebe"
+        ],
+        "ad_delivery_start_time": "2020-09-28",
+        "ad_delivery_stop_time": "2020-09-29",
+        "bylines": "Starostové a nezávislí • STAN",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Karlovy Vary Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000674",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.151325",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.049394",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.0815",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.090031",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.140099",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.073642",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.149079",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.089807",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000674",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.107768",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.016839",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.033004",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.012124",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001123",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001796",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000674",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000449",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "5000",
+            "upper_bound": "5999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1017575764980188",
+        "page_name": "Petr Kulhánek",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "_id": "650693102519161"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=259634878563742&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2020-09-25",
+        "ad_creative_bodies": [
+            "🚩 Společnost nám na startu 14. etapy v Toužimi dělal i sám Jiří Zpoděbradský. Na zastávce v Otročíně jsme pak museli konstatovat, že i malá pomoc by takovým vesnicím pomohla; kraj může klidně vypsat i svůj vlastní podpůrný program, možnosti tu jsou. Cestou dál jsme se přesvědčili, že není Chodov jako Chodov a došlo i na zířátka 🐄 V cíli před bečovským zámkem nás pak čekala návštěva až z Poslanecké sněmovny: dámy Věra Kovářová a Jana Krutáková. Spolu jsme se shodli, že priority pro náš kraj jsou rozvoj lidského potenciálu a dopravní infrastruktura."
+        ],
+        "ad_creative_link_titles": [
+            "24.8. – Běh z Toužimi do Bečova"
+        ],
+        "ad_delivery_start_time": "2020-09-27",
+        "ad_delivery_stop_time": "2020-09-28",
+        "bylines": "Starostové a nezávislí • STAN",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Karlovy Vary Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000977",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.128725",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000489",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00171",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.02467",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.033219",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.01148",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.129213",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.159013",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00171",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.109428",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.089399",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.055936",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.105276",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.070347",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.076698",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000977",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000733",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "5000",
+            "upper_bound": "5999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1017575764980188",
+        "page_name": "Petr Kulhánek",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "_id": "259634878563742"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=652558155692360&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2020-09-25",
+        "ad_creative_bodies": [
+            "☀️ Nebe bez mráčku a ve stínu 33°C – takové bylo počasí na startu 13. etapy… už po pár stovkách metrů jsme byli jak po 20 kilometrech 😓 Zastavili jsme se na Velkém rybníku a pak i na Mariánské, kde jsme se kromě budoucnosti tamního Domova pro seniory zmínili i o temnější minulosti tohoto místa… A na závěr v Jáchymově nám přiblížili přímo „jáchymovští“, jaké jsou jejich dnešní radosti i starost."
+        ],
+        "ad_creative_link_titles": [
+            "21.8. – Běh z Dalovic do Jáchymova"
+        ],
+        "ad_delivery_start_time": "2020-09-26",
+        "ad_delivery_stop_time": "2020-09-27",
+        "bylines": "Starostové a nezávislí • STAN",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Karlovy Vary Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001156",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.067714",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000693",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001156",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000462",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.011093",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001618",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.045066",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.132887",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.042755",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.114167",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.089438",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.110931",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.164779",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.016871",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.064248",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.134735",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000231",
+                "age": "18-24",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "5000",
+            "upper_bound": "5999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1017575764980188",
+        "page_name": "Petr Kulhánek",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "_id": "652558155692360"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=2710889945855597&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2020-09-24",
+        "ad_creative_bodies": [
+            "🚩 „Královská“ horská 12. etapa vedla z Božíčan do Jelení. Zastavili jsme se na ní v Nové Roli, městě porcelánu, v Rájci jsme se pak dozvěděli, jak si vede krajská samospráva ve srovnání s tou na místní úrovni, a přes nejmenší město v ČR – přes Přebuz – jsme doběhli do Jelení. Tam, v místě, kde první ruské tanky 21. srpna 1968 překračovaly tehdejší vychodoněmeckou hranici a vjížděly na naše území, jsme symbolicky vyjádřili podporu demokratickému hnutí v Bělorusku."
+        ],
+        "ad_creative_link_titles": [
+            "19.8. – Běh z Božíčan do Jelení"
+        ],
+        "ad_delivery_start_time": "2020-09-25",
+        "ad_delivery_stop_time": "2020-09-26",
+        "bylines": "Starostové a nezávislí • STAN",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Karlovy Vary Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000247",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.154912",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001732",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000495",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.008909",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.04974",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.015095",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.034645",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.120267",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001485",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.093789",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.140312",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.112596",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.059886",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.077951",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.125959",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001237",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000742",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "5000",
+            "upper_bound": "5999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1017575764980188",
+        "page_name": "Petr Kulhánek",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "_id": "2710889945855597"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=792187934931180&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2020-09-23",
+        "ad_creative_bodies": [
+            "🚩 Po trošku vážnějším úvodu v Krásné u Aše tentokrát více uvolněně 😉 Po krátké zastávce v Nebesích a výrazném omlazení běžeckého týmu ve Výhledech, jsme zavítali k hazlovskému hradu, představil nám ho Jiří Klsák, a pak i k hradu Seebergu; tam nás přivítal starosta Františkových lázní Jan Kuchař. Cíl byl tentkorát na náměstí v Chebu, A to, jak se v něm žije, nám přiblížil Miroslav Plevný, náš kandidát do Senátu."
+        ],
+        "ad_creative_link_titles": [
+            "14.8. – Běh z Krásné u Aše do Chebu"
+        ],
+        "ad_delivery_start_time": "2020-09-24",
+        "ad_delivery_stop_time": "2020-09-25",
+        "bylines": "Starostové a nezávislí • STAN",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Karlovy Vary Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000901",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.075242",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000676",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.041",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.067358",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.103627",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.099347",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.16738",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.17166",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000451",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.014418",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.096418",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.055418",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.074341",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001126",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.027934",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001352",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001352",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "5000",
+            "upper_bound": "5999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1017575764980188",
+        "page_name": "Petr Kulhánek",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "_id": "792187934931180"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=761804457711557&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2020-09-23",
+        "ad_creative_bodies": [
+            "🚩 Budoucnost karlovarského letiště i problematický provoz letecké školy F-AIR; to byla úvodní témata 10. etapy „Běhu pro budoucnost“. Štěpán Javůrek se pak cestou na Javornou pokusil vyzpovídat Tomia a Karlu a pod Uhelným vrchem našel první úkol pro budoucího hejtmana. Na závěr jsme přes Hlinky seběhli do Stanovic a u tamní přehrady ocenili stabilitu vodohospodářské soustavy pro zásobení Karlovarska pitnou vodou."
+        ],
+        "ad_creative_link_titles": [
+            "12.8. – Běh z karlovarského letiště do Stanovic"
+        ],
+        "ad_delivery_start_time": "2020-09-23",
+        "ad_delivery_stop_time": "2020-09-24",
+        "bylines": "Starostové a nezávislí • STAN",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Karlovy Vary Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001158",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.07482",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.007181",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.014593",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.092889",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.088256",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.172342",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.166088",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.056752",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000927",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001853",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.045634",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.112578",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.042159",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.120917",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000232",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000232",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00139",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "4000",
+            "upper_bound": "4999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1017575764980188",
+        "page_name": "Petr Kulhánek",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "300",
+            "upper_bound": "399"
+        },
+        "_id": "761804457711557"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1196990680686932&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2020-09-23",
+        "ad_creative_bodies": [
+            "🚩 Hned na úvod 9. etapy nám v Libavském údolí tamní starostka Petra Gajičová popsalala, jak (ne)funguje současný systém rozdělování dotací. Pak jsme se přes Kynšperk vyškrábali na Chlum svaté Máří a seběhli do Dasnic. Robert Pisár nám tam přiblížil možnosti řešení problémů lidí v exekuci. A na závěr jsme přes Sokolov doběhli do Lokte, kde hrozí konec středního školství; jeho záchranu ale nevzdává Petr Zahradníček."
+        ],
+        "ad_creative_link_titles": [
+            "7.8. – Běh z Libavského údolí do Lokte"
+        ],
+        "ad_delivery_start_time": "2020-09-23",
+        "ad_delivery_stop_time": "2020-09-24",
+        "bylines": "Starostové a nezávislí • STAN",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Karlovy Vary Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000742",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.080861",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002226",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001484",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.094214",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.083828",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.138724",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.039318",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.079377",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000742",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.058605",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.022255",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.143917",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.146884",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.090504",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.014837",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000742",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000742",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1017575764980188",
+        "page_name": "Petr Kulhánek",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "_id": "1196990680686932"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=263956994722413&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2020-09-22",
+        "ad_creative_bodies": [
+            "🚩 Hned na úvod 9. etapy nám v Libavském údolí tamní starostka Petra Gajičová popsalala, jak (ne)funguje současný systém rozdělování dotací. Pak jsme se přes Kynšperk vyškrábali na Chlum svaté Máří a seběhli do Dasnic. Robert Pisár nám tam přiblížil možnosti řešení problémů lidí v exekuci. A na závěr jsme přes Sokolov doběhli do Lokte, kde hrozí konec středního školství; jeho záchranu ale nevzdává Petr Zahradníček."
+        ],
+        "ad_creative_link_titles": [
+            "7.8. – Běh z Libavského údolí do Lokte"
+        ],
+        "ad_delivery_start_time": "2020-09-22",
+        "ad_delivery_stop_time": "2020-09-23",
+        "bylines": "Starostové a nezávislí • STAN",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Karlovy Vary Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000197",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.153937",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001575",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001378",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.065551",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.094685",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.090354",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.102559",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.016929",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000394",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.078937",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.158661",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001181",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.126969",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.056299",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.009646",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.039764",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000984",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "6000",
+            "upper_bound": "6999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1017575764980188",
+        "page_name": "Petr Kulhánek",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "_id": "263956994722413"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=264947088287930&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2020-09-20",
+        "ad_creative_bodies": [
+            "🚩 Při osmé etapě z Mnichova do Březové jsme se nejdřív zastavili na místě plánované vodní nádrže, pak i na kus řeči s ředitelem CHKO Slavkovský les Jindřichem Horáčkem na Úpolínové louce, nevynechali jsme ani zadlužené Prameny a na závěr v Rovné hledali odpověď na to, kde asi udělali soudruzi (nejen) z NDR chybu…"
+        ],
+        "ad_creative_link_titles": [
+            "5.8. – Běh z Mnichova do Březové"
+        ],
+        "ad_delivery_start_time": "2020-09-21",
+        "ad_delivery_stop_time": "2020-09-22",
+        "bylines": "Starostové a nezávislí • STAN",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Karlovy Vary Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000607",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.117516",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001214",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000607",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.007282",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.014159",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.102346",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.046521",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.062298",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001618",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.096076",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.154328",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.089604",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.11873",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.156756",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.028924",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001214",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000202",
+                "age": "18-24",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "6000",
+            "upper_bound": "6999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1017575764980188",
+        "page_name": "Petr Kulhánek",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "_id": "264947088287930"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=647984092754428&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2020-09-19",
+        "ad_creative_bodies": [
+            "🚩 Sedmá etapu startovala v Rotavě. V Jindřichovicích jsme se ještě jednou vrátili k větrným elektrárnám a jejich vlivu na charakter krajiny, zastavili se na místě budoucího polygonu BMW (držíme palce, ať se vývojové centrum spustí co nejdříve), na vlastní kůži si pak vyzkoušeli, jaké je to běžet přes Vintířovskou výsypku, a nakonec šťastně doběhli do Chodova."
+        ],
+        "ad_creative_link_titles": [
+            "24.7. – Běh z Rotavy do Chodova"
+        ],
+        "ad_delivery_start_time": "2020-09-20",
+        "ad_delivery_stop_time": "2020-09-21",
+        "bylines": "Starostové a nezávislí • STAN",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Karlovy Vary Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000644",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.111684",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001289",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.142612",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.121349",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.135739",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.133376",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.015034",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.08634",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001933",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.07646",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.034794",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.078393",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.008806",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.049399",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000644",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001074",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00043",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "6000",
+            "upper_bound": "6999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1017575764980188",
+        "page_name": "Petr Kulhánek",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "_id": "647984092754428"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=639171053661582&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2020-09-18",
+        "ad_creative_bodies": [
+            "🚩 Na trase šesté etapy z Andělské hory do Žlutic jsme postupně navšívili Činov, kde je ústřední skládka odpadů pro náš kraj a nakládání s odpady bude během několika let obrovský problém, Stružnou, kterou nám představil Radan Večerka, Bochov, kde se řeší sjezd z nové dálnice, a v Ratiboři „jak vymalované“ jsme se ještě dotkli financování mládežnického sportu."
+        ],
+        "ad_creative_link_titles": [
+            "22.7.– Běh z Andělské hory do Žlutic"
+        ],
+        "ad_delivery_start_time": "2020-09-19",
+        "ad_delivery_stop_time": "2020-09-20",
+        "bylines": "Starostové a nezávislí • STAN",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Karlovy Vary Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000474",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.119991",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001423",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001186",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00996",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001186",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.144415",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.087977",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.082049",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.01328",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.125682",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.04221",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.12331",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.14489",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.038653",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.062367",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000949",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "5000",
+            "upper_bound": "5999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1017575764980188",
+        "page_name": "Petr Kulhánek",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "_id": "639171053661582"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1704685433027313&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2020-09-17",
+        "ad_creative_bodies": [
+            "Pátá etapa vedla z Krásného Jezu na Staré Sedlo. V Krásně jsme si krom rozhledny všimli i významu činnosti spolků a dobrovolných sdružení, vyšplhali se na rozhlednu na hoře Krudum a vychutnali si socialistický realismus v podání Horního Slavkova, nedaleko kterého je i potenciální lokalita na těžbu lithia."
+        ],
+        "ad_creative_link_titles": [
+            "17.7. - Běh z Krásného Jezu na Staré Sedlo"
+        ],
+        "ad_delivery_start_time": "2020-09-18",
+        "ad_delivery_stop_time": "2020-09-18",
+        "bylines": "Starostové a nezávislí • STAN",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Karlovy Vary Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000197",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.109535",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000985",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.029354",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.080969",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.057723",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.180654",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.094563",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.098109",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000591",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.139086",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.030339",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.080969",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.087667",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.005319",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002364",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000985",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000591",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "6000",
+            "upper_bound": "6999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1017575764980188",
+        "page_name": "Petr Kulhánek",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "_id": "1704685433027313"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=750511345506695&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2020-09-16",
+        "ad_creative_bodies": [
+            "🚩 Při čtvrté etapě na cestě ze Skalné na Bublavu jsme proběhli Plesnou „jako ze škatulky“, v Lubech se Štěpán Javůrek zamyslel nad tím, jakým směrem by se měl kraj ubírat v době pouhelné, a na legendární značku Amati jsme zavzpomínali v Kraslicích; to místo si určitě zasluží pomoc do budoucna."
+        ],
+        "ad_creative_link_titles": [
+            "15.7. – Běh ze Skalné na Bublavu"
+        ],
+        "ad_delivery_start_time": "2020-09-17",
+        "ad_delivery_stop_time": "2020-09-18",
+        "bylines": "Starostové a nezávislí • STAN",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Karlovy Vary Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001706",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.130392",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000487",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.08969",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.076042",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.145991",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.14526",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.128199",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.075067",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000975",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.110651",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.015111",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.045089",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.025347",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.007799",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000731",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001462",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "5000",
+            "upper_bound": "5999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1017575764980188",
+        "page_name": "Petr Kulhánek",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "_id": "750511345506695"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=801284044034683&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2020-09-15",
+        "ad_creative_bodies": [
+            "🚩 Třetí etapa nás zavedla z Nového Kostela až na jesenickou přehradu, kde mi na moje otázky odpovídal františkolázeňský starosta Jan Kuchař. Cestou jsme se ještě zastavili v Milhostově u tamních větrných elektráren."
+        ],
+        "ad_creative_link_titles": [
+            "10.7. – Běh z Nového Kostela do Jesenice"
+        ],
+        "ad_delivery_start_time": "2020-09-16",
+        "ad_delivery_stop_time": "2020-09-17",
+        "bylines": "Starostové a nezávislí • STAN",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Karlovy Vary Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.00085",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.111395",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001913",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.039966",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.045706",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.008503",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.065901",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.102679",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.145833",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000425",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.153699",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.080995",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.106718",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.114371",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.018282",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001276",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000425",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001063",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "6000",
+            "upper_bound": "6999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1017575764980188",
+        "page_name": "Petr Kulhánek",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "_id": "801284044034683"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=336684804201129&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2020-09-14",
+        "ad_creative_bodies": [
+            "🚩 Ve druhé etapě jsme se na cestě z Oloví do Nového Sedla krátce zastavili na Cibulce – tamní rozhlednu vřele doporučuji jako tip na výlet – a pak delší dobu pobyli u jezera Medard, sokolovského moře. Tam mi aktuální stav i důvody, proč se dosud nedaří naplnit původní ambiciózní plány z dob jeho napuštění, objasnil Miroslav Balatka - senátor za sokolovsko."
+        ],
+        "ad_creative_link_titles": [
+            "6.7. – Běh z Oloví do Nového Sedla"
+        ],
+        "ad_delivery_start_time": "2020-09-15",
+        "ad_delivery_stop_time": "2020-09-16",
+        "bylines": "Starostové a nezávislí • STAN",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Karlovy Vary Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000196",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.057658",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000784",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001569",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000588",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.020592",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.025887",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.082369",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.078447",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.005099",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.120808",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.149637",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.11061",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.111198",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.151991",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.081192",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001177",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000196",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "7000",
+            "upper_bound": "7999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1017575764980188",
+        "page_name": "Petr Kulhánek",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "_id": "336684804201129"
+    }
+]

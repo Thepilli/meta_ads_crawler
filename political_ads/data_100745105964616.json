@@ -1,0 +1,2354 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1826127224510626&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-10-13",
+        "ad_creative_bodies": [
+            "Na stránkách Karviná, jsem dal anketu, která strana/hnutí by mělo zmizet z Karviné.  Bylo tam více než 1300 hlasů a stránka Karviná anketu smazala. Je tedy jasné, vzhledem k tomu, že piráti byli v popředí, kdo stránku\" organizuje\". Dejte si prosím tedy pozor, na jejich vyjádření a také na jejich anonymní příspěvky, které podněcují k nenávisti a podpoře současné vlády.\nP.S. foto je z prvních 9 minut ankety, která tam vydržela asi hodinu. Poslední přístup byl asi 1300 hlasů. \n(Bc. Jaroslav Slezák)"
+        ],
+        "ad_delivery_start_time": "2023-10-13",
+        "ad_delivery_stop_time": "2023-10-20",
+        "bylines": "SPD Karviná",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.001309",
+                "region": "Silesian Voivodeship"
+            },
+            {
+                "percentage": "0.998691",
+                "region": "Moravian-Silesian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.058899",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.017926",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.046095",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.115237",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.088348",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.179257",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.107554",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.099232",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.072983",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.038412",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002561",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00064",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00064",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00064",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.134443",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.037132",
+                "age": "25-34",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "2000",
+            "upper_bound": "2999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "100745105964616",
+        "page_name": "SPD Karviná",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Karviná, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 1528,
+        "beneficiary_payers": [
+            {
+                "payer": "SPD Karviná",
+                "beneficiary": "SPD Karviná",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 280,
+                        "female": 58,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 155,
+                        "female": 28,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 138,
+                        "female": 113,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 180,
+                        "female": 92
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 168,
+                        "female": 60
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 209,
+                        "female": 72,
+                        "unknown": 4
+                    }
+                ]
+            },
+            {
+                "country": "PL",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "65+",
+                        "female": 1
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 1
+                    }
+                ]
+            }
+        ],
+        "_id": "1826127224510626"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=3064336000529707&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-05-24",
+        "ad_creative_bodies": [
+            "Zveme Vás 29.5.2023 v 17 hod. na besedu s naším poslancem Mudr. Janem Sílou."
+        ],
+        "ad_delivery_start_time": "2023-05-25",
+        "ad_delivery_stop_time": "2023-05-27",
+        "bylines": "SPD Karviná",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Moravian-Silesian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.048501",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.07231",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.135802",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.117284",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.017637",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.118166",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.067901",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.116402",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.041446",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.151675",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.077601",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.031746",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000882",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000882",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001764",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "2000",
+            "upper_bound": "2999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "100745105964616",
+        "page_name": "SPD Karviná",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "300",
+            "upper_bound": "399"
+        },
+        "_id": "3064336000529707"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=239803625165254&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-03-30",
+        "ad_creative_bodies": [
+            "Z uniklých informací je už jasné, že se v Karviné budou uzavírat čtyři pobočky České pošty. Tzn. že z osmi zůstane jen polovina.  Dostupnost jejich služeb tak bude mnohem horší (obzvlášť pro důchodce) a už tak mnohdy ve špičce přeplněné provozy budou přesměrovány jen na poloviční kapacitu. Neschopnost Fialovy vlády jen ukazuje, že na co sáhne, to pos... zkazí. Dle odborníků např. povinnost datové schránky pro FO bude stát Českou poštu v roce 2023 ztrátu až další 2 miliardy. A to je jen zlomek vedení ministra Rakušana. Co pak? Zůstane v Karviné už jen jedna pošta? Nebo budeme jezdit do Ostravy?"
+        ],
+        "ad_delivery_start_time": "2023-03-30",
+        "ad_delivery_stop_time": "2023-04-02",
+        "bylines": "Jaroslav Slezák",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.002203",
+                "region": "Silesian Voivodeship"
+            },
+            {
+                "percentage": "0.997797",
+                "region": "Moravian-Silesian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001079",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.006472",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001079",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.039914",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.074434",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.166127",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.149946",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.07767",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.026969",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.133765",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.122977",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.199569",
+                "age": "65+",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "100745105964616",
+        "page_name": "SPD Karviná",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "_id": "239803625165254"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=525431289301996&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-09-22",
+        "ad_creative_bodies": [
+            "SOUTĚŽ 6. KOLO:  TIPNĚTE SPRÁVNĚ NAŠEHO KANDIDÁTA A VYHRAJTE BALÍČEK PROPAGAČNÍCH PŘEDMĚTŮ SPD NEBO OBLOŽENOU MÍSU V HODNOTĚ 750 KČ.\nPište ve formátu: jméno, příjmení a pořadové číslo na kandidátní listině. Kompletní pravidla najdete v příspěvku níže. Tipovat můžete do pátku 23.9.2022 do 20:00\nNáš další kandidát se narodil v Havířově, ale od narození žije v Karviné. Vystudoval Střední průmyslovou školu v Karviné a poté začal ihned pracovat. Ať již to bylo místo vedoucího skladu s gastronomickým vybavením, vedoucí dvou provozoven v Technických službách nebo práce v obchodní sféře, vždy bral svou práci vážně a svědomitě. Díky několika zaměstnáním má tedy zkušenosti z více oborů. Je již 12 let ženatý, má dvě děti, jednu již dospělou dceru a osmiletého syna. Jeho největšími koníčky jsou cestování, sport (zde především fotbal :-) ) a rád sleduje dokumenty. Jeho největší motiv vstupu do politiky je, aby si Česká republika zachovala svou vlastní kulturu a historii. A aby se život u nás stále zlepšoval, a to jak v ČR, tak hlavně v Karviné. Věří, že se mu to podaří, i když hnutí SPD stále někdo háže klacky pod nohy a snaží se jej nálepkovat."
+        ],
+        "ad_delivery_start_time": "2022-09-22",
+        "ad_delivery_stop_time": "2022-09-23",
+        "bylines": "Jaroslav Slezák",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Moravian-Silesian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.080537",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.16443",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.09396",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.067114",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.077181",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.036913",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.063758",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.130872",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.114094",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.083893",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.043624",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.043624",
+                "age": "65+",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "100745105964616",
+        "page_name": "SPD Karviná",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "_id": "525431289301996"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=3232955696921017&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-09-20",
+        "ad_creative_bodies": [
+            "Pojďte k volbám :)"
+        ],
+        "ad_delivery_start_time": "2022-09-20",
+        "ad_delivery_stop_time": "2022-09-24",
+        "bylines": "Jaroslav Slezák",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Moravian-Silesian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000711",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002132",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.040512",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.163468",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.108031",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.014925",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.103767",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.029851",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.061123",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.152097",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.133618",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.100213",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.086709",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002843",
+                "age": "18-24",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "2000",
+            "upper_bound": "2999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "100745105964616",
+        "page_name": "SPD Karviná",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "_id": "3232955696921017"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=497852745091893&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-09-19",
+        "ad_creative_bodies": [
+            "SOUTĚŽ 5. KOLO:  TIPNĚTE SPRÁVNĚ NAŠEHO KANDIDÁTA A VYHRAJTE BALÍČEK PROPAGAČNÍCH PŘEDMĚTŮ SPD NEBO OBLOŽENOU MÍSU V HODNOTĚ 750 KČ.\nPište ve formátu: jméno, příjmení a pořadové číslo na kandidátní listině. Kompletní pravidla najdete v příspěvku níže. Tipovat můžete do středy 21.9.2022 do 23:55\nNáš další kandidát nám propůjčil své archivní foto ze ZOO? Tehdy ho navštívil se svou babičkou a sestřenicí. Babička jim oboum koupila nové boty. Modré chlapecké a bílé dívčí. Jak si můžete všimnout, náš kandidát má na sobě ty dívčí. Už jako malý chtěl být lékařem a proto si pláčem vymohl, že on dostané bílé dívčí boty, protože vypadají jako od lékaře. Na škole se učil velice dobře, ale nakonec nad studiem vyhrál sport. Ragby hrál 7 let, než musel jít na vojnu, kde sloužil jako velitel 1. průzkumného družstva. Po vojně pracoval v mnoha odvětvích jako je např. težký průmysl, stavebnictví, hornictví ap. Dnes ho živí práce za volantem, ragby nehraje, doktorem se také nestal a své názory už prosazuje výhradně argumenty místo pláče. A bílé dívčí boty už také nenosí."
+        ],
+        "ad_delivery_start_time": "2022-09-19",
+        "ad_delivery_stop_time": "2022-09-21",
+        "bylines": "Jaroslav Slezák",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Moravian-Silesian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.025237",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.003155",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.078864",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.119874",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.037855",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.135647",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.097792",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.097792",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.132492",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.088328",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.031546",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.091483",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.059937",
+                "age": "65+",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "100745105964616",
+        "page_name": "SPD Karviná",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "_id": "497852745091893"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=481666150542437&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-09-19",
+        "ad_creative_bodies": [
+            "SPD už je na druhém místě a přeskočilo všechny aktuální vládní strany. Tohle všechno je ale nutné potvrdit u voleb. Tyto průzkumy jsou kontraproduktivní v jedné věci. Dokáží uchlácholit voliče, že je hotovo a jejich hlas už není potřeba. Opak je ale pravdou. Je nutné přijít k volbám a ukázat v tomto referendu o fialové vládě, že jsme nespokojení se současnou situací. Každý hlas je extrémně důležitý. Voliči petikoalice to ví a proto přijdou všichni. Nenechme si ukrást tuto šanci. Přijďte k volbám už 23.a 24. září. Děkujeme\nZdroj: cnn.iprima.cz\nZadavatel/zhotovitel: SPD"
+        ],
+        "ad_delivery_start_time": "2022-09-19",
+        "ad_delivery_stop_time": "2022-09-23",
+        "bylines": "Jaroslav Slezák",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Moravian-Silesian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.005195",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001732",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.103896",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.0329",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.078788",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.084848",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.081385",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.206061",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.054545",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.122944",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.074459",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.01039",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.141126",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000866",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000866",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "2000",
+            "upper_bound": "2999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "100745105964616",
+        "page_name": "SPD Karviná",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "_id": "481666150542437"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=617154903153409&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-09-19",
+        "ad_creative_bodies": [
+            "Vážení přátelé, pokud nás chcete podpořit opravdu maximálně, zakřížkujte nás prosím u voleb pouze nahoře u názvu strany (viz foto fiktivního hlasovacího lístku). Takto nám dáte celých 41 hlasů, které máte jako voliči k dispozici. Pokud dáte křížek např. pouze svým favoritům, svým známým ap., tak zbytek hlasů propadne. (Tak jak se tomu stalo bohužel před čtyřmi lety.) Křížkováním tak nepomůžete ani svým favoritům, ani nám jako celému týmu na kandidátní listině. Děkujeme za důvěru a stojíme za vámi. \nSdílejte prosím i mezi své známé. 🙂\nZadavatel:SPD/Zhotovitel:SPD"
+        ],
+        "ad_delivery_start_time": "2022-09-19",
+        "ad_delivery_stop_time": "2022-09-24",
+        "bylines": "Jaroslav Slezák",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Moravian-Silesian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000604",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.07061",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001811",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001207",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.111044",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.13277",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.095957",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.073024",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.069403",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.023537",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.077248",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.091129",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.043452",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001811",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.146047",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.059747",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000604",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "2000",
+            "upper_bound": "2999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "100745105964616",
+        "page_name": "SPD Karviná",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "_id": "617154903153409"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1920875584749546&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-09-15",
+        "ad_creative_bodies": [
+            "SOUTĚŽ 4. KOLO:  TIPNĚTE SPRÁVNĚ NAŠEHO KANDIDÁTA A VYHRAJTE BALÍČEK PROPAGAČNÍCH PŘEDMĚTŮ SPD NEBO OBLOŽENOU MÍSU V HODNOTĚ 750 KČ.\nPište ve formátu: jméno, příjmení a pořadové číslo na kandidátní listině. Kompletní pravidla najdete v příspěvku níže. Tipovat můžete do soboty 17.9.2022 do 23:55\nNaše další kandidátka se narodila v Havířově a od roku 1983 žije v Karviné. Jako malé dítě trávila většinu času venku, kde často a ráda sportovala. Za barákem se stýkala s kamarády, kde hráli různé hry. Jak sama říká, venku se nebála a ani rodiče neměli strach, že se něco stane. Po základní škole se učila v Českém Těšíně a po úspěšném složení maturitní zkoušky se začala věnovat rodině. Po rodičovské si vyzkoušela několik zaměstnání, od restaurace, přes fabriku až po kancelářskou práci. Sama říká, že v životě je třeba posouvat se vpřed a myslet nejen na naší budoucnost, ale i na budoucnost našich dětí.  Po absolvování několika zkoušek a akreditací, povinných pro její současné zaměstnání, zatím pořád pracuje z kancelářské židle. Dnes, kdy se jí role změnila a sama je rodičem školou povinného dítěte a dospělé dcery, už ale takové bezstarostné hraní \"za barákem\" pro syna nemá. I to je důvod, proč se rozhodla kandidovat za SPD. Bezpečnost v ulicích pro své, ale i ostatní děti a obyvatele Karviné, je pro ní prioritou."
+        ],
+        "ad_delivery_start_time": "2022-09-16",
+        "ad_delivery_stop_time": "2022-09-17",
+        "bylines": "Jaroslav Slezák",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Moravian-Silesian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.003049",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.158537",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.140244",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.02439",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.103659",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.097561",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.045732",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.20122",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.082317",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.02439",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.112805",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.003049",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.003049",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "100745105964616",
+        "page_name": "SPD Karviná",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "_id": "1920875584749546"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=769548800930219&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-09-14",
+        "ad_creative_bodies": [
+            "OTEVŘENĚ VŠEM !!!!"
+        ],
+        "ad_creative_link_captions": [
+            "fb.com"
+        ],
+        "ad_delivery_start_time": "2022-09-14",
+        "ad_delivery_stop_time": "2022-09-17",
+        "bylines": "Jaroslav Slezák",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Moravian-Silesian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.058824",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.067227",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.130252",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.046218",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.180672",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.042017",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.096639",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.10084",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.155462",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.105042",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.012605",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.004202",
+                "age": "18-24",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "100745105964616",
+        "page_name": "SPD Karviná",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "_id": "769548800930219"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=627815422256678&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-09-12",
+        "ad_creative_bodies": [
+            "Dejte nám vědět váš názor :) :) :)\nDnes jste si mohli poslechnout odpovědi SPD Karviná na Českém rozhlase Ostrava. Spolu s námi odpovídali na 4 otázky týkající se Karviné všechny uskupení. Pro potřebu rádia byly naše odpovědi poměrně zkrácené, proto vám je zde zveřejníme celé. Odkaz na vysílání v Českém rozhlase najdete v komentáři.  \nZde jsou první dvě otázky. \n\n1) Jak chcete zabránit odlivu lidí z Karviné?\nAbychom mohli řešit odliv lidí z Karviné, je třeba znát jeho příčinu. Nízká porodnost, vysoká úmrtnost a přirozený úbytek stěhováním jsou důvody, proč Karviné za rok 2021 ubylo 875 obyvatel. Věkový\nprůměr Karviné je jeden z nejvyšších v Moravskoslezském kraji. Tyto ukazatele mají jedno společné a to je kvalita života ve městě. Karviná se již dva roky za sebou umístila na předposledním místě\nv hodnocení indexu kvality života, který je sestavován pro celou Českou republiku. Podle hnutí SPD Karviná, odliv lidí úzce souvisí s dostupností bydlení, bezpečností ve městě, kvalitou vzdělávání,\ndostatečností služeb a samozřejmě také kvalitou zdravotní péče. Jedním z našich cílů je právě zamezit odlivu mladých lidí z města. Náš volební program explicitně ukazuje, že jsme si vědomi tohoto\nnastaveného trendu a chceme ho zastavit. SPD Karviná bude prosazovat modernizaci Karvinské nemocnice, dostupnou zubní péči, bezpečnější ulice, podporu rodin s dětmi nebo třeba dostupné\nbydlení.\n\n2) Souhlasíte se vznikem zábavního parku na území staré části Karviné? Odůvodněte svůj názor.\nAno souhlasíme a budeme vždy souhlasit s projektem, který bude dávat smysl pro rozvoj Karviné a její prosperitu. Každý takovýto projekt podpoří turismus v Karviné a díky tomu se zvýší příjem\nrozpočtu města, který bude důležitý pro další rozvoj, který plánujeme. Společně s projektem EDEN SILESIA, pokud by vznikl na tomto území, by měl přilákat ročně desetitisíce turistů. A s tím jsou\nsamozřejmě spojená i pracovní místa, která zde vzniknou a pomohou tak s nezaměstnaností v Karviné a okolí. S prostranstvím a budovami okolo dolu Gabriela již dnes máme zajímavé kulturní\ncentrum Karviné, kde se konají festivaly a různé společenské akce. Jsme pro zachování památek tohoto území, které by měly být vkusně a s citem zasazeny do nově vznikající krajiny. Zábavní park,\nEDEN SILESIA a okolí dolu Gabriela by tak tvořily zajímavý celek, kde by byla propojena věda, výzkum,historie a turismus."
+        ],
+        "ad_delivery_start_time": "2022-09-13",
+        "ad_delivery_stop_time": "2022-09-16",
+        "bylines": "Jaroslav Slezák",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Moravian-Silesian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.085586",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.135135",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.137387",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.146396",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.013514",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.072072",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.013514",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.083333",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.101351",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.031532",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002252",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002252",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.175676",
+                "age": "45-54",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "100745105964616",
+        "page_name": "SPD Karviná",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "_id": "627815422256678"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=407815201481097&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-09-12",
+        "ad_creative_bodies": [
+            "Hnutí SPD bude na úrovni samosprávy města Karviné v první řadě prosazovat zájmy pracujících občanů, rodin s dětmi, studentů, důchodců a všech, kteří se chtějí podílet na rozvoji města.\n\nHlavními cíli našeho programu je, aby se občané Karviné cítili ve svém městě bezpečně, aby město zajistilo základní služby a zabránilo úbytku obyvatel. Budeme bránit rozšiřování vyloučených lokalit."
+        ],
+        "ad_delivery_start_time": "2022-09-12",
+        "ad_delivery_stop_time": "2022-09-24",
+        "bylines": "Jaroslav Slezák",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Moravian-Silesian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000398",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000796",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.033811",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.075179",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.077566",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.111376",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.026651",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.160302",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.128878",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.067224",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.095068",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.11973",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.089897",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.011138",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001193",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000796",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "6000",
+            "upper_bound": "6999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "100745105964616",
+        "page_name": "SPD Karviná",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "_id": "407815201481097"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=629468622080424&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-09-12",
+        "ad_creative_bodies": [
+            "SOUTĚŽ 3. KOLO:  TIPNĚTE SPRÁVNĚ NAŠEHO KANDIDÁTA A VYHREJTE BALÍČEK PROPAGAČNÍCH PŘEDMĚTŮ SPD NEBO OBLOŽENOU MÍSU V HODNOTĚ 750 KČ.\nPište ve formátu: jméno, příjmení, pořadové číslo na kandidátní listině. Kompletní pravidla najdete v příspěvku níže. Tipovat můžete do středy 14.9.2022 do 18:00\nSrdce našeho třetího kandidáta bije pro Karvinou v rytmu mazurky či polonézy, jeho mysl je však upřená prioritně na českou scénu. Narodil se v Ráji, vyrůstal v Hranicích, učil se v Novém Městě a ve Fryštátě, a třebaže po maturitě na polském gymnáziu v Českém Těšíně okusil krásy větších českých měst, s pokorou se vrátil tam, kde se cítí opravdu doma. Ačkoliv jeho akademickou dráhu nelze nazvat úspěšnou, na trhu práce se díky svému univerzálnímu charakteru neztratil a poslední roky pracuje v české strojírenské firmě jako obchodní zástupce pro Polsko. Jako \"hraničák\" se vždy snažil prohlubovat vztahy mezi oběma státy nejen v doporučování výhodnějších obchodních kanálů, ale také třeba v rozlišení výslovnosti písmen s, š a ś. Nesnáší lež a pokrytectví, povrchnost a lhostejnost, nespravedlnost schovanou za alibistickou rovnost a také vnímání reality černobíle. Velmi mu záleží na budoucnosti milovaného města a právě proto se kromě aktivního volebního práva rozhodl využít i toho pasivního v barvách hnutí SPD, které volí pravidelně již od roku 2017. Náš kandidát věří, že v případě úspěchu SPD v těchto volbách dokáže prosadit většinu programových bodů a bude moci být na Karvinou hrdý i v těžkých časech, které nás čekají.\nZADAVATEL: SPD/ ZHOTOVITEL: SPD"
+        ],
+        "ad_delivery_start_time": "2022-09-12",
+        "ad_delivery_stop_time": "2022-09-14",
+        "bylines": "Jaroslav Slezák",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Moravian-Silesian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.002047",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.052201",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.06653",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.105425",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.122825",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.120778",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.048106",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.076766",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.128966",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.107472",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.04913",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.100307",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.019447",
+                "age": "18-24",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "100745105964616",
+        "page_name": "SPD Karviná",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "_id": "629468622080424"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=378673281136473&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-09-07",
+        "ad_creative_bodies": [
+            "Vážení přátelé, pokud nás chcete podpořit opravdu maximálně, zakřížkujte nás prosím u voleb pouze nahoře u názvu strany (viz foto fiktivního hlasovacího lístku). Takto nám dáte celých 41 hlasů, které máte jako voliči k dispozici. Pokud dáte křížek např. pouze svým favoritům, svým známým ap., tak zbytek hlasů propadne. (Tak jak se tomu stalo bohužel před čtyřmi lety.) Křížkováním tak nepomůžete ani svým favoritům, ani nám jako celému týmu na kandidátní listině. Děkujeme za důvěru a stojíme za vámi. \nSdílejte prosím i mezi své známé. 🙂\nZadavatel:SPD/Zhotovitel:SPD"
+        ],
+        "ad_delivery_start_time": "2022-09-07",
+        "ad_delivery_stop_time": "2022-09-17",
+        "bylines": "Jaroslav Slezák",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Moravian-Silesian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000938",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.130666",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.092529",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.109409",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.050641",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.060957",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.091904",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.066896",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.138793",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.122851",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.071585",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.042826",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.019068",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000938",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "5000",
+            "upper_bound": "5999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "100745105964616",
+        "page_name": "SPD Karviná",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "300",
+            "upper_bound": "399"
+        },
+        "_id": "378673281136473"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=377650071196460&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-08-24",
+        "ad_creative_bodies": [
+            "Bezpečnost ve městě je jeden z našich hlavních cílů. V roce 2021 bylo v Karviné 3794 registrovaných trestných činů a téměř polovina (45,2%) zůstala neobjasněná. Jedním z vlivů na kriminalitě jsou bezesporu herny. Uzavření heren v okolních městech potvrdilo, že nulová tolerance hazardu dokáže snížit kriminalitu. Důležitá je také lepší spolupráce státní a městské policie. Policie musí být ve městě vidět, obzvlášť ve vyloučených lokalitách, které se v Karviné neustále zvětšují. Dále chceme rozšířit kamerový systém, který v okolních městech funguje nejen jako prevence kriminality, ale také jako její rychlé vyřešení. Chceme využít zkušeností některých měst, kterým se povedlo kriminalitu snižit, použít osvědčené recepty a neplýtvat tak městským rozpočtem na pokusy, které mohou být neefektivní a drahé.\nZadavatel: SPD, Zhotovitel: SPD"
+        ],
+        "ad_delivery_start_time": "2022-08-25",
+        "ad_delivery_stop_time": "2022-08-26",
+        "bylines": "Jaroslav Slezák",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Moravian-Silesian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.016129",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.134409",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.102151",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.094086",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.134409",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.198925",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.193548",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.064516",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.018817",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.034946",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.008065",
+                "age": "25-34",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "100745105964616",
+        "page_name": "SPD Karviná",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "_id": "377650071196460"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1202407407223604&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-08-22",
+        "ad_creative_bodies": [
+            "Hnutí SPD bude na úrovni samosprávy města Karviné v první řadě prosazovat zájmy pracujících občanů, rodin s dětmi, studentů, důchodců a všech, kteří se chtějí podílet na rozvoji města.\n\nHlavními cíli našeho programu je, aby se občané Karviné cítili ve svém městě bezpečně, aby město zajistilo základní služby a zabránilo úbytku obyvatel. Budeme bránit rozšiřování vyloučených lokalit."
+        ],
+        "ad_delivery_start_time": "2022-08-22",
+        "ad_delivery_stop_time": "2022-09-10",
+        "bylines": "Jaroslav Slezák",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Moravian-Silesian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.0003",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.106811",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.10471",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.034503",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.136814",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.069907",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.015902",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.127513",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.09661",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.0003",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.063306",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.043204",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.10381",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.093609",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.0003",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.0006",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.0006",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.0012",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "9000",
+            "upper_bound": "9999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "100745105964616",
+        "page_name": "SPD Karviná",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "_id": "1202407407223604"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1038895050127232&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-08-19",
+        "ad_creative_bodies": [
+            "Někteří naši kandidáti do zastupitelstva."
+        ],
+        "ad_delivery_start_time": "2022-08-19",
+        "ad_delivery_stop_time": "2022-08-22",
+        "bylines": "Jaroslav Slezák",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Moravian-Silesian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000626",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.099562",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.064496",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.103945",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.031935",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.125861",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.048842",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.154665",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.092048",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.003757",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.120225",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.023168",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000626",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000626",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000626",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001252",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.12774",
+                "age": "45-54",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "2000",
+            "upper_bound": "2999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "100745105964616",
+        "page_name": "SPD Karviná",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "_id": "1038895050127232"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1219909622190918&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-08-19",
+        "ad_creative_bodies": [
+            "Hlavní cíle našeho programu."
+        ],
+        "ad_delivery_start_time": "2022-08-20",
+        "ad_delivery_stop_time": "2022-08-22",
+        "bylines": "Jaroslav Slezák",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Moravian-Silesian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001441",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.0317",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.040346",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.118156",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.106628",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.158501",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.188761",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.139769",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.06196",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.056196",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.007205",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.086455",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002882",
+                "age": "18-24",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "100745105964616",
+        "page_name": "SPD Karviná",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "_id": "1219909622190918"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=478507707451485&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-08-14",
+        "ad_creative_bodies": [
+            "Hnutí SPD bude na úrovni samosprávy města Karviné v první řadě prosazovat zájmy pracujících občanů, rodin s dětmi, studentů, důchodců a všech, kteří se chtějí podílet na rozvoji města.\n\nHlavními cíli našeho programu je, aby se občané Karviné cítili ve svém městě bezpečně, aby město zajistilo základní služby a zabránilo úbytku obyvatel. Budeme bránit rozšiřování vyloučených lokalit."
+        ],
+        "ad_delivery_start_time": "2022-08-15",
+        "ad_delivery_stop_time": "2022-08-22",
+        "bylines": "Jaroslav Slezák",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Moravian-Silesian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000382",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.115061",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000765",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.035933",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.007263",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.047401",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.022936",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.132645",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.096713",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000382",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.123471",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.138761",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.083716",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.115061",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.078364",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000765",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000382",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "6000",
+            "upper_bound": "6999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "100745105964616",
+        "page_name": "SPD Karviná",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "_id": "478507707451485"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1410784919333089&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-08-12",
+        "ad_creative_bodies": [
+            "Dostupná zubní péče v Karviné."
+        ],
+        "ad_delivery_start_time": "2022-08-12",
+        "ad_delivery_stop_time": "2022-08-15",
+        "bylines": "Jaroslav Slezák",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Moravian-Silesian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.014903",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.04769",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.010432",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.061103",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.207154",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.092399",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.126677",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.102832",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.067064",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.19225",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.074516",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002981",
+                "age": "18-24",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "100745105964616",
+        "page_name": "SPD Karviná",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "_id": "1410784919333089"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1106691620255373&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-08-09",
+        "ad_creative_bodies": [
+            "Dostupná zubní péče v Karviné."
+        ],
+        "ad_delivery_start_time": "2022-08-09",
+        "ad_delivery_stop_time": "2022-08-09",
+        "bylines": "Jaroslav Slezák",
+        "currency": "CZK",
+        "estimated_audience_size": {
+            "lower_bound": "5001",
+            "upper_bound": "10000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "100745105964616",
+        "page_name": "SPD Karviná",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "_id": "1106691620255373"
+    }
+]

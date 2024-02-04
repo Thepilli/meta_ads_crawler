@@ -1,0 +1,740 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=847263680475412&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-18",
+        "ad_creative_bodies": [
+            "30. listopadu jsme se na workshopu pod vedením lektorů z organizace Ekodomov přesvědčili, že každý může přispívat ke zpomalení klimatické změny. Stačí začít kompostovat! ♻️ \n\nNejen, že pomůžete planetě, ale ještě získáte skvělé organické hnojivo pro vaše květiny. A kompostovat můžete dokonce i v malém bytě. 🌱 \n\nNa naší centrále například kompostujeme bioodpad z našeho veganského bistra a z kávové sedliny tu vyrábíme nejlepší sušenky s kokosem! 🥥\n\nA my se už teď nemůžeme dočkat, až vyzkoušíme všechny tipy a triky, které jsme se na workshopu naučili."
+        ],
+        "ad_delivery_start_time": "2023-12-18",
+        "ad_delivery_stop_time": "2023-12-19",
+        "currency": "USD",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000144",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.045522",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.126963",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.112749",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.059784",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.041873",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.037887",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.044082",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.061657",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.103001",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.047779",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.059112",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.110876",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.101128",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.047443",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000779",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.059923",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000828",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.02984",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.074819",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.181911",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.145013",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.063331",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.036752",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001071",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.065716",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.057294",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.046926",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001509",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.188629",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.044151",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000487",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001022",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "20000",
+            "upper_bound": "24999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "105552227912168",
+        "page_name": "Jsme Komerčka",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 21137,
+        "beneficiary_payers": [
+            {
+                "payer": "Komerční banka, a.s.",
+                "beneficiary": "Komerční banka, a.s.",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 1537,
+                        "female": 613,
+                        "unknown": 10
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 2979,
+                        "female": 1350,
+                        "unknown": 22
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 907,
+                        "female": 755,
+                        "unknown": 16
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 1301,
+                        "female": 1177,
+                        "unknown": 17
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 3875,
+                        "female": 1231,
+                        "unknown": 21
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 3737,
+                        "female": 964,
+                        "unknown": 31
+                    }
+                ]
+            }
+        ],
+        "_id": "847263680475412"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=7067791619950635&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-08",
+        "ad_creative_bodies": [
+            "Ticho dětem nepomůže. Proto jsme v Komerčce opět bubnovali, aby je bylo slyšet! 🥁\nBubnovačka upozorňuje na důležitost ochrany dětí před násilím v rodině. Dáváme tak symbolicky hlas týraným dětem, které jsou často pro společnost neviditelné.\n\nNaše Nadace Komerční banky dlouhodobě spolupracuje s LOCIKA - centrum pro děti ohrožené domácím násilím. Společně s dobrovolníky z našeho IT oddělení jsme vyvinuli aplikaci Dětství bez násilí, díky které si děti budou moci snadno říct o pomoc. 📲"
+        ],
+        "ad_creative_link_titles": [
+            "Bubnovačka"
+        ],
+        "ad_delivery_start_time": "2023-12-08",
+        "ad_delivery_stop_time": "2023-12-11",
+        "currency": "USD",
+        "delivery_by_region": [
+            {
+                "percentage": "4.5E-5",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.050165",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.130051",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.106373",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.059873",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.045654",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.037243",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.046139",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.054314",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.107715",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.050086",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.064349",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.10405",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.097939",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.046004",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000478",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.049148",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001068",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000823",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.034772",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.054622",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.06477",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.022065",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.058695",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000389",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.067986",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.038243",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.155788",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.188802",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.200496",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.060252",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001224",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000378",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "90000",
+            "upper_bound": "99999"
+        },
+        "page_id": "105552227912168",
+        "page_name": "Jsme Komerčka",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 92190,
+        "beneficiary_payers": [
+            {
+                "payer": "Komerční banka, a.s.",
+                "beneficiary": "Komerční banka, a.s.",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 5275,
+                        "female": 1983,
+                        "unknown": 35
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 18019,
+                        "female": 5415,
+                        "unknown": 110
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 3437,
+                        "female": 3125,
+                        "unknown": 43
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 6110,
+                        "female": 4909,
+                        "unknown": 34
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 14001,
+                        "female": 5821,
+                        "unknown": 74
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 16968,
+                        "female": 4417,
+                        "unknown": 96
+                    }
+                ]
+            }
+        ],
+        "_id": "7067791619950635"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=861450962037025&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-08-24",
+        "ad_creative_bodies": [
+            "Letos jsme pro děti našich zaměstnanců přichystali letní tábor ve školícím středisku KB na Libohošti. 😍 Za 2 týdny zažily hromadu zábavy, ale také pochopily, jak důležité je téma udržitelnosti. ♻️ Děti si například vyzkoušely tzv. klimatickou mozaiku, díky které porozuměly, co jsou příčiny a možné důsledky klimatických změn a nakonec společně zasadily stromy. 🌳"
+        ],
+        "ad_delivery_start_time": "2023-08-25",
+        "ad_delivery_stop_time": "2023-08-28",
+        "currency": "USD",
+        "delivery_by_region": [
+            {
+                "percentage": "5.0E-6",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.048528",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.127572",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.118792",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.057248",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.048032",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.030494",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.039754",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.065187",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.118967",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.047983",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.055366",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.095224",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.090905",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.055944",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000262",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.045205",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000458",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000912",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000289",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001392",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.027804",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.080957",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.0829",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.063987",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.030277",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.075275",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.049479",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.197808",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.186133",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.125011",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.03085",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000999",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "175000",
+            "upper_bound": "199999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "105552227912168",
+        "page_name": "Jsme Komerčka",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 185922,
+        "beneficiary_payers": [
+            {
+                "payer": "Komerční banka, a.s.",
+                "beneficiary": "Komerční banka, a.s.",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 11723,
+                        "female": 5547,
+                        "unknown": 53
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 22903,
+                        "female": 15188,
+                        "unknown": 167
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 5094,
+                        "female": 5652,
+                        "unknown": 84
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 8282,
+                        "female": 9065,
+                        "unknown": 48
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 34101,
+                        "female": 14832,
+                        "unknown": 255
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 36240,
+                        "female": 13791,
+                        "unknown": 183
+                    }
+                ]
+            }
+        ],
+        "_id": "861450962037025"
+    }
+]

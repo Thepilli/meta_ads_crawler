@@ -1,0 +1,737 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1089700648591155&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-11",
+        "ad_creative_link_captions": [
+            "t.me"
+        ],
+        "ad_creative_link_titles": [
+            "Join group chat on Telegram"
+        ],
+        "ad_delivery_start_time": "2023-11-11",
+        "ad_delivery_stop_time": "2023-11-13",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000501",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.032048",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.067601",
+                "region": "Žilina Region"
+            },
+            {
+                "percentage": "0.047071",
+                "region": "Trnava Region"
+            },
+            {
+                "percentage": "0.051577",
+                "region": "Trenčín Region"
+            },
+            {
+                "percentage": "0.087131",
+                "region": "Presov"
+            },
+            {
+                "percentage": "0.070606",
+                "region": "Nitra Region"
+            },
+            {
+                "percentage": "0.07311",
+                "region": "Košice Region"
+            },
+            {
+                "percentage": "0.101652",
+                "region": "Bratislava Region"
+            },
+            {
+                "percentage": "0.04006",
+                "region": "Banská Bystrica Region"
+            },
+            {
+                "percentage": "0.027041",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.039059",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.022534",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.023535",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.019529",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.038558",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.023535",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.009514",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.019029",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.026039",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.05358",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.113671",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.01302",
+                "region": "Liberec Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000499",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.022433",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.054835",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.016949",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.54985",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.198405",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.146062",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002493",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001496",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002991",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.003988",
+                "age": "18-24",
+                "gender": "unknown"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "2000",
+            "upper_bound": "2999"
+        },
+        "languages": [
+            "en"
+        ],
+        "page_id": "153456454523780",
+        "page_name": "Instagram User 2044628190",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            },
+            {
+                "name": "Slovakia",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "23",
+            "43"
+        ],
+        "eu_total_reach": 1973,
+        "beneficiary_payers": [
+            {
+                "payer": "💰FREE TIP💰S KURZEM 17+👇",
+                "beneficiary": "💰FREE TIP💰S KURZEM 17+👇",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 144,
+                        "female": 18,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 184,
+                        "female": 16,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 483,
+                        "female": 51,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 3
+                    }
+                ]
+            },
+            {
+                "country": "SK",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 613,
+                        "female": 59,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 216,
+                        "female": 18,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 147,
+                        "female": 27,
+                        "unknown": 3
+                    }
+                ]
+            }
+        ],
+        "_id": "1089700648591155"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=299511952902344&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-08",
+        "ad_creative_link_captions": [
+            "t.me"
+        ],
+        "ad_creative_link_titles": [
+            "Join group chat on Telegram"
+        ],
+        "ad_delivery_start_time": "2023-11-09",
+        "ad_delivery_stop_time": "2023-11-09",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.017291",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.041787",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.051873",
+                "region": "Trnava Region"
+            },
+            {
+                "percentage": "0.038905",
+                "region": "Trenčín Region"
+            },
+            {
+                "percentage": "0.064841",
+                "region": "Presov"
+            },
+            {
+                "percentage": "0.04755",
+                "region": "Nitra Region"
+            },
+            {
+                "percentage": "0.057637",
+                "region": "Košice Region"
+            },
+            {
+                "percentage": "0.105187",
+                "region": "Bratislava Region"
+            },
+            {
+                "percentage": "0.034582",
+                "region": "Banská Bystrica Region"
+            },
+            {
+                "percentage": "0.027378",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.048991",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.14121",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.034582",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.028818",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.053314",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.017291",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.010086",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.008646",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.024496",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.027378",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.06196",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.056196",
+                "region": "Žilina Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.002861",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.011445",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.151645",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.154506",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.035765",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.62804",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.004292",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001431",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.010014",
+                "age": "18-24",
+                "gender": "female"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "en"
+        ],
+        "page_id": "153456454523780",
+        "page_name": "Instagram User 2044628190",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            },
+            {
+                "name": "Slovakia",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "23",
+            "43"
+        ],
+        "eu_total_reach": 693,
+        "beneficiary_payers": [
+            {
+                "payer": "💰FREE TIP💰S KURZEM 17+👇",
+                "beneficiary": "💰FREE TIP💰S KURZEM 17+👇",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 64,
+                        "female": 2,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 59,
+                        "female": 5,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 228,
+                        "female": 15,
+                        "unknown": 2
+                    }
+                ]
+            },
+            {
+                "country": "SK",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 205,
+                        "female": 10,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 49,
+                        "female": 3,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 42,
+                        "female": 5
+                    }
+                ]
+            }
+        ],
+        "_id": "299511952902344"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=330089906300823&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-08",
+        "ad_creative_link_captions": [
+            "t.me"
+        ],
+        "ad_creative_link_titles": [
+            "Join group chat on Telegram"
+        ],
+        "ad_delivery_start_time": "2023-11-09",
+        "ad_delivery_stop_time": "2023-11-09",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.027778",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.041667",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.055556",
+                "region": "Trnava Region"
+            },
+            {
+                "percentage": "0.037698",
+                "region": "Trenčín Region"
+            },
+            {
+                "percentage": "0.073413",
+                "region": "Presov"
+            },
+            {
+                "percentage": "0.051587",
+                "region": "Nitra Region"
+            },
+            {
+                "percentage": "0.077381",
+                "region": "Košice Region"
+            },
+            {
+                "percentage": "0.083333",
+                "region": "Bratislava Region"
+            },
+            {
+                "percentage": "0.053571",
+                "region": "Banská Bystrica Region"
+            },
+            {
+                "percentage": "0.03373",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.055556",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.105159",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.027778",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.015873",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.051587",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.02381",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.011905",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.015873",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.029762",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.017857",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.045635",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.063492",
+                "region": "Žilina Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.007937",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.041667",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.152778",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.017857",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.146825",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.625",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.005952",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001984",
+                "age": "18-24",
+                "gender": "unknown"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "page_id": "153456454523780",
+        "page_name": "Instagram User 2044628190",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            },
+            {
+                "name": "Slovakia",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "23",
+            "43"
+        ],
+        "eu_total_reach": 507,
+        "beneficiary_payers": [
+            {
+                "payer": "💰FREE TIP💰S KURZEM 17+👇",
+                "beneficiary": "💰FREE TIP💰S KURZEM 17+👇",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 39,
+                        "female": 5
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 157,
+                        "female": 11,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 36,
+                        "female": 3
+                    }
+                ]
+            },
+            {
+                "country": "SK",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 35,
+                        "female": 4,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 158,
+                        "female": 10
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 41,
+                        "female": 1
+                    }
+                ]
+            }
+        ],
+        "_id": "330089906300823"
+    }
+]

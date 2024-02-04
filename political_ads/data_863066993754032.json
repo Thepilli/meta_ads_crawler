@@ -1,0 +1,2487 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=7923097151050070&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-21",
+        "ad_creative_bodies": [
+            "❗️Posilujeme službu na chatu a zároveň zvedáme věkovou hranici z 18 let na 26. To je to nejmenší, co můžeme v tuto chvíli udělat. Prosíme o sdílení, naši pracovníci jsou připraveni řešit s dětmi a mladými dospělými cokoliv, nejen situace spojené s násilím v rodině, které řešíme obvykle. 🙏"
+        ],
+        "ad_delivery_start_time": "2023-12-22",
+        "ad_delivery_stop_time": "2023-12-23",
+        "bylines": "Centrum LOCIKA",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.049778",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.211396",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.126456",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.050625",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.034527",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.023724",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.038975",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.054014",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.104639",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.039822",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.04427",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.105274",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.071383",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.045118",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.00021",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002102",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.032156",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.021017",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.013661",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.009248",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.08575",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.20765",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.076713",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.026692",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.312526",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.205969",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.003573",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002522",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00021",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "6000",
+            "upper_bound": "6999"
+        },
+        "page_id": "863066993754032",
+        "page_name": "LOCIKA - centrum pro děti ohrožené domácím násilím",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "500",
+            "upper_bound": "599"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "26",
+            "65"
+        ],
+        "eu_total_reach": 4587,
+        "beneficiary_payers": [
+            {
+                "payer": "LOCIKA - centrum pro děti ohrožené domácím násilím",
+                "beneficiary": "LOCIKA - centrum pro děti ohrožené domácím násilím",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 100,
+                        "female": 980,
+                        "unknown": 12
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 153,
+                        "female": 1487,
+                        "unknown": 17
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 127,
+                        "female": 988,
+                        "unknown": 10
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 65,
+                        "female": 408,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 44,
+                        "female": 365,
+                        "unknown": 1
+                    }
+                ]
+            }
+        ],
+        "_id": "7923097151050070"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=264555643271430&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-07",
+        "ad_creative_bodies": [
+            "Advent je časem splněných přání. Jaké je to vaše? My si přejeme, aby už žádné dítě nezemřelo v důsledku násilí v rodině. A věříme, že společně s vámi dokážeme velké věci. Proto spouštíme vánoční kampaň. 🎄 Vybíráme 321 300 Kč, za které budeme schopni v roce 2024 poskytnout další pomoc dětským obětem domácího násilí. Pomozte svým darem vrátit dětem do života bezpečí. Budeme vám vděčni i za sdílení informace o kampani. Čím více nás bude, tím více dětí se dostane k citlivé pomoci. 🙏 #detstvibeznasili"
+        ],
+        "ad_creative_link_captions": [
+            "darujme.cz"
+        ],
+        "ad_creative_link_descriptions": [
+            "Představte si, že máte speciální vánoční přání. Jaké by to bylo? To naše je jasné. Přejeme si, aby všechny děti v České republice zažívaly dětství bez násilí. Letošní Vánoce sbíráme 321 300 Kč na pomoc dětem, které se staly obětí domácího násilí."
+        ],
+        "ad_creative_link_titles": [
+            "Zastavme násilí na dětech"
+        ],
+        "ad_delivery_start_time": "2023-12-08",
+        "ad_delivery_stop_time": "2023-12-23",
+        "bylines": "Centrum LOCIKA",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000131",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.048476",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.191211",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.134262",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.052746",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.038163",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.019049",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.036259",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.052154",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.097543",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.044141",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.05649",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.118957",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.060497",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.049921",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.21986",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.340554",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.422099",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.017488",
+                "age": "55-64",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "20000",
+            "upper_bound": "24999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "863066993754032",
+        "page_name": "LOCIKA - centrum pro děti ohrožené domácím násilím",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "2000",
+            "upper_bound": "2499"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "Women",
+        "target_ages": [
+            "25",
+            "55"
+        ],
+        "eu_total_reach": 15041,
+        "beneficiary_payers": [
+            {
+                "payer": "LOCIKA - centrum pro děti ohrožené domácím násilím",
+                "beneficiary": "LOCIKA - centrum pro děti ohrožené domácím násilím",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "female": 5141
+                    },
+                    {
+                        "age_range": "35-44",
+                        "female": 6372
+                    },
+                    {
+                        "age_range": "45-54",
+                        "female": 3319
+                    },
+                    {
+                        "age_range": "55-64",
+                        "female": 264
+                    }
+                ]
+            }
+        ],
+        "_id": "264555643271430"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1310107426341689&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-07",
+        "ad_creative_bodies": [
+            "Advent je časem splněných přání. Jaké je to vaše? My si přejeme, aby už žádné dítě nezemřelo v důsledku násilí v rodině. A věříme, že společně s vámi dokážeme velké věci. Proto spouštíme vánoční kampaň. 🎄 Vybíráme 321 300 Kč, za které budeme schopni v roce 2024 poskytnout další pomoc dětským obětem domácího násilí. Pomozte svým darem vrátit dětem do života bezpečí. Budeme vám vděčni i za sdílení informace o kampani. Čím více nás bude, tím více dětí se dostane k citlivé pomoci. 🙏 #detstvibeznasili"
+        ],
+        "ad_creative_link_captions": [
+            "darujme.cz"
+        ],
+        "ad_creative_link_descriptions": [
+            "Představte si, že máte speciální vánoční přání. Jaké by to bylo? To naše je jasné. Přejeme si, aby všechny děti v České republice zažívaly dětství bez násilí. Letošní Vánoce sbíráme 321 300 Kč na pomoc dětem, které se staly obětí domácího násilí."
+        ],
+        "ad_creative_link_titles": [
+            "Zastavme násilí na dětech"
+        ],
+        "ad_delivery_start_time": "2023-12-07",
+        "ad_delivery_stop_time": "2023-12-07",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.064711",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.240725",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.149267",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.06126",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.037101",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.017256",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.031061",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.048318",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.083693",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.028473",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.054357",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.093184",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.050906",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.039689",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000872",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.299041",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.018309",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.039233",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.004359",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.006103",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.028771",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.022668",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.329555",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000872",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.147341",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00959",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.05231",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.035745",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001744",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001744",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001744",
+                "age": "65+",
+                "gender": "male"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "863066993754032",
+        "page_name": "LOCIKA - centrum pro děti ohrožené domácím násilím",
+        "publisher_platforms": [
+            "facebook",
+            "instagram",
+            "audience_network",
+            "messenger"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 1122,
+        "beneficiary_payers": [
+            {
+                "payer": "LOCIKA - centrum pro děti ohrožené domácím násilím",
+                "beneficiary": "LOCIKA - centrum pro děti ohrožené domácím násilím",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 11,
+                        "female": 41,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 21,
+                        "female": 169,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 2,
+                        "female": 45,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 7,
+                        "female": 60
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 33,
+                        "female": 378,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 26,
+                        "female": 343,
+                        "unknown": 2
+                    }
+                ]
+            }
+        ],
+        "_id": "1310107426341689"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=197861173281172&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-02",
+        "ad_creative_bodies": [
+            "Neboj se, ozvi se. Pomůžeme Ti. Nově s námi můžeš chatovat i v sobotu."
+        ],
+        "ad_creative_link_captions": [
+            "detstvibeznasili.cz"
+        ],
+        "ad_delivery_start_time": "2023-11-02",
+        "ad_delivery_stop_time": "2023-12-24",
+        "bylines": "Centrum LOCIKA",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.002326",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.049155",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.19662",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.102497",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.058459",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.040782",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.026361",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.032408",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.045123",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.097224",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.046984",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.060785",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.133509",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.070088",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.03768",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000159",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.011275",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.089566",
+                "age": "13-17",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.163411",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.142449",
+                "age": "13-17",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.418453",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.174686",
+                "age": "13-17",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "30000",
+            "upper_bound": "34999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "863066993754032",
+        "page_name": "LOCIKA - centrum pro děti ohrožené domácím násilím",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "1500",
+            "upper_bound": "1999"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "13",
+            "18"
+        ],
+        "eu_total_reach": 5872,
+        "beneficiary_payers": [
+            {
+                "payer": "LOCIKA - centrum pro děti ohrožené domácím násilím",
+                "beneficiary": "LOCIKA - centrum pro děti ohrožené domácím násilím",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "65+",
+                        "female": 1
+                    },
+                    {
+                        "age_range": "13-17",
+                        "male": 897,
+                        "female": 1100,
+                        "unknown": 564
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 1029,
+                        "female": 2635,
+                        "unknown": 71
+                    }
+                ]
+            }
+        ],
+        "_id": "197861173281172"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1027433788451922&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-10-20",
+        "ad_creative_bodies": [
+            "Bubnovačka ve školách je důležitou součástí prevence. Mluvme s dětmi o násilí. Naslouchejme jim a vybavme je informacemi, kam se obrátit o pomoc. Bude se bubnovat i ve vaší škole? \nVíce informací a přihlášku k letošnímu ročníku najdete u nás na webu!\n#detstvibeznasili #Bubnovacka2023"
+        ],
+        "ad_creative_link_captions": [
+            "www.detstvibeznasili.cz"
+        ],
+        "ad_creative_link_titles": [
+            "Bubnujte, aby byly děti slyšet! Bubnujte proti násilí!"
+        ],
+        "ad_delivery_start_time": "2023-10-21",
+        "ad_delivery_stop_time": "2023-11-04",
+        "bylines": "Centrum LOCIKA",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.00384",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.04042",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.275263",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.104689",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.046281",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.037591",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.018593",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.029911",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.046686",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.088723",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.040218",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.053153",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.104082",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.070331",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.040218",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001257",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001466",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.008379",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.022623",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.063888",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.138249",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.171554",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.585253",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.004608",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001047",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001676",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "25000",
+            "upper_bound": "29999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "863066993754032",
+        "page_name": "LOCIKA - centrum pro děti ohrožené domácím násilím",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "25",
+            "55"
+        ],
+        "eu_total_reach": 4807,
+        "beneficiary_payers": [
+            {
+                "payer": "LOCIKA - centrum pro děti ohrožené domácím násilím",
+                "beneficiary": "LOCIKA - centrum pro děti ohrožené domácím násilím",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "male": 40,
+                        "female": 305,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 5,
+                        "female": 22
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 819,
+                        "female": 2794,
+                        "unknown": 8
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 108,
+                        "female": 660,
+                        "unknown": 7
+                    }
+                ]
+            }
+        ],
+        "_id": "1027433788451922"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=4237557243136979&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-06-23",
+        "ad_creative_bodies": [
+            "Chceme, aby Česká republika byla místem, kde všechny děti mají právo na dětství bez násilí. Staňte se součástí komunity, které není osud dětí lhostejný, podpořte iniciativu svým podpisem."
+        ],
+        "ad_creative_link_captions": [
+            "detstvibeznasili.cz"
+        ],
+        "ad_creative_link_titles": [
+            "Připojte se k iniciativě Dětství bez násilí."
+        ],
+        "ad_delivery_start_time": "2023-06-23",
+        "ad_delivery_stop_time": "2023-08-31",
+        "bylines": "Centrum LOCIKA",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.003191",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.046685",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.168108",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.128577",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.058472",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.0402",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.020589",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.035619",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.060377",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.105775",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.046325",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.051215",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.114525",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.066656",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.053685",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001114",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000318",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "5.3E-5",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000901",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.011559",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.018347",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.379235",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.390106",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.178641",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.006681",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.003022",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.010022",
+                "age": "55-64",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "500001",
+            "upper_bound": "1000000"
+        },
+        "impressions": {
+            "lower_bound": "60000",
+            "upper_bound": "69999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "863066993754032",
+        "page_name": "LOCIKA - centrum pro děti ohrožené domácím násilím",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "3000",
+            "upper_bound": "3499"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "25",
+            "55"
+        ],
+        "eu_total_reach": 19162,
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "55-64",
+                        "male": 6,
+                        "female": 189,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 346,
+                        "female": 7357,
+                        "unknown": 17
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 126,
+                        "female": 3369,
+                        "unknown": 21
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 218,
+                        "female": 7152,
+                        "unknown": 57
+                    }
+                ]
+            }
+        ],
+        "_id": "4237557243136979"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1246019389296989&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-11-02",
+        "ad_creative_bodies": [
+            "Sdílejte toto video, buďte součástí naší komunity, které není osud děti zasažených násilím v rodině lhostejný. Dejte nám do komentářů ❤️, jestli se Bubnovačky zúčastníte nebo podporujete #detstvibeznasili."
+        ],
+        "ad_creative_link_captions": [
+            "www.detstvibeznasili.cz"
+        ],
+        "ad_creative_link_titles": [
+            "Bubnovačka 2022"
+        ],
+        "ad_delivery_start_time": "2022-11-02",
+        "ad_delivery_stop_time": "2022-11-18",
+        "bylines": "Centrum LOCIKA",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.04658",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.239614",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.11666",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.051616",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.031473",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.018044",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.026018",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.054553",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.096517",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.047419",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.044901",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.125892",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.060428",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.040285",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000432",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000864",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.003457",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000864",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001296",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.030251",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.004754",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.010372",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.022904",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.031979",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.321521",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.321089",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.14261",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.023336",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.075627",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.008643",
+                "age": "18-24",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "5001",
+            "upper_bound": "10000"
+        },
+        "impressions": {
+            "lower_bound": "9000",
+            "upper_bound": "9999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "863066993754032",
+        "page_name": "LOCIKA - centrum pro děti ohrožené domácím násilím",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "_id": "1246019389296989"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=504938268204457&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-11-02",
+        "ad_creative_bodies": [
+            "Bubnujte spolu s námi, aby byly děti slyšet. Ticho děti před násilím neochrání. #detstvibeznasili #Bubnovacka2022"
+        ],
+        "ad_creative_link_captions": [
+            "www.detstvibeznasili.cz"
+        ],
+        "ad_creative_link_titles": [
+            "Staňte se součástí komunity, které není lhostejné osud dětí ohrožených násilím v rodině!"
+        ],
+        "ad_delivery_start_time": "2022-11-02",
+        "ad_delivery_stop_time": "2022-11-18",
+        "bylines": "Centrum LOCIKA",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000115",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.052386",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.169766",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.099764",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.06082",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.041391",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.027978",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.042916",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.047752",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.103218",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.047637",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.062748",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.127281",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.072765",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.043463",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000117",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.135873",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001202",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000469",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.029865",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.085404",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.060404",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.200909",
+                "age": "13-17",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.433411",
+                "age": "13-17",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00126",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "2.9E-5",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.010785",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.029719",
+                "age": "13-17",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.003312",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00255",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000586",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001084",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000147",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000352",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002521",
+                "age": "45-54",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "175000",
+            "upper_bound": "199999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "863066993754032",
+        "page_name": "LOCIKA - centrum pro děti ohrožené domácím násilím",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "4000",
+            "upper_bound": "4499"
+        },
+        "_id": "504938268204457"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=475606751195176&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-10-24",
+        "ad_creative_bodies": [
+            "Neboj se, ozvi se. Pomůžeme Ti."
+        ],
+        "ad_creative_link_captions": [
+            "detstvibeznasili.cz"
+        ],
+        "ad_delivery_start_time": "2022-10-24",
+        "ad_delivery_stop_time": "2022-12-30",
+        "bylines": "Centrum LOCIKA",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1.6E-5",
+                "region": "Andalusia"
+            },
+            {
+                "percentage": "0.000159",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.076467",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.119133",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.057021",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.046822",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.110299",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.052913",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.045712",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.02966",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.046553",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.064476",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.101813",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.145939",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.053309",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "1.6E-5",
+                "region": "Kirovohrad Oblast"
+            },
+            {
+                "percentage": "1.6E-5",
+                "region": "Nitra Region"
+            },
+            {
+                "percentage": "1.6E-5",
+                "region": "Île-de-France"
+            },
+            {
+                "percentage": "3.2E-5",
+                "region": "Silesian Voivodeship"
+            },
+            {
+                "percentage": "1.6E-5",
+                "region": "Sachsen"
+            },
+            {
+                "percentage": "1.6E-5",
+                "region": "Budapest"
+            },
+            {
+                "percentage": "1.6E-5",
+                "region": "Presov"
+            },
+            {
+                "percentage": "1.6E-5",
+                "region": "Košice Region"
+            },
+            {
+                "percentage": "1.6E-5",
+                "region": "Lower Silesian Voivodeship"
+            },
+            {
+                "percentage": "1.6E-5",
+                "region": "Zürich"
+            },
+            {
+                "percentage": "1.6E-5",
+                "region": "Pennsylvania"
+            },
+            {
+                "percentage": "1.6E-5",
+                "region": "Tuscany"
+            },
+            {
+                "percentage": "1.6E-5",
+                "region": "Provence-Alpes-Côte d'Azur"
+            },
+            {
+                "percentage": "1.6E-5",
+                "region": "Medenine Governorate"
+            },
+            {
+                "percentage": "6.3E-5",
+                "region": "Opole Voivodeship"
+            },
+            {
+                "percentage": "1.6E-5",
+                "region": "Berlin"
+            },
+            {
+                "percentage": "0.049392",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.022035",
+                "age": "13-17",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.013685",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.638681",
+                "age": "13-17",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.320106",
+                "age": "13-17",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.005161",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000331",
+                "age": "18-24",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "250000",
+            "upper_bound": "299999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "863066993754032",
+        "page_name": "LOCIKA - centrum pro děti ohrožené domácím násilím",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "3500",
+            "upper_bound": "3999"
+        },
+        "_id": "475606751195176"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1609773166081940&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2021-12-21",
+        "ad_creative_bodies": [
+            "Podpořte DĚTSTVÍ BEZ NÁSILÍ v naší darovací kampani Hodina NEstačí zde: 👉 https://bit.ly/HodinaNEstaci\nSbíráme 100 000 Kč na podporu anonymního chatu a linky na webu Dětství bez násilí. Každá vaše darovaná hodina může zachránit život ohroženým dětem. 👧👶👦\nV minulém roce jsme s dětmi mluvili 3 000 hodin o násilí. Víme, co násilí je a umíme ho zastavit. 💪\nNásilí v rodině není normální a nemělo by k němu docházet. Dětem, které v takovém rodinném prostředí vyrůstají, způsobuje velká traumata a bolest, se kterou si samy neporadí. Umíme pomoci rodinám, kterým se to stane. Bohužel to není možné vyřešit v krátkém čase, natož za hodinu. Kampaň Hodina NEstačí má na tuto skutečnost upozornit.\nAle kde nestačí naše hodina, vaše stačit může. 🙏\nVěnujte prosím hodinu svého času, pošlete odpovídající částku vašeho hodinového platu těmto dětem a změňte jejich osud. ❤\n#HodinaNEstaci #detstvibeznasili #GivingTuesdayCZ"
+        ],
+        "ad_creative_link_captions": [
+            "centrumlocika.cz"
+        ],
+        "ad_creative_link_descriptions": [
+            "Sbíráme 100 000 Kč na podporu anonymního chatu a linky na webu Dětství bez násilí. Každá vaše darovaná hodina může zachránit život ohroženým dětem."
+        ],
+        "ad_creative_link_titles": [
+            "Naše hodina NEstačí, vaše ano!"
+        ],
+        "ad_delivery_start_time": "2021-12-21",
+        "ad_delivery_stop_time": "2021-12-31",
+        "bylines": "Centrum LOCIKA",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.038772",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.249099",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.108767",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.050609",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.026934",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.024018",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.037056",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.047521",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.098816",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.036541",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.051638",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.111683",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.08046",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.038085",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001197",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.827633",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.132524",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.037962",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000684",
+                "age": "13-17",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "30000",
+            "upper_bound": "34999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "863066993754032",
+        "page_name": "LOCIKA - centrum pro děti ohrožené domácím násilím",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "_id": "1609773166081940"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=196885812542802&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2021-11-30",
+        "ad_creative_bodies": [
+            "Podpořte DĚTSTVÍ BEZ NÁSILÍ v naší darovací kampani Hodina NEstačí zde: 👉 https://bit.ly/HodinaNEstaci\nSbíráme 100 000 Kč na podporu anonymního chatu a linky na webu Dětství bez násilí. Každá vaše darovaná hodina může zachránit život ohroženým dětem. 👧👶👦\nV minulém roce jsme s dětmi mluvili 3 000 hodin o násilí. Víme, co násilí je a umíme ho zastavit. 💪\nNásilí v rodině není normální a nemělo by k němu docházet. Dětem, které v takovém rodinném prostředí vyrůstají, způsobuje velká traumata a bolest, se kterou si samy neporadí. Umíme pomoci rodinám, kterým se to stane. Bohužel to není možné vyřešit v krátkém čase, natož za hodinu. Kampaň Hodina NEstačí má na tuto skutečnost upozornit.\nAle kde nestačí naše hodina, vaše stačit může. 🙏\nVěnujte prosím hodinu svého času, pošlete odpovídající částku vašeho hodinového platu těmto dětem a změňte jejich osud. ❤\n#HodinaNEstaci #detstvibeznasili #GivingTuesdayCZ"
+        ],
+        "ad_creative_link_captions": [
+            "centrumlocika.cz"
+        ],
+        "ad_creative_link_descriptions": [
+            "Sbíráme 100 000 Kč na podporu anonymního chatu a linky na webu Dětství bez násilí. Každá vaše darovaná hodina může zachránit život ohroženým dětem."
+        ],
+        "ad_creative_link_titles": [
+            "Naše hodina NEstačí, vaše ano!"
+        ],
+        "ad_delivery_start_time": "2021-12-01",
+        "ad_delivery_stop_time": "2021-12-02",
+        "bylines": "Centrum LOCIKA",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000229",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.052583",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.209877",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.096022",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.055327",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.039095",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.025149",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.035437",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.050526",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.107682",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.042067",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.052583",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.113855",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.07979",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.039781",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.015618",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.006338",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.008375",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.194885",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.446809",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.159574",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.06813",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.024672",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002943",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.035989",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.003395",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.023766",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00679",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001132",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000679",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000905",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "4000",
+            "upper_bound": "4999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "863066993754032",
+        "page_name": "LOCIKA - centrum pro děti ohrožené domácím násilím",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "_id": "196885812542802"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=384496336761852&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2021-11-04",
+        "ad_creative_bodies": [
+            "Bubnujte spolu s námi, aby byly děti slyšet. Protože ticho děti před násilím neochrání. Přidejte se k nám, ať jste škola, firma, jednotlivec. Více informací najdete v popisu události. \n#detstvibeznasili #Bubnovacka2021"
+        ],
+        "ad_creative_link_captions": [
+            "Bubnuj, aby bylo děti lépe slyšet 2021"
+        ],
+        "ad_creative_link_descriptions": [
+            "Akce s názvem \"Bubnovačka\" má symbolicky upozornit na důležitost ochrany dětí před násilím a otevřít ve společnosti téma včasné prevence. \n\nZabubnujte si společně s námi letos poprvé 19. listopadu 2021 i v České republice, v čase 10:00 - 11:00, a připomeňte si, že hlas dětí je důležitý.\n\nBubnujte s námi, bez ohledu na místo, a určitě nám o tom dejte vědět. Natočte se, vyfoťte se, a můžete přidávat vaše fotky i videa v této FB události!\n\nRádi byste se zapojili a nevíte jak na to, neváhejte nás kontaktovat na magdalenac@centrumlocika.cz\n\nZvukem bubnů si hlavní myšlenku akce - Aby bylo děti lépe slyšet - připomenou na Slovensku, kde celý tento nápad vznikl, 19. listopadu 2021 již poosmé. \n\nA my do toho letos chceme jít s nimi. Hlas dětí tak bude slyšet v obou zemích, protože ticho děti před násilím neochrání.\n\nNásilí na dětech je tady, je kolem nás, i když ho často nevnímáme, nevidíme. S násilím se můžeme vypořádat jen tak, že ho nebudeme bagatelizovat, přehlížet a vnímat jako něco, co se nás přece netýká. Je důležité dětem naslouchat a věřit jim. \n\nListopad je měsícem několika významných dat v oblasti ochrany práv dítěte:\n- 18. listopad je od roku 2015 vyhlášen Evropským dnem ochrany dětí před sexuálním vykořisťováním a zneužíváním,\n- 19. listopad je znám jako Světový den prevence týrání a zneužívání dětí,\n- 20. listopad je Světovým dnem dětí vyhlášeným organizací UNICEF, během kterého si svět připomíná přijetí Úmluvy o právech dítěte. \n\nBěhem minulých ročníků se na Slovensku zapojilo do bubnování více než 55 000 dětí a dospělých. \nRádi bychom tato čísla zvedli účastí u nás v Česku, naším cílem je, aby se z této akce v nejbližších letech stala veřejně známá a tradiční aktivita a zapojili se do ní školy, úřady, veřejnost, zkrátka každý, komu není osud dětí lhostejný. \n\nZde ke zhlédnutí reportáž z loňské Bubnovačky na Slovensku: https://www.rtvs.sk/televizia/archiv/13982/250007#1803\n\nBubnovačku odstartovalo na Slovensku v roce 2014 Centrum Slniečko, člen Koalice pro děti Slovensko, které se problematice násilí na dětech věnuje více než 20 let. Již několik ročníků této akce probíhá ve spolupráci s Národním koordinačním střediskem pro řešení problematiky násilí na dětech při MPSVaR SR, které na Slovensku hraje klíčovou roli při realizaci konkrétních systémových řešení, zajišťujících ochranu dětí před násilím.\nhttps://centrumslniecko.sk/, https://detstvobeznasilia.gov.sk/ \n\nZde najdete stejnou letošní událost na Slovensku:\nhttps://www.facebook.com/events/4514796608613206\n\nV České republice akci letos poprvé zaštiťuje a organizuje Centrum LOCIKA, které již od roku 2015 pomáhá dětem a jejich rodinám žít život bez násilí."
+        ],
+        "ad_creative_link_titles": [
+            "Bubnuj, aby bylo děti lépe slyšet 2021"
+        ],
+        "ad_delivery_start_time": "2021-11-05",
+        "ad_delivery_stop_time": "2021-11-19",
+        "bylines": "Centrum LOCIKA",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.050829",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.239723",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.129297",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.057373",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.037868",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.026939",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.030752",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.051274",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.077514",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.045174",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.049749",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.102103",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.063536",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.037868",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000319",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.343828",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001275",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.009368",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.025046",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.048244",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.113186",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.27092",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.030527",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001083",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.067172",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.012428",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.005736",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.019565",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002932",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.036709",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001721",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.009942",
+                "age": "55-64",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "35000",
+            "upper_bound": "39999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "863066993754032",
+        "page_name": "LOCIKA - centrum pro děti ohrožené domácím násilím",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "1500",
+            "upper_bound": "1999"
+        },
+        "_id": "384496336761852"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=350766423465914&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2021-08-26",
+        "ad_creative_bodies": [
+            "Neboj se, ozvi se. Pomůžeme Ti."
+        ],
+        "ad_creative_link_captions": [
+            "detstvibeznasili.cz"
+        ],
+        "ad_delivery_start_time": "2021-08-26",
+        "ad_delivery_stop_time": "2022-01-14",
+        "bylines": "Centrum LOCIKA",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000116",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.057206",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.11432",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.095989",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.067779",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.052181",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.027399",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.048371",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.05811",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.114436",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.051891",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.061653",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.117308",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.082903",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.050339",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000186",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.007525",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.015503",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.625814",
+                "age": "13-17",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.323921",
+                "age": "13-17",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.027052",
+                "age": "13-17",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "500001",
+            "upper_bound": "1000000"
+        },
+        "impressions": {
+            "lower_bound": "200000",
+            "upper_bound": "249999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "863066993754032",
+        "page_name": "LOCIKA - centrum pro děti ohrožené domácím násilím",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "2000",
+            "upper_bound": "2499"
+        },
+        "_id": "350766423465914"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=308785000743499&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2021-05-24",
+        "ad_creative_bodies": [
+            "Škola by měla být pro děti, které zažívají domácí násilí, místem bezpečí a pomoci. 🙇‍♂️ Je tomu ale skutečně tak? Spustili jsme v Centru LOCIKA výzkum a moc vás prosíme o spolupráci, zapojení se a sdílení tohoto odkazu ❗️ 👉 https://locikavyzkum.cz/ 🙏\nJedná se o online dotazníky pro pedagogické pracovníky a rodiče dětí. Chceme díky nim zjistit, zda a v jaké míře jsou pedagogům a rodičům dostupné informace, podpora a vzdělávání v oblasti tématu dětí a násilí v rodině. Výstupy pak zohledníme v kampani a především při vzniku manuálů📒, online školení pro pedagogy 👩‍🏫 a informačních materiálů pro rodiče👨‍👩‍👦. Násilí v rodině zažívá podle aktuálních výzkumů 14 % českých dětí. Statisticky jsou v každé školní třídě 2 až 4 děti ohrožené domácím násilím, minimálně 1 dítě je touto situací závažně traumatizované. Přesto nejsou učitelé a další pedagogičtí pracovníci odborně připravení a nemohou se opřít o funkční systém sociálně právní ochrany dětí. Ani rodiče nemají často základní přehled. Rádi bychom společně s vámi tuto situaci změnili. ❤"
+        ],
+        "ad_creative_link_captions": [
+            "locikavyzkum.cz"
+        ],
+        "ad_creative_link_descriptions": [
+            "Násilí v rodině zažívá podle aktuálních výzkumů 14 % českých dětí. Odpovědí na pár otázek nám pomůžete situaci dětí ohrožených násilím v rodině změnit k lepšímu."
+        ],
+        "ad_creative_link_titles": [
+            "Škola - Místo bezpečí a pomoci"
+        ],
+        "ad_delivery_start_time": "2021-05-25",
+        "ad_delivery_stop_time": "2021-05-25",
+        "currency": "CZK",
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "863066993754032",
+        "page_name": "LOCIKA - centrum pro děti ohrožené domácím násilím",
+        "publisher_platforms": [
+            "facebook",
+            "instagram",
+            "audience_network",
+            "messenger"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "_id": "308785000743499"
+    }
+]

@@ -1,0 +1,166 @@
+[
+    {
+        "id": "347989344701897",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=347989344701897&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-30",
+        "ad_creative_bodies": [
+            "Už tento týden se začínají podávat přihlášky na střední školy. Naši rodinu to čeká také. Jaké jsou novinky a jakou zvolit strategii?\n\nOcením i vaše tipy a sdílení. My budeme podávat elektronickou přihlášku a už jsem dostala několik doporučení nepřihlašovat se hned 1. února, aby systém pod náporem nezkolaboval 🤦‍♀️\n\nMrkněte na video 👇👇👇"
+        ],
+        "ad_creative_link_captions": [
+            "fb.com"
+        ],
+        "ad_creative_link_titles": [
+            "Jak se změnil systém přihlášek na střední?"
+        ],
+        "ad_delivery_start_time": "2024-01-30",
+        "bylines": "Česká pirátská strana",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.001808",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.500904",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.473779",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.023508",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.066176",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.056985",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.194853",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.180147",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.170956",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.082721",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.191176",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001838",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.005515",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.049632",
+                "age": "25-34",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "500001",
+            "upper_bound": "1000000"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "109426895534368",
+        "page_name": "Lucie Cirkva Chocholová - kandidátka na hejtmanku Středočeského kraje",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Central Bohemian Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "30",
+            "60"
+        ],
+        "eu_total_reach": 550,
+        "beneficiary_payers": [
+            {
+                "payer": "Lucie Cirkva Chocholová",
+                "beneficiary": "Lucie Cirkva Chocholová",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "male": 98,
+                        "female": 93,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 104,
+                        "female": 106,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 31,
+                        "female": 27
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 45,
+                        "female": 36
+                    }
+                ]
+            }
+        ]
+    }
+]

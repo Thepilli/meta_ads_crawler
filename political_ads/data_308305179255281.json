@@ -1,0 +1,1375 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=375255748262796&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-21",
+        "ad_creative_bodies": [
+            "Další zastupitelské hodiny jsou tu! \n\nTrápí vás v Prostějově nebo na kraji nějaké nedostatky? Potřebujete řešit problémy ve vaší čtvrtí? Máte otázky ohledně chodu města či kraje?\n\nJsme tu pro vás! Náš Jan Mochťák, zastupitel města Prostějova a krajský radní Petr Lysek budou 22. listopadu od 17:30 do 19:00 v Centru Prostějovských Pirátů. Rádi si vyslechnou všechny vaše připomínky a zodpoví dotazy, tak se stavte.\n\nTěšíme se na viděnou. 🙏🏴‍☠️"
+        ],
+        "ad_delivery_start_time": "2023-11-21",
+        "ad_delivery_stop_time": "2023-11-22",
+        "bylines": "Česká pirátská strana",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.002801",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.997199",
+                "region": "Olomouc Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001394",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.076655",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.135192",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.016725",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.075261",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.15122",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.082927",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.028571",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.131707",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000697",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.058537",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.070383",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.117073",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000697",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000697",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000697",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.051568",
+                "age": "35-44",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "308305179255281",
+        "page_name": "Prostějovští Piráti",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "target_locations": [
+            {
+                "name": "Prostejov, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 1428,
+        "beneficiary_payers": [
+            {
+                "payer": "Česká pirátská strana",
+                "beneficiary": "Česká pirátská strana",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "male": 189,
+                        "female": 119,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 217,
+                        "female": 74,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 110,
+                        "female": 168,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 108,
+                        "female": 101,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 194,
+                        "female": 41
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 84,
+                        "female": 24,
+                        "unknown": 1
+                    }
+                ]
+            }
+        ],
+        "_id": "375255748262796"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=724265246402609&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-14",
+        "ad_creative_bodies": [
+            "Linku na zpracování odpadů v Prostějově nechceme. A důvodů je hned několik:\n\n➡️ Linka má být v provozu od 6:00 do 22:00 ve všední dny i o víkendech a má zpracovat 50 000 tun odpadu ročně, což je zhruba 5x víc, než vyprodukuje Prostějov. Odpad se tak bude svážet ze širokého okolí. \n\n➡️ Už tak tíživou dopravu ve městě zkomplikují další kamiony a přibude hluku i polétavého prachu. \n\n➡️ Linka má být 150 metrů od obytných domů, což zhorší kvalitu života mnoha Prostějovanů, jak kvůli hluku, tak kvůli zhoršení kvality vzduchu. \n\n➡️ Předložený záměr vůbec neodpovídá územnímu plánu města. V areálu bývalé Vitany podle něj má vzniknout nerušivá výroba a služby s důrazem na čisté inovační technologie. Do toho má linka opravdu daleko. \n\n➡️ Záměr společnosti FCC vybudovat linku na výrobu tuhých alternativních paliv (TAP) byl odmítnut obyvateli Biskupic. Obyvatelé Mostkovic se jasně vyslovili proti schválení výstavby zařízení umožňující plazmové zplyňování odpadu, kdy se obávali zvýšené dopravy, zápachu, ohrožení spodních vod nebo zhoršení kvality ovzduší. \n\nChceme proto, aby byl záměr zrušen. Pokud ve městě také nechcete linku na zpracování odpadu, podepište petici. Seznam všech petičních míst najdete tady: https://pi2.cz/peticnimista"
+        ],
+        "ad_delivery_start_time": "2023-11-14",
+        "ad_delivery_stop_time": "2023-11-17",
+        "bylines": "Česká pirátská strana",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.997351",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.002649",
+                "region": "South Moravian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001335",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.073431",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.088117",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.080107",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.146862",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.134846",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.097463",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.053405",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.094793",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.022697",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.030708",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.124166",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.045394",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001335",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.004005",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001335",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "308305179255281",
+        "page_name": "Prostějovští Piráti",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Prostejov, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 756,
+        "beneficiary_payers": [
+            {
+                "payer": "Česká pirátská strana",
+                "beneficiary": "Česká pirátská strana",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 73,
+                        "female": 23,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 101,
+                        "female": 34,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 66,
+                        "female": 93,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 40,
+                        "female": 17,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 110,
+                        "female": 55
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 71,
+                        "female": 60
+                    }
+                ]
+            }
+        ],
+        "_id": "724265246402609"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1075299540305773&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-14",
+        "ad_creative_bodies": [
+            "Linku na zpracování odpadů v Prostějově nechceme. A důvodů je hned několik:\n\n➡️ Linka má být v provozu od 6:00 do 22:00 ve všední dny i o víkendech a má zpracovat 50 000 tun odpadu ročně, což je zhruba 5x víc, než vyprodukuje Prostějov. Odpad se tak bude svážet ze širokého okolí. \n\n➡️ Už tak tíživou dopravu ve městě zkomplikují další kamiony a přibude hluku i polétavého prachu. \n\n➡️ Linka má být 150 metrů od obytných domů, což zhorší kvalitu života mnoha Prostějovanů, jak kvůli hluku, tak kvůli zhoršení kvality vzduchu. \n\n➡️ Předložený záměr vůbec neodpovídá územnímu plánu města. V areálu bývalé Vitany podle něj má vzniknout nerušivá výroba a služby s důrazem na čisté inovační technologie. Do toho má linka opravdu daleko. \n\n➡️ Záměr společnosti FCC vybudovat linku na výrobu tuhých alternativních paliv (TAP) byl odmítnut obyvateli Biskupic. Obyvatelé Mostkovic se jasně vyslovili proti schválení výstavby zařízení umožňující plazmové zplyňování odpadu, kdy se obávali zvýšené dopravy, zápachu, ohrožení spodních vod nebo zhoršení kvality ovzduší. \n\nChceme proto, aby byl záměr zrušen. Pokud ve městě také nechcete linku na zpracování odpadu, podepište petici. Seznam všech petičních míst najdete tady: https://pi2.cz/jftu"
+        ],
+        "ad_delivery_start_time": "2023-11-14",
+        "ad_delivery_stop_time": "2023-11-14",
+        "bylines": "Česká pirátská strana",
+        "currency": "CZK",
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "308305179255281",
+        "page_name": "Prostějovští Piráti",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Prostejov, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 54,
+        "beneficiary_payers": [
+            {
+                "payer": "Česká pirátská strana",
+                "beneficiary": "Česká pirátská strana",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 4
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 3,
+                        "female": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 9,
+                        "female": 6
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 8,
+                        "female": 4
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 5,
+                        "female": 1
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 6,
+                        "female": 7
+                    }
+                ]
+            }
+        ],
+        "_id": "1075299540305773"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1046106259753553&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-10-17",
+        "ad_creative_bodies": [
+            "Silnice a chodník na ulici Fanderlíkova 39 a 41 je dlouhodobě v katastrofálním stavu. Pokud tu bydlíte tak určitě víte, o čem je řeč. Proč je město neopraví? Nemůže. \n\n👉 Spoustu lidí se mylně domnívá, že pozemek před domem, jehož součástí je zmiňovaná silnice a chodník, je v majetku SVJ Fanderlíkova, ale není tomu tak. Pozemek koupila kdysi dávno soukromá firma, která zde chtěla stavět garáže, což se však nestalo a vlastník se o pozemek dál nestaral a nestará. \n\n👉 SVJ už se samozřejmě několikrát pokoušelo majitele kontaktovat, aby vozovku i chodník opravil, ale nereaguje. Chodník tak SVJ opravilo na vlastní náklady, nicméně byl vždy zničen popelářským vozem, který velmi složitě zajišťuje na úzké a zničené komunikaci svoz odpadu.\n\n🏴‍☠️ Za Piráty jsme proto podali podnět, aby se do řešení problému vložilo město, ideálně pozemek koupilo a opravilo. Rezervy na to má a v zájmu místních to je. Co myslíte vy?"
+        ],
+        "ad_delivery_start_time": "2023-10-17",
+        "ad_delivery_stop_time": "2023-10-22",
+        "bylines": "Česká pirátská strana",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.997421",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.002579",
+                "region": "South Moravian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000523",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.016479",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.003662",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.076641",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.067748",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.177609",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.080303",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.133142",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.180487",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.048391",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.214491",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000523",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "6000",
+            "upper_bound": "6999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "308305179255281",
+        "page_name": "Prostějovští Piráti",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "500",
+            "upper_bound": "599"
+        },
+        "target_locations": [
+            {
+                "name": "Prostejov, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "50"
+        ],
+        "eu_total_reach": 3878,
+        "beneficiary_payers": [
+            {
+                "payer": "Česká pirátská strana",
+                "beneficiary": "Česká pirátská strana",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "male": 293,
+                        "female": 185,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 509,
+                        "female": 259,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 820,
+                        "female": 690,
+                        "unknown": 63
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 679,
+                        "female": 307,
+                        "unknown": 14
+                    }
+                ]
+            }
+        ],
+        "_id": "1046106259753553"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1147782702784652&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-09-20",
+        "ad_creative_bodies": [
+            "Krátké shrnutí některých našich programových cílů (vol. 2) 🎬\n\nZa minutu vám bude jasné, co chceme v Prostějově změnit.👍\n📌 Úřad v mobilu.\n📌 Parkování v centru i u nemocnice.\n📌 NE dalším montovnám a překladištím! Rozvoj podnikání a práce s přidanou hodnotou.\n📌 Bydlení pro mladé rodiny i seniory.\n📌 Konec rozhodování města na základě nekalých dohod a různých \"zápisníčků\".\n📌 Vybudujeme zelené město a ochráníme Hloučelu. \n\nZajímá vás více? \nNáš program najdete zde: https://prostejov.pirati.cz/\nNaše volební noviny najdete zde: https://drive.google.com/file/d/1XhE3K1vfeApp6D7RcVtoju_Qu67ziD_U/view\nNašeho kandidáta na primátora můžete sledovat zde: https://www.facebook.com/honzamochtak \n\nMáme odvahu změnit Prostějov. 🖤\nMáme odvahu dělat, co je správné.🏴‍☠️"
+        ],
+        "ad_delivery_start_time": "2022-09-20",
+        "ad_delivery_stop_time": "2022-09-24",
+        "bylines": "Česká pirátská strana",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.002796",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.996605",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.0002",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.0002",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.0002",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000194",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.168219",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.191696",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.085177",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.21071",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.07664",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.220411",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.023477",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.020373",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001746",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001358",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "5000",
+            "upper_bound": "5999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "308305179255281",
+        "page_name": "Prostějovští Piráti",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "500",
+            "upper_bound": "599"
+        },
+        "_id": "1147782702784652"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=2981342648830171&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-09-20",
+        "ad_creative_bodies": [
+            "Prostějov si zaslouží všestranné kulturní centrum a my teď máme možnost právě takové mít! 🤩\n\n✅Konečně se chopíme rekonstrukce KASC podle vítězného návrhu a spolu s ním zrevitalizujeme i jeho okolí. \n\nUděláme z něj pulzující místo, které bude celoročně využíváno pro pestré kulturní akce. 👍\n\nKASC bude konečně žít a Prostějov s ním! 💪🏴‍☠️"
+        ],
+        "ad_delivery_start_time": "2022-09-20",
+        "ad_delivery_stop_time": "2022-09-24",
+        "bylines": "Česká pirátská strana",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000411",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.003903",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.994043",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.000205",
+                "region": "Mura Statistical Region"
+            },
+            {
+                "percentage": "0.000616",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.000616",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.000205",
+                "region": "Plzeň Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.016547",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.093769",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.214096",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.18856",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.102554",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.195301",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.165475",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.021042",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001839",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000817",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "5000",
+            "upper_bound": "5999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "308305179255281",
+        "page_name": "Prostějovští Piráti",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "300",
+            "upper_bound": "399"
+        },
+        "_id": "2981342648830171"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=4752066868229461&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-09-20",
+        "ad_creative_bodies": [
+            "Místní nádraží může patřit městu! 🤩\n\nKonečně ho tak můžeme rekonstruovat a udělat Prostějov opět o něco hezčí.  😍\n\nNavíc celá rekonstrukce může být zčásti dotována evropskými fondy a město tak ušetří. ✅\n\nNejenom že pak naše nádraží nebude ostudou, ale navíc získáme spoustu volných prostor k využití, třeba na obecní byty, které by alespoň trochu pomohly řešit dlouhodobý problém s bydlením. 🙏\nNejen na to ale může nádraží posloužit. 👀\n\nNabízí se totiž spousta dalších nápadů, jak ho efektivně využít, třeba na:\n👉 kanceláře\n👉 obchody\n👉 zázemí pro pomáhající organizace a spolky\n👉 prostor pro komunitní setkávání anebo\n👉 místa pro pořádání kulturních akcí\n\nMáme odvahu dát místnímu nádraží budoucnost.🖤"
+        ],
+        "ad_delivery_start_time": "2022-09-21",
+        "ad_delivery_stop_time": "2022-09-24",
+        "bylines": "Česká pirátská strana",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.001149",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.000766",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.000766",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.001916",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.995402",
+                "region": "Olomouc Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000769",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.015769",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.147692",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.086538",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.068846",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.276538",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.140385",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.237308",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.022692",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000385",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001538",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000769",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000769",
+                "age": "55-64",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "2000",
+            "upper_bound": "2999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "308305179255281",
+        "page_name": "Prostějovští Piráti",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "_id": "4752066868229461"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1224863585031867&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-08-25",
+        "ad_creative_bodies": [
+            "Střecha nad hlavou je základ🏠\n\nZajistit a udržet si kvalitní bydlení je pro občany Prostějova čím dál větší výzva. Řešení nijak nepřispívá stagnace vlastní městské bytové výstavby. Aktuálně tvoří městské byty přibližně 7-8 procent všech bytů na území města. Před 15 lety to bylo kolem 11 procent.  Vedení města se už více než 10 let podílí na zhoršování této situace tím, že dál a dál prodává městské pozemky soukromým investorům bez nijaké strategie či koncepce. A samo město přitom nestaví! 👎\n\nVedení města se vědomě vzdává nástrojů, aby mohlo dostupnost bydlení v Prostějově pozitivně ovlivňovat. Proč vedení města volí takovouto neodpovědnou strategii? Nevíme. Můžeme jen spekulovat, co je či může být za některými ukvapenými prodeji městských pozemků... 🤔\n\nAbychom mohli rozvíjet město, pak musíme převzít odpovědnost za bydlení jeho občanů.  Bezpodmínečně MUSÍME STAVĚT nové městské nájemní byty, které dají podporu mladým rodinám do začátku života. Velmi efektivně přitom můžeme využívat zdroje EU, které městu náklady poníží až o 80 procent. Pokud město nebude disponovat dostatečným vlastním bytovým fondem, tak jen velmi těžko a spíše nahodile může ovlivňovat bytovou politiku města a skutečně pomáhat svým občanům. 👨‍👩‍👧‍👦\n\nA náš návrh? Nakopneme znovu bytový fond – tak důležitý v době zdražování bydlení. Zrevidujeme stav městských bytů. Začneme konečně stavět! Nastavíme jasná pravidla pro soukromé realitní investory. Mladé rodiny zde tak budou chtít zůstávat a budou mít kde bydlet. Střechu nad hlavou zde najdou senioři a třeba i zástupci potřebných profesí. 👍\n\nMáme odvahu stavět nové byty pro naše občany! 🖤"
+        ],
+        "ad_delivery_start_time": "2022-08-25",
+        "ad_delivery_stop_time": "2022-08-30",
+        "bylines": "Česká pirátská strana",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.004376",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.995624",
+                "region": "Olomouc Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000559",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.011179",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.016769",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.140861",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.124092",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.146451",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.191168",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.138066",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.227501",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001677",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001677",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "3000",
+            "upper_bound": "3999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "308305179255281",
+        "page_name": "Prostějovští Piráti",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "_id": "1224863585031867"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=410103287362912&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2021-10-17",
+        "ad_creative_bodies": [
+            "Teď je ta příležitost, kdy můžeme změnit Prostějov k lepšímu!✊ Připojte se k nám, a buďte u toho s námi! 🏴‍☠️\n\nChcete v Prostějově měnit věci a pomoci nám s přípravou na komunální volby? Chcete se veřejně angažovat nebo jenom pomáhat v odborných týmech? Využijte náš portál https://nalodeni.pirati.cz a my se vám hned ozveme!👍"
+        ],
+        "ad_delivery_start_time": "2021-10-18",
+        "ad_delivery_stop_time": "2021-10-24",
+        "bylines": "Česká pirátská strana",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.00116",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.00116",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.00232",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.049884",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.045244",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.00464",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.00464",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.836427",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.017401",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.008121",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.00116",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.019722",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.00464",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.00348",
+                "region": "Pardubice Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.021028",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.036215",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.043224",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.13785",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.075935",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.119159",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.108645",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.077103",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.046729",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.196262",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.025701",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.107477",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001168",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002336",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001168",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100",
+            "upper_bound": "1000"
+        },
+        "impressions": {
+            "lower_bound": "2000",
+            "upper_bound": "2999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "308305179255281",
+        "page_name": "Prostějovští Piráti",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "300",
+            "upper_bound": "399"
+        },
+        "_id": "410103287362912"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=267118658463902&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2021-04-17",
+        "ad_creative_bodies": [
+            "❗PŘIPOMÍNÁME❗\nSběr podpisů petice k odstranění chemických nanopostřiků v ZŠ a MŠ města Prostějova končí 19. dubna📋\n\nCo dělat o víkendu ❓\n☑️Jít na procházku s dětmi do přírody - jen se tedy teple oblečte ❄️\n☑️Doporučujeme zkusit poslední příležitosti k běžkování ⛷\n☑️Jarní úklid - pokud bude venku fakt zima🙄\n☑️A v okamžiku, kdy budete odpočívat na gauči, tak si můžete pročíst návrh petice. A třeba i přidat podpis. Je to na nás👍\n\nV průběhu příštího týdne bude petice zpracována ve formě otevřeného dopisu k rukám vedení města (primátor, náměstek) - předání elektronickou formou i fyzicky na podatelně. Bude zhotovena tisková zpráva a posléze i zaslána médiím. Následná strategie řešení se bude odvíjet do dalšího postoje města - ne/komunikace s rodiči, zaměstnanci škol a dětmi👨‍👩‍👧‍👦🏰\n\nDěkujeme za dosavadní podporu. Budeme rádi za šíření příležitosti vyjádřit svůj názor✌️\n\nZa odpovědné rodiče \nJan Mochťák  \n\nhttps://www.petice.com/odstrannizastaveni_chemickych_nanopostik_v_z_a_m_prostjov?fbclid=IwAR0ddhk2nnnKU3hJzteDVf8G-Pb8ktuioNufjQ4e8aB7Ncrcg6jH2_PBrhY"
+        ],
+        "ad_creative_link_captions": [
+            "petice.com"
+        ],
+        "ad_creative_link_descriptions": [
+            "Vážení, obracíme se na vás ve věci podpisu elektronické petice zaměřené na odpovědný přístup vedení města Prostějov při aplikaci chemických nanopostřiků v ZŠ a MŠ města Prostějova. Na základě odborných dat a informací ze strany respektovaných institucí vyzýváme veden..."
+        ],
+        "ad_creative_link_titles": [
+            "Odstranění/zastavení chemických nanopostřiků v ZŠ a MŠ Prostějov"
+        ],
+        "ad_delivery_start_time": "2021-04-18",
+        "ad_delivery_stop_time": "2021-04-19",
+        "bylines": "Česká pirátská strana",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Olomouc Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000733",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001833",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000183",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00055",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.113432",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.025289",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.172073",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.024006",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.035734",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.023273",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.068536",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.074766",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.101887",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.113432",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.125527",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.11838",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000367",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "5000",
+            "upper_bound": "5999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "308305179255281",
+        "page_name": "Prostějovští Piráti",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "_id": "267118658463902"
+    }
+]

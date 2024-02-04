@@ -1,0 +1,379 @@
+[
+    {
+        "id": "749327970134228",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=749327970134228&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-02-02",
+        "ad_creative_bodies": [
+            "VYZVAL JSEM Piráti Praha 10, aby odstarnili z diskusního vlákna na jejich stránce všechny příspěvky s rasistickým podtextem. Oni na mou výzvu nereagovali. Ale já považuji za absolutně nepřípustné, aby takto urážlivé komentáře zůstávaly bez povšimnutí administrátora. Rasistické příspěvky se objevují pod dehonestující kampaní na mého kolegu radního Milan Maršálek.  Jako politici jsme odpovědní za úroveň veřejné diskuse - její hladina může být velmi nízká, budiž, ale rasismus do ní nepatří za žádných okolností. Ponechání takových příspěvků v diskusi pod postem politického subjektu je jeho tolerancí a to je nepřípustné! Nebo to mají Piráti jinak? Olga Richterova, Zdeněk Hřib - náměstek pro dopravu, Ivan Bartos?"
+        ],
+        "ad_delivery_start_time": "2024-02-02",
+        "bylines": "David Kašpar - místostarosta Prahy 10",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Prague"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000985",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.026601",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.015764",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.035468",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.214778",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.060099",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.239409",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.040394",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.047291",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.070936",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.091626",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.0867",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.063054",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000985",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00197",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.003941",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "169320288528475",
+        "page_name": "David Kašpar - místostarosta Prahy 10",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Praha 10, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "NEIGHBORHOOD",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 1012,
+        "beneficiary_payers": [
+            {
+                "payer": "David Kašpar - místostarosta Prahy 10",
+                "beneficiary": "David Kašpar - místostarosta Prahy 10",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 64,
+                        "female": 16,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 243,
+                        "female": 72,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 218,
+                        "female": 88,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 93,
+                        "female": 61,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 41,
+                        "female": 36
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 27,
+                        "female": 48
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1467916507484511",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1467916507484511&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-30",
+        "ad_creative_bodies": [
+            "Zastupitelé na pondělním zastupitelstvu posvětili založení nadačního fondu Praha 10 pomáhá. Jeho posláním  je solidarita s těmi, kteří potřebují v těžké chvíli podat pomocnou ruku. Fond se zaměří na podporu osob v tíživé sociální či zdravotní situaci, ohrožených dětí a další veřejně prospěšné cíle a aktivity. Můžete si jeho fungování představit  jako takovou záchrannou síť pro ty, kteří z jakéhokoli důvodu propadnou sítem robustního sociálního systému a hrozilo by jim samotné dno, ať už v podobě ulice či celkové beznaděje. Jsem za to rád - fond je otevřený každému, kdo chce přispět ke zlepšení života v naší městské části."
+        ],
+        "ad_delivery_start_time": "2024-01-30",
+        "ad_delivery_stop_time": "2024-02-03",
+        "bylines": "David Kašpar - místostarosta Prahy 10",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Prague"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001871",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.083255",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.013096",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.004677",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.062675",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.074836",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.067353",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.08232",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.129093",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000935",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.059869",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.07203",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.084191",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.068288",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.071094",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.118803",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002806",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002806",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "2000",
+            "upper_bound": "2999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "169320288528475",
+        "page_name": "David Kašpar - místostarosta Prahy 10",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "300",
+            "upper_bound": "399"
+        },
+        "target_locations": [
+            {
+                "name": "Praha 10, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "NEIGHBORHOOD",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 1065,
+        "beneficiary_payers": [
+            {
+                "payer": "David Kašpar - místostarosta Prahy 10",
+                "beneficiary": "David Kašpar - místostarosta Prahy 10",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "male": 89,
+                        "female": 77,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 88,
+                        "female": 64,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 80,
+                        "female": 138,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 73,
+                        "female": 90,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 72,
+                        "female": 76,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 67,
+                        "female": 127,
+                        "unknown": 14
+                    }
+                ]
+            }
+        ]
+    }
+]

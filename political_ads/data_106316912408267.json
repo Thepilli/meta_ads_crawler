@@ -1,0 +1,2101 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=674652924857780&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-15",
+        "ad_creative_bodies": [
+            "🥳🥳🥳 \nBLIX NOT BOMBS právě získal nominaci na Českého lva!\nDěkujeme všem akademikům a akademičkám a gratulujeme celému štábu ❤️.\nNa náš film můžete vyrazit třeba tuto středu, 17. ledna, do KINO ATLAS PRAHA, brzy také budeme informovat o online premiéře.\nhttps://www.ceskylev.cz/cz/novinky/31-cesky-lev-nominace\n/ \nBLIX NOT BOMBS just got nominated for the Czech Film & TV Academy Award!\nThanks to the members of the Academy and the whole crew ❤️.\nYou can see our film in KINO ATLAS PRAHA on Wednesday, January 17th. Stay tuned for the info about the VOD release!\n\nGreta Stocklassa Alan Sýs Jorge SC Stanislav Adam Pavel Jan\n\nRadovan Sibrt Alzbeta Karaskova Petra Dobešová By PINK\nErik Winker CORSO Film- und Fernsehproduktion\nMario Adamson Sisyfos Film Production \nAleksandar Govedarica Syndicado FS\n\nStátní fond kinematografie \nKateřina Dvořáková"
+        ],
+        "ad_delivery_start_time": "2024-01-15",
+        "ad_delivery_stop_time": "2024-01-17",
+        "bylines": "Pink Productions s.r.o.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.831234",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.123426",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.026448",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.011335",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.001259",
+                "region": "Sachsen"
+            },
+            {
+                "percentage": "0.002519",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.002519",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.001259",
+                "region": "Vysočina Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.028571",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.048052",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.038961",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.048052",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.077922",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.203896",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.225974",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.150649",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.116883",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.050649",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.006494",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.003896",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1001",
+            "upper_bound": "5000"
+        },
+        "impressions": {
+            "lower_bound": "2000",
+            "upper_bound": "2999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "106316912408267",
+        "page_name": "BLIX NOT BOMBS",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "target_locations": [
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            },
+            {
+                "name": "Brno, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Liberec, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "25",
+            "65"
+        ],
+        "eu_total_reach": 759,
+        "beneficiary_payers": [
+            {
+                "payer": "Pink Production",
+                "beneficiary": "Pink Production",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 157,
+                        "female": 174,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 116,
+                        "female": 90,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 60,
+                        "female": 39
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 37,
+                        "female": 22
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 36,
+                        "female": 30
+                    }
+                ]
+            },
+            {
+                "country": "DE",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "65+",
+                        "male": 1
+                    }
+                ]
+            }
+        ],
+        "_id": "674652924857780"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=239882392443939&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-20",
+        "ad_creative_bodies": [
+            "🔥 Komu zavoláte, když je svět v plamenech? Přece Hansovi Blixovi!\n\n🌏 BLIX NOT BOMBS, portét diplomata, pacifisty a environmentalisty, který byl zásadním hráčem globální krize po 11. září, uvidíte už ve 22. listopadu v Kino Varšava\n\n🎟 Vstupenky: https://bit.ly/BNB_Varsava"
+        ],
+        "ad_creative_link_captions": [
+            "bit.ly"
+        ],
+        "ad_delivery_start_time": "2023-11-20",
+        "ad_delivery_stop_time": "2023-11-23",
+        "bylines": "Pink Productions s.r.o.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Liberec Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000786",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001965",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.023576",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.037721",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.199607",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.060904",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.051081",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.162279",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.269941",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.059332",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.087623",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.043222",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001572",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000393",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "3000",
+            "upper_bound": "3999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "106316912408267",
+        "page_name": "BLIX NOT BOMBS",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "target_locations": [
+            {
+                "name": "Liberec, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "25",
+            "65"
+        ],
+        "eu_total_reach": 2537,
+        "beneficiary_payers": [
+            {
+                "payer": "Pink Production",
+                "beneficiary": "Pink Production",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "55-64",
+                        "male": 223,
+                        "female": 110,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 413,
+                        "female": 60
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 687,
+                        "female": 151,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 508,
+                        "female": 155,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 130,
+                        "female": 96,
+                        "unknown": 2
+                    }
+                ]
+            }
+        ],
+        "_id": "239882392443939"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=314866118071173&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-20",
+        "ad_creative_bodies": [
+            "🎤 BLIX NOT BOMBS + debata s Terezou Engelovou, Břetislavem Turečkem a Pavlou Jazairiovou už 22. 11. v Kasárna Karlín!\n🌏 Limity OSN, novinářská odpovědnost při reportování o válečných konfliktech, meze diplomacie. O tom a mnoha dalších tématech budeme ve středu 22. 11 v Kasárna Karlín diskutovat s novináři*řkami Terezou Engelovou, Břetislavem Turečkem a Pavlou Jazairiovou po projekci BLIX NOT BOMBS. \n👉 Vstupenky: bit.ly/BNB_Kasarna_debata"
+        ],
+        "ad_delivery_start_time": "2023-11-20",
+        "ad_delivery_stop_time": "2023-11-22",
+        "bylines": "Pink Productions s.r.o.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Prague"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000642",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001926",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00353",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.042041",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.091463",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.094352",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.189666",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.135751",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.109435",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.050385",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.123556",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.108151",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.003851",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.007702",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.037548",
+                "age": "45-54",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "4000",
+            "upper_bound": "4999"
+        },
+        "page_id": "106316912408267",
+        "page_name": "BLIX NOT BOMBS",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "700",
+            "upper_bound": "799"
+        },
+        "target_locations": [
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "25",
+            "65"
+        ],
+        "eu_total_reach": 3113,
+        "beneficiary_payers": [
+            {
+                "payer": "Pink Production",
+                "beneficiary": "Pink Production",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "65+",
+                        "male": 385,
+                        "female": 294,
+                        "unknown": 11
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 591,
+                        "female": 285,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 423,
+                        "female": 157,
+                        "unknown": 24
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 341,
+                        "female": 117,
+                        "unknown": 12
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 337,
+                        "female": 131,
+                        "unknown": 2
+                    }
+                ]
+            }
+        ],
+        "_id": "314866118071173"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=367035605747205&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-14",
+        "ad_creative_bodies": [
+            "❗ BLIX NOT BOMBS můžete právě teď vidět na plátnech českých kin. Chystáme pro vás i několik speciálních projekcí s debatou: \n🎤 13.11., 18:00, Kino Světozor, debata s Hansem Blixem a režisérkou Gretou Stocklassou, 🎟 bit.ly/BLIXNOTBOMBS\n🎤 22.11., Kasárna Karlín, debata s novinářkou Terezou Engelovou, analytikem a novinářem Břetislavem Turečkem a spisovatelkou a reportérkou Pavlou Jazairiovou. 🎟 bit.ly/BNB_Kasarna_debata\n🎤 23.11., Univerzitní kino Scala, debata s režisérkou Gretou Stocklassou. 🎟 bit.ly/BNB_Scala_debata\n//\n❗ Catch BLIX NOT BOMBS in Czech cinemas! We’ve prepared a few special screenings for you:\n🎤 13.11., 18:00, Kino Světozor, Q&A with Hans Blix and Greta Stocklassa (ENG friendly)\n🎤 22.11., Kasárna Karlín, Q&A with Tereza Engelova, Bretislav Turecek and Pavla Jazairiova (in Czech only) \n🎤 23.11., Univerzitní kino Scala, Q&A with Greta Stocklassa (in Czech only)"
+        ],
+        "ad_delivery_start_time": "2023-11-14",
+        "ad_delivery_stop_time": "2023-11-18",
+        "bylines": "Pink Productions s.r.o.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.007669",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.680894",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.236412",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.003001",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.046682",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.001",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.015005",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.006335",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.001",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.001334",
+                "region": "Lower Silesian Voivodeship"
+            },
+            {
+                "percentage": "0.000667",
+                "region": "Sachsen"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000332",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00299",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.024252",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.041528",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.013289",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.030565",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.260133",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.118605",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.021262",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.082392",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.363787",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.035216",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000664",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.003987",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000997",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "4000",
+            "upper_bound": "4999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "106316912408267",
+        "page_name": "BLIX NOT BOMBS",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "300",
+            "upper_bound": "399"
+        },
+        "target_locations": [
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            },
+            {
+                "name": "Brno, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Liberec, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "25",
+            "65"
+        ],
+        "eu_total_reach": 2928,
+        "beneficiary_payers": [
+            {
+                "payer": "Pink Production",
+                "beneficiary": "Pink Production",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "PL",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 2,
+                        "female": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 1
+                    }
+                ]
+            },
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "35-44",
+                        "male": 357,
+                        "female": 248,
+                        "unknown": 12
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 105,
+                        "female": 73,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 64,
+                        "female": 40,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 123,
+                        "female": 92,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 1095,
+                        "female": 782,
+                        "unknown": 9
+                    }
+                ]
+            },
+            {
+                "country": "DE",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "male": 1
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 1
+                    }
+                ]
+            }
+        ],
+        "_id": "367035605747205"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=856241752669695&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-14",
+        "ad_creative_bodies": [
+            "❗ Film BLIX NOT BOMBS a debata s režisérkou Gretou Stocklassa už 23. 11. v Univerzitní kino Scala! \n🌏 Může diplomacie zachránit svět? Na tuto a spoustu dalších otázek hledá odpověď režisérka Greta Stocklassa v rozhovoru s diplomatem, environmentalistou a pacifistou Hansem Blixem. \n👉 Vstupenky na BLIX NOT BOMBS ve Scale + debata s režisérkou Gretou Stocklassa kupujte zde: bit.ly/BNB_Scala_debata"
+        ],
+        "ad_delivery_start_time": "2023-11-14",
+        "ad_delivery_stop_time": "2023-11-27",
+        "bylines": "Pink Productions s.r.o.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "South Moravian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000355",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.144504",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.037234",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.222074",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.059929",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.003014",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.066223",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000975",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.088918",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.030762",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.238652",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.061436",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.043262",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001596",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001064",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "20000",
+            "upper_bound": "24999"
+        },
+        "page_id": "106316912408267",
+        "page_name": "BLIX NOT BOMBS",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "target_locations": [
+            {
+                "name": "Brno, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "25",
+            "65"
+        ],
+        "eu_total_reach": 10966,
+        "beneficiary_payers": [
+            {
+                "payer": "Pink Production",
+                "beneficiary": "Pink Production",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "55-64",
+                        "male": 676,
+                        "female": 420,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 488,
+                        "female": 347,
+                        "unknown": 12
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 2505,
+                        "female": 747,
+                        "unknown": 11
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 2692,
+                        "female": 1003,
+                        "unknown": 34
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 1630,
+                        "female": 693,
+                        "unknown": 18
+                    }
+                ]
+            }
+        ],
+        "_id": "856241752669695"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=883249599647179&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-13",
+        "ad_creative_bodies": [
+            "🌏 Může diplomacie zachránit svět? \n🎥 Na tuto otázku hledá odpověď film BLIX NOT BOMBS, portét diplomata, pacifisty a environmentalisty Hanse Blixe, který zásadně ovlivnil dějiny 20. i 21. století\n\n👉 Už 15. 11 od 17:00 v Kino Dukla Jihlava\n🎟 Vstupenky: https://bit.ly/BNB_Jihlava"
+        ],
+        "ad_creative_link_captions": [
+            "bit.ly"
+        ],
+        "ad_delivery_start_time": "2023-11-13",
+        "ad_delivery_stop_time": "2023-11-15",
+        "bylines": "Pink Productions s.r.o.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Vysočina Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001256",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001256",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.061558",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.036851",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.08124",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.173367",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.03727",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.095059",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.242881",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.16876",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.046901",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.050251",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002094",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000419",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000838",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "3000",
+            "upper_bound": "3999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "106316912408267",
+        "page_name": "BLIX NOT BOMBS",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "target_locations": [
+            {
+                "name": "Jihlava, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "25",
+            "65"
+        ],
+        "eu_total_reach": 2413,
+        "beneficiary_payers": [
+            {
+                "payer": "Pink Production",
+                "beneficiary": "Pink Production",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 414,
+                        "female": 112,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 403,
+                        "female": 194,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 147,
+                        "female": 120,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 580,
+                        "female": 227,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 88,
+                        "female": 89,
+                        "unknown": 2
+                    }
+                ]
+            }
+        ],
+        "_id": "883249599647179"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=299627579645686&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-13",
+        "ad_creative_bodies": [
+            "🌏 Může diplomacie zachránit svět? \n🎥 Na tuto otázku hledá odpověď film BLIX NOT BOMBS, portét diplomata, pacifisty a environmentalisty Hanse Blixe, který zásadně ovlivnil dějiny 20. i 21. století\n\n👉 Už 15. 11 od 17:30 v Kino 99 Kolín\n🎟 Vstupenky: https://bit.ly/BNB_Kolin"
+        ],
+        "ad_creative_link_captions": [
+            "bit.ly"
+        ],
+        "ad_delivery_start_time": "2023-11-13",
+        "ad_delivery_stop_time": "2023-11-15",
+        "bylines": "Pink Productions s.r.o.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.04501",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.050881",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.052838",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.061318",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.058708",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.04501",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.175473",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.071102",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.264188",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.174168",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001305",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "2000",
+            "upper_bound": "2999"
+        },
+        "page_id": "106316912408267",
+        "page_name": "BLIX NOT BOMBS",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Kolín, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "25",
+            "65"
+        ],
+        "eu_total_reach": 1534,
+        "beneficiary_payers": [
+            {
+                "payer": "Pink Production",
+                "beneficiary": "Pink Production",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "35-44",
+                        "male": 405,
+                        "female": 90,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 267,
+                        "female": 69
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 269,
+                        "female": 94
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 109,
+                        "female": 78
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 81,
+                        "female": 69
+                    }
+                ]
+            }
+        ],
+        "_id": "299627579645686"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1303221577030135&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-10",
+        "ad_creative_bodies": [
+            "🌏 Může diplomacie zachránit svět? \n🎥 Na tuto otázku hledá odpověď film BLIX NOT BOMBS, portét diplomata, pacifisty a environmentalisty Hanse Blixe, který zásadně ovlivnil dějiny 20. i 21. století\n\n👉 Už 15. 11 od 17:00 v Kino Dukla Jihlava\n🎟 Vstupenky: https://bit.ly/BNB_Jihlava"
+        ],
+        "ad_creative_link_captions": [
+            "bit.ly"
+        ],
+        "ad_delivery_start_time": "2023-11-10",
+        "ad_delivery_stop_time": "2023-11-13",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Vysočina Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.002807",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000702",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001404",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.053333",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.088421",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.170526",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.081404",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.074386",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.172632",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.030175",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.244912",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.035789",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.043509",
+                "age": "25-34",
+                "gender": "female"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "2000",
+            "upper_bound": "2999"
+        },
+        "page_id": "106316912408267",
+        "page_name": "BLIX NOT BOMBS",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Jihlava, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "25",
+            "65"
+        ],
+        "eu_total_reach": 1450,
+        "beneficiary_payers": [
+            {
+                "payer": "Pink Production",
+                "beneficiary": "Pink Production",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "35-44",
+                        "male": 349,
+                        "female": 116,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 51,
+                        "female": 43,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 246,
+                        "female": 62
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 243,
+                        "female": 126,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 106,
+                        "female": 76
+                    }
+                ]
+            }
+        ],
+        "_id": "1303221577030135"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=274418398927373&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-10",
+        "ad_creative_bodies": [
+            "🎥 BLIX NOT BOMBS vstupuje do kin! Seznam projekcí najdete v komentáři 👇\n🌏 Může diplomacie zachránit svět? Na tuto a spoustu dalších otázek hledá odpověď režisérka Greta Stocklassa v rozhovoru s diplomatem, environmentalistou a pacifistou Hansem Blixem. \n👉 Výjimečný portrét osobnosti, která zásadně ovlivnila svět, ve kterém žijeme, uvidíte od 9. listopadu v českých kinech."
+        ],
+        "ad_creative_link_titles": [
+            "BLIX NOT BOMBS | Teaser"
+        ],
+        "ad_delivery_start_time": "2023-11-10",
+        "ad_delivery_stop_time": "2023-11-21",
+        "bylines": "Pink Productions s.r.o.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000193",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.881138",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.116353",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.00164",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.000675",
+                "region": "Olomouc Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000399",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002594",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.085087",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.04419",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.029526",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.028429",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.101047",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.049875",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.24788",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.232718",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002594",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.121397",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.005087",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.048479",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000698",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "106316912408267",
+        "page_name": "BLIX NOT BOMBS",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "500",
+            "upper_bound": "599"
+        },
+        "target_locations": [
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            },
+            {
+                "name": "Brno, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "28",
+            "65"
+        ],
+        "eu_total_reach": 10100,
+        "beneficiary_payers": [
+            {
+                "payer": "Pink Production",
+                "beneficiary": "Pink Production",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "55-64",
+                        "male": 500,
+                        "female": 285,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 2485,
+                        "female": 1013,
+                        "unknown": 26
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 2333,
+                        "female": 853,
+                        "unknown": 51
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 1217,
+                        "female": 486,
+                        "unknown": 26
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 443,
+                        "female": 296,
+                        "unknown": 7
+                    }
+                ]
+            }
+        ],
+        "_id": "274418398927373"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=603188605202848&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-10",
+        "ad_creative_bodies": [
+            "🎥 BLIX NOT BOMBS vstupuje do kin! Seznam projekcí najdete v komentáři 👇\n🌏 Může diplomacie zachránit svět? Na tuto a spoustu dalších otázek hledá odpověď režisérka Greta Stocklassa v rozhovoru s diplomatem, environmentalistou a pacifistou Hansem Blixem. \n👉 Výjimečný portrét osobnosti, která zásadně ovlivnila svět, ve kterém žijeme, uvidíte od 9. listopadu v českých kinech."
+        ],
+        "ad_creative_link_titles": [
+            "BLIX NOT BOMBS | Teaser"
+        ],
+        "ad_delivery_start_time": "2023-11-10",
+        "ad_delivery_stop_time": "2023-11-21",
+        "bylines": "Pink Productions s.r.o.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "6.7E-5",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.007818",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.47962",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.191233",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.003274",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.066684",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.090472",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.043565",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.089002",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.028264",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001988",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.04073",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.036204",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.052729",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.058283",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.174643",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.253017",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.088179",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.188837",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.040318",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000891",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.060683",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002263",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000891",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000343",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "20000",
+            "upper_bound": "24999"
+        },
+        "page_id": "106316912408267",
+        "page_name": "BLIX NOT BOMBS",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "target_locations": [
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            },
+            {
+                "name": "Brno, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Jihlava, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Kolín, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Prostejov, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Písek, Kolín, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "25",
+            "65"
+        ],
+        "eu_total_reach": 14205,
+        "beneficiary_payers": [
+            {
+                "payer": "Pink Production",
+                "beneficiary": "Pink Production",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 2754,
+                        "female": 594,
+                        "unknown": 13
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 3690,
+                        "female": 885,
+                        "unknown": 33
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 2547,
+                        "female": 769,
+                        "unknown": 29
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 1286,
+                        "female": 588,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 850,
+                        "female": 528,
+                        "unknown": 13
+                    }
+                ]
+            }
+        ],
+        "_id": "603188605202848"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=645962247436098&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-09",
+        "ad_creative_bodies": [
+            "🎥 BLIX NOT BOMBS vstupuje do kin! Seznam projekcí najdete v komentáři 👇\n🌏 Může diplomacie zachránit svět? Na tuto a spoustu dalších otázek hledá odpověď režisérka Greta Stocklassa v rozhovoru s diplomatem, environmentalistou a pacifistou Hansem Blixem. \n👉 Výjimečný portrét osobnosti, která zásadně ovlivnila svět, ve kterém žijeme, uvidíte od 9. listopadu v českých kinech."
+        ],
+        "ad_creative_link_titles": [
+            "BLIX NOT BOMBS | Teaser"
+        ],
+        "ad_delivery_start_time": "2023-11-09",
+        "ad_delivery_stop_time": "2023-11-10",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.006179",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.413491",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.236354",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.00309",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.074665",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.107621",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.03965",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.084964",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.033986",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000522",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.017755",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.117493",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.120104",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.276762",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.080418",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.043864",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.21201",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.03812",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.040731",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.049608",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002611",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "2000",
+            "upper_bound": "2999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "106316912408267",
+        "page_name": "BLIX NOT BOMBS",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            },
+            {
+                "name": "Brno, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Jihlava, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Kolín, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Prostejov, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Písek, Kolín, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "25",
+            "65"
+        ],
+        "eu_total_reach": 1921,
+        "beneficiary_payers": [
+            {
+                "payer": "Pink Production",
+                "beneficiary": "Pink Production",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 225,
+                        "female": 34
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 530,
+                        "female": 95,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 406,
+                        "female": 78,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 230,
+                        "female": 73
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 154,
+                        "female": 84
+                    }
+                ]
+            }
+        ],
+        "_id": "645962247436098"
+    }
+]

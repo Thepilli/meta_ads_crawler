@@ -1,0 +1,651 @@
+[
+    {
+        "id": "1659340251264192",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1659340251264192&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-30",
+        "ad_creative_bodies": [
+            "MIMOŘÁDNÉ OZNÁMENÍ pro vás všechny z Českých Budějovic, Českého Krumlova, Strakonic, Tábora, Písku, Prachatic, Jindřichova Hradce, Dačic, Třeboně, Kaplice, Milevska a úplně celého Jihočeského kraje. Sledujte a sdílejte! 😉"
+        ],
+        "ad_creative_link_titles": [
+            "KUBA 2024"
+        ],
+        "ad_delivery_start_time": "2024-01-30",
+        "ad_delivery_stop_time": "2024-02-02",
+        "bylines": "Martin Kuba",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "South Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001272",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.125322",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.251248",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.261297",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.150984",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.118485",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.087862",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002131",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001399",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "45000",
+            "upper_bound": "49999"
+        },
+        "page_id": "114474108677288",
+        "page_name": "Martin Kuba",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "5000",
+            "upper_bound": "5999"
+        },
+        "target_locations": [
+            {
+                "name": "South Bohemian Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "45",
+            "65"
+        ],
+        "eu_total_reach": 30640,
+        "beneficiary_payers": [
+            {
+                "payer": "Martin Kuba",
+                "beneficiary": "Martin Kuba",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "male": 7901,
+                        "female": 8217,
+                        "unknown": 67
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 3726,
+                        "female": 4748,
+                        "unknown": 44
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 2763,
+                        "female": 3941,
+                        "unknown": 40
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "685510333742000",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=685510333742000&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-30",
+        "ad_creative_bodies": [
+            "MIMOŘÁDNÉ OZNÁMENÍ pro vás všechny z Českých Budějovic, Českého Krumlova, Strakonic, Tábora, Písku, Prachatic, Jindřichova Hradce, Dačic, Třeboně, Kaplice, Milevska a úplně celého Jihočeského kraje. Sledujte a sdílejte! 😉"
+        ],
+        "ad_creative_link_titles": [
+            "KUBA 2024"
+        ],
+        "ad_delivery_start_time": "2024-01-30",
+        "ad_delivery_stop_time": "2024-02-02",
+        "bylines": "Martin Kuba",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "South Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000587",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.005405",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.058405",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.035445",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.310541",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.589534",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "8.4E-5",
+                "age": "65+",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "40000",
+            "upper_bound": "44999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "114474108677288",
+        "page_name": "Martin Kuba",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "5000",
+            "upper_bound": "5999"
+        },
+        "target_locations": [
+            {
+                "name": "South Bohemian Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "35",
+            "45"
+        ],
+        "eu_total_reach": 23965,
+        "beneficiary_payers": [
+            {
+                "payer": "Martin Kuba",
+                "beneficiary": "Martin Kuba",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "35-44",
+                        "male": 14071,
+                        "female": 7412,
+                        "unknown": 129
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 1394,
+                        "female": 846,
+                        "unknown": 14
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1313745795988813",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1313745795988813&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-29",
+        "ad_creative_bodies": [
+            "MIMOŘÁDNÉ OZNÁMENÍ pro vás všechny z Českých Budějovic, Českého Krumlova, Strakonic, Tábora, Písku, Prachatic, Jindřichova Hradce, Dačic, Třeboně, Kaplice, Milevska a úplně celého Jihočeského kraje. Sledujte a sdílejte! 😉"
+        ],
+        "ad_creative_link_titles": [
+            "KUBA 2024"
+        ],
+        "ad_delivery_start_time": "2024-01-30",
+        "ad_delivery_stop_time": "2024-02-02",
+        "bylines": "Martin Kuba",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.999992",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "8.0E-6",
+                "region": "Unknown"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.00104",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.123168",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000546",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001534",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.038702",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.048226",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.127657",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.103254",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.097361",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001629",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.059275",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.063564",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.035192",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.146332",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001222",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.050799",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.099935",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000563",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "200000",
+            "upper_bound": "249999"
+        },
+        "page_id": "114474108677288",
+        "page_name": "Martin Kuba",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "20000",
+            "upper_bound": "24999"
+        },
+        "target_locations": [
+            {
+                "name": "South Bohemian Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 118617,
+        "beneficiary_payers": [
+            {
+                "payer": "Martin Kuba",
+                "beneficiary": "Martin Kuba",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "male": 11532,
+                        "female": 11915,
+                        "unknown": 120
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 4061,
+                        "female": 5862,
+                        "unknown": 63
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 5565,
+                        "female": 7335,
+                        "unknown": 65
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 14731,
+                        "female": 14213,
+                        "unknown": 188
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 6840,
+                        "female": 4466,
+                        "unknown": 177
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 16886,
+                        "female": 11235,
+                        "unknown": 141
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "390657793618015",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=390657793618015&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-22",
+        "ad_creative_bodies": [
+            "Pomůžeme jihočeským dobrovolným hasičům, kteří díky tomu budou mít konečně svoji vlastní základnu pro pořádání dětských táborů a různých školení a soustředění.👍 Před pár měsíci se na mě obrátil starosta Krajského sdružení hasičů Jihočeského kraje Mgr. Jiří Žižka se žádostí o pomoc při získání bývalého areálu Letního tábora Soběnov u Kaplice. Už roky se snaží získat nějaký takový areál pro malé i velké dobrovolné hasiče, ale bohužel mu v tom nikdo neuměl pomoct. Tahle táborová základna patřila dříve společnosti E.ON ČR s.r.o., která ji využívala pro letní tábory dětí jejich zaměstnanců a teď se ji rozhodli prodat. Když jsem ten příběh slyšel bylo mi jasné, že je to unikátní příležitost a je třeba hasičům pomoct. Hned! \n\nObrátil jsem se tedy hned na vedení společnosti E.ON s tím, že bych rád našel řešení. Informoval jsme je, že jsme jako kraj připraveni našim dobrovolným hasičům pomoct, a že bych považoval za dobré, kdyby i oni v ceně zohlednili, o jakou organizaci se jedná a případně nám jako firma působící na jihu Čech také pomohli. To se povedlo a na konci minulého týdne jsme dohodu dotáhli. Cena celé nemovitosti je 6,8 mil Kč, E.ON přispěje částkou 1,5 mil. Kč, my jako Jihočeský kraj 2,8 mil. Kč a Krajské sdružení dobrovolných hasičů 2,5 mil. Kč. Mám z toho fakt radost, protože Krajské sdružení hasičů Jihočeského kraje má v Jihočeském kraji 45 tis. členů, z toho 5,5 tis. dětí a jsou naprosto klíčovou součástí života jihočeských měst a obcí. Bez jejich zapojení a pomoci by řada věcí vůbec nešla řešit. \n\nKapacita tábora je cca 90 dětí a 10 osob personálu, je zde několik průchozích nebo samostatných budov s pokoji pro děti a vedoucí, dále WC a sprchy, kuchyně, společenská místnost, jídelna a sklad. Budovy jsou vybaveny nábytkem a dalším příslušenstvím, na pozemku se také nachází venkovní bazén pro využití v letních měsících. Celý objekt je kapacitně i dispozičně velmi vhodný pro celoroční činnost související s výchovou mladých hasičů, školení, výcviku dospělých, individuální přípravy družstev např. před postupovými závody (MČR), nácvik většiny disciplín, doplňkové školení členů SDH i JSDHO. \n\nJsem rád, že se mi povedlo dohodu dotáhnout a dnes jsme se ve vedení kraje domluvili, že záměr jako koalice předložíme do zastupitelstva a požádáme i kolegy z opozice, aby jej podpořili. Myslím, že není pochyb, že jihočeští dobrovolní hasiči si to zaslouží. \n\nMy sliby plníme ✅"
+        ],
+        "ad_delivery_start_time": "2024-01-22",
+        "ad_delivery_stop_time": "2024-01-24",
+        "bylines": "Martin Kuba",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "South Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001897",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.144518",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.077704",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.035548",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.067976",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.100893",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.078377",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.135034",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.032183",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000795",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.016887",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.140969",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.042829",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.121818",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000551",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000551",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000612",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000857",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "40000",
+            "upper_bound": "44999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "114474108677288",
+        "page_name": "Martin Kuba",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "3000",
+            "upper_bound": "3499"
+        },
+        "target_locations": [
+            {
+                "name": "South Bohemian Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 16404,
+        "beneficiary_payers": [
+            {
+                "payer": "Martin Kuba",
+                "beneficiary": "Martin Kuba",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 526,
+                        "female": 276,
+                        "unknown": 9
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 1649,
+                        "female": 2304,
+                        "unknown": 14
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 581,
+                        "female": 1111,
+                        "unknown": 13
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 700,
+                        "female": 1270,
+                        "unknown": 9
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 2207,
+                        "female": 2362,
+                        "unknown": 31
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 1991,
+                        "female": 1281,
+                        "unknown": 10
+                    }
+                ]
+            }
+        ]
+    }
+]

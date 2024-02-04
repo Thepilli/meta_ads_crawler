@@ -1,0 +1,1436 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1268488683822067&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-01",
+        "ad_creative_bodies": [
+            "👉 Oznamujeme založení místní organizace občanského hnutí Přísaha ve Frýdku-Místku s celookresní působností a  zvoleným předsedou Petrem Gřesem.\n\n👉 Případní zájemci o informace k podpoře nebo členství, se mohou obrátit na předsedu MO F-M prostřednictvím emailu moravskoslezsky.kraj@prisaha.cz"
+        ],
+        "ad_delivery_start_time": "2023-12-01",
+        "ad_delivery_stop_time": "2023-12-21",
+        "bylines": "PŘÍSAHA - občanské hnutí Roberta Šlachty",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.013881",
+                "region": "Silesian Voivodeship"
+            },
+            {
+                "percentage": "0.986119",
+                "region": "Moravian-Silesian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000629",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.024513",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000629",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.003143",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001257",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001257",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.032684",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.010685",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.187932",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002514",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.201131",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.069767",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.099937",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.184789",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.155877",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.012571",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.006285",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.0044",
+                "age": "18-24",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "3000",
+            "upper_bound": "3999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "109145014987900",
+        "page_name": "My jsme Přísaha Moravskoslezský kraj",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "target_locations": [
+            {
+                "name": "Frýdek-Místek, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 1645,
+        "beneficiary_payers": [
+            {
+                "payer": "Robert Šlachta",
+                "beneficiary": "Robert Šlachta",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "35-44",
+                        "male": 110,
+                        "female": 10,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 314,
+                        "female": 296,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 292,
+                        "female": 157,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 244,
+                        "female": 52,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 38,
+                        "female": 17,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 20,
+                        "female": 7,
+                        "unknown": 2
+                    }
+                ]
+            },
+            {
+                "country": "PL",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "65+",
+                        "male": 6,
+                        "female": 4
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 4,
+                        "female": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 1
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 1
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 4,
+                        "female": 2
+                    }
+                ]
+            }
+        ],
+        "_id": "1268488683822067"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=3584797145142594&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-20",
+        "ad_creative_bodies": [
+            "👉Dnes Vám povím, co si myslím o stávajících projektech bytového charakteru.\n\n ❗️ V projektu Nové Lauby město odkupuje třetinu bytů za 92 000 Kč bez DPH. V době kdy se cena výstavby za metr v patrových domech pohybuje okolo 45 000 Kč.\n\n 🤌 Jsme toho názoru, že takto nevypadá rozumná bytová politika a toto je obchod s luxusem.\n\n🟢 Jednoduše chceme projekty, které budou primárně pro člověka, ne pro developera.\n\n ❓Jaký je Váš názor na tuto bytovou politiku? Myslíte, že by město do svého fondu mělo nakupovat byty za dvojnásobnou cenu, než-li se dají v současnosti realizovat?\n\nJsou také věci, které vás nenechají klidným, jako nás?\n\n👉🤝‼️ PŘIPOJTE SE K NÁM - kontaktovat nás můžete skrze formulář na našich webových stránkách: prisaha.cz (záložka - PŘIDEJTE SE)\nnebo nás můžete kontaktovat na krajském emailu  -  moravskoslezsky.kraj@prisaha.cz"
+        ],
+        "ad_delivery_start_time": "2023-11-20",
+        "ad_delivery_stop_time": "2023-11-29",
+        "bylines": "PŘÍSAHA - občanské hnutí Roberta Šlachty",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000216",
+                "region": "Silesian Voivodeship"
+            },
+            {
+                "percentage": "0.999784",
+                "region": "Moravian-Silesian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001076",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.168353",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001292",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001507",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.006243",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.011195",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.03014",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000646",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.071044",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001507",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.155221",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.203014",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.128525",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.131539",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.077718",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.009903",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000646",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000431",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "6000",
+            "upper_bound": "6999"
+        },
+        "page_id": "109145014987900",
+        "page_name": "My jsme Přísaha Moravskoslezský kraj",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "300",
+            "upper_bound": "399"
+        },
+        "target_locations": [
+            {
+                "name": "Ostrava, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 4621,
+        "beneficiary_payers": [
+            {
+                "payer": "Robert Šlachta",
+                "beneficiary": "Robert Šlachta",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "35-44",
+                        "male": 721,
+                        "female": 46,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 597,
+                        "female": 611,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 782,
+                        "female": 361,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 943,
+                        "female": 140,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 330,
+                        "female": 29,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 52,
+                        "female": 7,
+                        "unknown": 3
+                    }
+                ]
+            },
+            {
+                "country": "PL",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "male": 1
+                    }
+                ]
+            }
+        ],
+        "_id": "3584797145142594"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=674556614433150&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-10-26",
+        "ad_creative_bodies": [
+            "Zveme všechny příznivce, ale i zájemce o informace o Přísaze v Moravskoslezském kraji, na veřejný on-line meet. Jsme připravení odpovědět všechny otázky, které Vás zajímají.\n\nNa meetu bude přítomen i předseda hnutí Robert Šlachta.\n\nLink na meet: https://meet.google.com/pqb-ater-qjg\n\nMeet bude otevřen 10 minut před zahájením (18:50), 1.11.2023"
+        ],
+        "ad_delivery_start_time": "2023-10-26",
+        "ad_delivery_stop_time": "2023-11-01",
+        "bylines": "PŘÍSAHA - občanské hnutí Roberta Šlachty",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.01252",
+                "region": "Silesian Voivodeship"
+            },
+            {
+                "percentage": "0.031299",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.91784",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.038341",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000778",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.037325",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.054432",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.083204",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.125194",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.039658",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.118196",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.093313",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.156299",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000778",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.153188",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.084759",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.017885",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00311",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000778",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000778",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.030327",
+                "age": "45-54",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "500001",
+            "upper_bound": "1000000"
+        },
+        "impressions": {
+            "lower_bound": "2000",
+            "upper_bound": "2999"
+        },
+        "page_id": "109145014987900",
+        "page_name": "My jsme Přísaha Moravskoslezský kraj",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "300",
+            "upper_bound": "399"
+        },
+        "target_locations": [
+            {
+                "name": "Ostrava, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 1264,
+        "beneficiary_payers": [
+            {
+                "payer": "Robert Šlachta",
+                "beneficiary": "Robert Šlachta",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "65+",
+                        "male": 198,
+                        "female": 197,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 51,
+                        "female": 107,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 160,
+                        "female": 107,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 120,
+                        "female": 35
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 70,
+                        "female": 22,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 48,
+                        "female": 151,
+                        "unknown": 4
+                    }
+                ]
+            },
+            {
+                "country": "PL",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "35-44",
+                        "female": 1
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 4,
+                        "female": 1
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 3,
+                        "female": 2
+                    },
+                    {
+                        "age_range": "45-54",
+                        "female": 4
+                    },
+                    {
+                        "age_range": "18-24",
+                        "female": 1
+                    }
+                ]
+            }
+        ],
+        "_id": "674556614433150"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=832661048358693&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-10-10",
+        "ad_creative_bodies": [
+            "👉 Dnes Vám náš Mirek ukáže kus odvedené práce. \n\n🟢 Video jsme točili přímo na Hrabětickém chodníku, který spolu s radními, zastupiteli, občany Hrabětic, myslivci a dobrovolnými spolky vybudoval. Od tohoto projektu Jeseník nad Odrou pokračuje v této tradici obnovy zaniklých sedláckých cest. \nSpolečně se jich podařilo vybudovat již přibližně 25 kilometrů.\n\n🌳🌲🌳 Tyto obnovené cesty jsou zelené, lemované nově vysazenými alejemi.\nAleje jsou důležitým krajinným prvkem, zpomalující jak vodní, tak větrnou erozi půdy.\nBohužel, v dnešní době jich stále mnoho mizí, proto je velkým úspěchem každý metr nové aleje. \n\n❗️ Shlédněte dnešní video, a pokud s námi budete souhlasit, sdílejte dále.\n\n‼️ Pokud se s námi také chcete zapojit do veřejného dění, neváhejte nás kontaktovat!\n\nPojďte do toho s námi!\nLukáš Dvorský – předseda Moravskoslezského kraje"
+        ],
+        "ad_delivery_start_time": "2023-10-10",
+        "ad_delivery_stop_time": "2023-10-23",
+        "bylines": "PŘÍSAHA - občanské hnutí Roberta Šlachty",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.013406",
+                "region": "Silesian Voivodeship"
+            },
+            {
+                "percentage": "0.004628",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.961538",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.020428",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000158",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.114578",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.026162",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00725",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.15918",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.186761",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.160126",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.092671",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.215603",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000315",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00331",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000473",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001261",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000946",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.027266",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00331",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00063",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "8000",
+            "upper_bound": "8999"
+        },
+        "page_id": "109145014987900",
+        "page_name": "My jsme Přísaha Moravskoslezský kraj",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "500",
+            "upper_bound": "599"
+        },
+        "target_locations": [
+            {
+                "name": "Ostrava, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 6296,
+        "beneficiary_payers": [
+            {
+                "payer": "Robert Šlachta",
+                "beneficiary": "Robert Šlachta",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "PL",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 2
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 15,
+                        "female": 14
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 16,
+                        "female": 13,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 11,
+                        "female": 1
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 10
+                    }
+                ]
+            },
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 171,
+                        "female": 21,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 1010,
+                        "female": 1000,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 1353,
+                        "female": 576,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 1171,
+                        "female": 165,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 717,
+                        "female": 46
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 20,
+                        "female": 8,
+                        "unknown": 1
+                    }
+                ]
+            }
+        ],
+        "_id": "832661048358693"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=3038361372974110&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-05-11",
+        "ad_creative_bodies": [
+            "👨👩👧👦Dlouhodobým problémem Ostravy je odliv mladých lidí. Jedním z hlavních důvodů jejich nezájmu setrvat v Ostravě je nedostatek dostupného bydlení. \n\n🏘 Stávající projekty bytového charakteru však na tuto problematiku neberou zřetel. Ceny aktuálně realizovaných projektů se pohybují okolo 100 000 Kč za metr čtvereční, toto se dle našeho názoru nedá nazvat dostupným bydlením. \n\n👉Pro příklad, v přiložené tabulce, máme několik konkrétních cen bytů stávajících projektů.\n\n😲V projektu Nové Lauby město odkupuje třetinu bytů za 92 000 Kč bez DPH. V době kdy se cena výstavby za metr v patrových domech pohybuje okolo  45 000 Kč. \n\nJsme toho názoru, že takto nevypadá rozumná bytová politika a toto je obchod s luxusem.\n\n🏡Jednoduše chceme projekty, které budou primárně pro člověka, ne pro developera. \n\n❓Jaký je Váš názor na tuto bytovou politiku? Myslíte, že by město do svého fondu mělo nakupovat byty za dvojnásobnou cenu, než-li se dají v současnosti realizovat?"
+        ],
+        "ad_delivery_start_time": "2023-05-11",
+        "ad_delivery_stop_time": "2023-05-25",
+        "bylines": "PŘÍSAHA - občanské hnutí Roberta Šlachty",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.001514",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.001682",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.003027",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.001514",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.000168",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.001009",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.002018",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.001177",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.000505",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.001682",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.001682",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.001177",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.982846",
+                "region": "Moravian-Silesian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000845",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.06607",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001521",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000676",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.02315",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.026867",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.026022",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.023995",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.145488",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000676",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.382393",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.150896",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.030416",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.035147",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.064887",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.020615",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000338",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "109145014987900",
+        "page_name": "My jsme Přísaha Moravskoslezský kraj",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "700",
+            "upper_bound": "799"
+        },
+        "_id": "3038361372974110"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=418160160402365&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-09-20",
+        "ad_creative_bodies": [
+            "Dlouhodobým problémem našeho města je odliv mladých lidí. Jedním z hlavních důvodů jejich nezájmu setrvat v Ostravě je nedostatek dostupného bydlení. To je potřeba urychleně řešit. Stávající projekty bytového charakteru, však na tuto problematiku neberou zřetel. Ceny současných výstavby se pohybují okolo 100.000 Kč za m2 (například Nové Lauby), toto se dle našeho názoru nazvat dostupným nedá. Dostupné bydlení skutečně musí být projektováno jako dostupné již od základů.\n\nUpřednostňujeme rekonstrukce vybydlených objektů, ať už ve vlastnictví města, či v soukromém vlastnictví s možností výkupu, samozřejmě za rozumnou cenu. Napadá nás mnoho zajímavých projektů, kterými by se dalo krásně inspirovat v oblasti dostupného a rozumného bydlení. Například obytný komplex Nemausus od Jeana Nuovela, nebo by jsme se mohli v jistých ohledech inspirovat domem v Marseille od Le Corbusiera, z Česka například kolektivní dům v Litvínově a mnoho dalších projektů, které ukázaly směr ale jejich potenciál nebyl bohužel naplno využit. Jednoduše chceme projekty, které budou primárně pro ČLOVĚKA A NE PRO DEVELOPERA. Nejprve člověk formuje město a poté město formuje člověka."
+        ],
+        "ad_delivery_start_time": "2022-09-21",
+        "ad_delivery_stop_time": "2022-09-23",
+        "bylines": "PŘÍSAHA - občanské hnutí Roberta Šlachty",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Moravian-Silesian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001025",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.144146",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.085093",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.038343",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.096986",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.076071",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.192126",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.080582",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.138405",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001435",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.017429",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.067049",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00041",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.055567",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.003896",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000615",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00082",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "7000",
+            "upper_bound": "7999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "109145014987900",
+        "page_name": "My jsme Přísaha Moravskoslezský kraj",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "300",
+            "upper_bound": "399"
+        },
+        "_id": "418160160402365"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=3317159978498306&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-09-20",
+        "ad_creative_bodies": [
+            "Představuji Vám Martina Kramera, našeho kandidáta na magistrát města Ostravy. Martin již od šesti let na jedno oko nevidí vůbec a na druhé pouze z 30% zraku zdravého člověka. Vidí tedy problémy, které zdravý člověk postřehne jen stěží.                                                                                                                                               \nMartin se na základě svých životních zkušeností rozhodl sestavit a prosazovat náš programový bod – ZAČNEME ŘEŠIT PROBLÉMY, KTERÉ NIKDO (NE)VIDÍ. \nS Martinem jsem se dnes šel na vlastní oči podívat na překážky, které na člověka se zrakovými problémy číhají v našem městě, vysvětlil mi a ukázal různé problémy ale také jejich řešení, které bude PŘÍSAHA společně s Martinem prosazovat! Na fotce nás vidíte u přechodu, který se nachází v centru města a jsou na něm dlouhodobě přerušeny vodící pruhy. To je pro nevidomého člověka obrovskou a velmi nebezpečnou překážkou.\nNíže si můžete přečíst náš (a hlavně Martinův) celý programový bod, k této problematice. Martin je tím největším odborníkem, jelikož peripetie o kterých píše, prožívá téměř celý život, zná jejich řešení a my mu potřebné změny pomůžeme prosadit!  Budeme prosazovat, aby se na všechny postižené myslelo!\n\nZačneme řešit problémy, které nikdo (ne)vidí -\nJmenuji se Martin Kramer a jsem kandidátem pro Ostravu. Již šestadvacet let funguji s tím, že mám praktickou nevidomost – vidím zhruba na 30 procent zraku zdravých lidí. A jelikož (ne)vidím, tak si všímám problémů, které ostatní (ne)vidí. Zdraví lidé si vůbec nevšimnou, že v Ostravě téměř nikde nefunguje akustická signalizace semaforů pro chodce. Velkým problém jsou pak vodící linie pro nevidomé občany, protože leckde nevidomý dojde do sloupu, jinde skončí uprostřed silnice, neboť dál vodící linie nepokračuje. \nŘíká se, že se vše přizpůsobuje invalidním osobám. Bohužel stále se zapomíná na ty, kteří špatně vidí, nebo nevidí vůbec. Tento problém je třeba řešit. My se budeme snažit změnit podmínky pro slabozraké a nevidomé. \nBudeme prosazovat, aby nevidomí a slabozrací mohli bezpečně přecházet přes přechod řízený semafory. \nBudeme prosazovat, aby vodící linie pro nevidomé byly správně vytvořeny. \nA za to vám ručím vlastním okem!"
+        ],
+        "ad_delivery_start_time": "2022-09-21",
+        "ad_delivery_stop_time": "2022-09-23",
+        "bylines": "PŘÍSAHA - občanské hnutí Roberta Šlachty",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Moravian-Silesian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.003138",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.009861",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.120126",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.135365",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.162707",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.120126",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.077992",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.151502",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.080233",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.075303",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.040789",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.018826",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002689",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000448",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000448",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000448",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "5001",
+            "upper_bound": "10000"
+        },
+        "impressions": {
+            "lower_bound": "3000",
+            "upper_bound": "3999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "109145014987900",
+        "page_name": "My jsme Přísaha Moravskoslezský kraj",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "300",
+            "upper_bound": "399"
+        },
+        "_id": "3317159978498306"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=842046066802488&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-09-20",
+        "ad_creative_bodies": [
+            "Nebudeme tapetovat Ostravu billboardy\n\nV době energetické krize, vysoké inflace a existenčních problémů občanů vyhazujete statisíce či miliony za plakáty?"
+        ],
+        "ad_delivery_start_time": "2022-09-21",
+        "ad_delivery_stop_time": "2022-09-23",
+        "bylines": "PŘÍSAHA - občanské hnutí Roberta Šlachty",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "6.3E-5",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.999937",
+                "region": "Moravian-Silesian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.071122",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.014481",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000833",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000192",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.003396",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001153",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000577",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.038957",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.090344",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.127443",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.095918",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.062985",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.090216",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.155635",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.138015",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.1079",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000833",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "25000",
+            "upper_bound": "29999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "109145014987900",
+        "page_name": "My jsme Přísaha Moravskoslezský kraj",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "3000",
+            "upper_bound": "3499"
+        },
+        "_id": "842046066802488"
+    }
+]

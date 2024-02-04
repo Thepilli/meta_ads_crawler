@@ -1,0 +1,456 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=322627347156689&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-10-31",
+        "ad_creative_bodies": [
+            "🇨🇿+ 3780 Kč na váš účet za registraci! Jste unavení po náročném dni v práci? Už vás nebaví probouzet se a přemýšlet: „Zpátky do práce! Skupina MND vytvořila investiční platformu, na které může vydělávat každý!"
+        ],
+        "ad_creative_link_captions": [
+            "himselfjida.buzz"
+        ],
+        "ad_creative_link_descriptions": [
+            "Český prezident učinil významné prohlášení, když oznámil objev zásob ropy s kapacitou těžby 50 000 barelů denně v Brně a Kujově. Nové zásoby ropy pokryjí desetinu denní spotřeby země a budou mít miliardovou hodnotu."
+        ],
+        "ad_creative_link_titles": [
+            "Klikněte zde a dozvíte se více!➡️"
+        ],
+        "ad_delivery_start_time": "2023-11-01",
+        "ad_delivery_stop_time": "2023-11-01",
+        "currency": "VND",
+        "delivery_by_region": [
+            {
+                "percentage": "0.005076",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.050761",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.116751",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.096447",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.035533",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.035533",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.035533",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.071066",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.045685",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.101523",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.050761",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.086294",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.101523",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.142132",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.025381",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.005076",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.06599",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.116751",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.06599",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.147208",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.035533",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.081218",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.086294",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.091371",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.187817",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.081218",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.030457",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.005076",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "287121102193747",
+        "page_name": "Univers Canal Photo",
+        "publisher_platforms": [
+            "facebook",
+            "instagram",
+            "audience_network",
+            "messenger"
+        ],
+        "spend": {
+            "lower_bound": "250000",
+            "upper_bound": "299999"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "21",
+            "65"
+        ],
+        "eu_total_reach": 197,
+        "beneficiary_payers": [
+            {
+                "payer": "123Hold",
+                "beneficiary": "123Hold",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 18,
+                        "female": 13
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 37,
+                        "female": 29
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 23,
+                        "female": 17,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 16,
+                        "female": 13
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 16,
+                        "female": 6
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 7,
+                        "female": 1
+                    }
+                ]
+            }
+        ],
+        "_id": "322627347156689"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1062604791588640&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-10-31",
+        "ad_creative_bodies": [
+            "🇨🇿+ 3780 Kč na váš účet za registraci! Jste unavení po náročném dni v práci? Už vás nebaví probouzet se a přemýšlet: „Zpátky do práce! Skupina MND vytvořila investiční platformu, na které může vydělávat každý!"
+        ],
+        "ad_creative_link_captions": [
+            "himselfjida.buzz"
+        ],
+        "ad_creative_link_descriptions": [
+            "Český prezident učinil významné prohlášení, když oznámil objev zásob ropy s kapacitou těžby 50 000 barelů denně v Brně a Kujově. Nové zásoby ropy pokryjí desetinu denní spotřeby země a budou mít miliardovou hodnotu."
+        ],
+        "ad_creative_link_titles": [
+            "Klikněte zde a dozvíte se více!➡️"
+        ],
+        "ad_delivery_start_time": "2023-11-01",
+        "ad_delivery_stop_time": "2023-11-01",
+        "currency": "VND",
+        "delivery_by_region": [
+            {
+                "percentage": "0.00303",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.051515",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.139394",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.078788",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.048485",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.042424",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.042424",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.057576",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.057576",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.130303",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.030303",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.051515",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.121212",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.112121",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.033333",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.118182",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.045455",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.115152",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.075758",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.030303",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.109091",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.075758",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.057576",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.084848",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.142424",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.112121",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.030303",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00303",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "287121102193747",
+        "page_name": "Univers Canal Photo",
+        "publisher_platforms": [
+            "facebook",
+            "instagram",
+            "audience_network",
+            "messenger"
+        ],
+        "spend": {
+            "lower_bound": "350000",
+            "upper_bound": "399999"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "21",
+            "65"
+        ],
+        "eu_total_reach": 333,
+        "beneficiary_payers": [
+            {
+                "payer": "123Hold",
+                "beneficiary": "123Hold",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 47,
+                        "female": 19
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 38,
+                        "female": 25
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 39,
+                        "female": 15
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 37,
+                        "female": 28
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 36,
+                        "female": 25,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 10,
+                        "female": 10
+                    }
+                ]
+            }
+        ],
+        "_id": "1062604791588640"
+    }
+]

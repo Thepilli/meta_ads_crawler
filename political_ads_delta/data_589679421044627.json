@@ -1,0 +1,200 @@
+[
+    {
+        "id": "2389911274533583",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=2389911274533583&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-28",
+        "ad_creative_bodies": [
+            "Pod vedením starosty Martina Ferdana a dalších ze sdružení Budějováci vzniká v Moravských Budějovicích celá řada pěkných akcí. Posuďte sami, jak se vyvedl první ročník Zabijačkových hodů. 🐖🍻"
+        ],
+        "ad_delivery_start_time": "2024-01-28",
+        "bylines": "Starostové a nezávislí",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.027133",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.972867",
+                "region": "Vysočina Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000383",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000767",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.006516",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.076274",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.090456",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00115",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.076658",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.116903",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.022997",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.16788",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.059793",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.136451",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.121119",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.106171",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.014565",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001916",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "5000",
+            "upper_bound": "5999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "589679421044627",
+        "page_name": "Starostové na Vysočině",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Jemnice, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Vysočina Region, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "regions",
+                "excluded": false
+            },
+            {
+                "name": "Trebic, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 2543,
+        "beneficiary_payers": [
+            {
+                "payer": "Starostové a nezávislí",
+                "beneficiary": "Starostové a nezávislí",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "male": 356,
+                        "female": 316,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 156,
+                        "female": 236,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 38,
+                        "female": 17
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 438,
+                        "female": 199,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 200,
+                        "female": 305,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 277,
+                        "female": 60
+                    }
+                ]
+            }
+        ]
+    }
+]

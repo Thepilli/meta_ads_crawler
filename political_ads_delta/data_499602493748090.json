@@ -1,0 +1,302 @@
+[
+    {
+        "id": "290048197054409",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=290048197054409&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-27",
+        "ad_creative_bodies": [
+            "Další mé faktické poznámky z projednávání korespondenční volby."
+        ],
+        "ad_delivery_start_time": "2024-01-27",
+        "ad_delivery_stop_time": "2024-02-01",
+        "bylines": "Jiří Strýček",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Moravian-Silesian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000219",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.005704",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.05814",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.174419",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.030715",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001097",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.114963",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.237165",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.183633",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.192848",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001097",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "7000",
+            "upper_bound": "7999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "499602493748090",
+        "page_name": "Jiří Strýček",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "target_locations": [
+            {
+                "name": "Moravian-Silesian Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "40",
+            "65"
+        ],
+        "eu_total_reach": 4572,
+        "beneficiary_payers": [
+            {
+                "payer": "Jiří Strýček",
+                "beneficiary": "Jiří Strýček",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "male": 837,
+                        "female": 140,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 265,
+                        "female": 26
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 1081,
+                        "female": 524,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 795,
+                        "female": 879,
+                        "unknown": 5
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "351077001188690",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=351077001188690&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-27",
+        "ad_creative_bodies": [
+            "Pár mých faktických poznámek z projednávání korespondenční volby."
+        ],
+        "ad_delivery_start_time": "2024-01-27",
+        "ad_delivery_stop_time": "2024-02-01",
+        "bylines": "Jiří Strýček",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Moravian-Silesian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000195",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000977",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000586",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.004299",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.025406",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.245652",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.155951",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.226109",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.075239",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.179207",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.085792",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000586",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "7000",
+            "upper_bound": "7999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "499602493748090",
+        "page_name": "Jiří Strýček",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "target_locations": [
+            {
+                "name": "Moravian-Silesian Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "40",
+            "65"
+        ],
+        "eu_total_reach": 5300,
+        "beneficiary_payers": [
+            {
+                "payer": "Jiří Strýček ",
+                "beneficiary": "Jiří Strýček",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "35-44",
+                        "male": 385,
+                        "female": 22,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 1257,
+                        "female": 439,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 1157,
+                        "female": 130,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 917,
+                        "female": 798,
+                        "unknown": 5
+                    }
+                ]
+            }
+        ]
+    }
+]

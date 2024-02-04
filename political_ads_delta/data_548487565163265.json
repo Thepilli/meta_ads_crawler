@@ -1,0 +1,902 @@
+[
+    {
+        "id": "906432177590265",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=906432177590265&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-20",
+        "ad_creative_bodies": [
+            "Páni, dneska sem se Zulou držel hlídku v okupovaným městě. Bylo hrozný horko a sundal sem si čepici. To mě nakonec štvalo, že sem to už nemoh vydžet. Naštěstí šly kolem nějaký děti. Namířil sem kvér, a...\n\nStřílení předškoláků, to je Váňův svět...\n\nBCBL a tohle není civilizace...."
+        ],
+        "ad_delivery_start_time": "2024-01-20",
+        "ad_delivery_stop_time": "2024-01-27",
+        "bylines": "Buď Čech, buď laska",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.042654",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.041469",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.303318",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.041469",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.026066",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.023697",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.035545",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.067536",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.055687",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.041469",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.091232",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.063981",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.040284",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.125592",
+                "region": "South Moravian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001186",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001186",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.004745",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.015421",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001186",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.080664",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.054567",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.113879",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.008304",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.124555",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.041518",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.150652",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.099644",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.17675",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.125741",
+                "age": "55-64",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "500001",
+            "upper_bound": "1000000"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "548487565163265",
+        "page_name": "Buď Čech, buď laska",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 842,
+        "beneficiary_payers": [
+            {
+                "payer": "Tomáš Rufer",
+                "beneficiary": "Buď Čech, buď laska",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 68,
+                        "female": 7,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 105,
+                        "female": 35,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 127,
+                        "female": 149,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 13,
+                        "female": 4
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 96,
+                        "female": 46
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 106,
+                        "female": 84
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "2291361384396094",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=2291361384396094&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-20",
+        "ad_creative_bodies": [
+            "Ruský mír\n\nKdybysi, Bulate, tak nebyl Burjatem\nNa jatka jinej by jet musel Burjat!\nA dumky jinačí tajga by zpívala:\nŽe na jatka nějací Burjati jdou!\n\nKdyby tě, Rustame, Dagestán nezrodil,\nzrak svůj bys od Kremlu za obzor vrážel,\njak jiným hlavu ve stínu děl stínají:\nJak stínají nějaké Dagestánce.\n\nKdybysi nebyla s Tuvíncem chodila,\nděvuška grusnaja, s Tuvíncem byla,\nkyticí svatební by ses pyšnila,\nkytici nekladla Tuvínci na hrob…\n\nKdybysi býval byl, Bulate, Moskalem,\nskrovný bys majetek na odiv dával.\nV procesí řezníků třídenní války bys\njatečním Burjatům na kosti pískal.\n\n#BudCechBudLaska a pohleď jak Rusové skládají vojsko."
+        ],
+        "ad_delivery_start_time": "2024-01-20",
+        "ad_delivery_stop_time": "2024-01-26",
+        "bylines": "Buď Čech, buď laska",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.045775",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.301056",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.12412",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.045775",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.033451",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.019366",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.040493",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.03169",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.072183",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.044014",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.048415",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.09331",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.058979",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.041373",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.00089",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.094306",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.023132",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.153915",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.160142",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.176157",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.169039",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.023132",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.101423",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.032918",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00089",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.05605",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.007117",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00089",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "500001",
+            "upper_bound": "1000000"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "548487565163265",
+        "page_name": "Buď Čech, buď laska",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 1140,
+        "beneficiary_payers": [
+            {
+                "payer": "Tomáš Rufer",
+                "beneficiary": "Buď Čech, buď laska",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 26,
+                        "female": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 190,
+                        "female": 26,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 114,
+                        "female": 8,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 198,
+                        "female": 37
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 180,
+                        "female": 63
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 173,
+                        "female": 106
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "360883246688671",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=360883246688671&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-20",
+        "ad_creative_bodies": [
+            "VRABI: Sokrate, Sokrate! … Sokrate! Sokrate! (udýchaný trpaslíček proběhne ranním sluncem ozářenými vraty na dvorek. Kraťounké nožičky kmitají se v blikotavém paprsku neberouce v potaz, že drobné sandálky drtí nahnilé olivy a rozstřikují slepičince)\nSOKRATES: Budiž vítán, Láďo, copak mi tak neodkladného neseš?\nVRABI: Sokrate! Sokrate! Učinil jsem objev, který změní svět!\nSOKRATES: Dobrá, vyslechnu tě, ale než mi vlezeš na verandu, zuj se prosím a otři si nožičky borovou šiškou.\nVRABI: (mávne rukou a chce ihned usednouti naproti filosofu, leč ten rázným gestem jej vykáže. Pracně se zuje a očistí ledabyle nožky borovou šiškou, a suchou travou. Sokrates jej poté vybídne, aby si přisedl) Sokrate! Přišel jsem na to! Mám to! Učinil jsem objev!\nSOKRATES: To rád slyším, Ládíku. Konečně! Takže se budeš živit poctivou prací, abys poplatil své nerozumné dluhy?\nVRABI: Nikoliv, ó Sokrate. Učinil jsem objev, který jednou provždy vychýlí kormidlo dějin!\nSOKRATES: Inu, hovoř, chlapče. Hovoř, a pouč mě – již jsem hotov naslouchati.\nVRABI: Víš, že na Ukrajině probíhá třídenní speciální vojenská operace už druhým rokem?\nSOKRATES: Ano, už druhým rokem tam zuří válka.\nVRABI: A víš, že cílem té operace je očistit svět od nacistů, kteří žalářují a mučí národy.\nSOKRATES: Ano, vím, že Ukrajinci se brání vpádu ruské armády… ruské armády posedlé utkvělou představou imperiální expanze, představou vskřísiti moloch velkoruského impéria, představou, kterou žije současné vedení státu… to je jak z devatenáctého století, že jo Ládíku?\nLádík, aniž by věděl, co slova znamenají zatleskal drobnýma ručičkama, poskočil vesele na místě a horlivě přikývl.\nVRABI: A já vím, proč tomu tak je! Proč jsou Ukrajinci nacisté!\nSOKRATES: (pobaveně, neb již tuší, kudy se hovor bude ubírat) Ale? Tak povídej Ládíku. Proč najednou jsou Ukrajinci nacisté?\nVRABI: Najednou! Oni byli nacisté vždycky! Bandera!\nSOKRATES: Ehm… to už je 85 let, Láďo. A navíc byla Ukrajina od dvacátých let součástí SSSR, takže…\nVRABI: Oni byli nacisté vždycky. Vždycky – celou dobu.\nSOKRATES: A jak to, Láďo vysvětlíš, že se články o nacistech na Ukrajině začaly masivně objevovat v ruském tisku až v souvislosti s okupací Krymu na začátku roku 2014? A do té doby o tom nebylo ani vidu, ani slechu.\nVRABI: A to je právě můj objev, Sokrate! (suverénně) Kdypak se stal Hitler kancléřem?\nSOKRATES: 30. ledna 1933, Ládíku.\nVRABI: Ha, tady to máš! Ukrajinští nacisté odkryli karty přesně po sto letech!\nSOKRATES: (čím dál tím hlouběji boří hlavu do dlaní) Nějak ti nesedí počty, Láďo…\nVRABI: (triumfálně) K přiležitosti stého výročí prvního výročí Hitlerova nástupu k moci!\nSOKRATES: (mlčí, ale energicky se začne přehrabovat ve svém šuplíku)\nVRABI: Chápeš to? Všechno to bylo naplánovaný. Všechno to do sebe zapadá. Oni se přiznali k nacizmu, když se Krym vrátil do Ruska, aby oslavili tohle jubileum! Lišky podšitý. A teď nás tu vysávaj!\nSOKRATES: (podává Láďovi čerstvý výtisk Annonce) Láďo, tady máš takový čtení, umíš to, že jo? A tam píše spousta lidí, kteří poptávají někoho, komu by mohli platit za poctivou práci. Podívej se na to. Víš, když budeš poctivě pracovat, možná zjistíš, že svět funguje poněkud jinak a možná že strávíš zbytek času, co ti tady byl vyměřen, i něčím smysluplným a naplněným.\nVRABI: Ne, Sokrate, nejsem přeci ovce! Tohle musí jít ven – tohle, jak nás všichni manipulují! Zavolám Rajchimu a Okimu, bude demoška jak řemen! (Láďa chvatně vklouzl do sandálků a s Annoncemi, které po cestě jásaje zahodil, v ruce se rozběhl přes dvůr vstříc bráně, skrz kterou dopadalo jasné ranní slunce. Veselý pleskot jeho nožiček rozstřikoval slepičince do všech koutů hospodářství.)\nSOKRATES: Ládíku, Ládíku, ty prosťáčku. Kdy tobě a tobě podobným prosťáčkům, filozofům lidu, konečně dojde, že když nebudete mařit svůj čas na hovadinách a nesmyslech a nebudete se svým vidláckým způsobem rýpat ve věcech, na které váš nevzdělaný technokratický duch nestačí, budete pro polis nejprospěšnějšími…\nSOKRATES (po chvilce přemýšlení): Ale já ti vlastně rozumím. Ten pocit: sám sobě géniem, ten je k nezaplacení… i kdyby to mělo znamenat jen to, žes přišel na to, jak rozstříknout hovno způsobem, na který ještě nikdo nikdy nepřišel…"
+        ],
+        "ad_delivery_start_time": "2024-01-20",
+        "ad_delivery_stop_time": "2024-01-27",
+        "bylines": "Buď Čech, buď laska",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.044321",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.260388",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.052632",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.024931",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.023546",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.042936",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.042936",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.083102",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.047091",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.096953",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.065097",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.048476",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.128809",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.038781",
+                "region": "Plzeň Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001387",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.037448",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001387",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.126214",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.030513",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.162275",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.019417",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.142857",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.152566",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.153953",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.079057",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.079057",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.01387",
+                "age": "25-34",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "500001",
+            "upper_bound": "1000000"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "548487565163265",
+        "page_name": "Buď Čech, buď laska",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 719,
+        "beneficiary_payers": [
+            {
+                "payer": "Tomáš Rufer",
+                "beneficiary": "Buď Čech, buď laska",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 14,
+                        "female": 1
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 57,
+                        "female": 10,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 110,
+                        "female": 22
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 103,
+                        "female": 27
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 111,
+                        "female": 57
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 117,
+                        "female": 91
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "739731808218672",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=739731808218672&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-20",
+        "ad_creative_bodies": [
+            "NAJDI 5 ROZDÍLŮ\n\nJen si vzpomeň, jak to u nás vypadalo, když se k nám politicky a vojensky nakvartýrovali Rusové. Nic dobrýho nepřinesli. A to platí furt.\n\n#BudCechBudLaska a nezapomeň na to ani dnes"
+        ],
+        "ad_delivery_start_time": "2024-01-20",
+        "ad_delivery_stop_time": "2024-01-27",
+        "bylines": "Buď Čech, buď laska",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.301291",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.109756",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.046628",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.032281",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.020086",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.039455",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.04089",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.072453",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.047346",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.050933",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.096844",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.056671",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.040172",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.045194",
+                "region": "Hradec Králové Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001434",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000717",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001434",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.035842",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.091756",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.133333",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.154839",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.136201",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.182796",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.1319",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.012903",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.058065",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.023656",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.032975",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000717",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001434",
+                "age": "18-24",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "500001",
+            "upper_bound": "1000000"
+        },
+        "impressions": {
+            "lower_bound": "2000",
+            "upper_bound": "2999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "548487565163265",
+        "page_name": "Buď Čech, buď laska",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 1405,
+        "beneficiary_payers": [
+            {
+                "payer": "Tomáš Rufer",
+                "beneficiary": "Buď Čech, buď laska",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "65+",
+                        "male": 190,
+                        "female": 128,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 255,
+                        "female": 33,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 216,
+                        "female": 46,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 50,
+                        "female": 2
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 184,
+                        "female": 18,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 186,
+                        "female": 81
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,1055 @@
+[
+    {
+        "id": "1807814699692108",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1807814699692108&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-27",
+        "ad_creative_bodies": [
+            ":D"
+        ],
+        "ad_delivery_start_time": "2024-01-27",
+        "ad_delivery_stop_time": "2024-01-31",
+        "bylines": "Jana Hanzlíková - poslankyně",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000156",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.04992",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.064045",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.118397",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.054559",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.048468",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.035612",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.044606",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.073428",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.160126",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.049116",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.049505",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.089653",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.105878",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.056529",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.129222",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.091494",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.217446",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.008032",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.178043",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.130557",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.157688",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000131",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000811",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.033123",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.049973",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000994",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001047",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000733",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000706",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "45000",
+            "upper_bound": "49999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "163914317133681",
+        "page_name": "Jana Hanzlíková - poslankyně",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "30",
+            "65"
+        ],
+        "eu_total_reach": 37103,
+        "beneficiary_payers": [
+            {
+                "payer": "Radim F. Holeček",
+                "beneficiary": "Radim F. Holeček",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 1910,
+                        "female": 38,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 6027,
+                        "female": 307,
+                        "unknown": 27
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 8311,
+                        "female": 1266,
+                        "unknown": 31
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 6805,
+                        "female": 3497,
+                        "unknown": 28
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 4990,
+                        "female": 4939,
+                        "unknown": 40
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "597174579270246",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=597174579270246&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-21",
+        "ad_creative_bodies": [
+            "Nezapomínejme, jak ministr Jurečka okradl důchodce!"
+        ],
+        "ad_delivery_start_time": "2024-01-21",
+        "ad_delivery_stop_time": "2024-01-25",
+        "bylines": "Jana Hanzlíková - poslankyně",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "6.8E-5",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.049554",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.073358",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.109627",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.055633",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.043134",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.039104",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.046617",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.068714",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.158533",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.048598",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.048461",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.089478",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.115877",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.053243",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000273",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000718",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000444",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.037929",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.168187",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.202119",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.113036",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.207586",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.077191",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.186093",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.005638",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000786",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "40000",
+            "upper_bound": "44999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "163914317133681",
+        "page_name": "Jana Hanzlíková - poslankyně",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "40",
+            "65"
+        ],
+        "eu_total_reach": 29810,
+        "beneficiary_payers": [
+            {
+                "payer": "Radim F. Holeček",
+                "beneficiary": "Radim F. Holeček",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "35-44",
+                        "male": 2259,
+                        "female": 165,
+                        "unknown": 8
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 5915,
+                        "female": 1110,
+                        "unknown": 13
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 6075,
+                        "female": 3308,
+                        "unknown": 21
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 4922,
+                        "female": 5446,
+                        "unknown": 23
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "7087275908027962",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=7087275908027962&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-20",
+        "ad_creative_bodies": [
+            "😤😠🤯Fialova vláda předkládá legislativní paskvil mimo řádný legislativní proces? Proč? Moje faktická poznámka k projednávání korespondenčí volby."
+        ],
+        "ad_delivery_start_time": "2024-01-20",
+        "ad_delivery_stop_time": "2024-01-23",
+        "bylines": "Jana Hanzlíková - poslankyně",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "4.0E-5",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.051866",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.078985",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.108238",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.053763",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.042813",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.037872",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.048269",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.068034",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.150103",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.050324",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.04902",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.086773",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.118398",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.055503",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000197",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000592",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.17968",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.173841",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.204814",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.200395",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.039298",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.117972",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.075399",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.006076",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001065",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000671",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "35000",
+            "upper_bound": "39999"
+        },
+        "page_id": "163914317133681",
+        "page_name": "Jana Hanzlíková - poslankyně",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "40",
+            "65"
+        ],
+        "eu_total_reach": 25297,
+        "beneficiary_payers": [
+            {
+                "payer": "Radim F. Holeček",
+                "beneficiary": "Radim F. Holeček",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "35-44",
+                        "male": 1911,
+                        "female": 154,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 5079,
+                        "female": 996,
+                        "unknown": 15
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 5191,
+                        "female": 2990,
+                        "unknown": 17
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 4406,
+                        "female": 4554,
+                        "unknown": 27
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "314663748238069",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=314663748238069&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-20",
+        "ad_creative_bodies": [
+            "Co se stane, když uspějeme u Ústavního soudu? \"Naši rodiče a prarodiče dostanou své peníze zpět a napraví se amorální stav, kdy jsou ti, kteří tady všechno vybudovali, označeni za hospodářskou škodu!\" Přesně 👇"
+        ],
+        "ad_delivery_start_time": "2024-01-20",
+        "ad_delivery_stop_time": "2024-01-23",
+        "bylines": "Jana Hanzlíková - poslankyně",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "7.5E-5",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.052429",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.072202",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.112327",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.051906",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.043504",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.040199",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.046902",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.068393",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.150939",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.048807",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.049852",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.093898",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.115874",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.052691",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.00015",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.007007",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001368",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.032168",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.168278",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.15329",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.293353",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.171013",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.049554",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.122658",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000543",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000618",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "70000",
+            "upper_bound": "79999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "163914317133681",
+        "page_name": "Jana Hanzlíková - poslankyně",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "2000",
+            "upper_bound": "2499"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "40",
+            "65"
+        ],
+        "eu_total_reach": 55312,
+        "beneficiary_payers": [
+            {
+                "payer": "Radim F. Holeček",
+                "beneficiary": "Radim F. Holeček",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "35-44",
+                        "male": 1717,
+                        "female": 374,
+                        "unknown": 8
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 6547,
+                        "female": 2645,
+                        "unknown": 29
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 8182,
+                        "female": 8982,
+                        "unknown": 33
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 9128,
+                        "female": 15658,
+                        "unknown": 73
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1502325983945045",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1502325983945045&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-20",
+        "ad_creative_bodies": [
+            "Podívejte se do kamery, pane ministře, a řekněte lidem, že jste jim na billboardech NELHALI. Prý nelhali. :)"
+        ],
+        "ad_delivery_start_time": "2024-01-20",
+        "ad_delivery_stop_time": "2024-01-23",
+        "bylines": "Jana Hanzlíková - poslankyně",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000176",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.056133",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.082578",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.113066",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.053555",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.048281",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.035273",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.043535",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.067188",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.144219",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.051621",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.051699",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.098613",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.102559",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.051504",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001018",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001312",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.013294",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.114633",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.239114",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.152518",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.05298",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.10269",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.152322",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.168318",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001136",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000666",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "50000",
+            "upper_bound": "59999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "163914317133681",
+        "page_name": "Jana Hanzlíková - poslankyně",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "2000",
+            "upper_bound": "2499"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "40",
+            "65"
+        ],
+        "eu_total_reach": 51564,
+        "beneficiary_payers": [
+            {
+                "payer": "Radim F. Holeček",
+                "beneficiary": "Radim F. Holeček",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "35-44",
+                        "male": 5855,
+                        "female": 679,
+                        "unknown": 34
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 12213,
+                        "female": 2706,
+                        "unknown": 58
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 8597,
+                        "female": 5245,
+                        "unknown": 52
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 7790,
+                        "female": 7780,
+                        "unknown": 67
+                    }
+                ]
+            }
+        ]
+    }
+]

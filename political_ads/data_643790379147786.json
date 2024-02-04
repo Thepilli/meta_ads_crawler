@@ -1,0 +1,924 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=588264926726494&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-07",
+        "ad_creative_bodies": [
+            "Prezidentka Potravinářské komory České republiky Dana Večeřová: Videovýlet pana premiéra Fialy na nákup do Německa ve mně vyvolává dojem, že pan premiér chce, aby Češi jezdili častěji nakupovat do Německa a zvyšovali tak tržby tamním obchodům. Jsem velmi zklamaná. Místo toho, aby pan premiér hledal konstruktivní řešení, jak zlevnit potraviny v Česku, s odpuštěním kašle na české výrobce a raději dělá „show“ s nákupním vozíkem. Spíše by se měl zajímat o to, proč je v Německu výrazně nižší sazba DPH na potraviny, nebo proč čeští potravináři čelí jedněm z nejvyšších cen energií v Evropě, což v důsledku zdražuje výrobu, a tím i cenu potravin. Domnívám se, že by to bylo mnohem užitečnější."
+        ],
+        "ad_delivery_start_time": "2023-11-07",
+        "ad_delivery_stop_time": "2023-11-11",
+        "bylines": "Potravinářská komora České republiky",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.053869",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.084219",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.11912",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.063733",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.049697",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.028073",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.036798",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.070941",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.138467",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.049317",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.058042",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.098255",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.096358",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.053111",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000379",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000379",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001896",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001517",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00986",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.232082",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.206295",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.16041",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.248768",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.083807",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.044369",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.010239",
+                "age": "25-34",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "4000",
+            "upper_bound": "4999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "643790379147786",
+        "page_name": "Potravinářská komora České republiky",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "29",
+            "58"
+        ],
+        "eu_total_reach": 2679,
+        "beneficiary_payers": [
+            {
+                "payer": "Potravinářská komora České republiky",
+                "beneficiary": "Potravinářská komora České republiky",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 27,
+                        "female": 26,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 221,
+                        "female": 117,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 612,
+                        "female": 656,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 423,
+                        "female": 544,
+                        "unknown": 4
+                    }
+                ]
+            }
+        ],
+        "_id": "588264926726494"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=645952534365456&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-06",
+        "ad_creative_bodies": [
+            "Těsně před tím, než premiér Petr Fiala odcestoval na velkou africkou misi, udělal nákupní turné v německém a tuzemském obchodu. Pomiňme nyní, že nejzajímavější na nákupním skeči je kuchyň v Kramářově vile. Nabízíme pár našich postřehů k videu: \n\n‼ V Německu mají levnější potraviny, protože z nich odvádějí DPH ve výši jen 7 %, my v Česku více než dvojnásobek - 15%. Receptem na levnější potraviny v ČR je razantní snížení DPH.\n\n‼ Máslo a mléko ve videu nejsou identické výrobky. Mléko od českého značkového výrobce stojí v akci 12,90 Kč, tedy 0,50 centu. \n\n‼ I Coca-Colu lze běžně zakoupit v ceně 18,90 Kč/l (dvoulitrová láhev za 36,90 Kč - dnešní nákup), tedy levněji než v Německu. \n\nPřijde nám krajně nevhodné a amatérské tímto způsobem srovnávat ceny potravin, když naše vláda na české potravináře kašle. Pane premiére, zveme vás na návštěvu, rádi vám vysvětlíme, jak se dělá cenotvorba potravin a jaké jsou náklady na jejich výrobu.\n\nVideo: Petr Fiala"
+        ],
+        "ad_creative_link_titles": [
+            "Premiér Fiala o cenách potravin v ČR a Německu"
+        ],
+        "ad_delivery_start_time": "2023-11-06",
+        "ad_delivery_stop_time": "2023-11-11",
+        "bylines": "Potravinářská komora České republiky",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.056875",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.073603",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.123453",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.056373",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.058213",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.029107",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.041151",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.070927",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.119438",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.05286",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.057377",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.109234",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.090833",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.060555",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.00167",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.306112",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.43654",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.041249",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.143287",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.014195",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.056279",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000334",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000334",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "7000",
+            "upper_bound": "7999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "643790379147786",
+        "page_name": "Potravinářská komora České republiky",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "25",
+            "49"
+        ],
+        "eu_total_reach": 6120,
+        "beneficiary_payers": [
+            {
+                "payer": "Potravinářská komora České republiky",
+                "beneficiary": "Potravinářská komora České republiky",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 858,
+                        "female": 85,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 2614,
+                        "female": 247,
+                        "unknown": 10
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 1833,
+                        "female": 337,
+                        "unknown": 2
+                    }
+                ]
+            }
+        ],
+        "_id": "645952534365456"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=295939966735726&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-10-24",
+        "ad_creative_bodies": [
+            "Když jsme v loňském roce navrhovali snížení DPH u potravin na 5 %, tak mnozí politici namítali, že by to obchody rozpustily v maržích. Od nového roku 2024 má být u potravin sazba DPH 12 %. Jsme velmi zvědaví, jestli zákazníci ta tři procenta v obchodě u kasy opravdu poznají."
+        ],
+        "ad_delivery_start_time": "2023-10-24",
+        "ad_delivery_stop_time": "2023-10-27",
+        "bylines": "Potravinářská komora České republiky",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.060052",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.084204",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.11423",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.069191",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.038512",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.024151",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.046345",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.075718",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.126632",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.054178",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.064621",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.092037",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.087467",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.062663",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000648",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001296",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001944",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.26766",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.113415",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.04407",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.226183",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.037589",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.121192",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.110175",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.075826",
+                "age": "55-64",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "643790379147786",
+        "page_name": "Potravinářská komora České republiky",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "30",
+            "57"
+        ],
+        "eu_total_reach": 1550,
+        "beneficiary_payers": [
+            {
+                "payer": "Potravinářská komora České republiky",
+                "beneficiary": "Potravinářská komora České republiky",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "35-44",
+                        "male": 187,
+                        "female": 175,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 68,
+                        "female": 58
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 349,
+                        "female": 413,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 117,
+                        "female": 170,
+                        "unknown": 2
+                    }
+                ]
+            }
+        ],
+        "_id": "295939966735726"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=231517279023053&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2021-10-02",
+        "ad_creative_bodies": [
+            "POTRAVINY ZBLÍZKA Potravinářská komora České republiky. Zajímá Vás co je největším problémem potravinářského průmyslu u nás a v Evropě, proč je v potravinářství a zemědělství takový nedostatek pracovníků a co chybí na českém trhu s potravinami?\n\nPoslechněte si názory vybraných expertů na zemědělství a potravinářství politických stran a hnutí zastoupených v Poslanecká sněmovna Parlamentu České republiky.\n\nOslovili jsme Petr Bendl z ODS - Občanská demokratická strana, Pavel Čížek z Starostové a nezávislí • STAN, Jaroslava Faltýnka z ANO, Radim Fiala - SPD z Svoboda a přímá demokracie - SPD, Vojtěch Filip z KSČM - Komunistická strana Čech a Moravy, Radek Holomčík z Česká pirátská strana, Marian Jurečka z KDU-ČSL a současného ministra Ministerstvo zemědělství České republiky Miroslava Tomana z ČSSD. TOP 09 se prozatím nevyjádřila. \nJejich názory si můžete poslechnout zde: https://open.spotify.com/show/69yzehZzH3hAYAXluCi8Pa nebo https://anchor.fm/potravinarska-ko"
+        ],
+        "ad_creative_link_captions": [
+            "anchor.fm"
+        ],
+        "ad_creative_link_descriptions": [
+            "Anketa Potravinářské komory České republiky"
+        ],
+        "ad_creative_link_titles": [
+            "Potraviny zblízka • A podcast on Anchor"
+        ],
+        "ad_delivery_start_time": "2021-10-02",
+        "ad_delivery_stop_time": "2021-10-03",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.063123",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.078904",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.113787",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.091362",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.062292",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.032392",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.050664",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.053987",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.11711",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.05897",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.040698",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.072259",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.107143",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.057309",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000834",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.024187",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000834",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.020851",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001668",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.055046",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.048374",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.093411",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.077565",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.056714",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.275229",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.075897",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.145955",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.110926",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.011676",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000834",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "643790379147786",
+        "page_name": "Potravinářská komora České republiky",
+        "publisher_platforms": [
+            "facebook",
+            "instagram",
+            "messenger"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "_id": "231517279023053"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=585411075979095&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2021-10-01",
+        "ad_creative_bodies": [
+            "POTRAVINY ZBLÍZKA Potravinářská komora České republiky. Zajímá Vás co je největším problémem potravinářského průmyslu u nás a v Evropě, proč je v potravinářství a zemědělství takový nedostatek pracovníků a co chybí na českém trhu s potravinami?\n\nPoslechněte si názory vybraných expertů na zemědělství a potravinářství politických stran a hnutí zastoupených v Poslanecká sněmovna Parlamentu České republiky.\n\nOslovili jsme Petr Bendl z ODS - Občanská demokratická strana, Pavel Čížek z Starostové a nezávislí • STAN, Jaroslava Faltýnka z ANO, Radim Fiala - SPD z Svoboda a přímá demokracie - SPD, Vojtěch Filip z KSČM - Komunistická strana Čech a Moravy, Radek Holomčík z Česká pirátská strana, Marian Jurečka z KDU-ČSL a současného ministra Ministerstvo zemědělství České republiky Miroslava Tomana z ČSSD. TOP 09 se prozatím nevyjádřila. \nJejich názory si můžete poslechnout zde: https://open.spotify.com/show/69yzehZzH3hAYAXluCi8Pa nebo https://anchor.fm/potravinarska-ko"
+        ],
+        "ad_creative_link_captions": [
+            "anchor.fm"
+        ],
+        "ad_creative_link_descriptions": [
+            "Anketa Potravinářské komory České republiky"
+        ],
+        "ad_creative_link_titles": [
+            "Potraviny zblízka • A podcast on Anchor"
+        ],
+        "ad_delivery_start_time": "2021-10-02",
+        "ad_delivery_stop_time": "2021-10-02",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.097087",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.087379",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.11165",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.053398",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.048544",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.029126",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.072816",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.048544",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.101942",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.072816",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.048544",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.082524",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.140777",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.004854",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.024272",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.014563",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.31068",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.184466",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.048544",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.145631",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.048544",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.140777",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.024272",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.014563",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.043689",
+                "age": "35-44",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "643790379147786",
+        "page_name": "Potravinářská komora České republiky",
+        "publisher_platforms": [
+            "facebook",
+            "instagram",
+            "messenger"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "_id": "585411075979095"
+    }
+]

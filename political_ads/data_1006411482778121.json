@@ -1,0 +1,6581 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=892160535479569&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-08",
+        "ad_creative_bodies": [
+            "What a day for our UK team member, Nikki! While snapping pics at Stansted Airport 📸, she spotted two incredible things. One was the Presidential plane, Air Force One ✈️. Can you guess the other? 🤔 Check out the video to find out… 🎥 #PlaneSpotting #AirForceOne"
+        ],
+        "ad_delivery_start_time": "2023-12-08",
+        "ad_delivery_stop_time": "2023-12-08",
+        "currency": "GBP",
+        "delivery_by_region": [
+            {
+                "percentage": "0.041558",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.345455",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.114286",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.038961",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.031169",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.012987",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.028571",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.05974",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.07013",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.036364",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.057143",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.077922",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.044156",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.041558",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.002597",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.12987",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.306494",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.207792",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.036364",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.083117",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.127273",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.044156",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.01039",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.018182",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.015584",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.012987",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002597",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002597",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "page_id": "1006411482778121",
+        "page_name": "FedEx",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 381,
+        "beneficiary_payers": [
+            {
+                "payer": "GOOD RELATIONS LIMITED",
+                "beneficiary": "FedEx",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 118,
+                        "female": 50,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 80,
+                        "female": 49,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 32,
+                        "female": 17,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 14,
+                        "female": 1
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 5
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 7,
+                        "female": 6
+                    }
+                ]
+            }
+        ],
+        "_id": "892160535479569"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1694818781010126&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-08",
+        "ad_creative_bodies": [
+            "What a day for our UK team member, Nikki! While snapping pics at Stansted Airport, she spotted two incredible things. One was the Presidential plane, Air Force One. Can you guess the other? 🤔 Check out the video to find out…"
+        ],
+        "ad_creative_link_titles": [
+            "Plane spotting 📷"
+        ],
+        "ad_delivery_start_time": "2023-12-08",
+        "ad_delivery_stop_time": "2023-12-08",
+        "currency": "GBP",
+        "delivery_by_region": [
+            {
+                "percentage": "0.033086",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.243951",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.140247",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.048395",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.029136",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.019259",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.032593",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.047407",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.093333",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.044938",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.046914",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.093827",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.078025",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.048889",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000489",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.048948",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.003916",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.080274",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.048458",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.14978",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.039648",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.090064",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.036711",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.016642",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.114048",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.125795",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.23397",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.006363",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000979",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002447",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000979",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000489",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "2000",
+            "upper_bound": "2999"
+        },
+        "languages": [
+            "en"
+        ],
+        "page_id": "1006411482778121",
+        "page_name": "FedEx",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 2017,
+        "beneficiary_payers": [
+            {
+                "payer": "GOOD RELATIONS LIMITED",
+                "beneficiary": "FedEx",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 34,
+                        "female": 13,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 306,
+                        "female": 81,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 184,
+                        "female": 100,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 233,
+                        "female": 75,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 478,
+                        "female": 164,
+                        "unknown": 8
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 257,
+                        "female": 99,
+                        "unknown": 2
+                    }
+                ]
+            }
+        ],
+        "_id": "1694818781010126"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=781339160019273&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-04-26",
+        "ad_creative_bodies": [
+            "Another inspirational story from our awesome team! 📣\n\nTeam members in the UK & Ireland have been supporting Women's Aid, an organisation who have been working to stop domestic violence against women and children since 1974. Find out more below 👇"
+        ],
+        "ad_creative_link_titles": [
+            "Supporting Women's Aid"
+        ],
+        "ad_delivery_start_time": "2023-04-26",
+        "ad_delivery_stop_time": "2023-04-27",
+        "currency": "GBP",
+        "delivery_by_region": [
+            {
+                "percentage": "0.057053",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.125656",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.085054",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.060903",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.045152",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.036402",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.046202",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.055653",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.098355",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.045502",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.069303",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.123906",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.111656",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.039202",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001372",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.02916",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.134134",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.150257",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.091595",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.164666",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.080617",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.063465",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.126587",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.063122",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.023328",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.053859",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.01681",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000343",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000343",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000343",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "3000",
+            "upper_bound": "3999"
+        },
+        "languages": [
+            "en"
+        ],
+        "page_id": "1006411482778121",
+        "page_name": "FedEx",
+        "publisher_platforms": [
+            "facebook",
+            "instagram",
+            "audience_network"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "_id": "781339160019273"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=579762517547237&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-03-08",
+        "ad_creative_bodies": [
+            "What does gender equality mean to you? \nThis #InternationalWomensDay, we asked team members across Europe to share their thoughts and this is what they had to say 👇 #EmbraceEquity"
+        ],
+        "ad_creative_link_titles": [
+            "#InternationalWomensDay 2023"
+        ],
+        "ad_delivery_start_time": "2023-03-09",
+        "ad_delivery_stop_time": "2023-03-09",
+        "currency": "GBP",
+        "delivery_by_region": [
+            {
+                "percentage": "0.057332",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.15215",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.079383",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.054024",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.042999",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.047409",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.037486",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.042999",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.104741",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.057332",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.059537",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.122381",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.102536",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.039691",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.002205",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001103",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.058434",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.081588",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.060639",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.072767",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.088203",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.130099",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.028666",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.057332",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.084895",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.039691",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.151047",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.142227",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001103",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "en"
+        ],
+        "page_id": "1006411482778121",
+        "page_name": "FedEx",
+        "publisher_platforms": [
+            "facebook",
+            "instagram",
+            "audience_network"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "_id": "579762517547237"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=722650265556500&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-12-15",
+        "ad_creative_bodies": [
+            "News update! Part of our European road network fleet will now refuel using renewable diesel. Adopting alternative diesels in our network will help us drive down the emissions of our truck fleet, as we work towards carbon-neutral operations by 2040.\n\n#WhereNowMeetsNext"
+        ],
+        "ad_creative_link_titles": [
+            "Renewable diesel"
+        ],
+        "ad_delivery_start_time": "2022-12-15",
+        "ad_delivery_stop_time": "2022-12-16",
+        "currency": "GBP",
+        "delivery_by_region": [
+            {
+                "percentage": "0.059524",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.125541",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.096861",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.060065",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.040584",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.032468",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.036255",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.041126",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.115801",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.05303",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.0671",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.116342",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.114177",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.041126",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000536",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001609",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.162554",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.032189",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.193133",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.020923",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.056867",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.035944",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.023605",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.017704",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.078326",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.233369",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.023069",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.119099",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000536",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000536",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "2000",
+            "upper_bound": "2999"
+        },
+        "languages": [
+            "en"
+        ],
+        "page_id": "1006411482778121",
+        "page_name": "FedEx",
+        "publisher_platforms": [
+            "facebook",
+            "instagram",
+            "audience_network"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "_id": "722650265556500"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=3376495809336121&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-10-27",
+        "ad_creative_bodies": [
+            "Welcome to Paris Charles de Gaulle, our largest air hub in Europe which helps millions of customers across the region to connect with the rest of the world. In Ep3 of our #FedExVirtualTour series, you can find out what’s being done at the hub to minimise carbon emissions as we continue to deliver a more sustainable future."
+        ],
+        "ad_creative_link_titles": [
+            "#FedExVirtualTour"
+        ],
+        "ad_delivery_start_time": "2022-10-27",
+        "ad_delivery_stop_time": "2022-10-28",
+        "currency": "GBP",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000236",
+                "region": "Styria"
+            },
+            {
+                "percentage": "0.052594",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.000236",
+                "region": "Bayern"
+            },
+            {
+                "percentage": "0.000236",
+                "region": "Békés County"
+            },
+            {
+                "percentage": "0.000236",
+                "region": "Žilina Region"
+            },
+            {
+                "percentage": "0.044575",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.100236",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.117925",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.070755",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.04717",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.102594",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.04717",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.000236",
+                "region": "Nitra Region"
+            },
+            {
+                "percentage": "0.035377",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.038443",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.062264",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.10283",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.125",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.050943",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.000236",
+                "region": "Idaho"
+            },
+            {
+                "percentage": "0.000236",
+                "region": "Zakarpattia Oblast"
+            },
+            {
+                "percentage": "0.000236",
+                "region": "Trenčín Region"
+            },
+            {
+                "percentage": "0.000236",
+                "region": "Nordrhein-Westfalen"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000235",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.190678",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000706",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.033898",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.077448",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.0379",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.145951",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.032957",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.03178",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000235",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.028249",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.098399",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.205273",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.088748",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.022599",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001648",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001883",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001412",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "4000",
+            "upper_bound": "4999"
+        },
+        "languages": [
+            "en"
+        ],
+        "page_id": "1006411482778121",
+        "page_name": "FedEx",
+        "publisher_platforms": [
+            "facebook",
+            "instagram",
+            "audience_network"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "_id": "3376495809336121"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=746558723128039&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-08-17",
+        "ad_creative_bodies": [
+            "Dring dring! 🚲📦\n\nEver seen one of our e-bikes zipping around your local city centre? Not only are they great for reducing CO2, they also help to reduce traffic congestion and noise. We caught up with Jay, one of our bike couriers from London to find out more about them."
+        ],
+        "ad_creative_link_titles": [
+            "🚲📦"
+        ],
+        "ad_delivery_start_time": "2022-08-18",
+        "ad_delivery_stop_time": "2022-08-18",
+        "currency": "GBP",
+        "delivery_by_region": [
+            {
+                "percentage": "0.057814",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.12673",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.104671",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.070358",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.044262",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.032151",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.047434",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.055652",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.097174",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.05075",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.06387",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.106834",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.0953",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.047001",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000144",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.168251",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000864",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000576",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00072",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.14189",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.194324",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.025497",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.026937",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001152",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.200807",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.081677",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.021752",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.062086",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.024489",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.022616",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.025785",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000432",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "7000",
+            "upper_bound": "7999"
+        },
+        "languages": [
+            "en"
+        ],
+        "page_id": "1006411482778121",
+        "page_name": "FedEx",
+        "publisher_platforms": [
+            "facebook",
+            "instagram",
+            "audience_network"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "_id": "746558723128039"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=772770563875827&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-07-05",
+        "ad_creative_bodies": [
+            "We’re teaming up with Rewilding Europe to support their ninth rewilding landscape in the Affric Highlands, Scotland. In Ep2 of our series, we catch up with the experts at Trees For Life to learn more about the benefits of rewilding on both the climate and nature. 🌱"
+        ],
+        "ad_creative_link_titles": [
+            "🌱Rewilding the Affric Highlands in Scotland🌱"
+        ],
+        "ad_delivery_start_time": "2022-07-05",
+        "ad_delivery_stop_time": "2022-07-06",
+        "currency": "GBP",
+        "delivery_by_region": [
+            {
+                "percentage": "0.055823",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.152069",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.087584",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.06256",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.048123",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.036574",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.038499",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.051973",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.095284",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.043311",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.045236",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.122233",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.106833",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.053898",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001925",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002887",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.063523",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.092397",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.115496",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.119346",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.053898",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.045236",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.135707",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.128008",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.049086",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.068335",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.052936",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.07026",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000962",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "en"
+        ],
+        "page_id": "1006411482778121",
+        "page_name": "FedEx",
+        "publisher_platforms": [
+            "facebook",
+            "instagram",
+            "audience_network"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "_id": "772770563875827"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=537079387898942&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-06-09",
+        "ad_creative_bodies": [
+            "We’re proud to promote diversity and equality, and together with the UEFA Foundation for Children and non-profit Sport dans la Ville, 3 young children aged between 7 and 9 were given the rare opportunity to become Referee Mascots at this year’s #UCLfinal in Paris, and to walk out onto the pitch in front of 75,000 fans. \n \nWe hope they had an incredible time and their experience inspires them to become champions of a more inclusive future."
+        ],
+        "ad_creative_link_titles": [
+            "⚽⚽⚽"
+        ],
+        "ad_delivery_start_time": "2022-06-09",
+        "ad_delivery_stop_time": "2022-06-10",
+        "currency": "GBP",
+        "delivery_by_region": [
+            {
+                "percentage": "0.040712",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.253605",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.122349",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.046226",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.033927",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.02693",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.044317",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.046438",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.091179",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.043681",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.04771",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.09648",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.068702",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.037744",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001057",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.221188",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000846",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002749",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.052442",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.024107",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.176993",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.099175",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.18524",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000211",
+                "age": "13-17",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.049482",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.031085",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.03764",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.04335",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.032776",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.038697",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001903",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001057",
+                "age": "18-24",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "500001",
+            "upper_bound": "1000000"
+        },
+        "impressions": {
+            "lower_bound": "5000",
+            "upper_bound": "5999"
+        },
+        "languages": [
+            "en"
+        ],
+        "page_id": "1006411482778121",
+        "page_name": "FedEx",
+        "publisher_platforms": [
+            "facebook",
+            "instagram",
+            "audience_network"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "_id": "537079387898942"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=435277221357005&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-06-09",
+        "ad_creative_bodies": [
+            "Who wouldn't like to sit in the captain's seat of a FedEx aircraft? As part of Deploy your Talents, an initiative by Fondazione Sodalitas, students from a secondary school in Milano came to visit our Air gateway at Malpensa Airport for a tour behind the scenes...we hope you enjoyed the visit. 🧑‍🏫✈️"
+        ],
+        "ad_creative_link_titles": [
+            "FedEx, DYT - Visit to Mpx Air Gateway"
+        ],
+        "ad_delivery_start_time": "2022-06-09",
+        "ad_delivery_stop_time": "2022-06-09",
+        "currency": "GBP",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000271",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.048701",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.126894",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.107684",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.056277",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.039502",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.042208",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.046807",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.050866",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.103626",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.051948",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.066558",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.111201",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.102814",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.044643",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000809",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.117314",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.055286",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.033981",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.03479",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.036408",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.140237",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.115426",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.045577",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.139698",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00027",
+                "age": "13-17",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.142125",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.081715",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.052589",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001079",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001079",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000809",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000539",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00027",
+                "age": "13-17",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "3000",
+            "upper_bound": "3999"
+        },
+        "languages": [
+            "en"
+        ],
+        "page_id": "1006411482778121",
+        "page_name": "FedEx",
+        "publisher_platforms": [
+            "facebook",
+            "instagram",
+            "audience_network"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "_id": "435277221357005"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=321681059794432&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2021-11-25",
+        "ad_creative_bodies": [
+            "We’re excited to team up with Compensate as we ready ourselves for what’s next! Compensate are a non-profit foundation developing guidelines for the use of Biochar, a man-made material capable of capturing & storing excess carbon from the atmosphere. More: https://t.co/PBfwAAWrpU"
+        ],
+        "ad_creative_link_titles": [
+            "Compensate"
+        ],
+        "ad_delivery_start_time": "2021-11-25",
+        "ad_delivery_stop_time": "2021-11-26",
+        "currency": "GBP",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000455",
+                "region": "Tunceli Province"
+            },
+            {
+                "percentage": "0.00495",
+                "region": "Elazığ Province"
+            },
+            {
+                "percentage": "0.002711",
+                "region": "Bilecik Province"
+            },
+            {
+                "percentage": "0.001679",
+                "region": "Bingöl Province"
+            },
+            {
+                "percentage": "0.001487",
+                "region": "Bitlis Province"
+            },
+            {
+                "percentage": "0.005877",
+                "region": "Bolu Province"
+            },
+            {
+                "percentage": "0.003183",
+                "region": "Burdur Province"
+            },
+            {
+                "percentage": "0.045806",
+                "region": "Bursa Province"
+            },
+            {
+                "percentage": "0.007381",
+                "region": "Çanakkale Province"
+            },
+            {
+                "percentage": "0.006314",
+                "region": "Çorum Province"
+            },
+            {
+                "percentage": "0.013887",
+                "region": "Denizli Province"
+            },
+            {
+                "percentage": "0.010144",
+                "region": "Diyarbakır Province"
+            },
+            {
+                "percentage": "0.004337",
+                "region": "Edirne Province"
+            },
+            {
+                "percentage": "0.001766",
+                "region": "Erzincan Province"
+            },
+            {
+                "percentage": "0.01289",
+                "region": "Aydın Province"
+            },
+            {
+                "percentage": "0.005229",
+                "region": "Erzurum Province"
+            },
+            {
+                "percentage": "0.012698",
+                "region": "Eskişehir Province"
+            },
+            {
+                "percentage": "0.007486",
+                "region": "Giresun Province"
+            },
+            {
+                "percentage": "0.048727",
+                "region": "Hatay Province"
+            },
+            {
+                "percentage": "0.006699",
+                "region": "Isparta Province"
+            },
+            {
+                "percentage": "0.160889",
+                "region": "Istanbul Province"
+            },
+            {
+                "percentage": "0.046575",
+                "region": "İzmir Province"
+            },
+            {
+                "percentage": "0.005404",
+                "region": "Kastamonu Province"
+            },
+            {
+                "percentage": "0.018994",
+                "region": "Kayseri Province"
+            },
+            {
+                "percentage": "0.004582",
+                "region": "Kırklareli Province"
+            },
+            {
+                "percentage": "0.002536",
+                "region": "Kırşehir Province"
+            },
+            {
+                "percentage": "0.015164",
+                "region": "Balıkesir Province"
+            },
+            {
+                "percentage": "0.002134",
+                "region": "Artvin Province"
+            },
+            {
+                "percentage": "0.007048",
+                "region": "Kütahya Province"
+            },
+            {
+                "percentage": "3.5E-5",
+                "region": "Suceava County"
+            },
+            {
+                "percentage": "1.7E-5",
+                "region": "Dâmbovița County"
+            },
+            {
+                "percentage": "1.7E-5",
+                "region": "Dolj County"
+            },
+            {
+                "percentage": "1.7E-5",
+                "region": "Gorj County"
+            },
+            {
+                "percentage": "1.7E-5",
+                "region": "Harghita County"
+            },
+            {
+                "percentage": "1.7E-5",
+                "region": "Hunedoara County"
+            },
+            {
+                "percentage": "1.7E-5",
+                "region": "Maramureș County"
+            },
+            {
+                "percentage": "3.5E-5",
+                "region": "Mehedinți County"
+            },
+            {
+                "percentage": "8.7E-5",
+                "region": "Mureș County"
+            },
+            {
+                "percentage": "1.7E-5",
+                "region": "Prahova County"
+            },
+            {
+                "percentage": "1.7E-5",
+                "region": "Sălaj County"
+            },
+            {
+                "percentage": "1.7E-5",
+                "region": "Satu Mare County"
+            },
+            {
+                "percentage": "1.7E-5",
+                "region": "Timiș County"
+            },
+            {
+                "percentage": "0.029855",
+                "region": "Antalya Province"
+            },
+            {
+                "percentage": "1.7E-5",
+                "region": "Vâlcea County"
+            },
+            {
+                "percentage": "1.7E-5",
+                "region": "Vrancea County"
+            },
+            {
+                "percentage": "1.7E-5",
+                "region": "Ilfov County"
+            },
+            {
+                "percentage": "1.7E-5",
+                "region": "Riga Planning Region"
+            },
+            {
+                "percentage": "5.2E-5",
+                "region": "Latgale"
+            },
+            {
+                "percentage": "1.7E-5",
+                "region": "Semigallia"
+            },
+            {
+                "percentage": "8.7E-5",
+                "region": "Vidzeme"
+            },
+            {
+                "percentage": "0.004757",
+                "region": "Adıyaman Province"
+            },
+            {
+                "percentage": "0.00864",
+                "region": "Afyonkarahisar Province"
+            },
+            {
+                "percentage": "0.002046",
+                "region": "Ağrı Province"
+            },
+            {
+                "percentage": "0.003323",
+                "region": "Amasya Province"
+            },
+            {
+                "percentage": "0.018085",
+                "region": "Kocaeli Province"
+            },
+            {
+                "percentage": "0.008885",
+                "region": "Malatya Province"
+            },
+            {
+                "percentage": "1.7E-5",
+                "region": "Constanța County"
+            },
+            {
+                "percentage": "0.004268",
+                "region": "Karabük Province"
+            },
+            {
+                "percentage": "0.008133",
+                "region": "Zonguldak Province"
+            },
+            {
+                "percentage": "0.001137",
+                "region": "Ardahan Province"
+            },
+            {
+                "percentage": "0.00077",
+                "region": "Iğdır Province"
+            },
+            {
+                "percentage": "0.005142",
+                "region": "Kilis Province"
+            },
+            {
+                "percentage": "0.007661",
+                "region": "Osmaniye Province"
+            },
+            {
+                "percentage": "0.00362",
+                "region": "Yalova Province"
+            },
+            {
+                "percentage": "0.003306",
+                "region": "Bartın Province"
+            },
+            {
+                "percentage": "0.001592",
+                "region": "Siirt Province"
+            },
+            {
+                "percentage": "0.009095",
+                "region": "Mardin Province"
+            },
+            {
+                "percentage": "0.034665",
+                "region": "Mersin Province"
+            },
+            {
+                "percentage": "0.000437",
+                "region": "Bayburt Province"
+            },
+            {
+                "percentage": "0.005894",
+                "region": "Düzce Province"
+            },
+            {
+                "percentage": "0.047048",
+                "region": "Gaziantep Province"
+            },
+            {
+                "percentage": "0.002326",
+                "region": "Kırıkkale Province"
+            },
+            {
+                "percentage": "0.003813",
+                "region": "Aksaray Province"
+            },
+            {
+                "percentage": "0.000192",
+                "region": "Amur Oblast"
+            },
+            {
+                "percentage": "0.000402",
+                "region": "Chechnya"
+            },
+            {
+                "percentage": "0.000227",
+                "region": "Kemerovo Oblast"
+            },
+            {
+                "percentage": "0.000192",
+                "region": "Krasnoyarsk Krai"
+            },
+            {
+                "percentage": "0.000157",
+                "region": "Omsk Oblast"
+            },
+            {
+                "percentage": "0.000245",
+                "region": "Primorsky Krai"
+            },
+            {
+                "percentage": "1.7E-5",
+                "region": "Sakhalin Oblast"
+            },
+            {
+                "percentage": "1.7E-5",
+                "region": "Castelo Branco District"
+            },
+            {
+                "percentage": "5.2E-5",
+                "region": "Borsod-Abaúj-Zemplén County"
+            },
+            {
+                "percentage": "0.001697",
+                "region": "Kars Province"
+            },
+            {
+                "percentage": "0.002379",
+                "region": "Çankırı Province"
+            },
+            {
+                "percentage": "0.017035",
+                "region": "Manisa Province"
+            },
+            {
+                "percentage": "0.005422",
+                "region": "Tokat Province"
+            },
+            {
+                "percentage": "0.017665",
+                "region": "Kahramanmaraş Province"
+            },
+            {
+                "percentage": "0.011368",
+                "region": "Muğla Province"
+            },
+            {
+                "percentage": "0.001557",
+                "region": "Muş Province"
+            },
+            {
+                "percentage": "0.003323",
+                "region": "Nevşehir Province"
+            },
+            {
+                "percentage": "0.011368",
+                "region": "Ordu Province"
+            },
+            {
+                "percentage": "0.00474",
+                "region": "Rize Province"
+            },
+            {
+                "percentage": "0.009847",
+                "region": "Sakarya Province"
+            },
+            {
+                "percentage": "0.019536",
+                "region": "Samsun Province"
+            },
+            {
+                "percentage": "0.002921",
+                "region": "Sinop Province"
+            },
+            {
+                "percentage": "0.005999",
+                "region": "Sivas Province"
+            },
+            {
+                "percentage": "0.01352",
+                "region": "Tekirdağ Province"
+            },
+            {
+                "percentage": "0.010756",
+                "region": "Trabzon Province"
+            },
+            {
+                "percentage": "0.025885",
+                "region": "Adana Province"
+            },
+            {
+                "percentage": "0.022859",
+                "region": "Şanlıurfa Province"
+            },
+            {
+                "percentage": "0.005999",
+                "region": "Uşak Province"
+            },
+            {
+                "percentage": "0.004512",
+                "region": "Van Province"
+            },
+            {
+                "percentage": "0.003236",
+                "region": "Yozgat Province"
+            },
+            {
+                "percentage": "0.046471",
+                "region": "Ankara Province"
+            },
+            {
+                "percentage": "0.001119",
+                "region": "Gümüşhane Province"
+            },
+            {
+                "percentage": "0.000437",
+                "region": "Hakkâri Province"
+            },
+            {
+                "percentage": "0.035592",
+                "region": "Konya Province"
+            },
+            {
+                "percentage": "0.004268",
+                "region": "Niğde Province"
+            },
+            {
+                "percentage": "0.003918",
+                "region": "Batman Province"
+            },
+            {
+                "percentage": "0.003865",
+                "region": "Karaman Province"
+            },
+            {
+                "percentage": "0.003953",
+                "region": "Şırnak Province"
+            },
+            {
+                "percentage": "1.7E-5",
+                "region": "Covasna County"
+            },
+            {
+                "percentage": "5.2E-5",
+                "region": "Cluj County"
+            },
+            {
+                "percentage": "1.7E-5",
+                "region": "Southern District"
+            },
+            {
+                "percentage": "1.7E-5",
+                "region": "Nenets Autonomous Okrug"
+            },
+            {
+                "percentage": "0.001049",
+                "region": "Krasnodar Krai"
+            },
+            {
+                "percentage": "7.0E-5",
+                "region": "Kurgan Oblast"
+            },
+            {
+                "percentage": "1.7E-5",
+                "region": "Kursk Oblast"
+            },
+            {
+                "percentage": "1.7E-5",
+                "region": "Leningrad Oblast"
+            },
+            {
+                "percentage": "7.0E-5",
+                "region": "Lipetsk Oblast"
+            },
+            {
+                "percentage": "3.5E-5",
+                "region": "Magadan Oblast"
+            },
+            {
+                "percentage": "7.0E-5",
+                "region": "Mari El"
+            },
+            {
+                "percentage": "3.5E-5",
+                "region": "Mordovia"
+            },
+            {
+                "percentage": "0.00014",
+                "region": "Moscow"
+            },
+            {
+                "percentage": "7.0E-5",
+                "region": "Moscow Oblast"
+            },
+            {
+                "percentage": "3.5E-5",
+                "region": "Murmansk Oblast"
+            },
+            {
+                "percentage": "0.00014",
+                "region": "Nizhny Novgorod Oblast"
+            },
+            {
+                "percentage": "1.7E-5",
+                "region": "Komi Republic"
+            },
+            {
+                "percentage": "1.7E-5",
+                "region": "Novgorod Oblast"
+            },
+            {
+                "percentage": "8.7E-5",
+                "region": "Novosibirsk Oblast"
+            },
+            {
+                "percentage": "0.000297",
+                "region": "Orenburg Oblast"
+            },
+            {
+                "percentage": "5.2E-5",
+                "region": "Oryol Oblast"
+            },
+            {
+                "percentage": "0.00014",
+                "region": "Penza Oblast"
+            },
+            {
+                "percentage": "3.5E-5",
+                "region": "Pskov Oblast"
+            },
+            {
+                "percentage": "0.000367",
+                "region": "Rostov Oblast"
+            },
+            {
+                "percentage": "1.7E-5",
+                "region": "Ryazan Oblast"
+            },
+            {
+                "percentage": "0.000227",
+                "region": "Sakha Republic"
+            },
+            {
+                "percentage": "0.000245",
+                "region": "Samara Oblast"
+            },
+            {
+                "percentage": "8.7E-5",
+                "region": "Saint Petersburg"
+            },
+            {
+                "percentage": "1.7E-5",
+                "region": "Kostroma Oblast"
+            },
+            {
+                "percentage": "0.000105",
+                "region": "Kirov Oblast"
+            },
+            {
+                "percentage": "0.000874",
+                "region": "North Ossetia–Alania"
+            },
+            {
+                "percentage": "0.000157",
+                "region": "Chuvashia"
+            },
+            {
+                "percentage": "1.7E-5",
+                "region": "Jerusalem"
+            },
+            {
+                "percentage": "1.7E-5",
+                "region": "Salzburg"
+            },
+            {
+                "percentage": "0.000175",
+                "region": "Adygea"
+            },
+            {
+                "percentage": "0.000245",
+                "region": "Altai Krai"
+            },
+            {
+                "percentage": "3.5E-5",
+                "region": "Arkhangelsk Oblast"
+            },
+            {
+                "percentage": "0.000157",
+                "region": "Astrakhan Oblast"
+            },
+            {
+                "percentage": "0.000857",
+                "region": "Bashkortostan"
+            },
+            {
+                "percentage": "3.5E-5",
+                "region": "Belgorod Oblast"
+            },
+            {
+                "percentage": "3.5E-5",
+                "region": "Bryansk Oblast"
+            },
+            {
+                "percentage": "0.000192",
+                "region": "Buryatia"
+            },
+            {
+                "percentage": "0.000245",
+                "region": "Chelyabinsk Oblast"
+            },
+            {
+                "percentage": "0.000944",
+                "region": "Dagestan"
+            },
+            {
+                "percentage": "0.000105",
+                "region": "Khanty-Mansi Autonomous Okrug"
+            },
+            {
+                "percentage": "0.000542",
+                "region": "Ingushetia"
+            },
+            {
+                "percentage": "0.000262",
+                "region": "Irkutsk Oblast"
+            },
+            {
+                "percentage": "5.2E-5",
+                "region": "Ivanovo Oblast"
+            },
+            {
+                "percentage": "0.000402",
+                "region": "Kabardino-Balkaria"
+            },
+            {
+                "percentage": "7.0E-5",
+                "region": "Kaliningrad Oblast"
+            },
+            {
+                "percentage": "0.000192",
+                "region": "Kalmykia"
+            },
+            {
+                "percentage": "1.7E-5",
+                "region": "Kaluga Oblast"
+            },
+            {
+                "percentage": "7.0E-5",
+                "region": "Kamchatka Krai"
+            },
+            {
+                "percentage": "0.000297",
+                "region": "Karachay-Cherkessia"
+            },
+            {
+                "percentage": "0.000105",
+                "region": "Khabarovsk Krai"
+            },
+            {
+                "percentage": "3.5E-5",
+                "region": "Khakassia"
+            },
+            {
+                "percentage": "0.000192",
+                "region": "Saratov Oblast"
+            },
+            {
+                "percentage": "3.5E-5",
+                "region": "Smolensk Oblast"
+            },
+            {
+                "percentage": "1.7E-5",
+                "region": "Caraș-Severin County"
+            },
+            {
+                "percentage": "7.0E-5",
+                "region": "Pest County"
+            },
+            {
+                "percentage": "3.5E-5",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "1.7E-5",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "1.7E-5",
+                "region": "Marijampolė County"
+            },
+            {
+                "percentage": "5.2E-5",
+                "region": "Panevėžys County"
+            },
+            {
+                "percentage": "1.7E-5",
+                "region": "Šiauliai County"
+            },
+            {
+                "percentage": "3.5E-5",
+                "region": "Vilnius County"
+            },
+            {
+                "percentage": "5.2E-5",
+                "region": "Bács-Kiskun County"
+            },
+            {
+                "percentage": "3.5E-5",
+                "region": "Baranya County"
+            },
+            {
+                "percentage": "7.0E-5",
+                "region": "Budapest"
+            },
+            {
+                "percentage": "1.7E-5",
+                "region": "Győr-Moson-Sopron County"
+            },
+            {
+                "percentage": "3.5E-5",
+                "region": "Heves County"
+            },
+            {
+                "percentage": "0.000157",
+                "region": "Szabolcs-Szatmár-Bereg County"
+            },
+            {
+                "percentage": "3.5E-5",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "1.7E-5",
+                "region": "Jász-Nagykun-Szolnok County"
+            },
+            {
+                "percentage": "3.5E-5",
+                "region": "Tolna County"
+            },
+            {
+                "percentage": "3.5E-5",
+                "region": "Vas County"
+            },
+            {
+                "percentage": "1.7E-5",
+                "region": "Veszprém County"
+            },
+            {
+                "percentage": "3.5E-5",
+                "region": "Zala County"
+            },
+            {
+                "percentage": "1.7E-5",
+                "region": "Arad County"
+            },
+            {
+                "percentage": "5.2E-5",
+                "region": "Bihor County"
+            },
+            {
+                "percentage": "5.2E-5",
+                "region": "Botoșani County"
+            },
+            {
+                "percentage": "1.7E-5",
+                "region": "Brăila County"
+            },
+            {
+                "percentage": "3.5E-5",
+                "region": "Brașov County"
+            },
+            {
+                "percentage": "1.7E-5",
+                "region": "Bucharest"
+            },
+            {
+                "percentage": "1.7E-5",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "1.7E-5",
+                "region": "Setúbal District"
+            },
+            {
+                "percentage": "0.000735",
+                "region": "Stavropol Krai"
+            },
+            {
+                "percentage": "0.00021",
+                "region": "Volgograd Oblast"
+            },
+            {
+                "percentage": "0.000315",
+                "region": "Sverdlovsk Oblast"
+            },
+            {
+                "percentage": "7.0E-5",
+                "region": "Tambov Oblast"
+            },
+            {
+                "percentage": "0.000909",
+                "region": "Tatarstan"
+            },
+            {
+                "percentage": "5.2E-5",
+                "region": "Tomsk Oblast"
+            },
+            {
+                "percentage": "0.00014",
+                "region": "Tula Oblast"
+            },
+            {
+                "percentage": "1.7E-5",
+                "region": "Tver Oblast"
+            },
+            {
+                "percentage": "0.000105",
+                "region": "Tyumen Oblast"
+            },
+            {
+                "percentage": "0.00049",
+                "region": "Tuva"
+            },
+            {
+                "percentage": "5.2E-5",
+                "region": "Udmurtia"
+            },
+            {
+                "percentage": "0.00014",
+                "region": "Ulyanovsk Oblast"
+            },
+            {
+                "percentage": "3.5E-5",
+                "region": "Vladimir Oblast"
+            },
+            {
+                "percentage": "7.0E-5",
+                "region": "Vologda Oblast"
+            },
+            {
+                "percentage": "1.7E-5",
+                "region": "Porto District"
+            },
+            {
+                "percentage": "0.000105",
+                "region": "Voronezh Oblast"
+            },
+            {
+                "percentage": "7.0E-5",
+                "region": "Yamalo-Nenets Autonomous Okrug"
+            },
+            {
+                "percentage": "0.000122",
+                "region": "Yaroslavl Oblast"
+            },
+            {
+                "percentage": "3.5E-5",
+                "region": "Jewish Autonomous Oblast"
+            },
+            {
+                "percentage": "8.7E-5",
+                "region": "Zabaykalsky Krai"
+            },
+            {
+                "percentage": "8.7E-5",
+                "region": "Altai Republic"
+            },
+            {
+                "percentage": "0.00014",
+                "region": "Perm Krai"
+            },
+            {
+                "percentage": "3.5E-5",
+                "region": "Aveiro District"
+            },
+            {
+                "percentage": "1.7E-5",
+                "region": "Braga District"
+            },
+            {
+                "percentage": "1.7E-5",
+                "region": "Coimbra District"
+            },
+            {
+                "percentage": "1.7E-5",
+                "region": "Faro District"
+            },
+            {
+                "percentage": "3.5E-5",
+                "region": "Lisbon District"
+            },
+            {
+                "percentage": "5.2E-5",
+                "region": "Neamț County"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000479",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.066774",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000213",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000976",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.135501",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.200021",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.026128",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.206855",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.057261",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000266",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.024051",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.015336",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.038073",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.171764",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.032695",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.021424",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001651",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000532",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "50000",
+            "upper_bound": "59999"
+        },
+        "languages": [
+            "en"
+        ],
+        "page_id": "1006411482778121",
+        "page_name": "FedEx",
+        "publisher_platforms": [
+            "facebook",
+            "instagram",
+            "audience_network"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "_id": "321681059794432"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1935346753300011&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2021-09-09",
+        "ad_creative_bodies": [
+            "Charge up for a cleaner future. We’re celebrating #WorldEVDay with a full-on electric-vehicle appreciation post. We’re working to create a fleet of all-electric pickup and delivery vehicles which will help us achieve our goal of having carbon neutral operations by 2040."
+        ],
+        "ad_delivery_start_time": "2021-09-10",
+        "ad_delivery_stop_time": "2021-09-10",
+        "currency": "GBP",
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "en"
+        ],
+        "page_id": "1006411482778121",
+        "page_name": "FedEx",
+        "publisher_platforms": [
+            "facebook",
+            "instagram",
+            "audience_network"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "_id": "1935346753300011"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=310189486540206&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2019-06-05",
+        "ad_creative_bodies": [
+            "We’re proud of our sustainability progress this #WorldEnvironmentDay 🌍\n\nOur business has initiated a series of ambitious programs designed to lower our carbon footprint and improve our environmental efficiency.\n\nFor more: http://csr.fedex.com/pdf/FedEx_GCR_FINAL_4.17.19_144dpi.pdf"
+        ],
+        "ad_creative_link_titles": [
+            "World Environment Day.mp4"
+        ],
+        "ad_delivery_start_time": "2019-06-05",
+        "ad_delivery_stop_time": "2019-06-05",
+        "currency": "GBP",
+        "delivery_by_region": [
+            {
+                "percentage": "0.001834",
+                "region": "Berat County"
+            },
+            {
+                "percentage": "0.00051",
+                "region": "Kyustendil Province"
+            },
+            {
+                "percentage": "9.6E-5",
+                "region": "Diekirch District"
+            },
+            {
+                "percentage": "6.7E-5",
+                "region": "Grevenmacher District"
+            },
+            {
+                "percentage": "0.001367",
+                "region": "Luxembourg District"
+            },
+            {
+                "percentage": "0.001911",
+                "region": "Blagoevgrad Province"
+            },
+            {
+                "percentage": "0.00231",
+                "region": "Burgas Province"
+            },
+            {
+                "percentage": "0.00063",
+                "region": "Dobrich Province"
+            },
+            {
+                "percentage": "0.000592",
+                "region": "Gabrovo Province"
+            },
+            {
+                "percentage": "0.011748",
+                "region": "Sofia City Province"
+            },
+            {
+                "percentage": "0.000963",
+                "region": "Haskovo Province"
+            },
+            {
+                "percentage": "0.00027",
+                "region": "Kardzhali Province"
+            },
+            {
+                "percentage": "0.000563",
+                "region": "Lovech Province"
+            },
+            {
+                "percentage": "0.000881",
+                "region": "Viseu District"
+            },
+            {
+                "percentage": "0.000428",
+                "region": "Montana Province"
+            },
+            {
+                "percentage": "0.001174",
+                "region": "Pazardzhik Province"
+            },
+            {
+                "percentage": "0.000385",
+                "region": "Pernik Province"
+            },
+            {
+                "percentage": "0.001049",
+                "region": "Pleven Province"
+            },
+            {
+                "percentage": "0.004389",
+                "region": "Plovdiv Province"
+            },
+            {
+                "percentage": "0.000457",
+                "region": "Razgrad Province"
+            },
+            {
+                "percentage": "0.001256",
+                "region": "Ruse Province"
+            },
+            {
+                "percentage": "0.00077",
+                "region": "Shumen Province"
+            },
+            {
+                "percentage": "0.000395",
+                "region": "Silistra Province"
+            },
+            {
+                "percentage": "0.00091",
+                "region": "Sliven Province"
+            },
+            {
+                "percentage": "0.000568",
+                "region": "Smolyan Province"
+            },
+            {
+                "percentage": "0.003614",
+                "region": "Azores"
+            },
+            {
+                "percentage": "0.000655",
+                "region": "Vila Real District"
+            },
+            {
+                "percentage": "0.001612",
+                "region": "Stara Zagora Province"
+            },
+            {
+                "percentage": "0.000375",
+                "region": "Braganca"
+            },
+            {
+                "percentage": "0.000332",
+                "region": "Warmian-Masurian Voivodeship"
+            },
+            {
+                "percentage": "0.000833",
+                "region": "Greater Poland Voivodeship"
+            },
+            {
+                "percentage": "0.000525",
+                "region": "West Pomeranian Voivodeship"
+            },
+            {
+                "percentage": "0.002243",
+                "region": "Masovian Voivodeship"
+            },
+            {
+                "percentage": "0.000217",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.007643",
+                "region": "Vojvodina"
+            },
+            {
+                "percentage": "0.018567",
+                "region": "Central Serbia"
+            },
+            {
+                "percentage": "0.002195",
+                "region": "Aveiro District"
+            },
+            {
+                "percentage": "0.000366",
+                "region": "Beja District"
+            },
+            {
+                "percentage": "0.002864",
+                "region": "Braga District"
+            },
+            {
+                "percentage": "0.000592",
+                "region": "Castelo Branco District"
+            },
+            {
+                "percentage": "0.000895",
+                "region": "Viana do Castelo District"
+            },
+            {
+                "percentage": "0.001516",
+                "region": "Coimbra District"
+            },
+            {
+                "percentage": "0.000467",
+                "region": "Évora District"
+            },
+            {
+                "percentage": "0.003364",
+                "region": "Faro District"
+            },
+            {
+                "percentage": "0.00269",
+                "region": "Madeira"
+            },
+            {
+                "percentage": "0.000371",
+                "region": "Guarda District"
+            },
+            {
+                "percentage": "0.001978",
+                "region": "Leiria District"
+            },
+            {
+                "percentage": "0.01246",
+                "region": "Lisbon District"
+            },
+            {
+                "percentage": "0.000236",
+                "region": "Portalegre District"
+            },
+            {
+                "percentage": "0.005434",
+                "region": "Porto District"
+            },
+            {
+                "percentage": "0.001218",
+                "region": "Santarém District"
+            },
+            {
+                "percentage": "0.002195",
+                "region": "Setúbal District"
+            },
+            {
+                "percentage": "0.000669",
+                "region": "Sofia Province"
+            },
+            {
+                "percentage": "0.000472",
+                "region": "Targovishte Province"
+            },
+            {
+                "percentage": "0.000833",
+                "region": "Silesian Voivodeship"
+            },
+            {
+                "percentage": "3.4E-5",
+                "region": "Eastern Region"
+            },
+            {
+                "percentage": "0.000529",
+                "region": "Upper Carniola Statistical Region"
+            },
+            {
+                "percentage": "0.000414",
+                "region": "Coastal–Karst Statistical Region"
+            },
+            {
+                "percentage": "0.000375",
+                "region": "Goriška Statistical Region"
+            },
+            {
+                "percentage": "2.4E-5",
+                "region": "Kjosarsysla"
+            },
+            {
+                "percentage": "0.00039",
+                "region": "Capital Region"
+            },
+            {
+                "percentage": "5.3E-5",
+                "region": "Southern Peninsula"
+            },
+            {
+                "percentage": "1.0E-5",
+                "region": "Western Region"
+            },
+            {
+                "percentage": "1.9E-5",
+                "region": "Westfjords"
+            },
+            {
+                "percentage": "2.4E-5",
+                "region": "Northwestern Region"
+            },
+            {
+                "percentage": "3.9E-5",
+                "region": "Northeastern Region"
+            },
+            {
+                "percentage": "8.7E-5",
+                "region": "Southern Region"
+            },
+            {
+                "percentage": "0.000111",
+                "region": "Central Sava Statistical Region"
+            },
+            {
+                "percentage": "0.00052",
+                "region": "Banská Bystrica Region"
+            },
+            {
+                "percentage": "0.001054",
+                "region": "Bratislava Region"
+            },
+            {
+                "percentage": "0.000852",
+                "region": "Košice Region"
+            },
+            {
+                "percentage": "0.000659",
+                "region": "Nitra Region"
+            },
+            {
+                "percentage": "0.000712",
+                "region": "Presov"
+            },
+            {
+                "percentage": "0.000602",
+                "region": "Trenčín Region"
+            },
+            {
+                "percentage": "0.000544",
+                "region": "Trnava Region"
+            },
+            {
+                "percentage": "0.000626",
+                "region": "Žilina Region"
+            },
+            {
+                "percentage": "0.001656",
+                "region": "Alytus County"
+            },
+            {
+                "percentage": "0.007436",
+                "region": "Kaunas County"
+            },
+            {
+                "percentage": "0.004211",
+                "region": "Klaipėda County"
+            },
+            {
+                "percentage": "0.002243",
+                "region": "Central Slovenia Statistical Region"
+            },
+            {
+                "percentage": "0.000674",
+                "region": "Savinja Statistical Region"
+            },
+            {
+                "percentage": "0.003244",
+                "region": "Varna Province"
+            },
+            {
+                "percentage": "0.000236",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.001242",
+                "region": "Veliko Tarnovo Province"
+            },
+            {
+                "percentage": "0.000361",
+                "region": "Vidin Province"
+            },
+            {
+                "percentage": "0.000606",
+                "region": "Vratsa Province"
+            },
+            {
+                "percentage": "0.000635",
+                "region": "Yambol Province"
+            },
+            {
+                "percentage": "0.000298",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.001665",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.000919",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.000318",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.00014",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.000135",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.000337",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.000217",
+                "region": "Lower Sava Statistical Region"
+            },
+            {
+                "percentage": "0.000669",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.00026",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.000313",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.000371",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.000462",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.000375",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.000313",
+                "region": "Southeast Slovenia Statistical Region"
+            },
+            {
+                "percentage": "9.6E-5",
+                "region": "Littoral–Inner Carniola Statistical Region"
+            },
+            {
+                "percentage": "0.000337",
+                "region": "Mura Statistical Region"
+            },
+            {
+                "percentage": "0.001064",
+                "region": "Drava Statistical Region"
+            },
+            {
+                "percentage": "0.000193",
+                "region": "Carinthia Statistical Region"
+            },
+            {
+                "percentage": "0.000245",
+                "region": "Świętokrzyskie Voivodeship"
+            },
+            {
+                "percentage": "0.000722",
+                "region": "Pomeranian Voivodeship"
+            },
+            {
+                "percentage": "0.002041",
+                "region": "Panevėžys County"
+            },
+            {
+                "percentage": "0.000159",
+                "region": "Nizhny Novgorod Oblast"
+            },
+            {
+                "percentage": "2.9E-5",
+                "region": "Krasnoyarsk Krai"
+            },
+            {
+                "percentage": "5.0E-6",
+                "region": "Kurgan Oblast"
+            },
+            {
+                "percentage": "7.2E-5",
+                "region": "Kursk Oblast"
+            },
+            {
+                "percentage": "3.4E-5",
+                "region": "Leningrad Oblast"
+            },
+            {
+                "percentage": "2.4E-5",
+                "region": "Lipetsk Oblast"
+            },
+            {
+                "percentage": "2.4E-5",
+                "region": "Mari El"
+            },
+            {
+                "percentage": "1.4E-5",
+                "region": "Mordovia"
+            },
+            {
+                "percentage": "0.004625",
+                "region": "Moscow"
+            },
+            {
+                "percentage": "6.3E-5",
+                "region": "Moscow Oblast"
+            },
+            {
+                "percentage": "1.0E-5",
+                "region": "Murmansk Oblast"
+            },
+            {
+                "percentage": "5.0E-6",
+                "region": "Novgorod Oblast"
+            },
+            {
+                "percentage": "1.9E-5",
+                "region": "Kostroma Oblast"
+            },
+            {
+                "percentage": "3.4E-5",
+                "region": "Novosibirsk Oblast"
+            },
+            {
+                "percentage": "1.9E-5",
+                "region": "Omsk Oblast"
+            },
+            {
+                "percentage": "1.4E-5",
+                "region": "Orenburg Oblast"
+            },
+            {
+                "percentage": "2.4E-5",
+                "region": "Oryol Oblast"
+            },
+            {
+                "percentage": "4.3E-5",
+                "region": "Penza Oblast"
+            },
+            {
+                "percentage": "5.8E-5",
+                "region": "Primorsky Krai"
+            },
+            {
+                "percentage": "1.9E-5",
+                "region": "Pskov Oblast"
+            },
+            {
+                "percentage": "0.000221",
+                "region": "Rostov Oblast"
+            },
+            {
+                "percentage": "4.3E-5",
+                "region": "Ryazan Oblast"
+            },
+            {
+                "percentage": "1.0E-5",
+                "region": "Sakha Republic"
+            },
+            {
+                "percentage": "5.0E-6",
+                "region": "Sakhalin Oblast"
+            },
+            {
+                "percentage": "0.000274",
+                "region": "Krasnodar Krai"
+            },
+            {
+                "percentage": "5.0E-6",
+                "region": "Komi Republic"
+            },
+            {
+                "percentage": "0.000919",
+                "region": "Saint Petersburg"
+            },
+            {
+                "percentage": "2.9E-5",
+                "region": "Ingushetia"
+            },
+            {
+                "percentage": "1.4E-5",
+                "region": "Arkhangelsk Oblast"
+            },
+            {
+                "percentage": "6.3E-5",
+                "region": "Astrakhan Oblast"
+            },
+            {
+                "percentage": "6.7E-5",
+                "region": "Bashkortostan"
+            },
+            {
+                "percentage": "5.3E-5",
+                "region": "Belgorod Oblast"
+            },
+            {
+                "percentage": "2.4E-5",
+                "region": "Bryansk Oblast"
+            },
+            {
+                "percentage": "2.9E-5",
+                "region": "Buryatia"
+            },
+            {
+                "percentage": "3.4E-5",
+                "region": "Chechnya"
+            },
+            {
+                "percentage": "6.3E-5",
+                "region": "Chelyabinsk Oblast"
+            },
+            {
+                "percentage": "4.8E-5",
+                "region": "Chuvashia"
+            },
+            {
+                "percentage": "8.7E-5",
+                "region": "Dagestan"
+            },
+            {
+                "percentage": "1.9E-5",
+                "region": "Irkutsk Oblast"
+            },
+            {
+                "percentage": "2.4E-5",
+                "region": "Kirov Oblast"
+            },
+            {
+                "percentage": "3.4E-5",
+                "region": "Ivanovo Oblast"
+            },
+            {
+                "percentage": "7.7E-5",
+                "region": "Kabardino-Balkaria"
+            },
+            {
+                "percentage": "0.00012",
+                "region": "Kaliningrad Oblast"
+            },
+            {
+                "percentage": "1.4E-5",
+                "region": "Kalmykia"
+            },
+            {
+                "percentage": "7.2E-5",
+                "region": "Kaluga Oblast"
+            },
+            {
+                "percentage": "1.0E-5",
+                "region": "Kamchatka Krai"
+            },
+            {
+                "percentage": "2.9E-5",
+                "region": "Karachay-Cherkessia"
+            },
+            {
+                "percentage": "2.4E-5",
+                "region": "Republic of Karelia"
+            },
+            {
+                "percentage": "1.4E-5",
+                "region": "Kemerovo Oblast"
+            },
+            {
+                "percentage": "2.9E-5",
+                "region": "Khabarovsk Krai"
+            },
+            {
+                "percentage": "5.0E-6",
+                "region": "Khanty-Mansi Autonomous Okrug"
+            },
+            {
+                "percentage": "0.000106",
+                "region": "Samara Oblast"
+            },
+            {
+                "percentage": "6.7E-5",
+                "region": "Saratov Oblast"
+            },
+            {
+                "percentage": "0.000284",
+                "region": "Podlaskie Voivodeship"
+            },
+            {
+                "percentage": "0.000395",
+                "region": "Zadar County"
+            },
+            {
+                "percentage": "0.00025",
+                "region": "Međimurje County"
+            },
+            {
+                "percentage": "0.00089",
+                "region": "Osijek-Baranja County"
+            },
+            {
+                "percentage": "0.000116",
+                "region": "Požega-Slavonia County"
+            },
+            {
+                "percentage": "0.000972",
+                "region": "Primorje-Gorski Kotar County"
+            },
+            {
+                "percentage": "0.000241",
+                "region": "Šibenik-Knin County"
+            },
+            {
+                "percentage": "0.000212",
+                "region": "Sisak-Moslavina County"
+            },
+            {
+                "percentage": "0.001487",
+                "region": "Split-Dalmatia County"
+            },
+            {
+                "percentage": "0.000452",
+                "region": "Varaždin County"
+            },
+            {
+                "percentage": "0.000149",
+                "region": "Virovitica-Podravina County"
+            },
+            {
+                "percentage": "0.000327",
+                "region": "Vukovar-Srijem County"
+            },
+            {
+                "percentage": "0.000231",
+                "region": "Zagreb County"
+            },
+            {
+                "percentage": "0.000178",
+                "region": "Krapina-Zagorje County"
+            },
+            {
+                "percentage": "0.003263",
+                "region": "Zagreb"
+            },
+            {
+                "percentage": "5.0E-6",
+                "region": "Bialystok"
+            },
+            {
+                "percentage": "1.4E-5",
+                "region": "Skierniewice"
+            },
+            {
+                "percentage": "0.001078",
+                "region": "Lower Silesian Voivodeship"
+            },
+            {
+                "percentage": "0.000428",
+                "region": "Kuyavian-Pomeranian Voivodeship"
+            },
+            {
+                "percentage": "0.000712",
+                "region": "Łódź Voivodeship"
+            },
+            {
+                "percentage": "0.000462",
+                "region": "Lublin Voivodeship"
+            },
+            {
+                "percentage": "0.000212",
+                "region": "Lubusz Voivodeship"
+            },
+            {
+                "percentage": "0.000751",
+                "region": "Lesser Poland Voivodeship"
+            },
+            {
+                "percentage": "0.00025",
+                "region": "Opole Voivodeship"
+            },
+            {
+                "percentage": "0.000501",
+                "region": "Podkarpackie Voivodeship"
+            },
+            {
+                "percentage": "4.3E-5",
+                "region": "Lika-Senj County"
+            },
+            {
+                "percentage": "0.000164",
+                "region": "Koprivnica-Križevci County"
+            },
+            {
+                "percentage": "4.3E-5",
+                "region": "North Ossetia–Alania"
+            },
+            {
+                "percentage": "3.9E-5",
+                "region": "Udmurtia"
+            },
+            {
+                "percentage": "4.8E-5",
+                "region": "Smolensk Oblast"
+            },
+            {
+                "percentage": "0.000202",
+                "region": "Stavropol Krai"
+            },
+            {
+                "percentage": "0.000173",
+                "region": "Sverdlovsk Oblast"
+            },
+            {
+                "percentage": "9.6E-5",
+                "region": "Tambov Oblast"
+            },
+            {
+                "percentage": "0.000144",
+                "region": "Tatarstan"
+            },
+            {
+                "percentage": "2.4E-5",
+                "region": "Tomsk Oblast"
+            },
+            {
+                "percentage": "4.3E-5",
+                "region": "Tula Oblast"
+            },
+            {
+                "percentage": "6.7E-5",
+                "region": "Tver Oblast"
+            },
+            {
+                "percentage": "1.9E-5",
+                "region": "Tyumen Oblast"
+            },
+            {
+                "percentage": "5.0E-6",
+                "region": "Tuva"
+            },
+            {
+                "percentage": "3.9E-5",
+                "region": "Ulyanovsk Oblast"
+            },
+            {
+                "percentage": "0.000245",
+                "region": "Karlovac County"
+            },
+            {
+                "percentage": "4.3E-5",
+                "region": "Vladimir Oblast"
+            },
+            {
+                "percentage": "0.000116",
+                "region": "Volgograd Oblast"
+            },
+            {
+                "percentage": "0.00014",
+                "region": "Voronezh Oblast"
+            },
+            {
+                "percentage": "3.4E-5",
+                "region": "Yaroslavl Oblast"
+            },
+            {
+                "percentage": "5.0E-6",
+                "region": "Jewish Autonomous Oblast"
+            },
+            {
+                "percentage": "5.0E-6",
+                "region": "Zabaykalsky Krai"
+            },
+            {
+                "percentage": "1.9E-5",
+                "region": "Perm Krai"
+            },
+            {
+                "percentage": "0.000183",
+                "region": "Bjelovar-Bilogora County"
+            },
+            {
+                "percentage": "0.000308",
+                "region": "Brod-Posavina County"
+            },
+            {
+                "percentage": "0.000563",
+                "region": "Dubrovnik-Neretva County"
+            },
+            {
+                "percentage": "0.000679",
+                "region": "Istria County"
+            },
+            {
+                "percentage": "0.001526",
+                "region": "Marijampolė County"
+            },
+            {
+                "percentage": "0.00309",
+                "region": "Šiauliai County"
+            },
+            {
+                "percentage": "5.0E-6",
+                "region": "Altai Krai"
+            },
+            {
+                "percentage": "0.00436",
+                "region": "Kumanovo Municipality"
+            },
+            {
+                "percentage": "3.9E-5",
+                "region": "Gradsko Municipality"
+            },
+            {
+                "percentage": "5.0E-6",
+                "region": "Ilinden Municipality"
+            },
+            {
+                "percentage": "1.0E-5",
+                "region": "Jegunovce Municipality"
+            },
+            {
+                "percentage": "0.001001",
+                "region": "Kavadarci Municipality"
+            },
+            {
+                "percentage": "0.001295",
+                "region": "Kičevo Municipality"
+            },
+            {
+                "percentage": "1.0E-5",
+                "region": "Kisela Voda Municipality"
+            },
+            {
+                "percentage": "0.000616",
+                "region": "Municipality of Kočani"
+            },
+            {
+                "percentage": "5.0E-6",
+                "region": "Konče Municipality"
+            },
+            {
+                "percentage": "7.7E-5",
+                "region": "Kratovo Municipality"
+            },
+            {
+                "percentage": "0.000236",
+                "region": "Kriva Palanka Municipality"
+            },
+            {
+                "percentage": "0.00012",
+                "region": "Lipkovo Municipality"
+            },
+            {
+                "percentage": "0.000866",
+                "region": "Gevgelija Municipality"
+            },
+            {
+                "percentage": "5.0E-6",
+                "region": "Lozovo Municipality"
+            },
+            {
+                "percentage": "8.2E-5",
+                "region": "Makedonska Kamenica Municipality"
+            },
+            {
+                "percentage": "0.000111",
+                "region": "Makedonski Brod Municipality"
+            },
+            {
+                "percentage": "0.000448",
+                "region": "Negotino Municipality"
+            },
+            {
+                "percentage": "2.9E-5",
+                "region": "Novo Selo Municipality"
+            },
+            {
+                "percentage": "0.002661",
+                "region": "Ohrid Municipality"
+            },
+            {
+                "percentage": "6.3E-5",
+                "region": "Municipality of Pehčevo"
+            },
+            {
+                "percentage": "0.00013",
+                "region": "Plasnica Municipality"
+            },
+            {
+                "percentage": "0.00206",
+                "region": "Prilep Municipality"
+            },
+            {
+                "percentage": "0.000178",
+                "region": "Municipality of Probištip"
+            },
+            {
+                "percentage": "0.000433",
+                "region": "Radoviš Municipality"
+            },
+            {
+                "percentage": "0.002854",
+                "region": "Gostivar Municipality"
+            },
+            {
+                "percentage": "2.9E-5",
+                "region": "Dolneni Municipality"
+            },
+            {
+                "percentage": "0.000347",
+                "region": "Resen (municipality)"
+            },
+            {
+                "percentage": "0.000756",
+                "region": "Zhytomyr Oblast"
+            },
+            {
+                "percentage": "0.000467",
+                "region": "Mykolaiv Oblast"
+            },
+            {
+                "percentage": "0.002296",
+                "region": "Odessa Oblast"
+            },
+            {
+                "percentage": "0.000871",
+                "region": "Poltava Oblast"
+            },
+            {
+                "percentage": "0.001343",
+                "region": "Rivne Oblast"
+            },
+            {
+                "percentage": "0.000525",
+                "region": "Sumy Oblast"
+            },
+            {
+                "percentage": "0.002902",
+                "region": "Ternopil Oblast"
+            },
+            {
+                "percentage": "0.001381",
+                "region": "Vinnytsia Oblast"
+            },
+            {
+                "percentage": "0.001261",
+                "region": "Volyn Oblast"
+            },
+            {
+                "percentage": "0.001651",
+                "region": "Zakarpattia Oblast"
+            },
+            {
+                "percentage": "0.000659",
+                "region": "Zaporizhia Oblast"
+            },
+            {
+                "percentage": "0.009765",
+                "region": "Kiev"
+            },
+            {
+                "percentage": "7.2E-5",
+                "region": "Demir Kapija Municipality"
+            },
+            {
+                "percentage": "0.009683",
+                "region": "Central Region"
+            },
+            {
+                "percentage": "0.001251",
+                "region": "Gozo"
+            },
+            {
+                "percentage": "0.004298",
+                "region": "South Eastern Region"
+            },
+            {
+                "percentage": "1.4E-5",
+                "region": "Municipality of Aračinovo"
+            },
+            {
+                "percentage": "0.000231",
+                "region": "Berovo Municipality"
+            },
+            {
+                "percentage": "0.000221",
+                "region": "Bogdanci Municipality"
+            },
+            {
+                "percentage": "0.00026",
+                "region": "Bogovinje Municipality"
+            },
+            {
+                "percentage": "1.4E-5",
+                "region": "Brvenica Municipality"
+            },
+            {
+                "percentage": "5.0E-6",
+                "region": "Čaška Municipality"
+            },
+            {
+                "percentage": "0.000313",
+                "region": "Municipality of Delčevo"
+            },
+            {
+                "percentage": "0.000135",
+                "region": "Demir Hisar Municipality"
+            },
+            {
+                "percentage": "1.4E-5",
+                "region": "Rankovce Municipality"
+            },
+            {
+                "percentage": "4.3E-5",
+                "region": "Rosoman Municipality"
+            },
+            {
+                "percentage": "0.000173",
+                "region": "Luhansk Oblast"
+            },
+            {
+                "percentage": "0.000101",
+                "region": "Bremen"
+            },
+            {
+                "percentage": "0.000337",
+                "region": "Tartu County"
+            },
+            {
+                "percentage": "4.3E-5",
+                "region": "Valga County"
+            },
+            {
+                "percentage": "3.9E-5",
+                "region": "Viljandi County"
+            },
+            {
+                "percentage": "6.3E-5",
+                "region": "Võru County"
+            },
+            {
+                "percentage": "0.004702",
+                "region": "Kurzeme Region"
+            },
+            {
+                "percentage": "0.000515",
+                "region": "Latgale"
+            },
+            {
+                "percentage": "0.001824",
+                "region": "Semigallia"
+            },
+            {
+                "percentage": "0.001102",
+                "region": "Vidzeme"
+            },
+            {
+                "percentage": "0.000597",
+                "region": "Baden-Württemberg"
+            },
+            {
+                "percentage": "0.000573",
+                "region": "Bayern"
+            },
+            {
+                "percentage": "0.00027",
+                "region": "Hamburg"
+            },
+            {
+                "percentage": "2.4E-5",
+                "region": "Rapla County"
+            },
+            {
+                "percentage": "0.00039",
+                "region": "Hessen"
+            },
+            {
+                "percentage": "0.000279",
+                "region": "Niedersachsen"
+            },
+            {
+                "percentage": "0.000847",
+                "region": "Nordrhein-Westfalen"
+            },
+            {
+                "percentage": "0.00014",
+                "region": "Rheinland-Pfalz"
+            },
+            {
+                "percentage": "2.9E-5",
+                "region": "Saarland"
+            },
+            {
+                "percentage": "5.8E-5",
+                "region": "Schleswig-Holstein"
+            },
+            {
+                "percentage": "1.0E-5",
+                "region": "Brandenburg"
+            },
+            {
+                "percentage": "2.4E-5",
+                "region": "Mecklenburg-Vorpommern"
+            },
+            {
+                "percentage": "8.7E-5",
+                "region": "Sachsen"
+            },
+            {
+                "percentage": "3.9E-5",
+                "region": "Saxony-Anhalt"
+            },
+            {
+                "percentage": "7.2E-5",
+                "region": "Thüringen"
+            },
+            {
+                "percentage": "3.9E-5",
+                "region": "Saare County"
+            },
+            {
+                "percentage": "2.9E-5",
+                "region": "Põlva County"
+            },
+            {
+                "percentage": "1.4E-5",
+                "region": "Saraj Municipality"
+            },
+            {
+                "percentage": "5.8E-5",
+                "region": "Municipality of Želino"
+            },
+            {
+                "percentage": "0.00115",
+                "region": "Municipality of Štip"
+            },
+            {
+                "percentage": "0.004505",
+                "region": "Struga Municipality"
+            },
+            {
+                "percentage": "0.001699",
+                "region": "Strumica Municipality"
+            },
+            {
+                "percentage": "0.000298",
+                "region": "Sveti Nikole Municipality"
+            },
+            {
+                "percentage": "8.2E-5",
+                "region": "Tearce Municipality"
+            },
+            {
+                "percentage": "0.009009",
+                "region": "Tetovo Municipality"
+            },
+            {
+                "percentage": "0.000207",
+                "region": "Valandovo Municipality"
+            },
+            {
+                "percentage": "0.001174",
+                "region": "Veles Municipality"
+            },
+            {
+                "percentage": "0.000245",
+                "region": "Vinica Municipality"
+            },
+            {
+                "percentage": "1.0E-5",
+                "region": "Municipality of Vrapčište"
+            },
+            {
+                "percentage": "5.0E-6",
+                "region": "Zrnovci Municipality"
+            },
+            {
+                "percentage": "9.6E-5",
+                "region": "Pärnu County"
+            },
+            {
+                "percentage": "1.0E-5",
+                "region": "Municipality of Mavrovo and Rostuša"
+            },
+            {
+                "percentage": "0.025199",
+                "region": "Municipality of Čair"
+            },
+            {
+                "percentage": "3.9E-5",
+                "region": "Dojran Municipality"
+            },
+            {
+                "percentage": "0.000958",
+                "region": "Centar Župa Municipality"
+            },
+            {
+                "percentage": "0.000996",
+                "region": "Harju County"
+            },
+            {
+                "percentage": "1.0E-5",
+                "region": "Hiiu County"
+            },
+            {
+                "percentage": "4.3E-5",
+                "region": "Ida-Viru County"
+            },
+            {
+                "percentage": "3.4E-5",
+                "region": "Järva County"
+            },
+            {
+                "percentage": "2.4E-5",
+                "region": "Jõgeva County"
+            },
+            {
+                "percentage": "2.4E-5",
+                "region": "Lääne County"
+            },
+            {
+                "percentage": "8.2E-5",
+                "region": "Lääne-Viru County"
+            },
+            {
+                "percentage": "0.009962",
+                "region": "Lviv Oblast"
+            },
+            {
+                "percentage": "0.000683",
+                "region": "Kiev Oblast"
+            },
+            {
+                "percentage": "0.00116",
+                "region": "Tauragė County"
+            },
+            {
+                "percentage": "0.001126",
+                "region": "Brăila County"
+            },
+            {
+                "percentage": "1.0E-5",
+                "region": "Nicosia District"
+            },
+            {
+                "percentage": "0.003836",
+                "region": "Limassol District"
+            },
+            {
+                "percentage": "0.001992",
+                "region": "Paphos District"
+            },
+            {
+                "percentage": "0.001925",
+                "region": "Alba County"
+            },
+            {
+                "percentage": "0.00245",
+                "region": "Arad County"
+            },
+            {
+                "percentage": "0.00244",
+                "region": "Argeș County"
+            },
+            {
+                "percentage": "0.002623",
+                "region": "Bacău County"
+            },
+            {
+                "percentage": "0.002969",
+                "region": "Bihor County"
+            },
+            {
+                "percentage": "0.001506",
+                "region": "Bistrița-Năsăud County"
+            },
+            {
+                "percentage": "0.001367",
+                "region": "Botoșani County"
+            },
+            {
+                "percentage": "0.002854",
+                "region": "Brașov County"
+            },
+            {
+                "percentage": "0.001333",
+                "region": "Kyrenia District"
+            },
+            {
+                "percentage": "0.012845",
+                "region": "Bucharest"
+            },
+            {
+                "percentage": "0.001343",
+                "region": "Buzău County"
+            },
+            {
+                "percentage": "0.001251",
+                "region": "Caraș-Severin County"
+            },
+            {
+                "percentage": "0.00399",
+                "region": "Cluj County"
+            },
+            {
+                "percentage": "0.003552",
+                "region": "Constanța County"
+            },
+            {
+                "percentage": "0.000553",
+                "region": "Covasna County"
+            },
+            {
+                "percentage": "0.001502",
+                "region": "Dâmbovița County"
+            },
+            {
+                "percentage": "0.002854",
+                "region": "Dolj County"
+            },
+            {
+                "percentage": "0.002291",
+                "region": "Galați County"
+            },
+            {
+                "percentage": "0.001535",
+                "region": "Gorj County"
+            },
+            {
+                "percentage": "0.000655",
+                "region": "Harghita County"
+            },
+            {
+                "percentage": "0.002098",
+                "region": "Larnaca District"
+            },
+            {
+                "percentage": "0.002098",
+                "region": "Famagusta District"
+            },
+            {
+                "percentage": "0.000818",
+                "region": "Ialomița County"
+            },
+            {
+                "percentage": "0.000621",
+                "region": "Győr-Moson-Sopron County"
+            },
+            {
+                "percentage": "0.001622",
+                "region": "Telšiai County"
+            },
+            {
+                "percentage": "0.000929",
+                "region": "Utena County"
+            },
+            {
+                "percentage": "0.008018",
+                "region": "Vilnius County"
+            },
+            {
+                "percentage": "0.000626",
+                "region": "Bács-Kiskun County"
+            },
+            {
+                "percentage": "0.000438",
+                "region": "Baranya County"
+            },
+            {
+                "percentage": "0.000366",
+                "region": "Békés County"
+            },
+            {
+                "percentage": "0.000861",
+                "region": "Borsod-Abaúj-Zemplén County"
+            },
+            {
+                "percentage": "0.004062",
+                "region": "Budapest"
+            },
+            {
+                "percentage": "0.000679",
+                "region": "Csongrád County"
+            },
+            {
+                "percentage": "0.000501",
+                "region": "Fejér County"
+            },
+            {
+                "percentage": "0.00076",
+                "region": "Hajdú-Bihar County"
+            },
+            {
+                "percentage": "0.008182",
+                "region": "Lefkoşa District"
+            },
+            {
+                "percentage": "0.000318",
+                "region": "Heves County"
+            },
+            {
+                "percentage": "0.000322",
+                "region": "Komárom-Esztergom County"
+            },
+            {
+                "percentage": "0.000178",
+                "region": "Nógrád County"
+            },
+            {
+                "percentage": "0.00091",
+                "region": "Pest County"
+            },
+            {
+                "percentage": "0.000265",
+                "region": "Somogy County"
+            },
+            {
+                "percentage": "0.000409",
+                "region": "Szabolcs-Szatmár-Bereg County"
+            },
+            {
+                "percentage": "0.000308",
+                "region": "Jász-Nagykun-Szolnok County"
+            },
+            {
+                "percentage": "0.000159",
+                "region": "Tolna County"
+            },
+            {
+                "percentage": "0.000371",
+                "region": "Vas County"
+            },
+            {
+                "percentage": "0.000356",
+                "region": "Veszprém County"
+            },
+            {
+                "percentage": "0.000284",
+                "region": "Zala County"
+            },
+            {
+                "percentage": "0.002185",
+                "region": "Hunedoara County"
+            },
+            {
+                "percentage": "0.00373",
+                "region": "Iași County"
+            },
+            {
+                "percentage": "0.000274",
+                "region": "Kirovohrad Oblast"
+            },
+            {
+                "percentage": "6.7E-5",
+                "region": "Poitou-Charentes"
+            },
+            {
+                "percentage": "4.8E-5",
+                "region": "Franche-Comté"
+            },
+            {
+                "percentage": "0.000154",
+                "region": "Haute-Normandie"
+            },
+            {
+                "percentage": "0.003956",
+                "region": "Île-de-France"
+            },
+            {
+                "percentage": "0.000212",
+                "region": "Languedoc-Roussillon"
+            },
+            {
+                "percentage": "8.2E-5",
+                "region": "Limousin"
+            },
+            {
+                "percentage": "0.00012",
+                "region": "Lorraine"
+            },
+            {
+                "percentage": "0.00026",
+                "region": "Midi-Pyrénées"
+            },
+            {
+                "percentage": "0.000241",
+                "region": "Nord-Pas-de-Calais"
+            },
+            {
+                "percentage": "0.000221",
+                "region": "Pays de la Loire"
+            },
+            {
+                "percentage": "0.000135",
+                "region": "Picardie"
+            },
+            {
+                "percentage": "0.000732",
+                "region": "Provence-Alpes-Côte d'Azur"
+            },
+            {
+                "percentage": "9.6E-5",
+                "region": "Champagne-Ardenne"
+            },
+            {
+                "percentage": "0.000558",
+                "region": "Rhône-Alpes"
+            },
+            {
+                "percentage": "0.000178",
+                "region": "Alsace"
+            },
+            {
+                "percentage": "0.000842",
+                "region": "Cherkasy Oblast"
+            },
+            {
+                "percentage": "0.00051",
+                "region": "Chernihiv Oblast"
+            },
+            {
+                "percentage": "0.001535",
+                "region": "Chernivtsi Oblast"
+            },
+            {
+                "percentage": "0.001617",
+                "region": "Dnipropetrovsk Oblast"
+            },
+            {
+                "percentage": "0.000438",
+                "region": "Donetsk Oblast"
+            },
+            {
+                "percentage": "0.00411",
+                "region": "Ivano-Frankivsk Oblast"
+            },
+            {
+                "percentage": "0.002368",
+                "region": "Kharkiv Oblast"
+            },
+            {
+                "percentage": "0.000375",
+                "region": "Kherson Oblast"
+            },
+            {
+                "percentage": "0.001299",
+                "region": "Khmelnytskyi Oblast"
+            },
+            {
+                "percentage": "2.4E-5",
+                "region": "Corse"
+            },
+            {
+                "percentage": "0.000188",
+                "region": "Centre"
+            },
+            {
+                "percentage": "0.002142",
+                "region": "Maramureș County"
+            },
+            {
+                "percentage": "0.000794",
+                "region": "Tulcea County"
+            },
+            {
+                "percentage": "0.000996",
+                "region": "Mehedinți County"
+            },
+            {
+                "percentage": "0.00257",
+                "region": "Mureș County"
+            },
+            {
+                "percentage": "0.001733",
+                "region": "Neamț County"
+            },
+            {
+                "percentage": "0.001073",
+                "region": "Olt County"
+            },
+            {
+                "percentage": "0.002883",
+                "region": "Prahova County"
+            },
+            {
+                "percentage": "0.001078",
+                "region": "Sălaj County"
+            },
+            {
+                "percentage": "0.001352",
+                "region": "Satu Mare County"
+            },
+            {
+                "percentage": "0.002445",
+                "region": "Sibiu County"
+            },
+            {
+                "percentage": "0.00321",
+                "region": "Suceava County"
+            },
+            {
+                "percentage": "0.000602",
+                "region": "Teleorman County"
+            },
+            {
+                "percentage": "0.005092",
+                "region": "Timiș County"
+            },
+            {
+                "percentage": "0.001386",
+                "region": "Vaslui County"
+            },
+            {
+                "percentage": "0.000221",
+                "region": "Bretagne"
+            },
+            {
+                "percentage": "0.00141",
+                "region": "Vâlcea County"
+            },
+            {
+                "percentage": "0.000991",
+                "region": "Vrancea County"
+            },
+            {
+                "percentage": "0.00063",
+                "region": "Călărași County"
+            },
+            {
+                "percentage": "0.000409",
+                "region": "Giurgiu County"
+            },
+            {
+                "percentage": "0.000231",
+                "region": "Ilfov County"
+            },
+            {
+                "percentage": "0.02427",
+                "region": "Federation of Bosnia and Herzegovina"
+            },
+            {
+                "percentage": "0.007931",
+                "region": "Republika Srpska"
+            },
+            {
+                "percentage": "0.000231",
+                "region": "Aquitaine"
+            },
+            {
+                "percentage": "5.3E-5",
+                "region": "Auvergne"
+            },
+            {
+                "percentage": "8.7E-5",
+                "region": "Basse-Normandie"
+            },
+            {
+                "percentage": "7.2E-5",
+                "region": "Bourgogne"
+            },
+            {
+                "percentage": "2.4E-5",
+                "region": "Amur Oblast"
+            },
+            {
+                "percentage": "1.4E-5",
+                "region": "Adygea"
+            },
+            {
+                "percentage": "0.001848",
+                "region": "Dibër County"
+            },
+            {
+                "percentage": "5.8E-5",
+                "region": "Ștefan Vodă District"
+            },
+            {
+                "percentage": "7.7E-5",
+                "region": "Florești District"
+            },
+            {
+                "percentage": "0.000116",
+                "region": "Leova District"
+            },
+            {
+                "percentage": "0.000351",
+                "region": "Ialoveni District"
+            },
+            {
+                "percentage": "0.000221",
+                "region": "Nisporeni District"
+            },
+            {
+                "percentage": "2.9E-5",
+                "region": "Ocnița District"
+            },
+            {
+                "percentage": "4.3E-5",
+                "region": "Rezina District"
+            },
+            {
+                "percentage": "7.2E-5",
+                "region": "Rîșcani District"
+            },
+            {
+                "percentage": "0.000116",
+                "region": "Sîngerei District"
+            },
+            {
+                "percentage": "7.2E-5",
+                "region": "Șoldănești District"
+            },
+            {
+                "percentage": "0.000327",
+                "region": "Strășeni District"
+            },
+            {
+                "percentage": "0.000168",
+                "region": "Telenești District"
+            },
+            {
+                "percentage": "9.1E-5",
+                "region": "Fălești District"
+            },
+            {
+                "percentage": "1.9E-5",
+                "region": "Taraclia District"
+            },
+            {
+                "percentage": "3.9E-5",
+                "region": "Dondușeni District"
+            },
+            {
+                "percentage": "2.9E-5",
+                "region": "Bender"
+            },
+            {
+                "percentage": "3.9E-5",
+                "region": "Minsk Region"
+            },
+            {
+                "percentage": "0.000125",
+                "region": "Brest Region"
+            },
+            {
+                "percentage": "0.000116",
+                "region": "Gomel Region"
+            },
+            {
+                "percentage": "0.000125",
+                "region": "Grodno Region"
+            },
+            {
+                "percentage": "0.001121",
+                "region": "Minsk"
+            },
+            {
+                "percentage": "5.8E-5",
+                "region": "Mogilev Region"
+            },
+            {
+                "percentage": "0.000125",
+                "region": "Vitebsk Region"
+            },
+            {
+                "percentage": "5.0E-6",
+                "region": "Saint Brélade"
+            },
+            {
+                "percentage": "0.000245",
+                "region": "Hîncești District"
+            },
+            {
+                "percentage": "7.7E-5",
+                "region": "Glodeni District"
+            },
+            {
+                "percentage": "5.0E-6",
+                "region": "Saint Saviour"
+            },
+            {
+                "percentage": "2.9E-5",
+                "region": "Gagauzia"
+            },
+            {
+                "percentage": "8.2E-5",
+                "region": "Kostanay Region"
+            },
+            {
+                "percentage": "0.000178",
+                "region": "Kyzylorda Region"
+            },
+            {
+                "percentage": "8.2E-5",
+                "region": "East Kazakhstan Region"
+            },
+            {
+                "percentage": "2.9E-5",
+                "region": "North Kazakhstan Region"
+            },
+            {
+                "percentage": "9.6E-5",
+                "region": "Jambyl Region"
+            },
+            {
+                "percentage": "0.000327",
+                "region": "Bălți"
+            },
+            {
+                "percentage": "0.000361",
+                "region": "Cahul District"
+            },
+            {
+                "percentage": "0.007306",
+                "region": "Chișinău"
+            },
+            {
+                "percentage": "0.000101",
+                "region": "Transnistria"
+            },
+            {
+                "percentage": "5.8E-5",
+                "region": "Edineț District"
+            },
+            {
+                "percentage": "0.000322",
+                "region": "Orhei District"
+            },
+            {
+                "percentage": "0.000111",
+                "region": "Drochia District"
+            },
+            {
+                "percentage": "0.000135",
+                "region": "Soroca District"
+            },
+            {
+                "percentage": "0.000371",
+                "region": "Ungheni District"
+            },
+            {
+                "percentage": "2.4E-5",
+                "region": "Basarabeasca District"
+            },
+            {
+                "percentage": "8.2E-5",
+                "region": "Anenii Noi District"
+            },
+            {
+                "percentage": "4.8E-5",
+                "region": "Briceni District"
+            },
+            {
+                "percentage": "0.000159",
+                "region": "Călărași District"
+            },
+            {
+                "percentage": "0.000116",
+                "region": "Căușeni District"
+            },
+            {
+                "percentage": "0.000106",
+                "region": "Cantemir District"
+            },
+            {
+                "percentage": "9.6E-5",
+                "region": "Cimișlia District"
+            },
+            {
+                "percentage": "0.000149",
+                "region": "Criuleni District"
+            },
+            {
+                "percentage": "5.8E-5",
+                "region": "Dubăsari District"
+            },
+            {
+                "percentage": "0.002464",
+                "region": "Saint Helier"
+            },
+            {
+                "percentage": "0.004413",
+                "region": "Isle Of Man"
+            },
+            {
+                "percentage": "8.7E-5",
+                "region": "Pavlodar Region"
+            },
+            {
+                "percentage": "0.000197",
+                "region": "Limburg"
+            },
+            {
+                "percentage": "6.7E-5",
+                "region": "Qaasuitsup"
+            },
+            {
+                "percentage": "0.00104",
+                "region": "Gibraltar"
+            },
+            {
+                "percentage": "5.0E-6",
+                "region": "Schaan"
+            },
+            {
+                "percentage": "1.9E-5",
+                "region": "Schellenberg"
+            },
+            {
+                "percentage": "5.0E-6",
+                "region": "Triesen"
+            },
+            {
+                "percentage": "1.4E-5",
+                "region": "Vaduz"
+            },
+            {
+                "percentage": "8.2E-5",
+                "region": "Drenthe"
+            },
+            {
+                "percentage": "0.00014",
+                "region": "Friesland"
+            },
+            {
+                "percentage": "0.000351",
+                "region": "Gelderland"
+            },
+            {
+                "percentage": "0.00013",
+                "region": "Groningen"
+            },
+            {
+                "percentage": "0.000491",
+                "region": "North Brabant"
+            },
+            {
+                "percentage": "0.000895",
+                "region": "Qeqqata"
+            },
+            {
+                "percentage": "0.0009",
+                "region": "Noord-Holland"
+            },
+            {
+                "percentage": "0.000202",
+                "region": "Utrecht"
+            },
+            {
+                "percentage": "7.7E-5",
+                "region": "Zeeland"
+            },
+            {
+                "percentage": "0.000914",
+                "region": "Zuid-Holland"
+            },
+            {
+                "percentage": "0.000245",
+                "region": "Overijssel"
+            },
+            {
+                "percentage": "9.6E-5",
+                "region": "Flevoland"
+            },
+            {
+                "percentage": "5.0E-6",
+                "region": "Acquaviva"
+            },
+            {
+                "percentage": "1.4E-5",
+                "region": "Serravalle"
+            },
+            {
+                "percentage": "3.9E-5",
+                "region": "Borgo Maggiore"
+            },
+            {
+                "percentage": "2.4E-5",
+                "region": "Akershus"
+            },
+            {
+                "percentage": "1.9E-5",
+                "region": "Aust-Agder"
+            },
+            {
+                "percentage": "1.0E-5",
+                "region": "Sermersooq"
+            },
+            {
+                "percentage": "0.000106",
+                "region": "Kujalleq"
+            },
+            {
+                "percentage": "0.000106",
+                "region": "Aragatsotn Province"
+            },
+            {
+                "percentage": "0.000982",
+                "region": "Saint Peter Port"
+            },
+            {
+                "percentage": "0.000265",
+                "region": "Ararat Province"
+            },
+            {
+                "percentage": "7.7E-5",
+                "region": "Armavir Province"
+            },
+            {
+                "percentage": "6.7E-5",
+                "region": "Gegharkunik Province"
+            },
+            {
+                "percentage": "0.000525",
+                "region": "Kotayk Province"
+            },
+            {
+                "percentage": "0.000467",
+                "region": "Lori Province"
+            },
+            {
+                "percentage": "0.000698",
+                "region": "Shirak Province"
+            },
+            {
+                "percentage": "0.000289",
+                "region": "Syunik Province"
+            },
+            {
+                "percentage": "0.000149",
+                "region": "Tavush Province"
+            },
+            {
+                "percentage": "4.3E-5",
+                "region": "Vayots Dzor Province"
+            },
+            {
+                "percentage": "0.023274",
+                "region": "Yerevan"
+            },
+            {
+                "percentage": "7.7E-5",
+                "region": "Eysturoy"
+            },
+            {
+                "percentage": "0.000135",
+                "region": "La Condamine"
+            },
+            {
+                "percentage": "3.9E-5",
+                "region": "Norðoyar"
+            },
+            {
+                "percentage": "5.0E-6",
+                "region": "Sandoy"
+            },
+            {
+                "percentage": "2.4E-5",
+                "region": "Suðuroy"
+            },
+            {
+                "percentage": "0.000154",
+                "region": "Streymoy"
+            },
+            {
+                "percentage": "5.0E-6",
+                "region": "Vágar"
+            },
+            {
+                "percentage": "3.4E-5",
+                "region": "Canillo"
+            },
+            {
+                "percentage": "1.9E-5",
+                "region": "Encamp"
+            },
+            {
+                "percentage": "3.9E-5",
+                "region": "La Massana"
+            },
+            {
+                "percentage": "5.0E-6",
+                "region": "Ordino"
+            },
+            {
+                "percentage": "2.4E-5",
+                "region": "Sant Julià de Lòria"
+            },
+            {
+                "percentage": "0.000414",
+                "region": "Andorra la Vella"
+            },
+            {
+                "percentage": "3.4E-5",
+                "region": "Karaganda Region"
+            },
+            {
+                "percentage": "0.000318",
+                "region": "South Kazakhstan Region"
+            },
+            {
+                "percentage": "2.4E-5",
+                "region": "Finnmark"
+            },
+            {
+                "percentage": "0.000544",
+                "region": "Guria"
+            },
+            {
+                "percentage": "0.075973",
+                "region": "T'bilisi"
+            },
+            {
+                "percentage": "0.00245",
+                "region": "Samegrelo-Zemo Svaneti"
+            },
+            {
+                "percentage": "0.007325",
+                "region": "Imereti"
+            },
+            {
+                "percentage": "0.000837",
+                "region": "Samtskhe-Javakheti"
+            },
+            {
+                "percentage": "6.7E-5",
+                "region": "Racha-Lechkhumi and Kvemo Svaneti"
+            },
+            {
+                "percentage": "0.005602",
+                "region": "Shida Kartli"
+            },
+            {
+                "percentage": "0.000149",
+                "region": "Mtskheta-Mtianeti"
+            },
+            {
+                "percentage": "0.000265",
+                "region": "Kvemo Kartli"
+            },
+            {
+                "percentage": "0.001757",
+                "region": "Kakheti"
+            },
+            {
+                "percentage": "2.4E-5",
+                "region": "Tbilisi"
+            },
+            {
+                "percentage": "1.0E-5",
+                "region": "Agdash District"
+            },
+            {
+                "percentage": "0.000375",
+                "region": "Abkhazia"
+            },
+            {
+                "percentage": "5.0E-6",
+                "region": "Agstafa District"
+            },
+            {
+                "percentage": "1.4E-5",
+                "region": "Shirvan (city)"
+            },
+            {
+                "percentage": "5.0E-6",
+                "region": "Astara District"
+            },
+            {
+                "percentage": "0.012012",
+                "region": "Baku"
+            },
+            {
+                "percentage": "1.0E-5",
+                "region": "Barda District"
+            },
+            {
+                "percentage": "5.0E-6",
+                "region": "Jabrayil District"
+            },
+            {
+                "percentage": "1.0E-5",
+                "region": "Jalilabad District"
+            },
+            {
+                "percentage": "0.000111",
+                "region": "Ganja"
+            },
+            {
+                "percentage": "1.4E-5",
+                "region": "Goychay District"
+            },
+            {
+                "percentage": "5.0E-6",
+                "region": "Ismailli District"
+            },
+            {
+                "percentage": "5.3E-5",
+                "region": "Lankaran"
+            },
+            {
+                "percentage": "0.007792",
+                "region": "Adjara"
+            },
+            {
+                "percentage": "3.4E-5",
+                "region": "Žabljak Municipality"
+            },
+            {
+                "percentage": "5.8E-5",
+                "region": "Mingachevir"
+            },
+            {
+                "percentage": "5.0E-6",
+                "region": "Andrijevica Municipality"
+            },
+            {
+                "percentage": "0.005092",
+                "region": "Durrës County"
+            },
+            {
+                "percentage": "0.00513",
+                "region": "Elbasan County"
+            },
+            {
+                "percentage": "0.004923",
+                "region": "Fier County"
+            },
+            {
+                "percentage": "0.001853",
+                "region": "Gjirokastër County"
+            },
+            {
+                "percentage": "0.004904",
+                "region": "Korçë County"
+            },
+            {
+                "percentage": "0.001521",
+                "region": "Kukës County"
+            },
+            {
+                "percentage": "0.001733",
+                "region": "Lezhë County"
+            },
+            {
+                "percentage": "0.004947",
+                "region": "Shkodër County"
+            },
+            {
+                "percentage": "0.045417",
+                "region": "Tirana County"
+            },
+            {
+                "percentage": "0.003229",
+                "region": "Vlorë County"
+            },
+            {
+                "percentage": "0.000207",
+                "region": "Bijelo Polje Municipality"
+            },
+            {
+                "percentage": "0.000125",
+                "region": "Ulcinj Municipality"
+            },
+            {
+                "percentage": "0.000337",
+                "region": "Budva Municipality"
+            },
+            {
+                "percentage": "0.001583",
+                "region": "Old Royal Capital Cetinje"
+            },
+            {
+                "percentage": "1.4E-5",
+                "region": "Kolašin Municipality"
+            },
+            {
+                "percentage": "0.000197",
+                "region": "Herceg Novi Municipality"
+            },
+            {
+                "percentage": "0.000356",
+                "region": "Nikšić Municipality"
+            },
+            {
+                "percentage": "5.0E-6",
+                "region": "Petnjica Municipality"
+            },
+            {
+                "percentage": "0.002416",
+                "region": "Podgorica Capital City"
+            },
+            {
+                "percentage": "0.000289",
+                "region": "Plav Municipality"
+            },
+            {
+                "percentage": "0.000135",
+                "region": "Pljevlja Municipality"
+            },
+            {
+                "percentage": "0.000375",
+                "region": "Tivat Municipality"
+            },
+            {
+                "percentage": "8.2E-5",
+                "region": "Rožaje Municipality"
+            },
+            {
+                "percentage": "5.0E-6",
+                "region": "Lerik District"
+            },
+            {
+                "percentage": "5.0E-6",
+                "region": "Naftalan"
+            },
+            {
+                "percentage": "0.000395",
+                "region": "Mangystau Region"
+            },
+            {
+                "percentage": "0.000164",
+                "region": "County Offaly"
+            },
+            {
+                "percentage": "0.000486",
+                "region": "Kildare"
+            },
+            {
+                "percentage": "0.000188",
+                "region": "Kilkenny"
+            },
+            {
+                "percentage": "0.000101",
+                "region": "County Leitrim"
+            },
+            {
+                "percentage": "0.000188",
+                "region": "County Laois"
+            },
+            {
+                "percentage": "0.000424",
+                "region": "Limerick"
+            },
+            {
+                "percentage": "0.000116",
+                "region": "County Longford"
+            },
+            {
+                "percentage": "0.000679",
+                "region": "County Louth"
+            },
+            {
+                "percentage": "0.000347",
+                "region": "County Mayo"
+            },
+            {
+                "percentage": "0.000399",
+                "region": "County Meath"
+            },
+            {
+                "percentage": "0.000231",
+                "region": "County Monaghan"
+            },
+            {
+                "percentage": "0.000149",
+                "region": "Roscommon"
+            },
+            {
+                "percentage": "0.000491",
+                "region": "Galway"
+            },
+            {
+                "percentage": "0.000212",
+                "region": "Sligo"
+            },
+            {
+                "percentage": "0.000371",
+                "region": "County Tipperary"
+            },
+            {
+                "percentage": "0.00052",
+                "region": "Waterford"
+            },
+            {
+                "percentage": "0.00026",
+                "region": "County Westmeath"
+            },
+            {
+                "percentage": "0.000655",
+                "region": "Wexford"
+            },
+            {
+                "percentage": "0.000443",
+                "region": "Wicklow"
+            },
+            {
+                "percentage": "0.00154",
+                "region": "Almaty Region"
+            },
+            {
+                "percentage": "0.001044",
+                "region": "Akmola Region"
+            },
+            {
+                "percentage": "0.000255",
+                "region": "Aktobe Region"
+            },
+            {
+                "percentage": "0.000876",
+                "region": "Atyrau Region"
+            },
+            {
+                "percentage": "0.000481",
+                "region": "West Kazakhstan Region"
+            },
+            {
+                "percentage": "0.000606",
+                "region": "Kerry"
+            },
+            {
+                "percentage": "0.005294",
+                "region": "Dublin"
+            },
+            {
+                "percentage": "4.8E-5",
+                "region": "Nakhchivan Autonomous Republic"
+            },
+            {
+                "percentage": "1.0E-5",
+                "region": "Ujar District"
+            },
+            {
+                "percentage": "5.0E-6",
+                "region": "Neftchala District"
+            },
+            {
+                "percentage": "2.9E-5",
+                "region": "Qabala District"
+            },
+            {
+                "percentage": "3.9E-5",
+                "region": "Qakh District"
+            },
+            {
+                "percentage": "1.0E-5",
+                "region": "Qazakh District"
+            },
+            {
+                "percentage": "1.9E-5",
+                "region": "Quba Rayon"
+            },
+            {
+                "percentage": "1.0E-5",
+                "region": "Salyan District"
+            },
+            {
+                "percentage": "1.4E-5",
+                "region": "Shamkir District"
+            },
+            {
+                "percentage": "0.000424",
+                "region": "Sumqayit"
+            },
+            {
+                "percentage": "2.4E-5",
+                "region": "Shusha District"
+            },
+            {
+                "percentage": "1.4E-5",
+                "region": "Tovuz District"
+            },
+            {
+                "percentage": "1.0E-5",
+                "region": "Khachmaz District"
+            },
+            {
+                "percentage": "0.001054",
+                "region": "Donegal"
+            },
+            {
+                "percentage": "1.4E-5",
+                "region": "Khojaly District"
+            },
+            {
+                "percentage": "1.0E-5",
+                "region": "Yevlakh District"
+            },
+            {
+                "percentage": "1.0E-5",
+                "region": "Zangilan District"
+            },
+            {
+                "percentage": "5.0E-6",
+                "region": "Zaqatala District"
+            },
+            {
+                "percentage": "5.0E-6",
+                "region": "Zardab District"
+            },
+            {
+                "percentage": "5.3E-5",
+                "region": "Sheki"
+            },
+            {
+                "percentage": "0.000168",
+                "region": "Shusha"
+            },
+            {
+                "percentage": "0.000221",
+                "region": "Carlow"
+            },
+            {
+                "percentage": "0.000236",
+                "region": "Cavan"
+            },
+            {
+                "percentage": "0.000274",
+                "region": "County Clare"
+            },
+            {
+                "percentage": "0.001757",
+                "region": "County Cork"
+            },
+            {
+                "percentage": "5.0E-6",
+                "region": "Buskerud"
+            },
+            {
+                "percentage": "5.0E-6",
+                "region": "Hedmark"
+            },
+            {
+                "percentage": "0.000789",
+                "region": "Vienna"
+            },
+            {
+                "percentage": "4.8E-5",
+                "region": "Bartın Province"
+            },
+            {
+                "percentage": "0.001078",
+                "region": "Adana Province"
+            },
+            {
+                "percentage": "6.7E-5",
+                "region": "Çankırı Province"
+            },
+            {
+                "percentage": "0.001338",
+                "region": "Gaziantep Province"
+            },
+            {
+                "percentage": "3.4E-5",
+                "region": "Kars Province"
+            },
+            {
+                "percentage": "0.000231",
+                "region": "Zonguldak Province"
+            },
+            {
+                "percentage": "1.4E-5",
+                "region": "Ardahan Province"
+            },
+            {
+                "percentage": "5.0E-6",
+                "region": "Iğdır Province"
+            },
+            {
+                "percentage": "8.2E-5",
+                "region": "Kilis Province"
+            },
+            {
+                "percentage": "0.000111",
+                "region": "Osmaniye Province"
+            },
+            {
+                "percentage": "0.000236",
+                "region": "Yalova Province"
+            },
+            {
+                "percentage": "5.8E-5",
+                "region": "Siirt Province"
+            },
+            {
+                "percentage": "0.000125",
+                "region": "Karaman Province"
+            },
+            {
+                "percentage": "0.000245",
+                "region": "Mardin Province"
+            },
+            {
+                "percentage": "0.001073",
+                "region": "Mersin Province"
+            },
+            {
+                "percentage": "1.4E-5",
+                "region": "Bayburt Province"
+            },
+            {
+                "percentage": "0.000149",
+                "region": "Karabük Province"
+            },
+            {
+                "percentage": "0.000168",
+                "region": "Düzce Province"
+            },
+            {
+                "percentage": "0.000197",
+                "region": "Aksaray Province"
+            },
+            {
+                "percentage": "0.000467",
+                "region": "Southern District"
+            },
+            {
+                "percentage": "0.000356",
+                "region": "Central District"
+            },
+            {
+                "percentage": "0.000534",
+                "region": "Northern District"
+            },
+            {
+                "percentage": "0.000337",
+                "region": "Heifa"
+            },
+            {
+                "percentage": "0.001251",
+                "region": "Tel Aviv"
+            },
+            {
+                "percentage": "0.000168",
+                "region": "Şırnak Province"
+            },
+            {
+                "percentage": "0.000173",
+                "region": "Batman Province"
+            },
+            {
+                "percentage": "3.9E-5",
+                "region": "Åland Islands"
+            },
+            {
+                "percentage": "0.000164",
+                "region": "Sivas Province"
+            },
+            {
+                "percentage": "0.000443",
+                "region": "Manisa Province"
+            },
+            {
+                "percentage": "0.000308",
+                "region": "Kahramanmaraş Province"
+            },
+            {
+                "percentage": "0.001155",
+                "region": "Muğla Province"
+            },
+            {
+                "percentage": "5.0E-6",
+                "region": "Muş Province"
+            },
+            {
+                "percentage": "0.000178",
+                "region": "Nevşehir Province"
+            },
+            {
+                "percentage": "0.000202",
+                "region": "Ordu Province"
+            },
+            {
+                "percentage": "0.000101",
+                "region": "Rize Province"
+            },
+            {
+                "percentage": "0.000486",
+                "region": "Sakarya Province"
+            },
+            {
+                "percentage": "0.000534",
+                "region": "Samsun Province"
+            },
+            {
+                "percentage": "4.3E-5",
+                "region": "Sinop Province"
+            },
+            {
+                "percentage": "0.000337",
+                "region": "Tekirdağ Province"
+            },
+            {
+                "percentage": "0.00013",
+                "region": "Niğde Province"
+            },
+            {
+                "percentage": "0.000149",
+                "region": "Tokat Province"
+            },
+            {
+                "percentage": "0.000298",
+                "region": "Trabzon Province"
+            },
+            {
+                "percentage": "5.0E-6",
+                "region": "Tunceli Province"
+            },
+            {
+                "percentage": "0.000443",
+                "region": "Şanlıurfa Province"
+            },
+            {
+                "percentage": "0.000144",
+                "region": "Uşak Province"
+            },
+            {
+                "percentage": "0.000168",
+                "region": "Van Province"
+            },
+            {
+                "percentage": "3.4E-5",
+                "region": "Yozgat Province"
+            },
+            {
+                "percentage": "0.00436",
+                "region": "Ankara Province"
+            },
+            {
+                "percentage": "4.8E-5",
+                "region": "Gümüşhane Province"
+            },
+            {
+                "percentage": "3.4E-5",
+                "region": "Hakkâri Province"
+            },
+            {
+                "percentage": "0.001011",
+                "region": "Konya Province"
+            },
+            {
+                "percentage": "0.001145",
+                "region": "Jerusalem"
+            },
+            {
+                "percentage": "3.9E-5",
+                "region": "Lapland (Finland)"
+            },
+            {
+                "percentage": "0.000193",
+                "region": "Kütahya Province"
+            },
+            {
+                "percentage": "0.001049",
+                "region": "Western Macedonia"
+            },
+            {
+                "percentage": "0.001704",
+                "region": "Central Greece (region)"
+            },
+            {
+                "percentage": "0.008225",
+                "region": "Central Macedonia"
+            },
+            {
+                "percentage": "0.004389",
+                "region": "Crete"
+            },
+            {
+                "percentage": "0.002069",
+                "region": "Eastern Macedonia and Thrace"
+            },
+            {
+                "percentage": "0.001535",
+                "region": "Epirus (region)"
+            },
+            {
+                "percentage": "0.001271",
+                "region": "Northern Aegean"
+            },
+            {
+                "percentage": "0.002315",
+                "region": "Peloponnese (region)"
+            },
+            {
+                "percentage": "0.002276",
+                "region": "Southern Aegean"
+            },
+            {
+                "percentage": "0.002791",
+                "region": "Thessaly"
+            },
+            {
+                "percentage": "0.002777",
+                "region": "Western Greece"
+            },
+            {
+                "percentage": "0.046659",
+                "region": "England"
+            },
+            {
+                "percentage": "0.024708",
+                "region": "Attica (region)"
+            },
+            {
+                "percentage": "0.003451",
+                "region": "Wales"
+            },
+            {
+                "percentage": "0.006199",
+                "region": "Scotland"
+            },
+            {
+                "percentage": "0.002584",
+                "region": "Northern Ireland"
+            },
+            {
+                "percentage": "5.0E-6",
+                "region": "Burgenland"
+            },
+            {
+                "percentage": "2.4E-5",
+                "region": "Carinthia"
+            },
+            {
+                "percentage": "7.2E-5",
+                "region": "Lower Austria"
+            },
+            {
+                "percentage": "0.000159",
+                "region": "Upper Austria"
+            },
+            {
+                "percentage": "7.2E-5",
+                "region": "Salzburg"
+            },
+            {
+                "percentage": "6.3E-5",
+                "region": "Styria"
+            },
+            {
+                "percentage": "5.8E-5",
+                "region": "Tyrol"
+            },
+            {
+                "percentage": "3.9E-5",
+                "region": "Vorarlberg"
+            },
+            {
+                "percentage": "0.002017",
+                "region": "Ionian Islands (region)"
+            },
+            {
+                "percentage": "1.0E-5",
+                "region": "Fokis"
+            },
+            {
+                "percentage": "7.2E-5",
+                "region": "Northern Ostrobothnia"
+            },
+            {
+                "percentage": "1.0E-5",
+                "region": "Etelä-Savo"
+            },
+            {
+                "percentage": "9.6E-5",
+                "region": "Pirkanmaa"
+            },
+            {
+                "percentage": "1.4E-5",
+                "region": "Southern Ostrobothnia"
+            },
+            {
+                "percentage": "2.4E-5",
+                "region": "Central Ostrobothnia"
+            },
+            {
+                "percentage": "3.9E-5",
+                "region": "Central Finland"
+            },
+            {
+                "percentage": "0.000111",
+                "region": "Ostrobothnia (region)"
+            },
+            {
+                "percentage": "0.000135",
+                "region": "Southwest Finland"
+            },
+            {
+                "percentage": "6.7E-5",
+                "region": "Kymenlaakso"
+            },
+            {
+                "percentage": "4.3E-5",
+                "region": "Tavastia Proper"
+            },
+            {
+                "percentage": "4.3E-5",
+                "region": "Päijät-Häme"
+            },
+            {
+                "percentage": "2.9E-5",
+                "region": "Satakunta"
+            },
+            {
+                "percentage": "3.4E-5",
+                "region": "Pohjois-Savo"
+            },
+            {
+                "percentage": "1.4E-5",
+                "region": "Pella"
+            },
+            {
+                "percentage": "4.8E-5",
+                "region": "North Karelia"
+            },
+            {
+                "percentage": "3.4E-5",
+                "region": "South Karelia"
+            },
+            {
+                "percentage": "0.000558",
+                "region": "Uusimaa"
+            },
+            {
+                "percentage": "8.2E-5",
+                "region": "Central Denmark Region"
+            },
+            {
+                "percentage": "7.7E-5",
+                "region": "Zealand Region"
+            },
+            {
+                "percentage": "0.000197",
+                "region": "Capital Region of Denmark"
+            },
+            {
+                "percentage": "9.6E-5",
+                "region": "Region of Southern Denmark"
+            },
+            {
+                "percentage": "4.8E-5",
+                "region": "North Denmark Region"
+            },
+            {
+                "percentage": "0.002315",
+                "region": "Brussels"
+            },
+            {
+                "percentage": "0.004201",
+                "region": "Flemish Region"
+            },
+            {
+                "percentage": "0.001237",
+                "region": "Wallonia"
+            },
+            {
+                "percentage": "0.000236",
+                "region": "Malatya Province"
+            },
+            {
+                "percentage": "0.000553",
+                "region": "Kocaeli Province"
+            },
+            {
+                "percentage": "3.4E-5",
+                "region": "Hordaland"
+            },
+            {
+                "percentage": "4.3E-5",
+                "region": "Kronoberg County"
+            },
+            {
+                "percentage": "0.000736",
+                "region": "País Vasco"
+            },
+            {
+                "percentage": "0.003123",
+                "region": "Comunidad Valenciana"
+            },
+            {
+                "percentage": "3.4E-5",
+                "region": "Blekinge County"
+            },
+            {
+                "percentage": "9.6E-5",
+                "region": "Gävleborg County"
+            },
+            {
+                "percentage": "1.0E-5",
+                "region": "Gotland County"
+            },
+            {
+                "percentage": "8.2E-5",
+                "region": "Halland County"
+            },
+            {
+                "percentage": "4.3E-5",
+                "region": "Jämtland County"
+            },
+            {
+                "percentage": "0.000101",
+                "region": "Jönköping County"
+            },
+            {
+                "percentage": "4.3E-5",
+                "region": "Kalmar County"
+            },
+            {
+                "percentage": "6.3E-5",
+                "region": "Dalarna County"
+            },
+            {
+                "percentage": "0.000125",
+                "region": "Norrbotten County"
+            },
+            {
+                "percentage": "0.000236",
+                "region": "Extremadura"
+            },
+            {
+                "percentage": "2.4E-5",
+                "region": "Örebro County"
+            },
+            {
+                "percentage": "0.000111",
+                "region": "Östergötland County"
+            },
+            {
+                "percentage": "0.000116",
+                "region": "Södermanland County"
+            },
+            {
+                "percentage": "6.3E-5",
+                "region": "Uppsala County"
+            },
+            {
+                "percentage": "0.000111",
+                "region": "Värmland County"
+            },
+            {
+                "percentage": "5.3E-5",
+                "region": "Västerbotten County"
+            },
+            {
+                "percentage": "7.2E-5",
+                "region": "Västernorrland County"
+            },
+            {
+                "percentage": "0.000111",
+                "region": "Västmanland County"
+            },
+            {
+                "percentage": "0.000544",
+                "region": "Stockholm County"
+            },
+            {
+                "percentage": "0.000265",
+                "region": "Skåne County"
+            },
+            {
+                "percentage": "0.000428",
+                "region": "Västra Götaland County"
+            },
+            {
+                "percentage": "0.000727",
+                "region": "Galicia"
+            },
+            {
+                "percentage": "0.005929",
+                "region": "Cataluña"
+            },
+            {
+                "percentage": "5.0E-6",
+                "region": "Appenzell Ausserrhoden"
+            },
+            {
+                "percentage": "1.4E-5",
+                "region": "Troms"
+            },
+            {
+                "percentage": "2.9E-5",
+                "region": "Møre og Romsdal"
+            },
+            {
+                "percentage": "1.9E-5",
+                "region": "Nordland"
+            },
+            {
+                "percentage": "1.9E-5",
+                "region": "Nord-Trøndelag"
+            },
+            {
+                "percentage": "2.9E-5",
+                "region": "Oppland"
+            },
+            {
+                "percentage": "7.2E-5",
+                "region": "Oslo"
+            },
+            {
+                "percentage": "1.4E-5",
+                "region": "Østfold"
+            },
+            {
+                "percentage": "2.4E-5",
+                "region": "Rogaland"
+            },
+            {
+                "percentage": "5.0E-6",
+                "region": "Sogn og Fjordane"
+            },
+            {
+                "percentage": "1.0E-5",
+                "region": "Sør-Trøndelag"
+            },
+            {
+                "percentage": "1.0E-5",
+                "region": "Telemark"
+            },
+            {
+                "percentage": "1.9E-5",
+                "region": "Vestfold"
+            },
+            {
+                "percentage": "0.000501",
+                "region": "Castilla y Leon"
+            },
+            {
+                "percentage": "0.001054",
+                "region": "Balearic Islands"
+            },
+            {
+                "percentage": "8.7E-5",
+                "region": "La Rioja"
+            },
+            {
+                "percentage": "0.003687",
+                "region": "Comunidad de Madrid"
+            },
+            {
+                "percentage": "0.000698",
+                "region": "Region of Murcia"
+            },
+            {
+                "percentage": "0.000168",
+                "region": "Navarra"
+            },
+            {
+                "percentage": "0.00025",
+                "region": "Principality of Asturias"
+            },
+            {
+                "percentage": "0.000154",
+                "region": "Cantabria"
+            },
+            {
+                "percentage": "0.003893",
+                "region": "Andalusia"
+            },
+            {
+                "percentage": "0.000457",
+                "region": "Aragón"
+            },
+            {
+                "percentage": "0.001646",
+                "region": "Islas Canarias"
+            },
+            {
+                "percentage": "0.000318",
+                "region": "Castilla-La Mancha"
+            },
+            {
+                "percentage": "8.2E-5",
+                "region": "Aargau"
+            },
+            {
+                "percentage": "5.0E-6",
+                "region": "Basel-Landschaft"
+            },
+            {
+                "percentage": "9.1E-5",
+                "region": "Kırşehir Province"
+            },
+            {
+                "percentage": "0.000101",
+                "region": "Edirne Province"
+            },
+            {
+                "percentage": "0.000111",
+                "region": "Bilecik Province"
+            },
+            {
+                "percentage": "2.9E-5",
+                "region": "Bingöl Province"
+            },
+            {
+                "percentage": "3.4E-5",
+                "region": "Bitlis Province"
+            },
+            {
+                "percentage": "0.000125",
+                "region": "Bolu Province"
+            },
+            {
+                "percentage": "8.7E-5",
+                "region": "Burdur Province"
+            },
+            {
+                "percentage": "0.001651",
+                "region": "Bursa Province"
+            },
+            {
+                "percentage": "0.000212",
+                "region": "Çanakkale Province"
+            },
+            {
+                "percentage": "0.000116",
+                "region": "Çorum Province"
+            },
+            {
+                "percentage": "0.000587",
+                "region": "Denizli Province"
+            },
+            {
+                "percentage": "0.000496",
+                "region": "Diyarbakır Province"
+            },
+            {
+                "percentage": "0.000111",
+                "region": "Elazığ Province"
+            },
+            {
+                "percentage": "0.000529",
+                "region": "Aydın Province"
+            },
+            {
+                "percentage": "3.9E-5",
+                "region": "Erzincan Province"
+            },
+            {
+                "percentage": "0.000159",
+                "region": "Erzurum Province"
+            },
+            {
+                "percentage": "0.000597",
+                "region": "Eskişehir Province"
+            },
+            {
+                "percentage": "0.000173",
+                "region": "Giresun Province"
+            },
+            {
+                "percentage": "0.000876",
+                "region": "Hatay Province"
+            },
+            {
+                "percentage": "0.000274",
+                "region": "Isparta Province"
+            },
+            {
+                "percentage": "0.030994",
+                "region": "Istanbul Province"
+            },
+            {
+                "percentage": "0.00296",
+                "region": "İzmir Province"
+            },
+            {
+                "percentage": "0.00014",
+                "region": "Kastamonu Province"
+            },
+            {
+                "percentage": "0.000563",
+                "region": "Kayseri Province"
+            },
+            {
+                "percentage": "0.000164",
+                "region": "Kırklareli Province"
+            },
+            {
+                "percentage": "0.00038",
+                "region": "Balıkesir Province"
+            },
+            {
+                "percentage": "6.7E-5",
+                "region": "Artvin Province"
+            },
+            {
+                "percentage": "7.7E-5",
+                "region": "Basel-City"
+            },
+            {
+                "percentage": "5.0E-6",
+                "region": "Schwyz"
+            },
+            {
+                "percentage": "0.00014",
+                "region": "Bern"
+            },
+            {
+                "percentage": "1.9E-5",
+                "region": "Fribourg"
+            },
+            {
+                "percentage": "0.00026",
+                "region": "Canton of Geneva"
+            },
+            {
+                "percentage": "5.0E-6",
+                "region": "Canton of Glarus"
+            },
+            {
+                "percentage": "1.9E-5",
+                "region": "Graubünden"
+            },
+            {
+                "percentage": "5.0E-6",
+                "region": "Appenzell Innerrhoden"
+            },
+            {
+                "percentage": "1.9E-5",
+                "region": "Luzern"
+            },
+            {
+                "percentage": "1.0E-5",
+                "region": "Neuchâtel"
+            },
+            {
+                "percentage": "5.0E-6",
+                "region": "Canton of Obwalden"
+            },
+            {
+                "percentage": "5.3E-5",
+                "region": "Canton of St. Gallen"
+            },
+            {
+                "percentage": "1.0E-5",
+                "region": "Schaffhausen"
+            },
+            {
+                "percentage": "1.9E-5",
+                "region": "Solothurn"
+            },
+            {
+                "percentage": "0.002965",
+                "region": "Antalya Province"
+            },
+            {
+                "percentage": "2.4E-5",
+                "region": "Thurgau"
+            },
+            {
+                "percentage": "2.9E-5",
+                "region": "Ticino"
+            },
+            {
+                "percentage": "5.0E-6",
+                "region": "Uri"
+            },
+            {
+                "percentage": "3.9E-5",
+                "region": "Valais"
+            },
+            {
+                "percentage": "0.00014",
+                "region": "Vaud"
+            },
+            {
+                "percentage": "0.000221",
+                "region": "Zürich"
+            },
+            {
+                "percentage": "1.4E-5",
+                "region": "Jura"
+            },
+            {
+                "percentage": "0.00013",
+                "region": "Adıyaman Province"
+            },
+            {
+                "percentage": "0.000255",
+                "region": "Afyonkarahisar Province"
+            },
+            {
+                "percentage": "9.1E-5",
+                "region": "Ağrı Province"
+            },
+            {
+                "percentage": "0.000111",
+                "region": "Amasya Province"
+            },
+            {
+                "percentage": "0.00027",
+                "region": "Berlin"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.132918",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000765",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00101",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001116",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002218",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000852",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.048505",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.111216",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.063866",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.163372",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.047215",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.072757",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.105731",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.077173",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.049534",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.063067",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.058439",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000245",
+                "age": "18-24",
+                "gender": "unknown"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "200000",
+            "upper_bound": "249999"
+        },
+        "languages": [
+            "en"
+        ],
+        "page_id": "1006411482778121",
+        "page_name": "FedEx",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "300",
+            "upper_bound": "399"
+        },
+        "_id": "310189486540206"
+    }
+]

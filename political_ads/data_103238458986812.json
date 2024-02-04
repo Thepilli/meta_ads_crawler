@@ -1,0 +1,980 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1460996871296457&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-22",
+        "ad_creative_bodies": [
+            "Tak Česká pirátská strana Soumar, Brož, Posekaný, zapomněli na svůj vlastní volební program... Skleróza? Nebo úmysl? Co si o tom myslí jejich voliči? Dali jim hlas v komunálních volbách za slib, že budou bojovat za rekonstrukci bazénu pod hradbami a místo toho se jim vykáleli na hlavu. Pro osvěžení paměti přidáváme odkaz na volební program Pirátů, kde aktuálně  ještě i dnes (!!!) 22.11.2023, tedy i po tom jejich ostudném hlasování, stále slibují lidem bazén pod hradbami. Holt parta matláků s ambicí řídit okresní město...  (v odkazu si potom klikněte na ikonku: Bazén v Písku): https://piratipisecko.cz/program-2022/ PS: Pokud to na svém webu smažou, rádi Vám to sem umístíme ze zálohy."
+        ],
+        "ad_delivery_start_time": "2023-11-22",
+        "ad_delivery_stop_time": "2023-11-29",
+        "bylines": "PSR",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "South Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000821",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.060755",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002463",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000821",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001642",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.087028",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.076355",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.101806",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.191297",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.007389",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.039409",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.14532",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.091133",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.076355",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.004105",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.077997",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.034483",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000821",
+                "age": "18-24",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "2000",
+            "upper_bound": "2999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "103238458986812",
+        "page_name": "Písek srdcem a rozumem",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "300",
+            "upper_bound": "399"
+        },
+        "target_locations": [
+            {
+                "name": "Písek, Jihočeský Kraj, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 1247,
+        "beneficiary_payers": [
+            {
+                "payer": "Písek srdcem a rozumem",
+                "beneficiary": "Písek srdcem a rozumem",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "65+",
+                        "male": 111,
+                        "female": 95,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 177,
+                        "female": 74,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 93,
+                        "female": 93,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 233,
+                        "female": 106,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 42,
+                        "female": 9,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 124,
+                        "female": 48,
+                        "unknown": 3
+                    }
+                ]
+            }
+        ],
+        "_id": "1460996871296457"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=997551431331784&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-07",
+        "ad_creative_bodies": [
+            "V reakci na prohlášení místostarosty za ODS v Jihočeská televize , připravili naši zastupitelé, společně se zastupiteli z HLAS Písku , návrh na zrušení zvýšení daně z nemovistosti v Písku. \n\nPředseda finančního výboru Jiří Černý vyjádřil souhlas s tvrzením hejtmana Martin Kuba , že Písek nutně zvýšení daně nepotřebuje. \nStejný názor přidal i kolega Anděl, který navrhuje šetřit na zbytných projektech, například kempu. \nLukáš Nebes zmínil, že velká část obyvatel pracuje v průmyslové či nákupní zóně průměrně za 20-25 tisíc čistého měsíčně a při současném zdražování tak každá tisícikoruna navíc rodiny trápí. \nCelá debata trvala přes půl hodiny. \nKoalice nakonec označila hejtmanovo vměšování za nepřijatelné a označila návrh opozice za populistický. Pro snížení daně na původní úroveň hlasovalo nakonec jen 8 zastupitelů. \nPísečákům tak v příští roce zdraží daň z nemovitosti o dvou a půl násobek. To se promítne i do ceny pronájmu a dalších nákladů."
+        ],
+        "ad_delivery_start_time": "2023-11-07",
+        "ad_delivery_stop_time": "2023-11-14",
+        "bylines": "PSR",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "South Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000885",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.092035",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00177",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.068142",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.073451",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.046018",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.084956",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00177",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.136283",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000885",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.156637",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.138938",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.068142",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.037168",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.019469",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.072566",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000885",
+                "age": "18-24",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "103238458986812",
+        "page_name": "Písek srdcem a rozumem",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Písek, Jihočeský Kraj, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 1143,
+        "beneficiary_payers": [
+            {
+                "payer": "PSR",
+                "beneficiary": "PSR",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "35-44",
+                        "male": 157,
+                        "female": 77,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 77,
+                        "female": 83
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 82,
+                        "female": 96,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 177,
+                        "female": 104,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 154,
+                        "female": 52,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 42,
+                        "female": 22,
+                        "unknown": 1
+                    }
+                ]
+            }
+        ],
+        "_id": "997551431331784"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=538326608052589&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-09-23",
+        "ad_creative_bodies": [
+            "Chcete, aby otázka píseckého bazénu pod hradbami byla konečně dotáhnuta do zdárného finále? Pak vsaďte na jistotu a podpořte svým hlasem ty, kteří stojí za sběrem podpisů pod letošní peticí za vypsání referenda o rekonstrukci píseckého bazénu pod hradbami. \nIniciátoři referenda a členové petičního výboru kandiduji společně za sdružení Písek srdcem a rozumem do zastupitelstva města Písku.\n\nPísecký bazén - referendum 2022 #pisek2022  #mestopisek"
+        ],
+        "ad_delivery_start_time": "2022-09-23",
+        "ad_delivery_stop_time": "2022-09-24",
+        "bylines": "Jan Belák",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "South Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000989",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.043521",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.093966",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.136499",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.110781",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.114738",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.049456",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.048467",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.110781",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.050445",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.054402",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.098912",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.082097",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.004946",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "page_id": "103238458986812",
+        "page_name": "Písek srdcem a rozumem",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "_id": "538326608052589"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1064154780968716&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-09-22",
+        "ad_creative_bodies": [
+            "Tak nachystáno! Není potřeba ani víc otevírat 🙂 Jsme rádi, že jste se rozhodli volit právě nás - Písek srdcem a rozumem. Abyste nás v naší práci podpořili co nejvíce, zaškrtněte celou naší kandidátku - číslo 4️⃣ 🖋 Nejdelší kandidátní listina je pro Vás ta pravá. 😉"
+        ],
+        "ad_delivery_start_time": "2022-09-23",
+        "ad_delivery_stop_time": "2022-09-24",
+        "bylines": "Jan Belák",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "South Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000748",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000374",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.003741",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.021324",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.02095",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.044893",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.078189",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.147774",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.136925",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.152263",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.025065",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.153012",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.114104",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.051627",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.04639",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002619",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "4000",
+            "upper_bound": "4999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "103238458986812",
+        "page_name": "Písek srdcem a rozumem",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "_id": "1064154780968716"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=424150239808495&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-09-14",
+        "ad_creative_bodies": [
+            "Město hledá úspory na příští rok, škrty se dotknou téměř všech. Jen náklady na energie seberou navíc další miliony z rozpočtu. \nVšichni víme, že šetřit se musí. \n\nNicméně hledat úspory a zároveň v době krize trvat na stavbě nového bazénu za více než půl miliardy je zvláštní. \nŠetřit se má i u složek Integrovaného záchranného systému, které město zřizuje. Městem je zřízena Městská policie a pět jednotek dobrovolných hasičů. Z toho jedna velká v Písku a čtyři malé v městských částech. Strážníci ani hasiči nemají na růžích ustláno a dělají činnosti, které jim nelze závidět.\nSahat na jejich rozpočty po tom, co mají poslední léta za sebou, není fér. I v době Covidové krize pracovaly městské složky na plno. Žádné práce na doma a útlum činnosti. Pro zajímavost, průměrné stáří vozidel jednotek hasičů zřízených městem Písek je 26 let. \n\nChceme důstojné zázemí a podporu městských složek IZS. Nechceme šikanovat strážníky kontrolami parkovacích lístků, když to zvládnou moderní technologie. Budeme se snažit prohloubit a zefektivnit funkci strážníků - okrskářů."
+        ],
+        "ad_creative_link_captions": [
+            "piseksrdcemarozumem.cz"
+        ],
+        "ad_creative_link_descriptions": [
+            "Písečákům zrušíme poplatek za popelnice i poplatek za psa. Občané si tyto služby už zaplatili ze svých daní. Co jde jinde, např. ve Strakonicích, jde i v Písku."
+        ],
+        "ad_creative_link_titles": [
+            "PÍSEK SRDCEM A ROZUMEM – Písek sobě + Svobodní + Písecký patrioti + Trikolora + nezávislí kandidáti"
+        ],
+        "ad_delivery_start_time": "2022-09-14",
+        "ad_delivery_stop_time": "2022-09-23",
+        "bylines": "Jan Belák",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000297",
+                "region": "Suchitepéquez Department"
+            },
+            {
+                "percentage": "0.999703",
+                "region": "South Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000292",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.091971",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.06073",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.088175",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.054891",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.108321",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.132555",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.176058",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.022482",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.163212",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000584",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.032117",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.032117",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000292",
+                "age": "13-17",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.031533",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000292",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001168",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000292",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00292",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "6000",
+            "upper_bound": "6999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "103238458986812",
+        "page_name": "Písek srdcem a rozumem",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "_id": "424150239808495"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=597711495349602&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-09-11",
+        "ad_creative_bodies": [
+            "Velká část naší kandidátky pamatuje Písek v době, kdy se \"pařilo\" v největší Jihočeské diskotéce - Družbě, nebo třeba pátek v \"Cade\", sem tam na \"Americe\" \nPamatujeme i dobu, kdy se v hospodách mohlo kouřit.\nDoba je jiná, ale mladí si na chybějící diskotéku stěžují celkem často. Aby také ne, vždyť jsme jediné větší město v celém kraji, kde žádná není. \nZábavní podniky určitě nejsou v gesci zastupitelů a vedení města. \nVytvoření podmínek pro takový druh podnikání však ano. Krizí nočního života prošly i Budějovice. A právě dílem aktivních zastupitelů došlo ke kompromisu z hlediska zábavy, pořádku i nočního klidu. Základem je spolupráce pořadatelů, ochranky a Městské policie. Pojďme to zkusit i v Písku. \nJe velká škoda, že jako rodiny odjíždějí za koupáním do jiných měst, tak mladí zase za zábavou."
+        ],
+        "ad_creative_link_captions": [
+            "piseksrdcemarozumem.cz"
+        ],
+        "ad_creative_link_descriptions": [
+            "Písečákům zrušíme poplatek za popelnice i poplatek za psa. Občané si tyto služby už zaplatili ze svých daní. Co jde jinde, např. ve Strakonicích, jde i v Písku."
+        ],
+        "ad_creative_link_titles": [
+            "PÍSEK SRDCEM A ROZUMEM – Písek sobě + Svobodní + Písecký patrioti + Trikolora + nezávislí kandidáti"
+        ],
+        "ad_delivery_start_time": "2022-09-12",
+        "ad_delivery_stop_time": "2022-09-16",
+        "bylines": "Jan Belák",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "South Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000495",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.026212",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.189911",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.117705",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.117211",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.087537",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.237389",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.037092",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.181503",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002967",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000495",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001484",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "3000",
+            "upper_bound": "3999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "103238458986812",
+        "page_name": "Písek srdcem a rozumem",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "_id": "597711495349602"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=477996267254991&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-09-07",
+        "ad_creative_bodies": [
+            "Chceme dělat i úplně obyčejné věci, pro obyčejné lidi, pro Písečáky. \n\nVěříme, že většina běžných obyvatel města momentálně nepotřebuje lyžařský svah, luxusní kemp či bazén s lezeckou stěnou. \n\nPotřebujeme mít funkční a opravené dětské hřiště a sportoviště. Potřebujeme mít v použitelném a čistém stavu lavičky, chodníky. Potřebujeme udržet ulice i parky čisté a bezpečné. Potřebujeme mít kde zaparkovat. \n\nPísek musí být prostorem pro dobrý život Písečáků a ne skanzenem pro turisty."
+        ],
+        "ad_creative_link_captions": [
+            "piseksrdcemarozumem.cz"
+        ],
+        "ad_creative_link_descriptions": [
+            "Písečákům zrušíme poplatek za popelnice i poplatek za psa. Občané si tyto služby už zaplatili ze svých daní. Co jde jinde, např. ve Strakonicích, jde i v Písku."
+        ],
+        "ad_creative_link_titles": [
+            "PÍSEK SRDCEM A ROZUMEM – Písek sobě + Svobodní + Písecký patrioti + Trikolora + nezávislí kandidáti"
+        ],
+        "ad_delivery_start_time": "2022-09-08",
+        "ad_delivery_stop_time": "2022-09-23",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.946925",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.021412",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.029157",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.002506",
+                "region": "Unknown"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.169276",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.087815",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.118902",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.125255",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.20059",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.289766",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002269",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00295",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.003177",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "15000",
+            "upper_bound": "19999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "103238458986812",
+        "page_name": "Písek srdcem a rozumem",
+        "publisher_platforms": [
+            "facebook",
+            "instagram",
+            "messenger"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "_id": "477996267254991"
+    }
+]

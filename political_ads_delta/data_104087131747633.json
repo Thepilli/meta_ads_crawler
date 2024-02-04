@@ -1,0 +1,222 @@
+[
+    {
+        "id": "366721332658221",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=366721332658221&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-23",
+        "ad_creative_bodies": [
+            "Žid nebo Turek byli nekorektní masopustní maškary. Na Hlinecku ale UNESCO obelstili\nhttps://www.reflex.cz/clanek/reportaze/122845/zid-nebo-turek-byli-nekorektni-masopustni-maskary-na-hlinecku-ale-unesco-obelstili.html?fbclid=IwAR3oisAgLqkdXS2czXULau_XOtQBgdL93AZwyFTujA4lNzX-9_Ms84e7wxM"
+        ],
+        "ad_delivery_start_time": "2024-01-23",
+        "ad_delivery_stop_time": "2024-01-27",
+        "bylines": "Zaostřeno",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.041837",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.170077",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.193724",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.061846",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.033197",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.024102",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.035016",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.060027",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.089131",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.042747",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.036835",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.069577",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.059118",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.082765",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000453",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001359",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000453",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.040308",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.009511",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.112319",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.092844",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.109149",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.209692",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.126359",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.098732",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.135417",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.060688",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002717",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "2000",
+            "upper_bound": "2999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "104087131747633",
+        "page_name": "Zaostřeno",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "31",
+            "65"
+        ],
+        "eu_total_reach": 2194,
+        "beneficiary_payers": [
+            {
+                "payer": "Zaostřeno",
+                "beneficiary": "Zaostřeno",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "male": 248,
+                        "female": 205,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 218,
+                        "female": 134,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 241,
+                        "female": 279,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 299,
+                        "female": 463,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 89,
+                        "female": 21
+                    }
+                ]
+            }
+        ]
+    }
+]

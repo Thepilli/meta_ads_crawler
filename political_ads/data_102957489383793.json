@@ -1,0 +1,237 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=617379060573802&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-10-12",
+        "ad_creative_bodies": [
+            "⚙️LAMA Energy patří mezi jednoho ze dvou českých dodavatelů, kteří provádí vlastní těžbu zemního plynu na našem území. I díky tomu jsou naše ceny vždy nižší. 📉"
+        ],
+        "ad_delivery_start_time": "2023-10-12",
+        "ad_delivery_stop_time": "2023-10-14",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.057125",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.060264",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.1199",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.052731",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.043942",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.031387",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.045198",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.087257",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.168236",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.037665",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.045825",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.084746",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.103578",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.062147",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000627",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.184442",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002509",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.006274",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002509",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.149937",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.006274",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.033877",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.048934",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001882",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.206399",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.164366",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.081556",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.096612",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00941",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001882",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002509",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "102957489383793",
+        "page_name": "LAMA energy",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 1569,
+        "beneficiary_payers": [
+            {
+                "payer": "LAMA energy",
+                "beneficiary": "LAMA energy",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 10,
+                        "female": 4,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 262,
+                        "female": 54,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 329,
+                        "female": 239,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 294,
+                        "female": 130,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 154,
+                        "female": 15
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 78,
+                        "female": 10,
+                        "unknown": 3
+                    }
+                ]
+            }
+        ],
+        "_id": "617379060573802"
+    }
+]

@@ -1,0 +1,685 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=693802368995719&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-10-13",
+        "ad_creative_bodies": [
+            "Jak se ženám v IT pracuje a jakým způsobem je společnosti podporují?"
+        ],
+        "ad_creative_link_captions": [
+            "info-lifestyle.cz"
+        ],
+        "ad_creative_link_descriptions": [
+            "IT je jedním z odvětví, kterému napříč světem dominují muži. Společnost Veeam Software však podporuje rovné příležitosti a umožňuje..."
+        ],
+        "ad_creative_link_titles": [
+            "ROVNOST MUŽŮ A ŽEN VE SVĚTĚ IT"
+        ],
+        "ad_delivery_start_time": "2023-10-17",
+        "ad_delivery_stop_time": "2023-10-20",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.048818",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.15103",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.13196",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.045767",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.051106",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.038139",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.026697",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.069413",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.116705",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.043478",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.05492",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.096873",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.081617",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.043478",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.033588",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.068702",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001527",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000763",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00229",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.020611",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001527",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.048855",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.103817",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.087786",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.136641",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.110687",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.098473",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.096947",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.119084",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.067939",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000763",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "102070114861206",
+        "page_name": "Lifestyle Info CZ/SK",
+        "publisher_platforms": [
+            "facebook",
+            "instagram",
+            "audience_network",
+            "messenger"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 1322,
+        "beneficiary_payers": [
+            {
+                "payer": "Info lifestyle",
+                "beneficiary": "Info lifestyle",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 89,
+                        "female": 64,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 136,
+                        "female": 90,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 145,
+                        "female": 179,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 129,
+                        "female": 127,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 156,
+                        "female": 115,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 27,
+                        "female": 44
+                    }
+                ]
+            }
+        ],
+        "_id": "693802368995719"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=3443662645849683&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-04-17",
+        "ad_creative_bodies": [
+            "Největší světový výrobce cukrovinek změnil balení svých výrobků = o 2 868 tun plastů méně!"
+        ],
+        "ad_creative_link_captions": [
+            "info-podnikani.cz"
+        ],
+        "ad_creative_link_descriptions": [
+            "Jak chránit svět kolem nás? Odpovědí je udržitelnost, která je v současné době klíčovým tématem po celém světě. Plastový odpad je už..."
+        ],
+        "ad_creative_link_titles": [
+            "Na výrobním trhu tak strčíli do kapsy hned několi..."
+        ],
+        "ad_delivery_start_time": "2023-04-17",
+        "ad_delivery_stop_time": "2023-04-18",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.05618",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.123596",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.101124",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.05618",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.033708",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.078652",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.089888",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.044944",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.089888",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.101124",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.101124",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.078652",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.011236",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.033708",
+                "region": "Liberec Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.022472",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.044944",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.101124",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.089888",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.05618",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.05618",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.157303",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.123596",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.11236",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.05618",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.101124",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.078652",
+                "age": "55-64",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "102070114861206",
+        "page_name": "Lifestyle Info CZ/SK",
+        "publisher_platforms": [
+            "facebook",
+            "instagram",
+            "audience_network",
+            "messenger"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "_id": "3443662645849683"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=6190046051042303&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-04-17",
+        "ad_creative_bodies": [
+            "Největší světový výrobce cukrovinek změnil balení svých výrobků = o 2 868 tun plastů méně!"
+        ],
+        "ad_creative_link_captions": [
+            "info-podnikani.cz"
+        ],
+        "ad_creative_link_descriptions": [
+            "Jak chránit svět kolem nás? Odpovědí je udržitelnost, která je v současné době klíčovým tématem po celém světě. Plastový odpad je už..."
+        ],
+        "ad_creative_link_titles": [
+            "Na výrobním trhu tak strčíli do kapsy hned několi..."
+        ],
+        "ad_delivery_start_time": "2023-04-17",
+        "ad_delivery_stop_time": "2023-04-18",
+        "currency": "CZK",
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "102070114861206",
+        "page_name": "Lifestyle Info CZ/SK",
+        "publisher_platforms": [
+            "facebook",
+            "instagram",
+            "audience_network",
+            "messenger"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "_id": "6190046051042303"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=2605379739595966&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-06-23",
+        "ad_creative_bodies": [
+            "🔴 Jak velký vliv má automobilový průmysl na uhlíkovou stopu?",
+            "🔴 Jak velký vliv má automobilový průmysl na uhlíkovou stopu?"
+        ],
+        "ad_creative_link_captions": [
+            "info-lifestyle.cz"
+        ],
+        "ad_creative_link_titles": [
+            "SDÍLENÍ VOZŮ JE ŠETRNÉ K ŽIVOTNÍMU PROSTŘEDÍ",
+            "SDÍLENÍ VOZŮ JE ŠETRNÉ K ŽIVOTNÍMU PROSTŘEDÍ"
+        ],
+        "ad_delivery_start_time": "2022-06-24",
+        "ad_delivery_stop_time": "2022-06-25",
+        "currency": "CZK",
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "102070114861206",
+        "page_name": "Lifestyle Info CZ/SK",
+        "publisher_platforms": [
+            "facebook",
+            "instagram",
+            "audience_network",
+            "messenger"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "_id": "2605379739595966"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=339031591573046&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-06-23",
+        "ad_creative_bodies": [
+            "🔴 Sdílení vozů pomáhá minimalizovat uhlíkovou stopu. Jaké další výhody přináší?",
+            "🔴 Sdílení vozů pomáhá minimalizovat uhlíkovou stopu. Jaké další výhody přináší?"
+        ],
+        "ad_creative_link_captions": [
+            "info-lifestyle.cz"
+        ],
+        "ad_creative_link_titles": [
+            "SDÍLENÍ VOZŮ JE ŠETRNÉ K ŽIVOTNÍMU PROSTŘEDÍ",
+            "SDÍLENÍ VOZŮ JE ŠETRNÉ K ŽIVOTNÍMU PROSTŘEDÍ"
+        ],
+        "ad_delivery_start_time": "2022-06-24",
+        "ad_delivery_stop_time": "2022-06-29",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.064251",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.10439",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.103554",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.063972",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.052822",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.043902",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.047805",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.055052",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.110244",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.050871",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.054355",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.092125",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.108432",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.048223",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000557",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.043133",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.121052",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.266732",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.171977",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.031446",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.107555",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.050925",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.066231",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000139",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.015305",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.031863",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.014192",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000557",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000417",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000139",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000417",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.077362",
+                "age": "45-54",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "102070114861206",
+        "page_name": "Lifestyle Info CZ/SK",
+        "publisher_platforms": [
+            "facebook",
+            "instagram",
+            "audience_network",
+            "messenger"
+        ],
+        "spend": {
+            "lower_bound": "500",
+            "upper_bound": "599"
+        },
+        "_id": "339031591573046"
+    }
+]

@@ -1,0 +1,213 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=715636947154575&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-01",
+        "ad_creative_bodies": [
+            "Budu se těšit❣️vánočni nálada zahřeje u srdíčka☝️dortiky, perníčky, sušenky, připravené ve vánočním🥰, přijďte se podívat na stromecek. Můžete objednat na vánoční stůl něco dobrého z mého studia 🌲🌲🌲"
+        ],
+        "ad_creative_link_captions": [
+            "Tento dor může být Váš, nachystali jsme místo velkého Rybízku základní dortík."
+        ],
+        "ad_delivery_start_time": "2023-12-01",
+        "ad_delivery_stop_time": "2023-12-02",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "South Moravian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.29337",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.232516",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.325159",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.148955",
+                "age": "55-64",
+                "gender": "female"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "2000",
+            "upper_bound": "2999"
+        },
+        "page_id": "817902795038586",
+        "page_name": "Medové dorty",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "target_locations": [
+            {
+                "name": "Brno, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "Women",
+        "target_ages": [
+            "26",
+            "63"
+        ],
+        "eu_total_reach": 2188,
+        "beneficiary_payers": [
+            {
+                "payer": "Medové dorty",
+                "beneficiary": "Medové dorty",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "female": 646
+                    },
+                    {
+                        "age_range": "35-44",
+                        "female": 716
+                    },
+                    {
+                        "age_range": "45-54",
+                        "female": 512
+                    },
+                    {
+                        "age_range": "55-64",
+                        "female": 328
+                    }
+                ]
+            }
+        ],
+        "_id": "715636947154575"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=480907373978801&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-10-19",
+        "ad_creative_bodies": [
+            "Už tuto sobotu Farmářské trhy na Juliánovském nám. Připravím Medové dortíky a mafinky, mrkváček a sachracek😄🤞nebo Mikrodorty, a bude i BEZLEPEK👍🙌👍nepečte na víkend a odpočiňte si, třeba u skvělého kousku dortu ode mne🙏☝️❤️"
+        ],
+        "ad_delivery_start_time": "2022-10-20",
+        "ad_delivery_stop_time": "2022-10-22",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.047322",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.058694",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.238811",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.059428",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.051724",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.023844",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.040352",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.063463",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.10088",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.051724",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.045855",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.089508",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.068232",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.060161",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.246058",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.177851",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.23579",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.340301",
+                "age": "45-54",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "500001",
+            "upper_bound": "1000000"
+        },
+        "impressions": {
+            "lower_bound": "3000",
+            "upper_bound": "3999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "817902795038586",
+        "page_name": "Medové dorty",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "_id": "480907373978801"
+    }
+]

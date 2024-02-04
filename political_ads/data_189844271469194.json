@@ -1,0 +1,181 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=354439957175357&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-14",
+        "ad_creative_link_captions": [
+            "caulnes.com"
+        ],
+        "ad_creative_link_titles": [
+            "Bezrizikový příjem měsíčně díky umělé inteligenci s minimálními investicemi"
+        ],
+        "ad_delivery_start_time": "2023-12-19",
+        "ad_delivery_stop_time": "2023-12-19",
+        "currency": "EUR",
+        "delivery_by_region": [
+            {
+                "percentage": "0.050518",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.17487",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.130829",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.05829",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.045337",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.018135",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.034974",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.044041",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.106218",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.059585",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.054404",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.11658",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.066062",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.040155",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001295",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.006477",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.13601",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.11399",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.007772",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.257772",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.099741",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.341969",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.034974",
+                "age": "55-64",
+                "gender": "female"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "page_id": "189844271469194",
+        "page_name": "Finance news - CA",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "35",
+            "63"
+        ],
+        "eu_total_reach": 772,
+        "beneficiary_payers": [
+            {
+                "payer": "Francesco Silvini",
+                "beneficiary": "Francesco Silvini",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "35-44",
+                        "male": 264,
+                        "female": 105,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 199,
+                        "female": 88,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 77,
+                        "female": 27,
+                        "unknown": 1
+                    }
+                ]
+            }
+        ],
+        "_id": "354439957175357"
+    }
+]

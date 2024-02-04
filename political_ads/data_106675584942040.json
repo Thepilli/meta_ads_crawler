@@ -1,0 +1,257 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=24479085151738301&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-01",
+        "ad_creative_link_captions": [
+            "https://www.plauen.de/cs",
+            "https://www.plauen.de/cs",
+            "https://www.plauen.de/cs",
+            "https://www.plauen.de/cs"
+        ],
+        "ad_creative_link_titles": [
+            "VÁNOČNÍ TRH V PLAVNĚ",
+            "VÁNOČNÍ TRH V PLAVNĚ",
+            "VÁNOČNÍ TRH V PLAVNĚ",
+            "VÁNOČNÍ TRH V PLAVNĚ"
+        ],
+        "ad_delivery_start_time": "2023-12-01",
+        "ad_delivery_stop_time": "2023-12-04",
+        "currency": "EUR",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000825",
+                "region": "Bayern"
+            },
+            {
+                "percentage": "0.000165",
+                "region": "Thüringen"
+            },
+            {
+                "percentage": "0.578574",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.211291",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.022615",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.182734",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.003797",
+                "region": "Sachsen"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000164",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.124631",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001148",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00082",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000656",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001476",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.004428",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.022794",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.013611",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.238111",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.035093",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.007051",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.044441",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.10938",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.105936",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.211217",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.078878",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000164",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "9000",
+            "upper_bound": "9999"
+        },
+        "page_id": "106675584942040",
+        "page_name": "Stadt Plauen",
+        "publisher_platforms": [
+            "facebook",
+            "instagram",
+            "audience_network",
+            "messenger"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Karlovy Vary, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 6057,
+        "beneficiary_payers": [
+            {
+                "payer": "Stadt Plauen",
+                "beneficiary": "Stadt Plauen",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "DE",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 1,
+                        "female": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 3,
+                        "female": 2
+                    },
+                    {
+                        "age_range": "55-64",
+                        "female": 9
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 1,
+                        "female": 5
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 2,
+                        "female": 2
+                    },
+                    {
+                        "age_range": "65+",
+                        "female": 3
+                    }
+                ]
+            },
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "65+",
+                        "male": 667,
+                        "female": 1448,
+                        "unknown": 9
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 646,
+                        "female": 1284,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 481,
+                        "female": 759,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 211,
+                        "female": 270,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 82,
+                        "female": 137,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 26,
+                        "female": 42,
+                        "unknown": 1
+                    }
+                ]
+            }
+        ],
+        "_id": "24479085151738301"
+    }
+]

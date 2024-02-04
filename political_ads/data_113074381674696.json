@@ -1,0 +1,563 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=2153587508323027&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-21",
+        "ad_creative_bodies": [
+            "Jsem vysokoškolský pedagog, právník a opoziční zastupitel města Přerov. Není mi jedno, jak je naše město vedeno. Potřebujeme skutečnou vizi a pořádnou strategii. Věřím, že Přerov má na víc! Pro víc informací o dění ve městě mě sledujte."
+        ],
+        "ad_delivery_start_time": "2023-11-21",
+        "ad_delivery_stop_time": "2023-11-30",
+        "bylines": "Česká pirátská strana",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.809734",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.190266",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001151",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.052798",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001295",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.046468",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.047044",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.035534",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.06402",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.182564",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.076248",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000863",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.181844",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.068192",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.146454",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002014",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.048195",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.043591",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001007",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000719",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "113074381674696",
+        "page_name": "Petr Dostalík, zastupitel města Přerov",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "target_locations": [
+            {
+                "name": "Prerov, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 6994,
+        "beneficiary_payers": [
+            {
+                "payer": "Česká pirátská strana",
+                "beneficiary": "Česká pirátská strana",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 1269,
+                        "female": 335,
+                        "unknown": 14
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 1264,
+                        "female": 367,
+                        "unknown": 9
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 327,
+                        "female": 303,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 474,
+                        "female": 323,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 1018,
+                        "female": 445,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 530,
+                        "female": 247,
+                        "unknown": 8
+                    }
+                ]
+            }
+        ],
+        "_id": "2153587508323027"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=939373354428799&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-21",
+        "ad_creative_bodies": [
+            "Strojař se prodávat NEBUDE!\n\n🏴‍☠️ Povedlo se a je to úspěch celé opozice! Společně jsme sbírali podpisy za zachování Strojaře v majetku města a nakonec se to podařilo. Minulý týden majetková komise a komise pro rozvoj schválily tři varianty budoucnosti Strojaře a navrhly ZRUŠIT záměr prodeje.\n\n👉 Bude to sice ještě trvat, ale už teď je jasné, že na místě Strojaře vznikne dostupné bydlení pro Přerovany. O všem budeme více jednat na prosincovém zastupitelstvu, nicméně jsem rád, že budou do projektu skrze pracovní skupinu zapojené všechny politické strany a výstavba se bude řešit formou veřejné zakázky s použitím soutěžního dialogu. \n\nO průběhu vás samozřejmě budu/budeme informovat. 🙏"
+        ],
+        "ad_delivery_start_time": "2023-11-21",
+        "ad_delivery_stop_time": "2023-11-25",
+        "bylines": "Česká pirátská strana",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.957746",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.042254",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001422",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.110953",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001422",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.032006",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.150071",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.073969",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.101707",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.125178",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.103841",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002134",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.12091",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.017781",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.039829",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.09744",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000711",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000711",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.019915",
+                "age": "25-34",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "2000",
+            "upper_bound": "2999"
+        },
+        "page_id": "113074381674696",
+        "page_name": "Petr Dostalík, zastupitel města Přerov",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "target_locations": [
+            {
+                "name": "Prerov, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 1418,
+        "beneficiary_payers": [
+            {
+                "payer": "Česká pirátská strana",
+                "beneficiary": "Česká pirátská strana",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "65+",
+                        "male": 143,
+                        "female": 211,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 137,
+                        "female": 56,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 146,
+                        "female": 176,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 170,
+                        "female": 156,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 104,
+                        "female": 28,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 45,
+                        "female": 25
+                    }
+                ]
+            }
+        ],
+        "_id": "939373354428799"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=887465076058033&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-08",
+        "ad_creative_bodies": [
+            "Přerované trhají rekordy v počtů výpůjček sdílených kol. Minulý měsíc proběhlo celkem 27 500 výpůjček, což je nejvíc z CELÉ České republiky. Jsem rád, že se “obavy a předsudky” některých místních nenaplnily. Alespoň já zatím žádné kolo v Bečvě neviděl. 😅"
+        ],
+        "ad_delivery_start_time": "2023-11-08",
+        "ad_delivery_stop_time": "2023-11-12",
+        "bylines": "Česká pirátská strana",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.840916",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.159084",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001902",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001585",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.191125",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.033914",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000951",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.058954",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.209509",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.132488",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.220919",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.063074",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.017433",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.037718",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.026941",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001585",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001902",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "4000",
+            "upper_bound": "4999"
+        },
+        "page_id": "113074381674696",
+        "page_name": "Petr Dostalík, zastupitel města Přerov",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "300",
+            "upper_bound": "399"
+        },
+        "target_locations": [
+            {
+                "name": "Prerov, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "60"
+        ],
+        "eu_total_reach": 3189,
+        "beneficiary_payers": [
+            {
+                "payer": "Česká pirátská strana",
+                "beneficiary": "Česká pirátská strana",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 697,
+                        "female": 85,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 418,
+                        "female": 55,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 603,
+                        "female": 119,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 661,
+                        "female": 186,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 199,
+                        "female": 107,
+                        "unknown": 3
+                    }
+                ]
+            }
+        ],
+        "_id": "887465076058033"
+    }
+]

@@ -1,0 +1,200 @@
+[
+    {
+        "id": "709397921409047",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=709397921409047&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-29",
+        "ad_creative_bodies": [
+            "Rakovnická Masarykova nemocnice chce poskytovat lidem v regionu kvalitní a dostupnou péči. I proto v posledních letech majitelé investovali a mají v plánu i nadále investovat více než 600 milionů korun. Rozvíjet nemocnici se daří i díky 150 milionové dotaci z MMR. Moderní prostředí a přístrojové vybavení může přivést do naší nemocnice i další kolegy lékaře a jiné zdravotníky. I díky tomu patří společnost Privamed a.s. v anketách mezi Top 100 firem v České republice 👍"
+        ],
+        "ad_delivery_start_time": "2024-01-29",
+        "bylines": "Ivo Trešl - senátor",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.003174",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.719359",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.277467",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000609",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.130329",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000761",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000305",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001218",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.008374",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.012942",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.069123",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.153471",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.112363",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.115256",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.126218",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.049787",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.055268",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.059836",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.10338",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000761",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "page_id": "105627351224740",
+        "page_name": "Ivo Trešl - senátor",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "target_locations": [
+            {
+                "name": "Olešná, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Postoloprty, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 6540,
+        "beneficiary_payers": [
+            {
+                "payer": "Starostové a nezávislí • STAN",
+                "beneficiary": "Starostové a nezávislí • STAN",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 327,
+                        "female": 393,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 757,
+                        "female": 1008,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 363,
+                        "female": 829,
+                        "unknown": 8
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 454,
+                        "female": 856,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 55,
+                        "female": 85
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 679,
+                        "female": 738,
+                        "unknown": 5
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,2553 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=761121992510241&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-03",
+        "ad_creative_bodies": [
+            "Na Baranově TSK testuje nové chráničky stromů. Běžte se podívat, jestli fungují. Zabírají méně místa autům, a zároveň taky velmi dobře chrání.\nA oproti \"trubnímu řešení\" se na ně dá i koukat :) Snad se co nejrychleji dostanou do celé Prahy."
+        ],
+        "ad_delivery_start_time": "2023-12-03",
+        "ad_delivery_stop_time": "2023-12-08",
+        "bylines": "Jan Bartko - radní Prahy 3",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000368",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.000368",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.000368",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.000368",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.000368",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.000368",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.000368",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.991897",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.001105",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.001105",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.002578",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.000737",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000368",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.225901",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000736",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.005887",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.034952",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.036792",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.092347",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001104",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.168874",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002208",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.074319",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.030537",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.045254",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.195732",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.029065",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.025386",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.02833",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002208",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "3000",
+            "upper_bound": "3999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "100202116270600",
+        "page_name": "Jan Bartko - radní Prahy 3",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "130 00, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "zips",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 2723,
+        "beneficiary_payers": [
+            {
+                "payer": "Jan Bartko - radní Prahy 3",
+                "beneficiary": "Jan Bartko - radní Prahy 3",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "55-64",
+                        "male": 202,
+                        "female": 95,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 614,
+                        "female": 79,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 123,
+                        "female": 83,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 459,
+                        "female": 100,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 251,
+                        "female": 77,
+                        "unknown": 16
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 532,
+                        "female": 69,
+                        "unknown": 3
+                    }
+                ]
+            }
+        ],
+        "_id": "761121992510241"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=306038422237797&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-02",
+        "ad_creative_bodies": [
+            "Kompostuju, kompostuješ, kompostujeme!\n\nVčera jsme u nás na Ko, ehm, Hartigově, přehazovali komunitní kompost :).\n\nJe fajn, že kompostováním odkloníme spoustu rostlinného odpadu mimo klasické popelnice. Pro mě je ale hlavní ten \"komunitní\" efekt. Pokecáte s podobně smýšlejícími lidmi, dáte si limču a zákusek... Tentokrát to bylo i s fajn edukační seanci od ReKávy. Že se končilo za tmy, to nikomu nakonec vůbec nevadilo. A přišel i pan starosta, přiložil ruku k dílu. \n\nKompostérů teď máme sedm, příští rok bychom chtěli otevřít další. Máte tip na lokalitu? :)"
+        ],
+        "ad_delivery_start_time": "2023-11-02",
+        "ad_delivery_stop_time": "2023-11-07",
+        "bylines": "Jan Bartko - radní Prahy 3",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000505",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.00101",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.000505",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.000505",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.997476",
+                "region": "Prague"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.003575",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.064862",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.198672",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.107763",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000511",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001532",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000511",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.018386",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.047497",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.003064",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.083759",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.07048",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.041369",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.051583",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.024515",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.118488",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.163432",
+                "age": "35-44",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "2000",
+            "upper_bound": "2999"
+        },
+        "page_id": "100202116270600",
+        "page_name": "Jan Bartko - radní Prahy 3",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "130 00, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "zips",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 1984,
+        "beneficiary_payers": [
+            {
+                "payer": "Jan Bartko - radní Prahy 3",
+                "beneficiary": "Jan Bartko - radní Prahy 3",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 164,
+                        "female": 93,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 36,
+                        "female": 101
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 389,
+                        "female": 211,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 48,
+                        "female": 81,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 127,
+                        "female": 138,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 320,
+                        "female": 232,
+                        "unknown": 7
+                    }
+                ]
+            }
+        ],
+        "_id": "306038422237797"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=214458011272414&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-08-15",
+        "ad_creative_bodies": [
+            "⛈️ Během posledních dní jsme se konečně dočkali i nějakých těch srážek. Dle údajů ČHMÚ nám toho mezi 5. a 9. srpnem spadlo vcelku dost. Za hodinu na jednom m2 napršelo v průměru šest litrů v sobotu a devět v neděli a středu. Data pocházejí z měřící stanice na Floře. ☔\n\n🐪 Oproti tomu byly ovšem poslední měsíce srážkově  velice podprůměrné. Úhrn srážek v květnu dosáhl asi 15 % průměru, červen 75 % a červenec 50 %. Reakcí městské části bylo zastavení sečí a zvýšení četnosti zalévání nových výsadeb stromů a keřů. U některých výsadeb probíhala zálivka i v četnosti 2-3x týdně. Přestože se s teplými léty počítá, v červenci jsme za vodu utratili třikrát více, než tomu bylo v předchozích letech. Ne nadarmo to byl nejteplejší měsíc v historii. 🚰\n\n🌳🌳🌳 Ani zmíněné lijáky však nemohou dostatečně zavlažit naše dřeviny. Běžně novější stromy zaléváme jednou až dvakrát do měsíce nějakými 60-100 litry vody. Když nám výjimečně spadne 10 litrů za den na metr čtvereční, je to jistě velká pomoc, která je ale nepravidelná a příliš nárazová. Když občas vezmete kýbl vody a zalijete strom před Vaším domem, určitě Vám poděkuje. 😀 🪣"
+        ],
+        "ad_delivery_start_time": "2023-08-15",
+        "ad_delivery_stop_time": "2023-08-17",
+        "bylines": "Jan Bartko - radní Prahy 3",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Prague"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000792",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.015055",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001585",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00317",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.064184",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.028526",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.057052",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.113312",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.131537",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.115689",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.055468",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.222662",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.055468",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.067353",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.064976",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00317",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "100202116270600",
+        "page_name": "Jan Bartko - radní Prahy 3",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "130 00, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "zips",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 1268,
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 82,
+                        "female": 72
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 281,
+                        "female": 146,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 166,
+                        "female": 143,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 70,
+                        "female": 85,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 19,
+                        "female": 81
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 36,
+                        "female": 70,
+                        "unknown": 1
+                    }
+                ]
+            }
+        ],
+        "_id": "214458011272414"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1917349628634856&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-06-15",
+        "ad_creative_bodies": [
+            "Každá zelená plocha 🍀🌳 na Praze 3 má svůj vlastní a velmi podrobný plán péče, podle kterého se o ni staráme. \n\nK péči o takové plochy využíváme třeba i ovečky 🐑.\n\nVíce o tom, jak u nás o zeleň pečujeme, se dozvíte ve videu 🎞️⬇️"
+        ],
+        "ad_creative_link_titles": [
+            "Jak pečujeme na Trojce o zeleň?"
+        ],
+        "ad_delivery_start_time": "2023-06-15",
+        "ad_delivery_stop_time": "2023-06-19",
+        "bylines": "Jan Bartko - radní Prahy 3",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000412",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.998763",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.000412",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.000412",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.002083",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.041667",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.078333",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.067917",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.119167",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.173333",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.12375",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.05125",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.0525",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001667",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.078333",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.078333",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.037917",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000833",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00125",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002917",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.08875",
+                "age": "45-54",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "3000",
+            "upper_bound": "3999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "100202116270600",
+        "page_name": "Jan Bartko - radní Prahy 3",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "300",
+            "upper_bound": "399"
+        },
+        "_id": "1917349628634856"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=655792426595632&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-06-15",
+        "ad_creative_bodies": [
+            "🏪 Praha 3 má nově veškeré nebytové prostory ve svém vlastnictví přehledně v jedné interaktivní mapě\n\n🗺️ Máte představu, kolik nebytových prostorů, od garáží po restaurace, vlastní naše městská část? Nebo Vás zajímá, kdo si pronajímá zrovna ten u Vás v domě? Nově všechny informace naleznete pěkně pohromadě v našem mapovém portálu na adrese\nhttps://www.praha3.cz/projekty/otevrena-data/mapovy-portal-volnych-nebytovych-prostor\n\n🚦 Zeleně jsou označeny volné prostory, červeně ty obsazené a oranžově všechny, které se aktuálně nachází někde mezi tím (jsou připravovány k pronájmu, nebo už se chystá podpis nové smlouvy).\n\n💡 Pokud byste našli nějaký prostor, který by Vás zajímal, neváhejte se obrátit na naše Oddělení nebytových prostor a kdo ví, třeba může být do budoucna právě Váš:\nhttps://www.praha3.cz/urad/organizacni-struktura/odbor-vedlejsi-hospodarske-cinnosti/oddeleni-nebytovych-prostor"
+        ],
+        "ad_delivery_start_time": "2023-06-15",
+        "ad_delivery_stop_time": "2023-06-18",
+        "bylines": "Jan Bartko - radní Prahy 3",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.999179",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.000821",
+                "region": "Pardubice Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.01594",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.059564",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.031879",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.020973",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.071309",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.313758",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.113255",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.003356",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.131711",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.066275",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.014262",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.145134",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002517",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.010067",
+                "age": "55-64",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "page_id": "100202116270600",
+        "page_name": "Jan Bartko - radní Prahy 3",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "_id": "655792426595632"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=797444565043713&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-06-08",
+        "ad_creative_bodies": [
+            "Práce radního je velice pestrá. Tohle byl můj květen. 🌸 \n👉 Účastnil jsem se kolaudace revitalizovaného bytového domu v Blahoslavce. Jedna z největších investičních akcí posledních let je konečně za námi. 🙏Součástí je i několik nových hezkých nebytových prostor, které budeme obsazovat. Stejně tak budeme mít k dispozici několik nových bytů, které snad budou bezbariérové.\n👉 Jednal jsem ohledně budoucnosti privatizace Kubelíkovy. Objekt je zatížen několika soudními spory. S právníky 🔎 hledáme cestu, jestli a jak bude možné dům privatizovat po jeho rekonstrukci.\n👉 Byl jsem na semináři od Úřadu vlády na téma \"gender budgeting\". Věc běžná v Evropě, ale u nás pořád téměř nevyužívaná. Máme co dohánět.\n👉 Konečně jsme snad vybrali dodavatele pro elektronické aukce, skrze které chceme pronajímat byty určené pro komerční pronájmy.\n👉 Diskutoval jsem o budoucnosti grilovacího místa na Parukářce a o tom, jak se toto místo dá rozvíjet, aby fungovalo ještě lépe než nyní.\n\nA moje oblíbená nestatistika - za květen jsem předložil 24 usnesení."
+        ],
+        "ad_delivery_start_time": "2023-06-08",
+        "ad_delivery_stop_time": "2023-06-11",
+        "bylines": "Jan Bartko - radní Prahy 3",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.002747",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.997253",
+                "region": "Prague"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.002778",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.030556",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.063889",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.138889",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.183333",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.205556",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.044444",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.105556",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.036111",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.083333",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.016667",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.019444",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.061111",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002778",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.005556",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "100202116270600",
+        "page_name": "Jan Bartko - radní Prahy 3",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "_id": "797444565043713"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=2611114642362975&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-06-03",
+        "ad_creative_bodies": [
+            "Ve čtvrtek jsem se byl zase vzdělávat. 💁Tentokrát jsme díky Počítáme s vodou💧exkurzovali dobré příklady hospodaření s dešťovkou v Praze. \n\nI když jsem s tím neměl nic společného, jsem rád, že jedna ze zastávek byla i na Trojce, v parku u Kněžské louky. Zdejší dešťové záhony (a jejich propojení s některými stromy) jsou fakt skvělé. 👌\n\nTaky jsme viděli developera, který snad celkem dobře využil toho, že je kousek od Rokytky... A hlavně perfektní budovu školy ve Vysočanech, kam bych se klidně hned přestěhoval. 😎 Biosolární střecha, perfektní práce s energetickým managementem, spousta nádrží... Snad bude tohle v Praze nový standard.\n\nA hlavně –⁠ sešlo se nás fakt hodně, takže věřím, že se dobro rozšíří co nejdál!"
+        ],
+        "ad_delivery_start_time": "2023-06-03",
+        "ad_delivery_stop_time": "2023-06-05",
+        "bylines": "Jan Bartko - radní Prahy 3",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Prague"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.004489",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.034792",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.065095",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.038159",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.159371",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.028058",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.193042",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.077441",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.175084",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.053872",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.109989",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.040404",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001122",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.016835",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001122",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001122",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "100202116270600",
+        "page_name": "Jan Bartko - radní Prahy 3",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "_id": "2611114642362975"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=917987989471642&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-05-22",
+        "ad_creative_bodies": [
+            "Dnešní jednání magistrátního Výboru pro technickou infrastrukturu bylo speciální - výjezdní.\n\nDíky za možnost navštívit podzemní bludiště kolektorů, které spravují Kolektory Praha. Možná trochu nenápadná městská firma, která spravuje fakt hodně rozsáhlou síť tunelu pod celou Prahou, díky které nám některé sítě nehyzdí město, nebrání stromům a můžou zde přežít několikanásobně déle, než pár metrů pod chodníkem. \n\nKrom představení firmy jsme měli možnost sjet 35 metrů pod zem a kus kolektorů si projet perfektním vláčkem. Chvíli jsem si připadal zpátky v domovské Ostravě. \n\nMyslím si, že právě tyhle \"nesexy\" věci jsou extrémně důležité, a doufam, že se hlavní město rozhodně síť dále rozšiřovat. Není to totiž levná sranda a soukromník kolektor nepostaví. \n\nA pro ty z Trojky - záběr na monitoru je z naší nádrže, kterou máme na Havlíčkově náměstí a používáme vodu na zálivku zeleně."
+        ],
+        "ad_delivery_start_time": "2023-05-22",
+        "ad_delivery_stop_time": "2023-05-25",
+        "bylines": "Jan Bartko - radní Prahy 3",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Prague"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.016933",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.020696",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.003763",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.0254",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.034807",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.0508",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.081844",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.232361",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.041392",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.318909",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.087488",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.061148",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.018815",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.003763",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001881",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "100202116270600",
+        "page_name": "Jan Bartko - radní Prahy 3",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "_id": "917987989471642"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1428520991054542&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-05-11",
+        "ad_creative_bodies": [
+            "DUBEN byl opět plodný měsíc a na radnici se toho dělo hodně. Co jsem třeba řešil já?\n◾️ Stromy! 🌳Vysázeli jsme 4️⃣nové lísky v ulici Na Ohradě. A vedle toho jsme uspořádali 3️⃣participační setkání ke zpracovávané studii \"Stromy na dolní Žižkov\". Jedno na radnici, dvě přímo na místě. 😯 Překvapilo mě, že asi nejčastější reakcí bylo: \"A bude to, prosím, hned?\" 👉Pokusíme se taková přání tedy splnit.\n◾️ Pomáhal jsem plánovat Reuse Den ♻️, který by měl proběhnout 27. května na Jiřáku. Bude ho pořádat \"hlavní město\". Budou tu workshopy, a hlavně VELKÝ SWAP. Přijďte a dejte svým věcem druhý život! \n◾️ Krom toho dále vyšíváme na holubníku. Podepsali jsme ✍️ memorandum. Na spadnutí už je předání projektové dokumentace od Galerie hl. města směrem k nám. Snad hlavní město co nejrychleji opět vypíše správnou dotaci, skrze kterou můžeme pak rychle přistoupit k realizaci.\n◾️ Také jsme nedávno rozhodli o tom, že sloučíme do jednoho \"superodboru\" dva stávající –⁠ bytový a nebytový. Měli bychom tím zefektivnit některé procesy a zároveň i ušetřit peníze. 🪙 Abychom našim skvělým zaměstnancům co nejméně znepříjemnili život, musíme na tom trávit hodně času. \n◾️ Probíhá výběrové řízení na vedoucího tohoto útvaru. Takže kdo uvažuje o kariérní změně a chtěl by zlepšit to, jak Trojka funguje...  Hlaste se! 👉https://pi2.cz/vyberkop3\n◾️ Dále jsme vybrali zhotovitele opravy svahu na hřišti na Parukářce – to oplocené s krásným jménem DH1. Klouzačky, schodiště a svah prokouknou! Těšte se! 😊\n\nA tak jako minule - na radu jsem předložil za duben 20 usnesení."
+        ],
+        "ad_delivery_start_time": "2023-05-11",
+        "ad_delivery_stop_time": "2023-05-13",
+        "bylines": "Jan Bartko - radní Prahy 3",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.966173",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.002114",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.006342",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.008457",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.004228",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.004228",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.002114",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.002114",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.004228",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.016701",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.008351",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.031315",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.154489",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.294363",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.022965",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.043841",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.025052",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.139875",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.037578",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.200418",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.018789",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002088",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002088",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002088",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "100202116270600",
+        "page_name": "Jan Bartko - radní Prahy 3",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "_id": "1428520991054542"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=620891122897948&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-04-21",
+        "ad_creative_bodies": [
+            "Hlásím, že v ulici Na Ohradě dnes přibyly čtyři nové turecké lísky. Zvládají dobře klimatickou změnu, a taky je na nich dobré to, že nejsou alergenní.\nUrčitě to bude za pár let mnohem hezčí místo, než když tam dříve byly ne úplně vzhledné keře. \nA když dá Bakunin, tak to ještě letos se stromy v ulicích nebude všechno."
+        ],
+        "ad_delivery_start_time": "2023-04-21",
+        "ad_delivery_stop_time": "2023-04-23",
+        "bylines": "Jan Bartko",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Prague"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.024851",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.016899",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.134195",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.062624",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.246521",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.170974",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.033797",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.132207",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.065606",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.054672",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.034791",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.017893",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001988",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002982",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "page_id": "100202116270600",
+        "page_name": "Jan Bartko - radní Prahy 3",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "_id": "620891122897948"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=252152793835160&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-04-01",
+        "ad_creative_bodies": [
+            "Hledání konsenzu mezi  některými rodiči👨‍👩‍👧a školou 🏫 o používání dětského hřiště, podpora vzniku komunitní zahrady. A konečně❗️snad už i dokončení rekonstrukce horního parteru Žižkova náměstí. To jsou jen střípky toho, čím jsem se během března zabýval a přináším vám stručný přehled. 🔎\n\n◾️Bylo nutné nastavit pravidla pro využívání veřejného dětského hřiště na Rajské zahradě. Někteří rodiče si stěžovali na to, že ho používá blízká mateřská a základní škola pro tělocvik, protože nemá vlastní venkovní hřiště. ➡️Potkali jsme se s ředitelkou školy a se správcem hřiště a domluvili si podmínky. Na hřišti bude umístěna cedulka s informacemi o času, kdy bude hřiště využíváno škol(k)ou, aby s tím mohli ostatní rodiče počítat. Hřiště lze samozřejmě využívat v souběhu, a stejně tak už nehrozí to, že budou učitelky trošku občas nepříjemné, protože si myslely, že mají na hřiště přednostní právo.\n◾️U parku Kapslovna 🌳 vznikne Komunitní zahrada . Sešel jsem s lidmi, kteří ji chtějí rozjet a řešil s nimi detaily toho, co vše je potřeba nejdřív zařídit. Třeba plot, vodu a jejich časový odhad toho, kdy by mohla vzniknout.\n◾️Potenciální vznik farmářského tržiště v parku Na Ohradě, rekonstrukci veřejného zeleně  před ZŠ Jeseniova a výsadbu dalších stromořadí jsem řešil společně se Zdeněk Hřib  (a kolegou Ondřejem Rutem za dopravu) na magistrátu. \n◾️Rekonstrukce na Žižkově náměstí už se blíží mílovými kroky ke konci ✅. Průběžně jsem dohlížel na dokončovací práce, zejména  instalaci zábradlí a opravy dlážděných ploch. Příští týden by mělo konečně  k formálnímu otevření. Tuhle rekonstrukci provázelo tolik problémů, že si všichni oddechneme, že je (snad) konečně za námi.\n◾️ A pro statistiky - za březen jsem na Radu předložil 18 usnesení."
+        ],
+        "ad_delivery_start_time": "2023-04-01",
+        "ad_delivery_stop_time": "2023-04-03",
+        "bylines": "Jan Bartko",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Prague"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.005396",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.093525",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.059353",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.113309",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.077338",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.079137",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.084532",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.129496",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.095324",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.093525",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.071942",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.039568",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.052158",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.005396",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "100202116270600",
+        "page_name": "Jan Bartko - radní Prahy 3",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "_id": "252152793835160"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=766592368086015&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-04-01",
+        "ad_creative_bodies": [
+            "Vymýšlení aprílových vtipů jsem dnes raději přenechal jiným, a raději jsem po pauze šel dnes uklízet Vítkov. Tak jako spousta dalších lidí na Trojce i jinde po republice. \n\nTřeba cyklostezka vypadá z cesty fakt hezky - ale stačí přelézt přes kopeček ke zdem sousedních domu a jste v jiném světě. Pár pytlů jsme vygenerovali, a poznali i několik nových lidí:)\n\nRespekt těm, kteří se dobrovolně těmto aktivitám věnují dlouhodobě, a stejně velký respekt těm, kteří jsou od toho placení. Často na úrovni minimální mzdy, a bojím se, že i níže. Tahle práce by se měla vyvažovat zlatem."
+        ],
+        "ad_delivery_start_time": "2023-04-01",
+        "ad_delivery_stop_time": "2023-04-02",
+        "bylines": "Jan Bartko",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Prague"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001403",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001871",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000935",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000935",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.017306",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.239476",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.155753",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.065014",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.046773",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.032741",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.06782",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.135641",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.115529",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.014032",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.089336",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.015435",
+                "age": "65+",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "2000",
+            "upper_bound": "2999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "100202116270600",
+        "page_name": "Jan Bartko - radní Prahy 3",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "_id": "766592368086015"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1288764978368993&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-03-22",
+        "ad_creative_bodies": [
+            "Viděli jste včerejší reportáž České televize? Mluvil jsem tam o stromech. 🌳 Ty nejlépe ochlazují rozpálené ulice 🔥😓, a proto je na Trojce sázíme. Za cca 20 let v našich ulicích přibylo už 850 stromů. \n\n🌱 Zasazením to ale jen začíná... Pak je potřeba stromky pravidelně zalévat (klidně každý měsíc), někdy udělat řez, hlídat, že je neznačkují psi a také uklízet odpadky z rabátek. \n\nKdyž bylo v létě 30 stupňů, tak jsem si schválně změřil termokamerou teplotní rozdíl🌡mezi rozpáleným chodníkem a stínem pod stromy. Ve videu nebo v komentáři uvidíte, jaký rozdíl teplot jsem naměřil.\n\nKromě stínu stromy zlepšují třeba i vlhkost a prašnost ovzduší, což je nejefektivnější způsob, jak ochlazovat 🧊 město. \n\nVšechna města teď mohou požádat Ministerstvo pro místní rozvoj o dotaci na podporu zeleně. K dispozici je 6️⃣ miliard korun. Na celou reportáž se podívejte tady 👉 https://pi2.cz/stromyct"
+        ],
+        "ad_creative_link_titles": [
+            "Reportáž ČT o dotaci na sázení stromů"
+        ],
+        "ad_delivery_start_time": "2023-03-22",
+        "ad_delivery_stop_time": "2023-03-24",
+        "bylines": "Jan Bartko",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Prague"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.002299",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001149",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001149",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002299",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.052874",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.026437",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.067816",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.141379",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.168966",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.234483",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.057471",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.03908",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.067816",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.062069",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.06092",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.013793",
+                "age": "18-24",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "page_id": "100202116270600",
+        "page_name": "Jan Bartko - radní Prahy 3",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "_id": "1288764978368993"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=544158677827734&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-03-20",
+        "ad_creative_bodies": [
+            "Viděli jste včerejší reportáž České televize? Mluvil jsem tam o stromech. 🌳 Ty nejlépe ochlazují rozpálené ulice 🔥😓, a proto je na Trojce sázíme. Za cca 20 let v našich ulicích přibylo už 850 stromů. \n\n🌱 Zasazením to ale jen začíná... Pak je potřeba stromky pravidelně zalévat (klidně každý měsíc), někdy udělat řez, hlídat, že je neznačkují psi a také uklízet odpadky z rabátek. \n\nKdyž bylo v létě 30 stupňů, tak jsem si schválně změřil termokamerou teplotní rozdíl🌡mezi rozpáleným chodníkem a stínem pod stromy. Ve videu nebo v komentáři uvidíte, jaký rozdíl teplot jsem naměřil.\n\nKromě stínu stromy zlepšují třeba i vlhkost a prašnost ovzduší, což je nejefektivnější způsob, jak ochlazovat 🧊 město. \n\nVšechna města teď mohou požádat Ministerstvo pro místní rozvoj o dotaci na podporu zeleně. K dispozici je 6️⃣ miliard korun. Na celou reportáž se podívejte tady 👉 https://pi2.cz/stromyct"
+        ],
+        "ad_creative_link_titles": [
+            "Reportáž ČT o dotaci na sázení stromů"
+        ],
+        "ad_delivery_start_time": "2023-03-20",
+        "ad_delivery_stop_time": "2023-03-22",
+        "bylines": "Jan Bartko",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Prague"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.002062",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.004124",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.006186",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.076289",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.02268",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.010309",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.063918",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.105155",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.156701",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.243299",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.098969",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.05567",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.037113",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.117526",
+                "age": "25-34",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "100202116270600",
+        "page_name": "Jan Bartko - radní Prahy 3",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "_id": "544158677827734"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=935018954183498&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-02-22",
+        "ad_creative_bodies": [
+            "💰1,3 miliardy CZK neboli skoro 4 000 Fábií 🚗\n❕To je schválený návrh rozpočtu na rok 2023. Neutratíme na provoz víc, než vyděláme. A z toho 740 milionů zainvestujeme. To bylo TLDR, koho nezajímají detaily, dál nečtěte 😊\n\n✨Na \"běžných příjmech\" plánujeme získat 618 milionů. A na běžných výdajích utratit 613 milionů 👍Netroufnu si říct, že jsme jediná městská část, které se i letos podařilo nastavit hospodaření udržitelné. Jedna z mála ale určitě budeme 🙌\n\n😌A nebylo to jen tak. O desítky milionů více utratíme za energie. Další desítky milionů navíc spolkne navýšení mezd zaměstnanců. Ti si to samozřejmě zaslouží. Ale to, že nám na to vláda nedala ani korunu navíc, už problém je🤬 Radnice taky musí koupit všem nové počítače, protože Windows 11. A jako koalice jsme si zvolili více uvolněných zástupců. Takže si za to vlastně můžeme sami🙈 S tím vším jsme se museli vyrovnat, spoustu věcí seškrtat, a bohužel taky musíme navyšovat příjmy - neboli zdražovat.\n\n⚠️Ale budeme taky stavět, kreslit, realizovat spoustu investic. Za 740 milionů. Třeba:\n- ✅nová stromořadí🌳\n- ✅opravené paneláky 🏢\n- ✅projekt na dům s pečovatelskou službou🫂\n- ✅ revitalizace garáží na Vinohradské 🚗\n\n👏Díky kolegům na úřadě, kteří na přípravě podkladů spálili asi tak milion času. V nadcházejících dnech se pokusím přidat další zajímavosti a konkrétní příklady."
+        ],
+        "ad_delivery_start_time": "2023-02-22",
+        "ad_delivery_stop_time": "2023-02-27",
+        "bylines": "Jan Bartko",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Prague"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000527",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.042722",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.011076",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.021361",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.055643",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.056698",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.384494",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.172468",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.014768",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001319",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.165612",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.029008",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002373",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.025053",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001055",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.015032",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000791",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "6000",
+            "upper_bound": "6999"
+        },
+        "page_id": "100202116270600",
+        "page_name": "Jan Bartko - radní Prahy 3",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "_id": "935018954183498"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=921420532228847&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-02-11",
+        "ad_creative_bodies": [
+            "📰 Zprávy z Rady!!\nTak je za námi další jednání Rady MČ. Co se schválilo?\n1️⃣ Upravila se spádovost několika školských obvodů, aby lépe odpovídaly skutečnosti.\n2️⃣ Schválily se dotace pro rok 2023, víceméně přesně podle doporučení jednotlivých poradních orgánů.\n3️⃣ Schválilo se znění snad již posledního dodatku ohledně revitalizace Žižkova náměstí. Tentokrát šlo o doplnění zábradlí, se kterým původní dokumentace nepočítala. Kvůli jeho absenci nemůže být park otevřen.\n4️⃣ Schválila se velká oprava dalších pěti bytů v majetku MČ. Průměrná cena je cca 0,8 mio Kč s DPH\n5️⃣ Byla zřízena Právní komise městské části. Jedna z mála, která nebude veřejná, protože bude řešit sensitivní témata.\n\nNějakou radu ještě do jednání Zastupitelstva stihneme, tak se těšte na další infoservis :)"
+        ],
+        "ad_delivery_start_time": "2023-02-11",
+        "ad_delivery_stop_time": "2023-02-13",
+        "bylines": "Jan Bartko",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Prague"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.039539",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.003295",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.06425",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.082372",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.062603",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.085667",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.037891",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.098847",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.136738",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.008237",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.123558",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.130148",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.123558",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.003295",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "100202116270600",
+        "page_name": "Jan Bartko - radní Prahy 3",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "_id": "921420532228847"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=584539209684560&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-01-23",
+        "ad_creative_bodies": [
+            "🐕📝Psí petice!\nZnáte tenhle prostor v Habrové? Mezi Ošetřovatelským domovem a paneláky? \nTa zrovna tady jsem před pár dny poprvé řešil petici. \n\n🚦Asi 50 lidí volá po tom, abychom v tomto prostoru opět povolili volný pohyb psů. Dnes zde mohou být pouze na vodítku. \nJenže právě tohle místo bylo kdysi epicentrem přesně opačné stížnosti. A i na její popud se před několika lety změnily pravidla volného pohybu psů na celé Praze 3.\n\n⁉️Co teď? Na jedné straně je 50 organizovaných pejskařů, na druhé minimálně jeden člověk, který chce mít okolo domu klid. A nebát se, že mu volně pobíhající pes v lepším případě vytrhne z ruky kus salámu, v horším třeba pokouše dítě.\n\n🫂Rozhodli jsme se tedy v první polovině roku uspořádat právě zde participativní setkání, kde si vyslechneme názory zdejších obyvatel, a právě pohyb psů bude hlavní téma. Možná, že když se oba tábory začnou více poslouchat, tak se nám podaří najít řešení, které by vyhovovalo všem.\n\nCo Vy? Jste tam pejsek nebo ne?"
+        ],
+        "ad_delivery_start_time": "2023-01-23",
+        "ad_delivery_stop_time": "2023-01-26",
+        "bylines": "Jan Bartko",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Prague"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.052747",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.057143",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001099",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.003297",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001099",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.004396",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.107692",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.161538",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.073626",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.112088",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.113187",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.013187",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.031868",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.07033",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.110989",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.084615",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001099",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "100202116270600",
+        "page_name": "Jan Bartko - radní Prahy 3",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "_id": "584539209684560"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=677784257317643&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-01-05",
+        "ad_creative_bodies": [
+            "🤸‍♀️Multifunkční hřiště v Habrové omládlo!\nUž před koncem roku jsme znovu otevřeli multifunkční hřiště v Habrové, teď ještě o 20 % víc multi!\nMáme tu:\n🌳 Novou zeleň, třeba břízy\n🛝 3 KOSTKY SE SKLUZAVKOU – 4,9 x 4,1 x 3 m, po které jde i hezky lézt\n🧒 Velkou rámovou houpačku\n⛱️ Pískoviště zasazené do velkých dřevěných hranolů, které bude přes léto zastíněné.\nA taky konečně další branku :) \n\nTo vše za zhruba 1,5 milionu korun. Když dá rozpočet, alespoň jedno hřiště bychom mohli obnovit i letos."
+        ],
+        "ad_delivery_start_time": "2023-01-06",
+        "ad_delivery_stop_time": "2023-01-10",
+        "bylines": "Jan Bartko",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Prague"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.005664",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.017621",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.069226",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.241661",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.030837",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.147892",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.212712",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.036501",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.019509",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.139711",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.045941",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002517",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.014475",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.012587",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002517",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000629",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "2000",
+            "upper_bound": "2999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "100202116270600",
+        "page_name": "Jan Bartko - radní Prahy 3",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "_id": "677784257317643"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=956023672038117&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-12-20",
+        "ad_creative_bodies": [
+            "Na začátku roku 2️⃣0️⃣2️⃣1️⃣ jsme dostali od jedné občanky podnět.\nJe to zhruba 100 let od doby, co se v Kolonii Domov kolaudovaly první domy. A celkem prominentní stromořadí v ulici Hraniční zasloužilo obnovit.\n✅Přání jsme tedy vyslyšeli a nyní  vysázeli nových 2️⃣2️⃣ třešní \"sakur\"🌲, Prunus serrulata ´Kanzan´. Jsou jen okrasné a neplodí, mají hezký růžový květ a na podzim jsou zase hezky oranžové. Krom toho jsme výsadbové pásy vylepšili o strukturní substrát a biouhel.\n\nVýsadba by ještě mohla pokračovat dolů ke Koněvce, tam to ale bude na stavební povolení, takže to chvíli potrvá. \nKolonie Domov je super místo, a kdo tak často \"na východ\" Trojky nezavítá, by to alespoň sem měl udělat, nebo si aspoň počíst :)\nhttps://www.prahaneznama.cz/praha-3/zizkov/kolonie-domov/"
+        ],
+        "ad_delivery_start_time": "2022-12-21",
+        "ad_delivery_stop_time": "2022-12-25",
+        "bylines": "Jan Bartko",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Prague"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001112",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.079489",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001112",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.023346",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.040578",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.0806",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.030017",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.093385",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.057254",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000556",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.241801",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.207337",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.036131",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.071151",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001668",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.032796",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001668",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "2000",
+            "upper_bound": "2999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "100202116270600",
+        "page_name": "Jan Bartko - radní Prahy 3",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "_id": "956023672038117"
+    }
+]

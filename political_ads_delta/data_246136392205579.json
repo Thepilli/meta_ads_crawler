@@ -1,0 +1,190 @@
+[
+    {
+        "id": "351976674437778",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=351976674437778&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-19",
+        "ad_creative_bodies": [
+            "Opravdový průšvih? To, jak rychle v Česku mizí ta nejúrodnější půda. Jedete po nějaké silnici u Prahy, v Polabí nebo na Hané a všude kolem místo polí máte najednou kilometry různých skladů, obchodů nebo solárních elektráren. A nejméně dalších pět let se na tempu, jakým pole ubývají, nic nezmění. Sami si pod sebou řežeme větev.  \nhttps://zpravy.aktualne.cz/domaci/ubyvani-zemedelske-pudy-velkosklady/r~c05c709eb3ad11eea3c0ac1f6b220ee8/"
+        ],
+        "ad_delivery_start_time": "2024-01-19",
+        "ad_delivery_stop_time": "2024-01-31",
+        "bylines": "SH Media",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.010906",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.044747",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.169366",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.114836",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.053408",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.044427",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.027105",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.039615",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.063352",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.109383",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.047795",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.058701",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.102486",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.063512",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.050361",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.253616",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.192143",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.288626",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.094017",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.065746",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.101742",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001808",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000657",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001644",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "500001",
+            "upper_bound": "1000000"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "246136392205579",
+        "page_name": "Ekomrcha",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "40"
+        ],
+        "eu_total_reach": 6233,
+        "beneficiary_payers": [
+            {
+                "payer": "Jan Ferenc",
+                "beneficiary": "Jan Ferenc",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 400,
+                        "female": 572,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 1756,
+                        "female": 1169,
+                        "unknown": 11
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 1543,
+                        "female": 619,
+                        "unknown": 10
+                    }
+                ]
+            }
+        ]
+    }
+]

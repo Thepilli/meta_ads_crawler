@@ -1,0 +1,589 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1452276025341231&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-08",
+        "ad_creative_bodies": [
+            "Spouštíme kampaň \"Z hrdinů superhrdiny aneb Díky, že vím nejsme jsme jedno\"\n\nJen loni umřely 4 děti v důsledku týrání a sexuálního zneužívání. Na více než 2 500 týraných dětí přišel v roce 2022 stát. Ostatní jsou pro systém neviditelní. Pojďme jim pomoci.\n\nNebagatelizujme. Naslouchejme. Pomozme.\n\nDěkujeme Martina Pártlová, že s námi do toho šla. Je neskutečná. A všichni herci též. Ostatní edukativní videa představíme brzy.\n\nOdkaz na náš youtube: https://www.youtube.com/watch?v=D9EtYUtF0so"
+        ],
+        "ad_creative_link_captions": [
+            "pod-svicnem.cz"
+        ],
+        "ad_delivery_start_time": "2023-11-08",
+        "ad_delivery_stop_time": "2023-11-10",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000148",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.053292",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.091526",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.129761",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.072926",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.049159",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.027458",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.040301",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.059935",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.130056",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.053292",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.051078",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.103927",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.083702",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.05344",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000297",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.058571",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.108689",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.008007",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00089",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000445",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.16207",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.11121",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.091489",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.018387",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.089413",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.097865",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.056495",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.126335",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.067171",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001038",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001631",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "7000",
+            "upper_bound": "7999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "111602348253519",
+        "page_name": "Pod svícnem",
+        "publisher_platforms": [
+            "facebook",
+            "audience_network",
+            "messenger"
+        ],
+        "spend": {
+            "lower_bound": "300",
+            "upper_bound": "399"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 6823,
+        "beneficiary_payers": [
+            {
+                "payer": "Halla",
+                "beneficiary": "Halla",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 54,
+                        "female": 124
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 617,
+                        "female": 750,
+                        "unknown": 11
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 381,
+                        "female": 660,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 395,
+                        "female": 603,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 852,
+                        "female": 1093,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 453,
+                        "female": 733,
+                        "unknown": 2
+                    }
+                ]
+            }
+        ],
+        "_id": "1452276025341231"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1200178894257733&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-01-01",
+        "ad_creative_link_captions": [
+            "instagram.com",
+            "instagram.com",
+            "instagram.com",
+            "instagram.com"
+        ],
+        "ad_delivery_start_time": "2023-01-01",
+        "ad_delivery_stop_time": "2023-01-02",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.043478",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.282609",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.108696",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.078261",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.034783",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.008696",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.034783",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.047826",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.073913",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.017391",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.056522",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.108696",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.043478",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.06087",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.178261",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.226087",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.595652",
+                "age": "25-34",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "111602348253519",
+        "page_name": "Pod svícnem",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "_id": "1200178894257733"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=414046257606305&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-11-08",
+        "ad_creative_link_captions": [
+            "instagram.com",
+            "instagram.com",
+            "instagram.com",
+            "instagram.com"
+        ],
+        "ad_delivery_start_time": "2022-11-09",
+        "ad_delivery_stop_time": "2022-11-13",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.044774",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.217882",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.137452",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.061377",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.037833",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.014834",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.034703",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.05675",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.084785",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.045727",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.059064",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.105199",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.054709",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.04491",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.168755",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.646361",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.184484",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.0004",
+                "age": "13-17",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "8000",
+            "upper_bound": "8999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "111602348253519",
+        "page_name": "Pod svícnem",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "500",
+            "upper_bound": "599"
+        },
+        "_id": "414046257606305"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=2197484250425288&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-09-10",
+        "ad_creative_link_captions": [
+            "instagram.com",
+            "instagram.com",
+            "instagram.com",
+            "instagram.com",
+            "instagram.com",
+            "instagram.com",
+            "instagram.com",
+            "instagram.com",
+            "instagram.com"
+        ],
+        "ad_delivery_start_time": "2022-09-10",
+        "ad_delivery_stop_time": "2022-09-11",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.090465",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.056584",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.15124",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.140761",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.070905",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.038421",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.012924",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.028991",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.05833",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.075795",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.056235",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.043311",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.091163",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.041216",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.04366",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.057363",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.583421",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.358167",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001049",
+                "age": "13-17",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "2000",
+            "upper_bound": "2999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "111602348253519",
+        "page_name": "Pod svícnem",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "_id": "2197484250425288"
+    }
+]

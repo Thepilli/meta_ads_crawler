@@ -1,0 +1,625 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=647911590817416&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-10-11",
+        "ad_creative_bodies": [
+            "Česko se v kvalitě trhu práce v rámci EU propadlo o jednu příčku na 1️⃣6️⃣ místo. \n\nAčkoliv máme nadále nejnižší nezaměstnanost, v lepším umístění nám brání nerovnost mezi muži a ženami. 👫 Brzdí nás také nízká produktivita práce či podíl zkrácených pracovních úvazků. 📉"
+        ],
+        "ad_creative_link_captions": [
+            "indexprosperity.cz"
+        ],
+        "ad_creative_link_descriptions": [
+            "pod lupou 🔎"
+        ],
+        "ad_creative_link_titles": [
+            "Český trh práce"
+        ],
+        "ad_delivery_start_time": "2023-10-11",
+        "ad_delivery_stop_time": "2023-11-01",
+        "currency": "EUR",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000217",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.057055",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.119304",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.104819",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.058103",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.047829",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.033084",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.04555",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.053528",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.112059",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.049162",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.061809",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.119755",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.092595",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.045132",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000577",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.054182",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000807",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001288",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000616",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.066313",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.084143",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.041401",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.182464",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.037556",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.02784",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.057092",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.059744",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.156227",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.079064",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.148588",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001605",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000493",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "600000",
+            "upper_bound": "699999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "90594467955",
+        "page_name": "Česká spořitelna",
+        "publisher_platforms": [
+            "facebook",
+            "audience_network",
+            "messenger"
+        ],
+        "spend": {
+            "lower_bound": "500",
+            "upper_bound": "599"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 485058,
+        "beneficiary_payers": [
+            {
+                "payer": "Česká spořitelna",
+                "beneficiary": "Česká spořitelna",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 29078,
+                        "female": 13550,
+                        "unknown": 281
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 76037,
+                        "female": 40953,
+                        "unknown": 627
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 20150,
+                        "female": 18279,
+                        "unknown": 300
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 32275,
+                        "female": 26371,
+                        "unknown": 240
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 88807,
+                        "female": 38481,
+                        "unknown": 781
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 72319,
+                        "female": 27787,
+                        "unknown": 393
+                    }
+                ]
+            }
+        ],
+        "_id": "647911590817416"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=651456690047827&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-11-22",
+        "ad_creative_bodies": [
+            "Právě ke 30. výročí 17. listopadu jsme před 3 lety ve spolupráci s Nadace Via spustili grantový program #DokážemeVíc, díky kterému děláme spolu s vámi celé Česko lepší, hezčí, silnější... ❤️\nKdy jindy, než v den boje za svobodu a demokracii, je dobré si připomenout, že to není jen o slovech, ale i o činech. 💪\nDíky za 158 uskutečněných projektů a moc se těšíme na všechny další příležitosti, kterými společně zlepšíme naši zemi. 🇨🇿"
+        ],
+        "ad_delivery_start_time": "2022-11-22",
+        "ad_delivery_stop_time": "2022-12-15",
+        "currency": "EUR",
+        "delivery_by_region": [
+            {
+                "percentage": "0.053006",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.119989",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.103837",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.060852",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.04582",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.033689",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.046216",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.055248",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.101661",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.050105",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.063027",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.115243",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.104496",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.046809",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000467",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.058145",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.055878",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.055411",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.076549",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.055744",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.056278",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.039741",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.148696",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000467",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.154831",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.046209",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.109289",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.138361",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001867",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.0002",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000934",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000934",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "15000",
+            "upper_bound": "19999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "90594467955",
+        "page_name": "Česká spořitelna",
+        "publisher_platforms": [
+            "facebook",
+            "instagram",
+            "audience_network"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "_id": "651456690047827"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1008260072959101&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2020-09-29",
+        "ad_creative_bodies": [
+            "🚦 Pandemie se sama nezastaví, a proto jsme ve spolupráci s  hygienickými stanicemi vytvořili v našem prostějovském call centru speciální tým operátorů, který pomůže 💪 hygienikům s trasováním 🔍 nakažených. Naši operátoři budou plně vyčleněni pro podporu hygieniků a budou uvolněni ze svých běžné práce.\n☝️A nebojte, případné trasování probíhá pouze se souhlasem klienta! 🙏 #jsmesporka #drzmesipalce"
+        ],
+        "ad_creative_link_captions": [
+            "csas.cz"
+        ],
+        "ad_creative_link_descriptions": [
+            "Ve spolupráci s Ministerstvem zdravotnictví a Hygienickými stanicemi vytvořila Česká spořitelna specializovaný trasovací tým, složený ze zkušených operátorů klientského centra banky. Tým začne fungovat od příštího týdne po proškolení ze strany hygieniků a expertů Minister..."
+        ],
+        "ad_creative_link_titles": [
+            "České spořitelna vytvořila speciální tým operátorů, který pomůže hygienikům s trasováním nakažených"
+        ],
+        "ad_delivery_start_time": "2020-09-30",
+        "ad_delivery_stop_time": "2020-10-01",
+        "currency": "EUR",
+        "delivery_by_region": [
+            {
+                "percentage": "0.047151",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.191413",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.08596",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.048468",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.033453",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.029239",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.05918",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.043726",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.149618",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.042585",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.056019",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.067521",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.099921",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.045746",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000433",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.153547",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000606",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000865",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.034343",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.02699",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.023962",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.233564",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.220761",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001125",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.113235",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.040744",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.032353",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.039014",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.030536",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.047318",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000606",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "500001",
+            "upper_bound": "1000000"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "90594467955",
+        "page_name": "Česká spořitelna",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "_id": "1008260072959101"
+    }
+]

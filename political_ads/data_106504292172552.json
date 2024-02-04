@@ -1,0 +1,1947 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=890431006103108&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-11",
+        "ad_creative_bodies": [
+            "Už pár týdnů zažíváme nově otevřené eskalátory na Jiřího z Poděbrad netradičně - bez reklamy. Magistrát původně počítal s tím, že by se reklama měla vrátit, ale teď prý hledá možnost, jak zachovat stanici jako jedno z mála míst ve městě bez ní. Kolik by to stálo? 🚇⤵️\n\nZ reklamy v metru má Dopravní podnik ročně asi 100 milionů korun. V celkovém rozpočtu 18 miliard se to může zdát jako ne moc významné, ale reklama je největším příjmem hned po jízdném - a je zkrátka potřeba.\n\nExistují ale i funkční kompromisní varianty. \n\n1️⃣ Před několika lety se v MHD výrazně snížil počet nosičů a zároveň se navýšením cen zvýšil příjem. Jen jsme s PRAHA SOBĚ vyřešili nevýhodné smlouvy.\n\n2️⃣ Rámečky rozeseté co metr je na některých místech možné nahradit jedním větším nosičem, a tím zachovat potřebné metry čtvereční, za které inzerenti platí. Cestou je i zaměřit se na prestižnější a dražší formy reklamy.\n\n3️⃣ A konečně - nevracet reklamy do jednotek stanic, které projdou rekonstrukcí za stovky milionů korun. Přímo stěny tubusu na Jiřáku mohou mít jako potenciální reklamní plocha „hodnotu“ okolo pouhých 150 tisíc ročně. Rekonstrukce stanice z roku 1980 architektů Anny Hübschmanové a Jaroslava Otruby (autora čoček na stěnách) stála 800 milionů.\n\nS touto myšlenkou jsme před dvěma lety na magistrátu zajistili, aby zůstal bez reklamy nákladně zrekonstruovaný tubus Na Knížecí. Bohužel s novou magistrátní koalicí se tam reklama vrátila.\n\n❓ Zasloužil by si podle vás Jiřák jiný osud, nebo příjmy z reklamy považujete za přednější?"
+        ],
+        "ad_delivery_start_time": "2023-12-11",
+        "ad_delivery_stop_time": "2023-12-18",
+        "bylines": "PRAHA SOBĚ",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Prague"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000786",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.175177",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001833",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00419",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.028542",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.004975",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.021472",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.024614",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.099502",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.019115",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.072532",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.168369",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.05237",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.257135",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.042681",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.026185",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000524",
+                "age": "18-24",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "6000",
+            "upper_bound": "6999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "106504292172552",
+        "page_name": "PRAHA 3 SOBĚ",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "900",
+            "upper_bound": "999"
+        },
+        "target_locations": [
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Prague 3, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "NEIGHBORHOOD",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 3743,
+        "beneficiary_payers": [
+            {
+                "payer": "PRAHA 3 SOBĚ",
+                "beneficiary": "PRAHA 3 SOBĚ",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 200,
+                        "female": 109,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 277,
+                        "female": 163,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 82,
+                        "female": 100,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 94,
+                        "female": 73
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 643,
+                        "female": 380,
+                        "unknown": 19
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 982,
+                        "female": 669,
+                        "unknown": 16
+                    }
+                ]
+            }
+        ],
+        "_id": "890431006103108"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1384842638730865&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-09-28",
+        "ad_creative_bodies": [
+            "Pro každé dítě z Prahy 3 teď máme místo ve školce i na základce. Chystá se tu ale velká výstavba, a proto usilovně připravujeme nové kapacity! 👨‍👩‍👧‍👦 Chystáme 3️⃣ nové školy a hned 8️⃣ nových školek. Hlavně tam, kde nám demografické předpovědi ukazují, že rodin s dětmi výrazně přibude. První dvě školky - lesní školku v parku Kapslovna a školku na Vackově - otevřeme už od příštího září.\n\nDobrou zprávou je, že díky novým pravidlům pro investory, která na magistrátu vznikla za minulé koalice, ponesou významnou část nákladů developeři. Ti se nově budou podílet i na stavbě parků nebo služeb v okolí nových bytů. Na Nákladovém nádraží Žižkov zaplatí developerské společnosti postupně investice v hodnotě 1,5 miliardy korun včetně právě stavby nových školek. 🧸 Ty vybudují spolu s byty tři developerské společnosti a předají je pak podle dohody do vlastnictví městské části.\n\nV minulosti se radnice svého majetku včetně škol bohužel zbavovaly, o to víc teď musíme zabrat v přípravě nových kapacit. Uděláme, co se dá, ať se o dobrou školu a školku pro své dítě nemusí bát žádný rodič.\n\nFilip Málek - místostarosta Prahy 3 pro oblast školství\n\nPodrobnější informace k jednotlivým školám a školkám najdete v komentářích ⤵️"
+        ],
+        "ad_delivery_start_time": "2023-09-28",
+        "ad_delivery_stop_time": "2023-10-12",
+        "bylines": "PRAHA SOBĚ",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Prague"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000278",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.162907",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001114",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.045948",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.021164",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.030911",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.045113",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.127263",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.214146",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000835",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.168198",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.057366",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.024784",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.006126",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.068783",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.019772",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002785",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002506",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "8000",
+            "upper_bound": "8999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "106504292172552",
+        "page_name": "PRAHA 3 SOBĚ",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "target_locations": [
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Prague 3, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "NEIGHBORHOOD",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 3570,
+        "beneficiary_payers": [
+            {
+                "payer": "PRAHA 3 SOBĚ",
+                "beneficiary": "PRAHA 3 SOBĚ",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "55-64",
+                        "male": 76,
+                        "female": 111,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 206,
+                        "female": 247,
+                        "unknown": 9
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 89,
+                        "female": 162,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 457,
+                        "female": 769,
+                        "unknown": 22
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 165,
+                        "female": 71,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 585,
+                        "female": 604,
+                        "unknown": 10
+                    }
+                ]
+            }
+        ],
+        "_id": "1384842638730865"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=305206188677710&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-08-04",
+        "ad_creative_bodies": [
+            "Chceme do ulic stromy?🌳 Stromy se na Praze 3 sází průběžně, za poslední půlrok jich přibylo více než 100. Důležité jsou v parcích, ale také v ulicích. Prázdné „záhonky“, kde stromy dříve byly a teď nejsou, se rychle zaplňují a stojíme před novou otázkou. Chceme stromy i v těch ulicích, kde stromy dříve nebyly a nejsou tak na ně „rezervovaná“ prázdná místa?\n\nRovnice je neúprosná - každý by chtěl před domem strom a zároveň místo pro své auto. 🚘 Počet bytů v činžácích ale nic takového neumožňuje. Teď je v ulicích Trojky něco přes 15 tisíc parkovacích míst. Vydaných parkovacích oprávnění je skoro o 5 tisíce více. Zároveň radnice pracuje na vytváření nových parkovacích míst; probíhají například nákladné opravy nevyužívaných garáží v dezolátním stavu. Přímo v ulicích už na nová parkovací stání ale další prostor téměř není.\n\nUlice prostě nejsou nafukovací. A tváří v tvář přehřívanému městu zároveň vidíme zvyšující se urgenci nových stromů. Poskytují stín, ochlazují, čistí vzduch, mění celou atmosféru ulice.\n\nPrávě teď chystá radnice plán výsadby celkem 1️⃣0️⃣1️⃣ nových stromů. Mohly by se objevit v celkem v šesti ulicích (Husinecká, Krásova, Jeronýmova, Rokycanova, Biskupcova, Viklefova), kde dříve stromy nebyly a nejsou tak na ně „rezervovaná“ prázdná místa.\n\nVe zmíněných ulicích je celkem 453 parkovacích míst. 🅿️ Podle projektantů, kteří se snažili být s místem maximálně efektivní (a jejich výsledek je obdivuhodný), by nových 101 stromů znamenalo úbytek celkem 37 parkovacích míst. Jedno parkovací místo tu odpovídá průměrně 2,7 stromů.\n\nPočet stromů byl zvolený tak, aby stromy prosperovaly, jejich kořeny se pod zemí mohly propojit a stromy také pomáhaly zachytit dešťovou vodu.\n\nCo si o plánu myslíte? Patří podle vás do ulic nové stromy, nebo vnímáte jako cennější parkovací místa?"
+        ],
+        "ad_delivery_start_time": "2023-08-04",
+        "ad_delivery_stop_time": "2023-09-14",
+        "bylines": "PRAHA SOBĚ",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Prague"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000949",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.04385",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.078208",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.058276",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.179385",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.089028",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.2388",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.042141",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.052392",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.003797",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.046317",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.047646",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.020121",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.004366",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00019",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002278",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002088",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.090167",
+                "age": "25-34",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "106504292172552",
+        "page_name": "PRAHA 3 SOBĚ",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "900",
+            "upper_bound": "999"
+        },
+        "target_locations": [
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Prague 3, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "NEIGHBORHOOD",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 5268,
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "male": 469,
+                        "female": 251,
+                        "unknown": 11
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 244,
+                        "female": 307,
+                        "unknown": 12
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 222,
+                        "female": 231,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 945,
+                        "female": 412,
+                        "unknown": 23
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 276,
+                        "female": 106,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 1258,
+                        "female": 475,
+                        "unknown": 20
+                    }
+                ]
+            }
+        ],
+        "_id": "305206188677710"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=3534779243506453&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-06-14",
+        "ad_creative_bodies": [
+            "Máme za sebou první půl rok na radnici Prahy 3 a tady je přehled nejdůležitější práce naší koalice ⤵️\n\n👩‍⚕️ začala ordinovat nová pediatrička a přijímá dětské pacienty - ordinaci přestavěla městská část z bývalého agitačního střediska KSČM v Baranově ulici\n\n🏗️ na Jiřáku se staví nový výtah do metra - spolu s tím se opraví celá čtyřicet let stará stanice, která se cestujícím znovu otevře v listopadu 2023\n\n⛲ otevřelo se zrekonstruované Žižkovo náměstí, Tachovské náměstí rekonstrukcí právě prochází\n\n🏫 do místních základních škol se navzdory zhoršující se situaci v Praze dostaly všechny děti z Prahy 3, do školek jsme umístili všechny tříleté děti i osmdesát dětí dvouletých\n\n💃 z opuštěného domu bývalých lázní v Husitské ulici bude Dům tance - Praha 3 získala finanční podporu od Ministerstva kultury i od magistrátu\n\n🌳 sází se přes 90 nových stromů hlavně v ulicích, kde dříve byly a teď chybí, ale třeba i na Parukářce\n\n☕️ znovu se otevírá kavárna s toaletami na Kostnickém náměstí - s novým provozovatelem, který má od městské části zvýhodněný nájem, protože jde o složité místo\n\nDíky kolegům z koalice za skvělou práci a týmového ducha, díky kterému se nehádáme, ale pracujeme pro Prahu 3. Tak to má být!"
+        ],
+        "ad_delivery_start_time": "2023-06-14",
+        "ad_delivery_stop_time": "2023-06-14",
+        "bylines": "PRAHA SOBĚ",
+        "currency": "CZK",
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "page_id": "106504292172552",
+        "page_name": "PRAHA 3 SOBĚ",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "_id": "3534779243506453"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=215163701438631&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-06-18",
+        "ad_creative_bodies": [
+            "Máme za sebou první půl rok na radnici Prahy 3 a tady je přehled nejdůležitější práce naší koalice ⤵️\n\n👩‍⚕️ začala ordinovat nová pediatrička a přijímá dětské pacienty - ordinaci přestavěla městská část z bývalého agitačního střediska KSČM v Baranově ulici\n\n🏗️ na Jiřáku se staví nový výtah do metra - spolu s tím se opraví celá čtyřicet let stará stanice, která se cestujícím znovu otevře v listopadu 2023\n\n⛲ otevřelo se zrekonstruované Žižkovo náměstí, Tachovské náměstí rekonstrukcí právě prochází\n\n🏫 do místních základních škol se navzdory zhoršující se situaci v Praze dostaly všechny děti z Prahy 3, do školek jsme umístili všechny tříleté děti i osmdesát dětí dvouletých\n\n💃 z opuštěného domu bývalých lázní v Husitské ulici bude Dům tance - Praha 3 získala finanční podporu od Ministerstva kultury i od magistrátu\n\n🌳 sází se přes 90 nových stromů hlavně v ulicích, kde dříve byly a teď chybí, ale třeba i na Parukářce\n\n☕️ znovu se otevírá kavárna s toaletami na Kostnickém náměstí - s novým provozovatelem, který má od městské části zvýhodněný nájem, protože jde o složité místo\n\nDíky kolegům z koalice za skvělou práci a týmového ducha, díky kterému se nehádáme, ale pracujeme pro Prahu 3. Tak to má být!"
+        ],
+        "ad_delivery_start_time": "2023-06-18",
+        "ad_delivery_stop_time": "2023-06-22",
+        "bylines": "PRAHA SOBĚ",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Prague"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000814",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.078508",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000171",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001927",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.016404",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.017475",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.153161",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.226358",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.147464",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000814",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.027625",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.025741",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.062789",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.099023",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.076538",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.063774",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001242",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000171",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "25000",
+            "upper_bound": "29999"
+        },
+        "page_id": "106504292172552",
+        "page_name": "PRAHA 3 SOBĚ",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "900",
+            "upper_bound": "999"
+        },
+        "_id": "215163701438631"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=406996131585332&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-09-22",
+        "ad_creative_bodies": [
+            "Záleží nám na Praze 3 i celé Praze. Proměnili jsme přechody na Jiřáku, kde jsme se přes křižovatku dlouho mohli dostat jen podchodem. Pro starší lidi nebo kočárky to bylo nemožné, pro všechny nepříjemné. Zbourat bariéry a proměnit křižovatky je potřeba i na Flóře, Ohradě, Jarově nebo Želivského. Pustíme se do toho! 🙌\n\nNa Praze 3 kandidujeme poprvé a máme pro ni velké plány:\n\n1️⃣ Pozornost musí mít všechny lokality Prahy 3. Péči a investice si zaslouží Žižkov, Vinohrady, Ohrada, Jarov, Vackov, Vápenka, Balkán i Chmelnice.\n\n2️⃣ Necháme prokouknout zanedbaná místa. Třeba Husitskou, Hollarovo náměstí nebo velké křižovatky. Navýšíme počet městských strážníků v ulicích Prahy 3.\n\n3️⃣ Místa v dobrých školách a školkách pro všechny děti. Potřebujeme nové kapacity, aby bylo dost míst i s plánovanou výstavbou na Nákladovém nádraží Žižkov.\n\n4️⃣ Promyšlené opravy místo přehazování odpovědnosti. Opravovat se musí, ale v koordinaci s magistrátem a s informováním místních.\n\n5️⃣ Nedopustíme návrat starých známých tváří na radnici. Do vedení Trojky se nesmí znovu dostat ti, kdo tu rozprodali bez rozmyslu obecní majetek.\n\nNejsme profesionální politici, jsme lidé různých profesí - inženýři, učitelé, ekonomové. Pomoct zrealizovat naše plány můžete ve volbách 23. a 24. září.\n\nPřijďte a dejte jeden velký křížek celé kandidátce PRAHA SOBĚ!"
+        ],
+        "ad_delivery_start_time": "2022-09-22",
+        "ad_delivery_stop_time": "2022-09-23",
+        "bylines": "PRAHA SOBĚ",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.999646",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.000118",
+                "region": "England"
+            },
+            {
+                "percentage": "0.000118",
+                "region": "Podkarpackie Voivodeship"
+            },
+            {
+                "percentage": "0.000118",
+                "region": "Žilina Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.00059",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.088527",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.011568",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.003895",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.010033",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000708",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002833",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.014991",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.209514",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.127597",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000236",
+                "age": "13-17",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.21636",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.092658",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.130666",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.03966",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.037417",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.010387",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00059",
+                "age": "13-17",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000236",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001534",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "106504292172552",
+        "page_name": "PRAHA 3 SOBĚ",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "3000",
+            "upper_bound": "3499"
+        },
+        "_id": "406996131585332"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=5522648317782128&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-09-22",
+        "ad_creative_bodies": [
+            "Jsou to čtyři roky, co se Praha 3 osvobodila od takřka nepřetržité vlády ODS. Ta se na Trojce postarala o nehospodárné nakládání s obecním majetkem, nedostatek míst ve školách a školkách nebo prapodivné developerské projekty.\n\nStaré časy nechci zpátky! Praha 3 nesmí znovu řešit skandály na radnici. Potřebuje se připravit na velké výzvy budoucnosti – především výstavbu na Nákladovém nádraží Žižkov a houstnoucí dopravu i ovzduší.\n\nZasadíme se společně o to, aby naše městská část byla čistá a opravená, aby se nečekalo měsíce na opravu jednoho kanálu. Aby radnice dobře hospodařila. A především aby se na Praze 3 počítalo s úplně každým.\n\nPojďme do toho společně - přijďte k volbám 23. a 24. září a dejte jeden velký křížek kandidátce PRAHA 3 SOBĚ.\n\nVáš soused\nFilip Málek, kandidát na starostu Prahy 3"
+        ],
+        "ad_delivery_start_time": "2022-09-22",
+        "ad_delivery_stop_time": "2022-09-23",
+        "bylines": "PRAHA SOBĚ",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.999627",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.000186",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.000186",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.072754",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.134929",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000557",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001856",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.010393",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001114",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.014662",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.032108",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.073311",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.120082",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.258723",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.040275",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001299",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.025241",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002413",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000371",
+                "age": "13-17",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.066258",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.143281",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000371",
+                "age": "13-17",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "5000",
+            "upper_bound": "5999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "106504292172552",
+        "page_name": "PRAHA 3 SOBĚ",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "2000",
+            "upper_bound": "2499"
+        },
+        "_id": "5522648317782128"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=651211209620186&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-09-22",
+        "ad_creative_bodies": [
+            "PRAHA SOBĚ do toho jde i na Praze 3! Každý vám slíbí modré z nebe. Za našimi kolegy z PRAHA SOBĚ ale stojí úspěšná proměna Prahy 7, která je v našem městě příkladem poctivé správy.\n\nNejsme profesionální politici, jsme lidé různých profesí - inženýři, učitelé, ekonomové. Na Trojce s rodinami léta žijeme a máme pro ni velké plány.\n\nNáš tým pro Prahu 3:\n\n🧍‍♂️ Filip Málek - IT analytik systémů veřejné správy, kandidát na starostu Prahy 3\n🧍‍♀️ Julie Kochová - předsedkyně organizace pro pomoc ohroženým dětem\n🧍‍♂️ Michal Sirovátka - ekonom, manažer v oblasti dopravy\n🧍‍♀️ Kristýna Bašná - vědecká pracovnice se zaměřením na výzkum v oblasti boje proti korupci\n🧍‍♂️ Jakub Cháb - učitel, překladatel\n\nMáme jasno: Chceme Prahu 3 čistou, bezpečnou a naslouchající místním. Tady najdete náš kompletní program: prahasobe.cz/praha3\n\nPokud to vidíte stejně, přijďte prosím k volbám 23. a 24. září. Dejte jeden velký křížek celé kandidátce PRAHA 3 SOBĚ!"
+        ],
+        "ad_delivery_start_time": "2022-09-22",
+        "ad_delivery_stop_time": "2022-09-23",
+        "bylines": "PRAHA SOBĚ",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.99664",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.000265",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "8.8E-5",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "8.8E-5",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.000619",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.000354",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "8.8E-5",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "8.8E-5",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "8.8E-5",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "8.8E-5",
+                "region": "Lisbon District"
+            },
+            {
+                "percentage": "0.000177",
+                "region": "England"
+            },
+            {
+                "percentage": "0.000177",
+                "region": "Masovian Voivodeship"
+            },
+            {
+                "percentage": "0.000265",
+                "region": "Greater Poland Voivodeship"
+            },
+            {
+                "percentage": "0.000177",
+                "region": "Silesian Voivodeship"
+            },
+            {
+                "percentage": "0.000265",
+                "region": "Pomeranian Voivodeship"
+            },
+            {
+                "percentage": "8.8E-5",
+                "region": "Podkarpackie Voivodeship"
+            },
+            {
+                "percentage": "8.8E-5",
+                "region": "Łódź Voivodeship"
+            },
+            {
+                "percentage": "0.000177",
+                "region": "Kuyavian-Pomeranian Voivodeship"
+            },
+            {
+                "percentage": "8.8E-5",
+                "region": "Lower Silesian Voivodeship"
+            },
+            {
+                "percentage": "8.8E-5",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001918",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.095711",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000174",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.018131",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000523",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.035565",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.022402",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.056573",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.069561",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.111489",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000174",
+                "age": "13-17",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.063023",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.12901",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.205893",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.159083",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.003312",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00122",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.025017",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001046",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000174",
+                "age": "13-17",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "106504292172552",
+        "page_name": "PRAHA 3 SOBĚ",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "4000",
+            "upper_bound": "4499"
+        },
+        "_id": "651211209620186"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1068820533835326&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-09-19",
+        "ad_creative_bodies": [
+            "Jsou to čtyři roky, co se Praha 3 osvobodila od takřka nepřetržité vlády ODS. Ta se na Trojce postarala o nehospodárné nakládání s obecním majetkem, nedostatek míst ve školách a školkách nebo prapodivné developerské projekty.\n\nStaré časy nechci zpátky! Praha 3 nesmí znovu řešit skandály na radnici. Potřebuje se připravit na velké výzvy budoucnosti – především výstavbu na Nákladovém nádraží Žižkov a houstnoucí dopravu i ovzduší.\n\nZasadíme se společně o to, aby naše městská část byla čistá a opravená, aby se nečekalo měsíce na opravu jednoho kanálu. Aby radnice dobře hospodařila. A především aby se na Praze 3 počítalo s úplně každým.\n\nPojďme do toho společně - přijďte k volbám 23. a 24. září a dejte jeden velký křížek kandidátce PRAHA 3 SOBĚ.\n\nVáš soused\nFilip Málek, kandidát na starostu Prahy 3"
+        ],
+        "ad_delivery_start_time": "2022-09-20",
+        "ad_delivery_stop_time": "2022-09-23",
+        "bylines": "PRAHA SOBĚ",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000662",
+                "region": "Lower Silesian Voivodeship"
+            },
+            {
+                "percentage": "0.000331",
+                "region": "Greater Poland Voivodeship"
+            },
+            {
+                "percentage": "0.989414",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.002316",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.000331",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.000992",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.002316",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.000331",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.000992",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.000331",
+                "region": "Central Slovenia Statistical Region"
+            },
+            {
+                "percentage": "0.000331",
+                "region": "Metro Manila"
+            },
+            {
+                "percentage": "0.000331",
+                "region": "Podkarpackie Voivodeship"
+            },
+            {
+                "percentage": "0.000331",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.000331",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.000331",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.000331",
+                "region": "Alba County"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001292",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.036176",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001938",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.043282",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.015504",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.042959",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002584",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.070413",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.082364",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002261",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.146641",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.150194",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.01938",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.265827",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.032623",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.084302",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002261",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "3000",
+            "upper_bound": "3999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "106504292172552",
+        "page_name": "PRAHA 3 SOBĚ",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "_id": "1068820533835326"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=409136574698331&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-09-19",
+        "ad_creative_bodies": [
+            "Záleží nám na Praze 3 i celé Praze. Proměnili jsme přechody na Jiřáku, kde jsme se přes křižovatku dlouho mohli dostat jen podchodem. Pro starší lidi nebo kočárky to bylo nemožné, pro všechny nepříjemné. Zbourat bariéry a proměnit křižovatky je potřeba i na Flóře, Ohradě, Jarově nebo Želivského. Pustíme se do toho! 🙌\n\nNa Praze 3 kandidujeme poprvé a máme pro ni velké plány:\n\n1️⃣ Pozornost musí mít všechny lokality Prahy 3. Péči a investice si zaslouží Žižkov, Vinohrady, Ohrada, Jarov, Vackov, Vápenka, Balkán i Chmelnice.\n\n2️⃣ Necháme prokouknout zanedbaná místa. Třeba Husitskou, Hollarovo náměstí nebo velké křižovatky. Navýšíme počet městských strážníků v ulicích Prahy 3.\n\n3️⃣ Místa v dobrých školách a školkách pro všechny děti. Potřebujeme nové kapacity, aby bylo dost míst i s plánovanou výstavbou na Nákladovém nádraží Žižkov.\n\n4️⃣ Promyšlené opravy místo přehazování odpovědnosti. Opravovat se musí, ale v koordinaci s magistrátem a s informováním místních.\n\n5️⃣ Nedopustíme návrat starých známých tváří na radnici. Do vedení Trojky se nesmí znovu dostat ti, kdo tu rozprodali bez rozmyslu obecní majetek.\n\nNejsme profesionální politici, jsme lidé různých profesí - inženýři, učitelé, ekonomové. Pomoct zrealizovat naše plány můžete ve volbách 23. a 24. září.\n\nPřijďte a dejte jeden velký křížek celé kandidátce PRAHA SOBĚ!"
+        ],
+        "ad_delivery_start_time": "2022-09-20",
+        "ad_delivery_stop_time": "2022-09-23",
+        "bylines": "PRAHA SOBĚ",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000301",
+                "region": "West Pomeranian Voivodeship"
+            },
+            {
+                "percentage": "0.000602",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.000301",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.000301",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.000903",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.000602",
+                "region": "England"
+            },
+            {
+                "percentage": "0.000301",
+                "region": "Lesser Poland Voivodeship"
+            },
+            {
+                "percentage": "0.000301",
+                "region": "Podkarpackie Voivodeship"
+            },
+            {
+                "percentage": "0.000301",
+                "region": "Masovian Voivodeship"
+            },
+            {
+                "percentage": "0.000602",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.000301",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.000903",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.000301",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.000301",
+                "region": "Doha"
+            },
+            {
+                "percentage": "0.993677",
+                "region": "Prague"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000622",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.060597",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.013362",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000311",
+                "age": "13-17",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002486",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.01243",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.005283",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.003418",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.071162",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000932",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.271908",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.116221",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.040087",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.237415",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.104413",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00839",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.037601",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.013362",
+                "age": "55-64",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "3000",
+            "upper_bound": "3999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "106504292172552",
+        "page_name": "PRAHA 3 SOBĚ",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "_id": "409136574698331"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1442087389591614&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-09-19",
+        "ad_creative_bodies": [
+            "PRAHA SOBĚ do toho jde i na Praze 3! Každý vám slíbí modré z nebe. Za našimi kolegy z PRAHA SOBĚ ale stojí úspěšná proměna Prahy 7, která je v našem městě příkladem poctivé správy.\n\nNejsme profesionální politici, jsme lidé různých profesí - inženýři, učitelé, ekonomové. Na Trojce s rodinami léta žijeme a máme pro ni velké plány.\n\nNáš tým pro Prahu 3:\n\n🧍‍♂️ Filip Málek - IT analytik systémů veřejné správy, kandidát na starostu Prahy 3\n🧍‍♀️ Julie Kochová - předsedkyně organizace pro pomoc ohroženým dětem\n🧍‍♂️ Michal Sirovátka - ekonom, manažer v oblasti dopravy\n🧍‍♀️ Kristýna Bašná - vědecká pracovnice se zaměřením na výzkum v oblasti boje proti korupci\n🧍‍♂️ Jakub Cháb - učitel, překladatel\n\nMáme jasno: Chceme Prahu 3 čistou, bezpečnou a naslouchající místním. Tady najdete náš kompletní program: prahasobe.cz/praha3\n\nPokud to vidíte stejně, přijďte prosím k volbám 23. a 24. září. Dejte jeden velký křížek celé kandidátce PRAHA 3 SOBĚ!"
+        ],
+        "ad_delivery_start_time": "2022-09-20",
+        "ad_delivery_stop_time": "2022-09-23",
+        "bylines": "PRAHA SOBĚ",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000847",
+                "region": "England"
+            },
+            {
+                "percentage": "0.000106",
+                "region": "Trnava Region"
+            },
+            {
+                "percentage": "0.000106",
+                "region": "Lazio"
+            },
+            {
+                "percentage": "0.000106",
+                "region": "Gauteng"
+            },
+            {
+                "percentage": "0.000106",
+                "region": "São Paulo (state)"
+            },
+            {
+                "percentage": "0.000636",
+                "region": "Kuyavian-Pomeranian Voivodeship"
+            },
+            {
+                "percentage": "0.000847",
+                "region": "Lublin Voivodeship"
+            },
+            {
+                "percentage": "0.000318",
+                "region": "Lubusz Voivodeship"
+            },
+            {
+                "percentage": "0.000212",
+                "region": "Podlaskie Voivodeship"
+            },
+            {
+                "percentage": "0.000212",
+                "region": "Warmian-Masurian Voivodeship"
+            },
+            {
+                "percentage": "0.000106",
+                "region": "Presov"
+            },
+            {
+                "percentage": "0.000106",
+                "region": "Alba County"
+            },
+            {
+                "percentage": "0.000212",
+                "region": "Košice Region"
+            },
+            {
+                "percentage": "0.000106",
+                "region": "Dâmbovița County"
+            },
+            {
+                "percentage": "0.000106",
+                "region": "Hunedoara County"
+            },
+            {
+                "percentage": "0.000106",
+                "region": "Maramureș County"
+            },
+            {
+                "percentage": "0.000106",
+                "region": "Mehedinți County"
+            },
+            {
+                "percentage": "0.000106",
+                "region": "Mureș County"
+            },
+            {
+                "percentage": "0.000318",
+                "region": "Cairo Governorate"
+            },
+            {
+                "percentage": "0.000106",
+                "region": "Asyut Governorate"
+            },
+            {
+                "percentage": "0.000106",
+                "region": "Monufia Governorate"
+            },
+            {
+                "percentage": "0.000106",
+                "region": "Bayern"
+            },
+            {
+                "percentage": "0.000106",
+                "region": "Bucharest"
+            },
+            {
+                "percentage": "0.004767",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.000847",
+                "region": "Lower Silesian Voivodeship"
+            },
+            {
+                "percentage": "0.000424",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.000424",
+                "region": "Łódź Voivodeship"
+            },
+            {
+                "percentage": "0.000953",
+                "region": "Lesser Poland Voivodeship"
+            },
+            {
+                "percentage": "0.00053",
+                "region": "Podkarpackie Voivodeship"
+            },
+            {
+                "percentage": "0.000847",
+                "region": "Pomeranian Voivodeship"
+            },
+            {
+                "percentage": "0.000847",
+                "region": "Silesian Voivodeship"
+            },
+            {
+                "percentage": "0.000424",
+                "region": "Świętokrzyskie Voivodeship"
+            },
+            {
+                "percentage": "0.000742",
+                "region": "Greater Poland Voivodeship"
+            },
+            {
+                "percentage": "0.000318",
+                "region": "West Pomeranian Voivodeship"
+            },
+            {
+                "percentage": "0.000742",
+                "region": "Masovian Voivodeship"
+            },
+            {
+                "percentage": "0.011547",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.000636",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.002648",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.001907",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.00053",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.00053",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.007521",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.013559",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.000636",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.000847",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.001377",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.941208",
+                "region": "Prague"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000108",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.125095",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000542",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.004119",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.053875",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.028184",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.070027",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.027209",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.017453",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000434",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.179512",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.161084",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.041626",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.055068",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.215393",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.016152",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002818",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001301",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "106504292172552",
+        "page_name": "PRAHA 3 SOBĚ",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "4000",
+            "upper_bound": "4499"
+        },
+        "_id": "1442087389591614"
+    }
+]

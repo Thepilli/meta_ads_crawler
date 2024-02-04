@@ -1,0 +1,1017 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1155198818946505&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-14",
+        "ad_creative_bodies": [
+            "OBCHVAT MĚSTA SVITAVY - už jen pár dní a 19. prosince se projedeme po něm všichni"
+        ],
+        "ad_delivery_start_time": "2023-12-14",
+        "ad_delivery_stop_time": "2023-12-22",
+        "bylines": "KDU-ČSL",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.025478",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.010092",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.96443",
+                "region": "Pardubice Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.099803",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.040806",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000328",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001639",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.010079",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001475",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000983",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000819",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.02786",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.07981",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.065634",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.05236",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.166339",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.08194",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.174369",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.06252",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.132989",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000246",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "25000",
+            "upper_bound": "29999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "105692521913578",
+        "page_name": "David Šimek",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "target_locations": [
+            {
+                "name": "Svitavy, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 12187,
+        "beneficiary_payers": [
+            {
+                "payer": "David Šimek",
+                "beneficiary": "David Šimek",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "65+",
+                        "male": 639,
+                        "female": 763,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 2030,
+                        "female": 1218,
+                        "unknown": 18
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 1000,
+                        "female": 801,
+                        "unknown": 10
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 2128,
+                        "female": 974,
+                        "unknown": 20
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 340,
+                        "female": 123,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 1623,
+                        "female": 498,
+                        "unknown": 12
+                    }
+                ]
+            }
+        ],
+        "_id": "1155198818946505"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=877073153378857&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-03-26",
+        "ad_creative_bodies": [
+            "Dostupná zdravotní péče je klíčová – ve Svitavách je nyní průměrný věk praktických lékařů 63 let, u zubařů zase postrádáme dostatečnou kapacitu. \n \nProto jsme se rozhodli dotačními programy motivovat všechny, kteří jsou připraveni si v našem městě otevřít ordinaci. Snad se nám postupně podaří stav poskytované péče zlepšit."
+        ],
+        "ad_creative_link_captions": [
+            "davidsimek.cz"
+        ],
+        "ad_delivery_start_time": "2023-03-26",
+        "ad_delivery_stop_time": "2023-04-26",
+        "bylines": "KDU-ČSL",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "2.5E-5",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.057145",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.108658",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.110811",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.064854",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.055543",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.032715",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.041751",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.059973",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.102726",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.047258",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.057996",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.103677",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.102951",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.053916",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.005398",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.134539",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.309448",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.314615",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.234184",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001816",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "70000",
+            "upper_bound": "79999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "105692521913578",
+        "page_name": "David Šimek",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "_id": "877073153378857"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=108768062172723&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-03-26",
+        "ad_creative_bodies": [
+            "Dostupná zdravotní péče je klíčová – ve Svitavách je nyní průměrný věk praktických lékařů 63 let, u zubařů zase postrádáme dostatečnou kapacitu. \n \nProto jsme se rozhodli dotačními programy motivovat všechny, kteří jsou připraveni si v našem městě otevřít ordinaci. Snad se nám postupně podaří stav poskytované péče zlepšit.",
+            "Dostupná zdravotní péče je klíčová – ve Svitavách je nyní průměrný věk praktických lékařů 63 let, u zubařů zase postrádáme dostatečnou kapacitu. \n \nProto jsme se rozhodli dotačními programy motivovat všechny, kteří jsou připraveni si v našem městě otevřít ordinaci. Snad se nám postupně podaří stav poskytované péče zlepšit."
+        ],
+        "ad_creative_link_captions": [
+            "davidsimek.cz"
+        ],
+        "ad_delivery_start_time": "2023-03-27",
+        "ad_delivery_stop_time": "2023-04-26",
+        "bylines": "KDU-ČSL",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Pardubice Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.002278",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.108025",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000536",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.024661",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.150846",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.028346",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.038063",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.076998",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.116837",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000704",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.100754",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.17219",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.070967",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.06641",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.040509",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001072",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000637",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000168",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "60000",
+            "upper_bound": "69999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "105692521913578",
+        "page_name": "David Šimek",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "_id": "108768062172723"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=704886641440741&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-03-26",
+        "ad_creative_bodies": [
+            "Účast občanů a spolků v řízeních o povolení kácení dřevin nebo o výjimkách ze zákazů u zvláště chráněných druhů rostlin a živočichů – tedy v nejsledovanějších typech řízení, která souvisí se středně velkými záměry. To přináší pozměňovací návrh k zákonu o ochraně přírody a krajiny, který jsem podal společně s kolegy z dalších stran a který dnes Sněmovna ve třetím čtení schválila."
+        ],
+        "ad_delivery_start_time": "2023-03-26",
+        "ad_delivery_stop_time": "2023-04-26",
+        "bylines": "KDU-ČSL",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "3.8E-5",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.999962",
+                "region": "Pardubice Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000952",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.08049",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.046449",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.076135",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.107321",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.152489",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.075732",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.099707",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.04235",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000988",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.087921",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000586",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.026501",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.031406",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000805",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000329",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001647",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.168192",
+                "age": "25-34",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "60000",
+            "upper_bound": "69999"
+        },
+        "page_id": "105692521913578",
+        "page_name": "David Šimek",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "_id": "704886641440741"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=889206502363558&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-01-23",
+        "ad_creative_bodies": [
+            "NOVÁ ZELENÁ ÚSPORÁM LIGHT – máte stará okna nebo dveře a potřebujete je vyměnit? Toto je jedna z příležitostí, jak získat velmi jednoduchým způsobem dotaci na energetické úspory. Koukněte na video a hurá do práce. I malá změna může přinést velké úspory."
+        ],
+        "ad_creative_link_captions": [
+            "api.whatsapp.com"
+        ],
+        "ad_delivery_start_time": "2023-01-23",
+        "ad_delivery_stop_time": "2023-02-23",
+        "bylines": "KDU-ČSL",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Pardubice Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000231",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.096319",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002342",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.076494",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.024772",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.15289",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.080189",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.032656",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.050205",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00033",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.044696",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.161202",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.11522",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.06706",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.092921",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000759",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000759",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000957",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "60000",
+            "upper_bound": "69999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "105692521913578",
+        "page_name": "David Šimek",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "_id": "889206502363558"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=655242759164545&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-01-17",
+        "ad_creative_bodies": [
+            "Ministr školství mládeže a tělovýchovy Petr Gazdík, na návštěvě ve Svitavách. Hlavním tématem jednání se starosty a řediteli škol byla aktuální situace ve školství a aplikace středního článku podpory na Svitavsku. Samozřejmě došlo i na prohlídku ZŠ Felberova, seznámení se vzdělávacím programem Začít spolu a prohlídkou zrekonstruovaných prostor školy. Jsem rád, že pan ministr po prohlídce ocenil práci našich pedagogů a zázemí školy slovy „takto má vypadat škola 21. století“."
+        ],
+        "ad_delivery_start_time": "2022-01-18",
+        "ad_delivery_stop_time": "2022-01-31",
+        "bylines": "KDU-ČSL",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Pardubice Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "7.4E-5",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.082712",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000812",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000111",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.018528",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.022846",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.260464",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.047317",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.125341",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.181553",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.05492",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000111",
+                "age": "13-17",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.093046",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.05647",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.03056",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.020706",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.003802",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000148",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000332",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000111",
+                "age": "13-17",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "3.7E-5",
+                "age": "13-17",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "35000",
+            "upper_bound": "39999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "105692521913578",
+        "page_name": "David Šimek",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "700",
+            "upper_bound": "799"
+        },
+        "_id": "655242759164545"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=651568979311014&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2021-12-23",
+        "ad_creative_bodies": [
+            "OKÉNKO DO SNĚMOVNY - rád bych veřejnost pravidelně informoval o sněmovní práci. Co se doposud událo? Jak jsem si zvykl na pražský život?  Na tyto otázky vám odpovím v přiloženém videu. No a samozřejmě nesmí chybět přání k těm nejhezčím svátkům v roce🎄🎄"
+        ],
+        "ad_delivery_start_time": "2021-12-24",
+        "ad_delivery_stop_time": "2021-12-31",
+        "bylines": "KDU-ČSL",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Pardubice Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "2.8E-5",
+                "age": "13-17",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.112505",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "8.5E-5",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000538",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00034",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.035179",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.108965",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.027163",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.071265",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.162187",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00017",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.119813",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.082736",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.169211",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.023481",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001699",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.064665",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.019317",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000651",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "35000",
+            "upper_bound": "39999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "105692521913578",
+        "page_name": "David Šimek",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "_id": "651568979311014"
+    }
+]

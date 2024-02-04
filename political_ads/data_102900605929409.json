@@ -1,0 +1,212 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=2631628643652672&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-10-30",
+        "ad_creative_bodies": [
+            "Procit - Kon\nŽivot s autismem 🔵\nPředstavujeme vám program naší konference, registrovat se na ni můžete zde https://www.autismusprocit.cz/konference.php nebo na 📧procitkurz@autismusprocit.cz \nTěšíme se na vás 💙\n#autismus #procitspolek #pilsen #plzen #plzenskykraj #osveta #pas #autismacceptance #konference #specialnipedagogika #psychologie #zivotsautismem #asd #akcevplzni #pivovar #rodice #vzdelavani #poruchyautistickehospektra"
+        ],
+        "ad_delivery_start_time": "2023-10-30",
+        "ad_delivery_stop_time": "2023-11-07",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.154255",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.428396",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.417349",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000411",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.042317",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.025883",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.131471",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.108053",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.049712",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.089154",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.072309",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.096138",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000411",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.119145",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.168036",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.04848",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.044371",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001233",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000411",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000411",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002054",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "4000",
+            "upper_bound": "4999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "102900605929409",
+        "page_name": "ProCit je Jinej",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "300",
+            "upper_bound": "399"
+        },
+        "target_locations": [
+            {
+                "name": "South Bohemian Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            },
+            {
+                "name": "Plzeň Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            },
+            {
+                "name": "Central Bohemian Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 2470,
+        "beneficiary_payers": [
+            {
+                "payer": "ProCit je Jinej",
+                "beneficiary": "ProCit je Jinej",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 103,
+                        "female": 108,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 234,
+                        "female": 409,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 63,
+                        "female": 118,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 121,
+                        "female": 217,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 176,
+                        "female": 320,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 263,
+                        "female": 290,
+                        "unknown": 3
+                    }
+                ]
+            }
+        ],
+        "_id": "2631628643652672"
+    }
+]

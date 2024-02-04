@@ -1,0 +1,159 @@
+[
+    {
+        "id": "920518806394825",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=920518806394825&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-18",
+        "ad_creative_bodies": [
+            "Kasárna Karlín už patří Praze, došlo k převodu v katastru 🍾🎉☑️. Dnešním dnem je završena majetková směna mezi hl. městem a Českou republikou a několikaleté úsilí Prahy o získání objektu Kasárna Karlín. Transakce znamená pozitivní přínos pro město i stát. Oběma stranám umožní efektivní správu, údržbu, a především větší investice do svého majetku.\n\nNetřeba si ale narychlo hledat na večer jiný program. Příprava konverze budovy v krátkodobém horizontu nijak neohrozí či neomezí současný kulturně-společenský provoz v objektu karlínských kasáren. S Kasárna Karlín dále počítáme. Věřím, že svou funkci místa zajímavých setkání si kasárna zachovají i nadále a budou ji rozvíjet. Například ve společensko-vzdělávací areál či vědeckotechnický park. Celkový potenciál této chráněné kulturní památky je obrovský, stejně jako prostory, které nabízí. \n\nStávající technický stav budov vyžaduje další investice. Hned na příštím jednání rady v pondělí věc probereme. Společně s Petr Hlaváček - náměstek pro rozvoj  předkládáme materiál o dalším postupu. Brzy chceme udělat setkání s památkáři, abychom s nimi projednali, jaké úpravy budeme moci udělat. \n\nPatří se poděkovat nejen Petrovi, ale i Zdeněk Hřib - náměstek pro dopravu  a bývalému radnímu pro majetek Jan Chabr , kteří v minulém volebním období sehráli klíčovou roli v jednáních se státem."
+        ],
+        "ad_delivery_start_time": "2024-01-18",
+        "ad_delivery_stop_time": "2024-01-25",
+        "bylines": "Česká pirátská strana - Praha",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.975926",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.024074",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.047492",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.071809",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.090426",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.098024",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.224924",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.240502",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.165274",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.005699",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.036094",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.017477",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00114",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00114",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "4000",
+            "upper_bound": "4999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "2242877092705890",
+        "page_name": "Adam Zábranský - pražský radní",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "500",
+            "upper_bound": "599"
+        },
+        "target_locations": [
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "50"
+        ],
+        "eu_total_reach": 2680,
+        "beneficiary_payers": [
+            {
+                "payer": "Piráti Praha",
+                "beneficiary": "Piráti Praha",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 592,
+                        "female": 189,
+                        "unknown": 15
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 435,
+                        "female": 125,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 633,
+                        "female": 258,
+                        "unknown": 46
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 238,
+                        "female": 95,
+                        "unknown": 3
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,248 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=2402535013277989&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-04",
+        "ad_creative_link_captions": [
+            "instagram.com",
+            "instagram.com"
+        ],
+        "ad_delivery_start_time": "2023-12-04",
+        "ad_delivery_stop_time": "2023-12-10",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000158",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.034276",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.360449",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.102511",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.049123",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.030801",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.017849",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.024167",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.038541",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.07408",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.029853",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.05402",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.106618",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.044227",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.033328",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001125",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.162836",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001125",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.007073",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.036811",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.054975",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.050796",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.284681",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.233403",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000643",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.074908",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.035686",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.011734",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.008841",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.031185",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.003697",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000161",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000321",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "7000",
+            "upper_bound": "7999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "105321429081713",
+        "page_name": "Teresa Pelican",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 6350,
+        "beneficiary_payers": [
+            {
+                "payer": "Teresa Pelican",
+                "beneficiary": "Teresa Pelican",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "55-64",
+                        "male": 73,
+                        "female": 466,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 342,
+                        "female": 1771,
+                        "unknown": 23
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 55,
+                        "female": 222,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 194,
+                        "female": 1013,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 229,
+                        "female": 1452,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 44,
+                        "female": 316,
+                        "unknown": 4
+                    }
+                ]
+            }
+        ],
+        "_id": "2402535013277989"
+    }
+]

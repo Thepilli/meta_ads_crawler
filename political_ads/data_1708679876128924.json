@@ -1,0 +1,654 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=637492681628289&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-10-25",
+        "ad_creative_bodies": [
+            "Co se v mládí naučíš, nauč i své rodiče. Třeba neplýtvat jídlem a pomoct tak odvrátit blížící se klimatickou změnu."
+        ],
+        "ad_creative_link_captions": [
+            "zachranjidlo.cz"
+        ],
+        "ad_creative_link_descriptions": [
+            "Zachraň jídlo"
+        ],
+        "ad_creative_link_titles": [
+            "Nauč se neplýtvat jídlem"
+        ],
+        "ad_delivery_start_time": "2023-10-25",
+        "ad_delivery_stop_time": "2023-10-26",
+        "currency": "EUR",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000397",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.057597",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.156504",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.114399",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.057795",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.05422",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.025819",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.037339",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.062165",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.106256",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.04568",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.058391",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.093545",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.085005",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.044886",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.0002",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.0012",
+                "age": "13-17",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.008397",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.111355",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.054978",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.311875",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.510996",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001",
+                "age": "13-17",
+                "gender": "male"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "5000",
+            "upper_bound": "5999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1708679876128924",
+        "page_name": "CEE Hacks",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "16",
+            "25"
+        ],
+        "eu_total_reach": 4962,
+        "beneficiary_payers": [
+            {
+                "payer": "CEE Hacks",
+                "beneficiary": "CEE Hacks",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "13-17",
+                        "male": 5,
+                        "female": 6
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 2556,
+                        "female": 1560,
+                        "unknown": 42
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 557,
+                        "female": 275,
+                        "unknown": 1
+                    }
+                ]
+            }
+        ],
+        "_id": "637492681628289"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=931004384610803&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-05-05",
+        "ad_creative_bodies": [
+            "Registrace na GreenHack 2023 - největší inovační akci na téma udržitelnosti ve střední Evropě jsou otevřeny! 🌍🌱 Akce se koná 2.–3. června v Praze a výzvy zahrnují snížení uhlíkové stopy provozu informačních technologií 💻, lepší přenos elektřiny v rozvodové síti💡, využití AI ve službách udržitelnosti či snížení plýtvání potravinami 🍃. Hlásit se mohou týmy i jednotlivci. Hackovat se bude až o 5 000 EUR 💰a další ceny. Registrace jen do 16. května na 👉 www.greenhack.eu. 🚀"
+        ],
+        "ad_creative_link_captions": [
+            "greenhack.eu"
+        ],
+        "ad_creative_link_titles": [
+            "GreenHack 2023"
+        ],
+        "ad_delivery_start_time": "2023-05-05",
+        "ad_delivery_stop_time": "2023-05-06",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.020833",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.090278",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.104167",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.041667",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.027778",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.013889",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.083333",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.111111",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.104167",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.069444",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.055556",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.104167",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.145833",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.027778",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.104167",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.027778",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.020833",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.027778",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.083333",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.083333",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.083333",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.125",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.069444",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.111111",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.166667",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.090278",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.006944",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "page_id": "1708679876128924",
+        "page_name": "CEE Hacks",
+        "publisher_platforms": [
+            "facebook",
+            "instagram",
+            "messenger"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "_id": "931004384610803"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1093736278092584&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-05-05",
+        "ad_creative_bodies": [
+            "Registrace na GreenHack 2023 - největší inovační akci na téma udržitelnosti ve střední Evropě jsou otevřeny! 🌍🌱 Akce se koná 2.–3. června v Praze a výzvy zahrnují snížení uhlíkové stopy provozu informačních technologií 💻, lepší přenos elektřiny v rozvodové síti💡, využití AI ve službách udržitelnosti či snížení plýtvání potravinami 🍃. Hlásit se mohou týmy i jednotlivci. Hackovat se bude až o 5 000 EUR 💰a další ceny. Registrace jen do 16. května na 👉 www.greenhack.eu. 🚀"
+        ],
+        "ad_creative_link_captions": [
+            "greenhack.eu"
+        ],
+        "ad_creative_link_titles": [
+            "GreenHack 2023"
+        ],
+        "ad_delivery_start_time": "2023-05-05",
+        "ad_delivery_stop_time": "2023-05-05",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.063107",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.092233",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.097087",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.063107",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.048544",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.053398",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.024272",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.058252",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.116505",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.029126",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.092233",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.092233",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.126214",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.043689",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.116505",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.106796",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.097087",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.135922",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.169903",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.116505",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.11165",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.009709",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.024272",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.019417",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.038835",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.053398",
+                "age": "45-54",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "page_id": "1708679876128924",
+        "page_name": "CEE Hacks",
+        "publisher_platforms": [
+            "facebook",
+            "instagram",
+            "messenger"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "_id": "1093736278092584"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=186808590925865&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-05-05",
+        "ad_creative_bodies": [
+            "Registrace na GreenHack 2023 - největší inovační akci na téma udržitelnosti ve střední Evropě jsou otevřeny! 🌍🌱 Akce se koná 2.–3. června v Praze a výzvy zahrnují snížení uhlíkové stopy provozu informačních technologií 💻, lepší přenos elektřiny v rozvodové síti💡, využití AI ve službách udržitelnosti či snížení plýtvání potravinami 🍃. Hlásit se mohou týmy i jednotlivci. Hackovat se bude až o 5 000 EUR 💰a další ceny. Registrace jen do 16. května na 👉 www.greenhack.eu. 🚀"
+        ],
+        "ad_creative_link_captions": [
+            "greenhack.eu"
+        ],
+        "ad_creative_link_descriptions": [
+            "GreenHack is an international hackathon tackling sustainable development and future challenges. We want to help solve big issues."
+        ],
+        "ad_creative_link_titles": [
+            "Hackathon for a more sustainable world"
+        ],
+        "ad_delivery_start_time": "2023-05-05",
+        "ad_delivery_stop_time": "2023-05-06",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Prague"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001959",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000979",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.195886",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.185113",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.378061",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.238002",
+                "age": "18-24",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "page_id": "1708679876128924",
+        "page_name": "CEE Hacks",
+        "publisher_platforms": [
+            "facebook",
+            "instagram",
+            "messenger"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "_id": "186808590925865"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1279055659652844&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-05-04",
+        "ad_creative_bodies": [
+            "Registrace na GreenHack 2023 - největší inovační akci na téma udržitelnosti ve střední Evropě jsou otevřeny! 🌍🌱 Akce se koná 2.–3. června v Praze a výzvy zahrnují snížení uhlíkové stopy provozu informačních technologií 💻, lepší přenos elektřiny v rozvodové síti💡, využití AI ve službách udržitelnosti či snížení plýtvání potravinami 🍃. Hlásit se mohou týmy i jednotlivci. Hackovat se bude až o 5 000 EUR 💰a další ceny. Registrace jen do 16. května na 👉 www.greenhack.eu. 🚀"
+        ],
+        "ad_creative_link_captions": [
+            "greenhack.eu"
+        ],
+        "ad_creative_link_descriptions": [
+            "GreenHack is an international hackathon tackling sustainable development and future challenges. We want to help solve big issues."
+        ],
+        "ad_creative_link_titles": [
+            "Hackathon for a more sustainable world"
+        ],
+        "ad_delivery_start_time": "2023-05-05",
+        "ad_delivery_stop_time": "2023-05-05",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Prague"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.197026",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.366171",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.213755",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.219331",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.003717",
+                "age": "18-24",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1708679876128924",
+        "page_name": "CEE Hacks",
+        "publisher_platforms": [
+            "facebook",
+            "instagram",
+            "messenger"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "_id": "1279055659652844"
+    }
+]

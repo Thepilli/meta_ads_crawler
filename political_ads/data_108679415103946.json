@@ -1,0 +1,360 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=304857772439669&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-08",
+        "ad_creative_bodies": [
+            "Nové podkrovní třídy pro výuku odborných předmětů slavnostně otevřeli v Základní škola Solnice. 👏 Žáci i učitelé nadšeně využívají učebny pro IT, hudební a výtvarnou výchovu, které škole pomohly vyřešit problém s kapacitou a přinesly moderní zázemí. 🥰\n\nV následujících etapách jsou v plánu další učebny – konkrétně pro výuku matematiky, cizích jazyků a zeměpisu. 🌎 Zároveň vznikne i víceúčelová místnost, která bude žákům sloužit jako odpočinkový prostor. Chybět nebude ani terasa. 👍\n\nŠkola funguje už více než 100 let a aktuálně do ní chodí 324 žáků. Město dosavadní část rekonstrukce stála téměř 30 milionů korun. Na realizaci se spolu s ním finančně podílelo i Ministerstvo školství, mládeže a tělovýchovy a Nadační fond ŠKODA AUTO."
+        ],
+        "ad_delivery_start_time": "2023-11-09",
+        "ad_delivery_stop_time": "2023-11-12",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000362",
+                "region": "Lower Silesian Voivodeship"
+            },
+            {
+                "percentage": "0.83291",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.166727",
+                "region": "Pardubice Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001094",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.09595",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.414447",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.363006",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.125502",
+                "age": "25-34",
+                "gender": "male"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "3000",
+            "upper_bound": "3999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "108679415103946",
+        "page_name": "Nové Rychnovsko",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "300",
+            "upper_bound": "399"
+        },
+        "target_locations": [
+            {
+                "name": "Rychnov nad Kneznou, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Zdobnice, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Poland",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": true
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "25"
+        ],
+        "eu_total_reach": 2808,
+        "beneficiary_payers": [
+            {
+                "payer": "Nadační fond ŠKODA AUTO",
+                "beneficiary": "Nadační fond ŠKODA AUTO",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "PL",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 1
+                    }
+                ]
+            },
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 1136,
+                        "female": 995,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 343,
+                        "female": 263
+                    }
+                ]
+            }
+        ],
+        "_id": "304857772439669"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=229860116712665&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-08-21",
+        "ad_creative_bodies": [
+            "V úterý 22. srpna se přijďte podívat na vernisáž výstavy Vzpomínky pamětníků Rychnovska. 👵🏻 \n\nVýstava představí osm rozličných příběhů z tohoto podhorského regionu, jejichž osudy se dotýkají důležitých událostí minulého století. \n\nBudeme sledovat konec války a nástup vlivu Sovětského svazu. 👀 Příběhy těch, kdo se nezalekli perzekuce a i v nesvobodě hledali či zachovávali demokratické hodnoty. \n\nInstitut Paměti národa Pardubice - Paměť národa Východní Čechy se snaží, aby se osudy lidí nejen z Rychnovka nevytratily z naší paměti. Vznik výstavy podpořil Nadační fond ŠKODA AUTO v grantu Kultura má zelenou 💚\n\nNechte k sobě promluvit příběhy pamětníků i vy 👇https://www.facebook.com/events/1355826251958047/?notif_id=1692178243850992&notif_t=plan_admin_added&ref=notif"
+        ],
+        "ad_delivery_start_time": "2023-08-22",
+        "ad_delivery_stop_time": "2023-08-23",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.001465",
+                "region": "Lower Silesian Voivodeship"
+            },
+            {
+                "percentage": "0.883646",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.114889",
+                "region": "Pardubice Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000593",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.060813",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00089",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000593",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00089",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.036191",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.088698",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.066449",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.110056",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00178",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.172056",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.091961",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.106497",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.115396",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.067042",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.04865",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.030555",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00089",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "3000",
+            "upper_bound": "3999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "108679415103946",
+        "page_name": "Nové Rychnovsko",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "300",
+            "upper_bound": "399"
+        },
+        "target_locations": [
+            {
+                "name": "Rychnov nad Kneznou, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Zdobnice, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Poland",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": true
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 3441,
+        "beneficiary_payers": [
+            {
+                "payer": "Nové Boleslavsko",
+                "beneficiary": "Nové Boleslavsko",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "PL",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "female": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "female": 2
+                    },
+                    {
+                        "age_range": "25-34",
+                        "female": 2
+                    }
+                ]
+            },
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "65+",
+                        "male": 164,
+                        "female": 310,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 205,
+                        "female": 359,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 371,
+                        "female": 577,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 299,
+                        "female": 389,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 122,
+                        "female": 102,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 224,
+                        "female": 224,
+                        "unknown": 2
+                    }
+                ]
+            }
+        ],
+        "_id": "229860116712665"
+    }
+]

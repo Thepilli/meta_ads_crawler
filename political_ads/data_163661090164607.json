@@ -1,0 +1,800 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=647996147500064&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-17",
+        "ad_creative_link_captions": [
+            "instagram.com",
+            "instagram.com",
+            "instagram.com",
+            "instagram.com",
+            "instagram.com",
+            "instagram.com",
+            "instagram.com"
+        ],
+        "ad_delivery_start_time": "2023-11-17",
+        "ad_delivery_stop_time": "2023-11-17",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.027273",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.417045",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.120455",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.040909",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.026136",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.015909",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.032955",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.036364",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.060227",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.018182",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.036364",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.0875",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.043182",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.0375",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.005618",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.189888",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.061798",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.05618",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.019101",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.039326",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.023596",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.194382",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.050562",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.003371",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.086517",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.105618",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.097753",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.021348",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.025843",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.003371",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.01573",
+                "age": "55-64",
+                "gender": "male"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "163661090164607",
+        "page_name": "teretorika",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 886,
+        "beneficiary_payers": [
+            {
+                "payer": "TeRétorika",
+                "beneficiary": "TeRétorika",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 173,
+                        "female": 87,
+                        "unknown": 35
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 45,
+                        "female": 50,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 17,
+                        "female": 19,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 14,
+                        "female": 23
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 77,
+                        "female": 55,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 169,
+                        "female": 94,
+                        "unknown": 21
+                    }
+                ]
+            }
+        ],
+        "_id": "647996147500064"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=6563105117120656&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-10",
+        "ad_creative_link_captions": [
+            "instagram.com",
+            "instagram.com",
+            "instagram.com",
+            "instagram.com",
+            "instagram.com",
+            "instagram.com"
+        ],
+        "ad_delivery_start_time": "2023-11-10",
+        "ad_delivery_stop_time": "2023-11-11",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.022857",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.531429",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.142857",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.028571",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.017143",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.011429",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.034286",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.04",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.034286",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.051429",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.08",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.005714",
+                "region": "Pardubice Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.04",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.017143",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.057143",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.011429",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.034286",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.148571",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.142857",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.08",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.222857",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.182857",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.005714",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.017143",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.005714",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.034286",
+                "age": "45-54",
+                "gender": "male"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "page_id": "163661090164607",
+        "page_name": "Instagram User 4597119075",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 174,
+        "beneficiary_payers": [
+            {
+                "payer": "TeRétorika",
+                "beneficiary": "TeRétorika",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "35-44",
+                        "male": 7,
+                        "female": 39,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 2,
+                        "female": 1
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 10,
+                        "female": 25,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 26,
+                        "female": 32,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 6,
+                        "female": 14
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 3
+                    }
+                ]
+            }
+        ],
+        "_id": "6563105117120656"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=308959458593763&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-09",
+        "ad_creative_link_captions": [
+            "instagram.com",
+            "instagram.com",
+            "instagram.com",
+            "instagram.com"
+        ],
+        "ad_delivery_start_time": "2023-11-09",
+        "ad_delivery_stop_time": "2023-11-10",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.745946",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.227027",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.027027",
+                "region": "Plzeň Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.335135",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.210811",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.281081",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.172973",
+                "age": "25-34",
+                "gender": "female"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "page_id": "163661090164607",
+        "page_name": "Instagram User 4597119075",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            },
+            {
+                "name": "Brno, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Plzen, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "15",
+            "30"
+        ],
+        "eu_total_reach": 185,
+        "beneficiary_payers": [
+            {
+                "payer": "TeRétorika",
+                "beneficiary": "TeRétorika",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 62,
+                        "female": 52
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 39,
+                        "female": 32
+                    }
+                ]
+            }
+        ],
+        "_id": "308959458593763"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=887074486263788&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-09",
+        "ad_creative_bodies": [
+            "Golda #Meir, obdivována a oslavována v Izraeli, ale v arabském světě se na ni vzpomíná jako na horlivou sionistku a oslavovatelku okupace a útlaku Palestinců. \n\nV rozhovoru, který Golda Meir poskytla britské televizi Thames TV, se sarkasticky označila za Palestinku. Tím se v podstatě snažila zdůraznit, že neexistuje žádná samostatná komunita nebo národ nazývaný Palestinci.\n\n\"Co bylo celé toto území před první světovou válkou? Palestina byla oblast mezi Středozemním mořem a iráckou hranicí... Východní a Západní břeh Jordánu byla #Palestina - já jsem Palestinka,\" řekla Meir.\n\nPřiznala také, že měla palestinský pas, který získala v rámci britského mandátu, který byl vytvořen v roce 1923, aby usnadnil masovou židovskou imigraci do Palestiny.\n\nBritánie dobyla Palestinu od Osmanské říše v letech 1917-18.  Po Velké válce byla britská vláda v Palestině spravována na základě \"mandátu\" Spolecnosti národů až do roku 1948. \n\nMandát byl zřízen šest let po vydání Balfourovy deklarace.\n\nNázev deklarace pochází od Arthuse Jamese Balfoura, bývalého britského ministra zahraničí, který vytvořil myšlenku podpořit v Palestině zřízení domova pro židovský národ.\n\nV roce 1948 na území Palestiny židovská armáda násilně založila stát Izrael.\n\n-----\n\nMy jako Češi bychom měli velmi dobře chápat frázi o nás bez nás, protože to je přesně to co se mezi lety 1917 a 1947 při zakládání státu Izrael stalo Palestincům. \n\nMožná jste slyšeli slavnou frázi \"Země bez lidí pro lidi bez země.\", která je do dnes používaná jako pro izraelský argument. Tak ta země bez lidí měla například v roce 1918 660 000 obyvatel, z toho 60 00 bylo Židů.\n\n-----\n\nZatímco v Izraeli je Meir vykreslována pozitivně a je široce a láskyplně označována jako \"železná lady\".\n\nChovala hluboce zakořeněné protipalestinské myšlenky, jak dokládají různé rozhovory, které osvětlují její pokyny nabádající k válečným zločinům proti Palestincům.\n\n#historie #citáty #citát #izrael #Palestina #freepalestine🇵🇸 #🇨🇿 #🇵🇸"
+        ],
+        "ad_creative_link_captions": [
+            "instagram.com"
+        ],
+        "ad_creative_link_titles": [
+            "instagram.com"
+        ],
+        "ad_delivery_start_time": "2023-11-09",
+        "ad_delivery_stop_time": "2023-11-10",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.005405",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.037838",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.427027",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.059459",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.043243",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.032432",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.005405",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.021622",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.054054",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.07027",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.016216",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.048649",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.118919",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.027027",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.032432",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.005405",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.021622",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.064865",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.075676",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.021622",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.124324",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.12973",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.140541",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.102703",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.054054",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.048649",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.12973",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.016216",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.032432",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.032432",
+                "age": "65+",
+                "gender": "male"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "163661090164607",
+        "page_name": "Instagram User 4597119075",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 185,
+        "beneficiary_payers": [
+            {
+                "payer": "TeRétorika",
+                "beneficiary": "TeRétorika",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 26,
+                        "female": 24,
+                        "unknown": 12
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 19,
+                        "female": 23,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 14,
+                        "female": 24,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 9,
+                        "female": 10
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 6,
+                        "female": 3
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 6,
+                        "female": 4
+                    }
+                ]
+            }
+        ],
+        "_id": "887074486263788"
+    }
+]

@@ -1,0 +1,253 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=827650362489440&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-15",
+        "ad_creative_link_captions": [
+            "instagram.com",
+            "instagram.com",
+            "instagram.com",
+            "instagram.com",
+            "instagram.com",
+            "instagram.com",
+            "instagram.com"
+        ],
+        "ad_delivery_start_time": "2023-11-15",
+        "ad_delivery_stop_time": "2023-11-17",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000397",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.031235",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.292216",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.044026",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.146753",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.025781",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.02588",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.021319",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.016559",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.023401",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.027764",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.164303",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.110759",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.054239",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.015369",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.002586",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.108415",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.013626",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.09449",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.080465",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.193356",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.028247",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.127014",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.233837",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002984",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.008952",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00179",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000597",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.040979",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.053412",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.008156",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000199",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000895",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "130604287281021",
+        "page_name": "Zámek Blatná - Castle Blatna",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 9858,
+        "beneficiary_payers": [
+            {
+                "payer": "Zámek Blatná - Castle Blatna",
+                "beneficiary": "Zámek Blatná - Castle Blatna",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 537,
+                        "female": 950,
+                        "unknown": 30
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 1090,
+                        "female": 2351,
+                        "unknown": 26
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 90,
+                        "female": 284,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 412,
+                        "female": 1277,
+                        "unknown": 9
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 809,
+                        "female": 1944,
+                        "unknown": 18
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 82,
+                        "female": 137,
+                        "unknown": 6
+                    }
+                ]
+            }
+        ],
+        "_id": "827650362489440"
+    }
+]

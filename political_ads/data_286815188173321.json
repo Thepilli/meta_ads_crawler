@@ -1,0 +1,827 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=6537039853061540&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-10-16",
+        "ad_creative_bodies": [
+            "Vážení a milí,\nSrdečně Vás zveme na debatu nejen o Ukrajině a současné zahraniční politice s poslancem Ondřejem Kolářem v Českých Budějovicích. Debata proběhne v příjemné atmosféře kavárny Café Au Chat Noir ve čtvrtek 19. října od 18:00. \nPřijďte s námi debatovat. Všichni jste srdečně zváni!\n\nOndřej Lee Stolička\n(Předseda místní organizace v ČB TOP09)"
+        ],
+        "ad_creative_link_captions": [
+            "Na kávu a víno s poslancem Ondřejem Kolářem"
+        ],
+        "ad_creative_link_descriptions": [
+            "Vážení a milí,\nSrdečně Vás zveme na debatu nejen o Ukrajině a současné zahraniční politice s poslancem Ondřejem Kolářem v Českých Budějovicích. Debata proběhne v příjemné atmosféře kavárny Café Au Chat Noir ve čtvrtek 19. října od 18:00. \nPřijďte s námi debatovat. Všichni jste srdečně zváni!\n\nOndřej Lee Stolička\n(Předseda místní organizace v ČB TOP09)"
+        ],
+        "ad_creative_link_titles": [
+            "Na kávu a víno s poslancem Ondřejem Kolářem"
+        ],
+        "ad_delivery_start_time": "2023-10-16",
+        "ad_delivery_stop_time": "2023-10-20",
+        "bylines": "MÍSTNÍ ORGANIZACE ČESKÉ BUDĚJOVICE TOP 09",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "South Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000429",
+                "age": "13-17",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000429",
+                "age": "13-17",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000859",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001717",
+                "age": "13-17",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.003864",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002147",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.103907",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.133963",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.243881",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.06827",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.139974",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.252469",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.021039",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.003006",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.024045",
+                "age": "45-54",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "5000",
+            "upper_bound": "5999"
+        },
+        "page_id": "286815188173321",
+        "page_name": "TOP 09 České Budějovice",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "500",
+            "upper_bound": "599"
+        },
+        "target_locations": [
+            {
+                "name": "Ceske Budejovice, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "15",
+            "45"
+        ],
+        "eu_total_reach": 2345,
+        "beneficiary_payers": [
+            {
+                "payer": "Historie Kaplicka a přilehlého okolí",
+                "beneficiary": "Historie Kaplicka a přilehlého okolí",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "13-17",
+                        "male": 4,
+                        "female": 1,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 56,
+                        "female": 49,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 312,
+                        "female": 159,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 568,
+                        "female": 242,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 588,
+                        "female": 326,
+                        "unknown": 9
+                    }
+                ]
+            }
+        ],
+        "_id": "6537039853061540"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=858198765679276&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-10-14",
+        "ad_creative_bodies": [
+            "Vážení a milí,\nSrdečně Vás zveme na debatu nejen o Ukrajině a současné zahraniční politice s poslancem Ondřejem Kolářem v Českých Budějovicích. Debata proběhne v příjemné atmosféře kavárny Café Au Chat Noir ve čtvrtek 19. října od 18:00. \nPřijďte s námi debatovat. Všichni jste srdečně zváni!\n\nOndřej Lee Stolička\n(Předseda místní organizace v ČB TOP09)"
+        ],
+        "ad_creative_link_captions": [
+            "Na kávu a víno s poslancem Ondřejem Kolářem"
+        ],
+        "ad_creative_link_descriptions": [
+            "Vážení a milí,\nSrdečně Vás zveme na debatu nejen o Ukrajině a současné zahraniční politice s poslancem Ondřejem Kolářem v Českých Budějovicích. Debata proběhne v příjemné atmosféře kavárny Café Au Chat Noir ve čtvrtek 19. října od 18:00. \nPřijďte s námi debatovat. Všichni jste srdečně zváni!\n\nOndřej Lee Stolička\n(Předseda místní organizace v ČB TOP09)"
+        ],
+        "ad_creative_link_titles": [
+            "Na kávu a víno s poslancem Ondřejem Kolářem"
+        ],
+        "ad_delivery_start_time": "2023-10-14",
+        "ad_delivery_stop_time": "2023-10-16",
+        "bylines": "MÍSTNÍ ORGANIZACE ČESKÉ BUDĚJOVICE TOP 09",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "South Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000674",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.116655",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.024275",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.238031",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.080243",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.142953",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.251517",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.024275",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.111935",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002697",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.004046",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002697",
+                "age": "18-24",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "2000",
+            "upper_bound": "2999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "286815188173321",
+        "page_name": "TOP 09 České Budějovice",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "target_locations": [
+            {
+                "name": "Ceske Budejovice, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "15",
+            "45"
+        ],
+        "eu_total_reach": 1485,
+        "beneficiary_payers": [
+            {
+                "payer": "Historie Kaplicka a přilehlého okolí",
+                "beneficiary": "Historie Kaplicka a přilehlého okolí",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 212,
+                        "female": 119,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 353,
+                        "female": 173,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 36,
+                        "female": 36,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 373,
+                        "female": 166,
+                        "unknown": 6
+                    }
+                ]
+            }
+        ],
+        "_id": "858198765679276"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=3004309613038103&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-10-13",
+        "ad_creative_bodies": [
+            "Vážení a milí,\nSrdečně Vás zveme na debatu nejen o Ukrajině a současné zahraniční politice s poslancem Ondřejem Kolářem v Českých Budějovicích. Debata proběhne v příjemné atmosféře kavárny Café Au Chat Noir ve čtvrtek 19. října od 18:00. \nPřijďte s námi debatovat. Všichni jste srdečně zváni!\n\nOndřej Lee Stolička\n(Předseda místní organizace v ČB TOP09)"
+        ],
+        "ad_creative_link_captions": [
+            "Na kávu a víno s poslancem Ondřejem Kolářem"
+        ],
+        "ad_creative_link_descriptions": [
+            "Vážení a milí,\nSrdečně Vás zveme na debatu nejen o Ukrajině a současné zahraniční politice s poslancem Ondřejem Kolářem v Českých Budějovicích. Debata proběhne v příjemné atmosféře kavárny Café Au Chat Noir ve čtvrtek 19. října od 18:00. \nPřijďte s námi debatovat. Všichni jste srdečně zváni!\n\nOndřej Lee Stolička\n(Předseda místní organizace v ČB TOP09)"
+        ],
+        "ad_creative_link_titles": [
+            "Na kávu a víno s poslancem Ondřejem Kolářem"
+        ],
+        "ad_delivery_start_time": "2023-10-13",
+        "ad_delivery_stop_time": "2023-10-14",
+        "bylines": "MÍSTNÍ ORGANIZACE ČESKÉ BUDĚJOVICE TOP 09",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "South Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001227",
+                "age": "13-17",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.104294",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.213497",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.100613",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.186503",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.088344",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002454",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.106748",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.057669",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002454",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.134969",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001227",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "286815188173321",
+        "page_name": "TOP 09 České Budějovice",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "South Bohemian Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "15",
+            "54"
+        ],
+        "eu_total_reach": 826,
+        "beneficiary_payers": [
+            {
+                "payer": "MO TOP09 České Budějovice",
+                "beneficiary": "Obyvatelé Českých Budějovic a okolí se zájmem o veřejné dění.",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "male": 110,
+                        "female": 82,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "13-17",
+                        "female": 1
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 85,
+                        "female": 47
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 174,
+                        "female": 87,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 152,
+                        "female": 72,
+                        "unknown": 2
+                    }
+                ]
+            }
+        ],
+        "_id": "3004309613038103"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=847328380111363&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-10-13",
+        "ad_creative_bodies": [
+            "Vážení a milí,\nSrdečně Vás zveme na debatu nejen o Ukrajině a současné zahraniční politice s poslancem Ondřejem Kolářem v Českých Budějovicích. Debata proběhne v příjemné atmosféře kavárny Café Au Chat Noir ve čtvrtek 19. října od 18:00. \nPřijďte s námi debatovat. Všichni jste srdečně zváni!\n\nOndřej Lee Stolička\n(Předseda místní organizace v ČB TOP09)"
+        ],
+        "ad_creative_link_captions": [
+            "Na kávu a víno s poslancem Ondřejem Kolářem"
+        ],
+        "ad_creative_link_descriptions": [
+            "Vážení a milí,\nSrdečně Vás zveme na debatu nejen o Ukrajině a současné zahraniční politice s poslancem Ondřejem Kolářem v Českých Budějovicích. Debata proběhne v příjemné atmosféře kavárny Café Au Chat Noir ve čtvrtek 19. října od 18:00. \nPřijďte s námi debatovat. Všichni jste srdečně zváni!\n\nOndřej Lee Stolička\n(Předseda místní organizace v ČB TOP09)"
+        ],
+        "ad_creative_link_titles": [
+            "Na kávu a víno s poslancem Ondřejem Kolářem"
+        ],
+        "ad_delivery_start_time": "2023-10-13",
+        "ad_delivery_stop_time": "2023-10-13",
+        "bylines": "MÍSTNÍ ORGANIZACE ČESKÉ BUDĚJOVICE TOP 09",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.008333",
+                "region": "Lower Austria"
+            },
+            {
+                "percentage": "0.983333",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.008333",
+                "region": "Vysočina Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.008333",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.008333",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.008333",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.025",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.1",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.158333",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.141667",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.241667",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.116667",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.191667",
+                "age": "35-44",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "286815188173321",
+        "page_name": "TOP 09 České Budějovice",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Ceske Budejovice, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "15",
+            "45"
+        ],
+        "eu_total_reach": 120,
+        "beneficiary_payers": [
+            {
+                "payer": "Historie Kaplicka a přilehlého okolí",
+                "beneficiary": "Historie Kaplicka a přilehlého okolí",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "AT",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 1
+                    }
+                ]
+            },
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 13,
+                        "female": 12,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 29,
+                        "female": 19
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 23,
+                        "female": 17,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 3,
+                        "female": 1
+                    }
+                ]
+            }
+        ],
+        "_id": "847328380111363"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=992368355355097&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-10-13",
+        "ad_creative_bodies": [
+            "Vážení a milí,\nSrdečně Vás zveme na debatu nejen o Ukrajině a současné zahraniční politice s poslancem Ondřejem Kolářem v Českých Budějovicích. Debata proběhne v příjemné atmosféře kavárny Café Au Chat Noir ve čtvrtek 19. října od 18:00. \nPřijďte s námi debatovat. Všichni jste srdečně zváni!\n\nOndřej Lee Stolička\n(Předseda místní organizace v ČB TOP09)"
+        ],
+        "ad_creative_link_captions": [
+            "Na kávu a víno s poslancem Ondřejem Kolářem"
+        ],
+        "ad_creative_link_descriptions": [
+            "Vážení a milí,\nSrdečně Vás zveme na debatu nejen o Ukrajině a současné zahraniční politice s poslancem Ondřejem Kolářem v Českých Budějovicích. Debata proběhne v příjemné atmosféře kavárny Café Au Chat Noir ve čtvrtek 19. října od 18:00. \nPřijďte s námi debatovat. Všichni jste srdečně zváni!\n\nOndřej Lee Stolička\n(Předseda místní organizace v ČB TOP09)"
+        ],
+        "ad_creative_link_titles": [
+            "Na kávu a víno s poslancem Ondřejem Kolářem"
+        ],
+        "ad_delivery_start_time": "2023-10-13",
+        "ad_delivery_stop_time": "2023-10-13",
+        "bylines": "MÍSTNÍ ORGANIZACE ČESKÉ BUDĚJOVICE TOP 09",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.888",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.04",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.024",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.048",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.008",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.12",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.152",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.096",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.216",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.16",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.008",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.024",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.216",
+                "age": "25-34",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "286815188173321",
+        "page_name": "TOP 09 České Budějovice",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Ceske Budejovice, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "15",
+            "45"
+        ],
+        "eu_total_reach": 125,
+        "beneficiary_payers": [
+            {
+                "payer": "Historie Kaplicka a přilehlého okolí",
+                "beneficiary": "Historie Kaplicka a přilehlého okolí",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 12,
+                        "female": 19,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 27,
+                        "female": 27
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 20,
+                        "female": 15
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 1,
+                        "female": 3
+                    }
+                ]
+            }
+        ],
+        "_id": "992368355355097"
+    }
+]

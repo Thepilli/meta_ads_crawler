@@ -1,0 +1,594 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1559569191114018&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-12",
+        "ad_creative_bodies": [
+            "Díky novému programu lidé v České republice opouštějí svá zaměstnání.",
+            "Díky novému programu lidé v České republice opouštějí svá zaměstnání.",
+            "Díky novému programu lidé v České republice opouštějí svá zaměstnání."
+        ],
+        "ad_creative_link_captions": [
+            "profschange.store"
+        ],
+        "ad_creative_link_titles": [
+            "Zaregistrujte se nyní!",
+            "Zaregistrujte se nyní!",
+            "Zaregistrujte se nyní!"
+        ],
+        "ad_delivery_start_time": "2023-11-12",
+        "ad_delivery_stop_time": "2023-11-16",
+        "currency": "USD",
+        "delivery_by_region": [
+            {
+                "percentage": "0.001741",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.064132",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.091991",
+                "region": "Presov"
+            },
+            {
+                "percentage": "0.064713",
+                "region": "Nitra Region"
+            },
+            {
+                "percentage": "0.095763",
+                "region": "Košice Region"
+            },
+            {
+                "percentage": "0.126524",
+                "region": "Bratislava Region"
+            },
+            {
+                "percentage": "0.062391",
+                "region": "Banská Bystrica Region"
+            },
+            {
+                "percentage": "0.046721",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.040627",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.017411",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.040046",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.065583",
+                "region": "Žilina Region"
+            },
+            {
+                "percentage": "0.017411",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.052525",
+                "region": "Trenčín Region"
+            },
+            {
+                "percentage": "0.01567",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.022635",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.016831",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.042658",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.016251",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.014219",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.008996",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.021184",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.053976",
+                "region": "Trnava Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001153",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.004323",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.021614",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.065994",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.003746",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.004323",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000576",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.078386",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.166282",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.051297",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.243228",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.307781",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.051297",
+                "age": "45-54",
+                "gender": "female"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "3000",
+            "upper_bound": "3999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "170377892817614",
+        "page_name": "Acquisition Marketing",
+        "publisher_platforms": [
+            "facebook",
+            "instagram",
+            "audience_network",
+            "messenger"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            },
+            {
+                "name": "Slovakia",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "29",
+            "59"
+        ],
+        "eu_total_reach": 3515,
+        "beneficiary_payers": [
+            {
+                "payer": "Evelyn Ramirez",
+                "beneficiary": "Evelyn Ramirez",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "65+",
+                        "male": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 229,
+                        "female": 59,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 327,
+                        "female": 84,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 392,
+                        "female": 98,
+                        "unknown": 10
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 87,
+                        "female": 29,
+                        "unknown": 1
+                    }
+                ]
+            },
+            {
+                "country": "SK",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "55-64",
+                        "male": 91,
+                        "female": 46,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 346,
+                        "female": 119,
+                        "unknown": 10
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 515,
+                        "female": 145,
+                        "unknown": 10
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 671,
+                        "female": 176,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 3
+                    }
+                ]
+            }
+        ],
+        "_id": "1559569191114018"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=857432262595183&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-12",
+        "ad_creative_bodies": [
+            "Díky novému programu lidé v České republice opouštějí svá zaměstnání.",
+            "Díky novému programu lidé v České republice opouštějí svá zaměstnání.",
+            "Díky novému programu lidé v České republice opouštějí svá zaměstnání."
+        ],
+        "ad_creative_link_captions": [
+            "profschange.store"
+        ],
+        "ad_creative_link_titles": [
+            "Zaregistrujte se nyní!",
+            "Zaregistrujte se nyní!",
+            "Zaregistrujte se nyní!"
+        ],
+        "ad_delivery_start_time": "2023-11-12",
+        "ad_delivery_stop_time": "2023-11-18",
+        "currency": "USD",
+        "delivery_by_region": [
+            {
+                "percentage": "0.001046",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.04445",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.054778",
+                "region": "Trnava Region"
+            },
+            {
+                "percentage": "0.050464",
+                "region": "Trenčín Region"
+            },
+            {
+                "percentage": "0.093738",
+                "region": "Presov"
+            },
+            {
+                "percentage": "0.058308",
+                "region": "Nitra Region"
+            },
+            {
+                "percentage": "0.101059",
+                "region": "Košice Region"
+            },
+            {
+                "percentage": "0.089685",
+                "region": "Bratislava Region"
+            },
+            {
+                "percentage": "0.060792",
+                "region": "Banská Bystrica Region"
+            },
+            {
+                "percentage": "0.016865",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.051249",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.028631",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.021702",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.018434",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.04968",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.022225",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.022487",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.013727",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.013335",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.020133",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.043012",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.060269",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.06393",
+                "region": "Žilina Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.002221",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.025608",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.065587",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.279854",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.254507",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.004311",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.190489",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.058662",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.058923",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.056702",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001698",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000915",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000523",
+                "age": "65+",
+                "gender": "male"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "9000",
+            "upper_bound": "9999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "170377892817614",
+        "page_name": "Acquisition Marketing",
+        "publisher_platforms": [
+            "facebook",
+            "instagram",
+            "audience_network",
+            "messenger"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            },
+            {
+                "name": "Slovakia",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "29",
+            "59"
+        ],
+        "eu_total_reach": 7759,
+        "beneficiary_payers": [
+            {
+                "payer": "Evelyn Ramirez",
+                "beneficiary": "Evelyn Ramirez",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "SK",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "65+",
+                        "male": 2
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 295,
+                        "female": 116,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 798,
+                        "female": 245,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 1112,
+                        "female": 268,
+                        "unknown": 10
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 1273,
+                        "female": 239,
+                        "unknown": 15
+                    }
+                ]
+            },
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "male": 664,
+                        "female": 187,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 225,
+                        "female": 80,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 864,
+                        "female": 217,
+                        "unknown": 18
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 811,
+                        "female": 180,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 2
+                    }
+                ]
+            }
+        ],
+        "_id": "857432262595183"
+    }
+]

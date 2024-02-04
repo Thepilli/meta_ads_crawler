@@ -1,0 +1,843 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1108484123926249&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-06",
+        "ad_creative_link_captions": [
+            "prodejny.kaufland.cz"
+        ],
+        "ad_creative_link_descriptions": [
+            "Všichni chceme žít na zdravé planetě. Proto se v Kauflandu angažujeme v mnoha různých směrech - pro naše životní prostředí, zdravou výživu, klima a společnost."
+        ],
+        "ad_creative_link_titles": [
+            "úsporné svícení"
+        ],
+        "ad_delivery_start_time": "2024-01-06",
+        "ad_delivery_stop_time": "2024-01-07",
+        "currency": "USD",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000112",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.047343",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.260725",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.092494",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.06989",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.040933",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.020298",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.029575",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.045207",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.091538",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.043801",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.053191",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.10104",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.057577",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.046275",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000616",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.030471",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002016",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002409",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.009186",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.003193",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.02795",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.006329",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.188652",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00028",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.239119",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.321683",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.149331",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.007058",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00112",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.01053",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "5.6E-5",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "15000",
+            "upper_bound": "19999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "376809572404232",
+        "page_name": "Kaufland Česká republika",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 17905,
+        "beneficiary_payers": [
+            {
+                "payer": "Kaufland Česká republika v.o.s.",
+                "beneficiary": "Kaufland Česká republika v.o.s.",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 4269,
+                        "female": 5743,
+                        "unknown": 164
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 126,
+                        "female": 188,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 113,
+                        "female": 57,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 20,
+                        "female": 43
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 544,
+                        "female": 499,
+                        "unknown": 11
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 3368,
+                        "female": 2666,
+                        "unknown": 36
+                    }
+                ]
+            }
+        ],
+        "_id": "1108484123926249"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=991534462115074&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-08-22",
+        "ad_creative_link_captions": [
+            "spolecnost.kaufland.cz"
+        ],
+        "ad_creative_link_descriptions": [
+            "Zavázali jsme se k menšímu množství plastů a většímu využívání recyklace. Jako podporovatelé strategie REset Plastic skupiny Schwarz přebíráme odpovědnost a stanovili jsme si jasné cíle. Přečtěte si, co to konkrétně znamená."
+        ],
+        "ad_creative_link_titles": [
+            "Vyhlašujeme válku plastovému odpadu."
+        ],
+        "ad_delivery_start_time": "2023-08-25",
+        "ad_delivery_stop_time": "2023-08-25",
+        "currency": "USD",
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "376809572404232",
+        "page_name": "Kaufland Česká republika",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "50"
+        ],
+        "eu_total_reach": 99,
+        "beneficiary_payers": [
+            {
+                "payer": "Kaufland Česká republika v.o.s.",
+                "beneficiary": "Kaufland Česká republika v.o.s.",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 27,
+                        "female": 28,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 21,
+                        "female": 15
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 3,
+                        "female": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 1,
+                        "female": 1
+                    }
+                ]
+            }
+        ],
+        "_id": "991534462115074"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1116986835712784&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-01-25",
+        "ad_creative_bodies": [
+            "SOUTĚŽ! Společně s Lidl Česká republika podporujeme zavedení systému zálohování plastových lahví a plechovek v České republice. Věděli jste, že podle odborných studií dokáže správně nastavený systém zálohování snížit dopad nápojových obalů na životní prostředí až o 30 %? Na životním prostředí nám záleží, a proto jsme jednoznačně PRO ZÁLOHOVÁNÍ. Napište nám do komentáře, jak zacházíte ve své domácnosti s plastovými obaly a my vylosujeme tři výherce, kteří se mohou těšit na poukázku v hodnotě 500 Kč. Soutěžit můžete do 3. 2. Rozhodují činy, Kaufland."
+        ],
+        "ad_delivery_start_time": "2023-01-25",
+        "ad_delivery_stop_time": "2023-02-04",
+        "currency": "USD",
+        "delivery_by_region": [
+            {
+                "percentage": "0.058272",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.116577",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.112345",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.058487",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.044617",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.034947",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.048635",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.059694",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.11671",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.048155",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.054685",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.101617",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.093566",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.051693",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000656",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.071784",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000722",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.153874",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.073441",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.096614",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.036319",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.088343",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.065974",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.0011",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.08488",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.104344",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.063053",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.03686",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.119525",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000903",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00064",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000968",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "100000",
+            "upper_bound": "124999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "376809572404232",
+        "page_name": "Kaufland Česká republika",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "600",
+            "upper_bound": "699"
+        },
+        "_id": "1116986835712784"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=495283072435482&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-12-09",
+        "ad_creative_bodies": [
+            "S otevřením naší nové prodejny jsme spustili grantový program Milion pro Poděbrady a okolí. Změňte spolu s námi a Nadace Via vaše město k lepšímu a získejte až 100 000 Kč na váš nápad. Hlásit se mohou projekty z Poděbrad, Velkého Oseku, Peček, Městce Králové či Opolan a dalších obcí. Uzávěrka prvního ročníku je 1. února. Více informací najdete na www.kaufland.cz/milion."
+        ],
+        "ad_creative_link_captions": [
+            "spolecnost.kaufland.cz"
+        ],
+        "ad_creative_link_descriptions": [
+            "Podporujeme komunitní život ve vašich městech. S otevřením každé nové prodejny Kaufland investujeme částku 1 000 000 Kč na podporu komunitních projektů."
+        ],
+        "ad_creative_link_titles": [
+            "Milion pro vaše město"
+        ],
+        "ad_delivery_start_time": "2022-12-09",
+        "ad_delivery_stop_time": "2023-01-05",
+        "currency": "USD",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000237",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.102082",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000355",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001301",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.017507",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.025432",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001065",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.022001",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.06352",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000118",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.085995",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.156612",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.032056",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.190679",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.121718",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.07393",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.105157",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000237",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "9000",
+            "upper_bound": "9999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "376809572404232",
+        "page_name": "Kaufland Česká republika",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "_id": "495283072435482"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=2327421864098990&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-11-16",
+        "ad_creative_link_captions": [
+            "spolecnost.kaufland.cz"
+        ],
+        "ad_creative_link_descriptions": [
+            "Ochrana naší planety je nám blízká. Proto také vidíme jeden z našich nejdůležitějších úkolů v tom, abychom bojovali se znečišťováním našeho životního prostředí a oceánů plastovým odpadem."
+        ],
+        "ad_creative_link_titles": [
+            "Opatření v oblasti plastů"
+        ],
+        "ad_delivery_start_time": "2022-11-16",
+        "ad_delivery_stop_time": "2022-12-13",
+        "currency": "USD",
+        "delivery_by_region": [
+            {
+                "percentage": "3.1E-5",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.051352",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.158425",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.110718",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.065118",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.041853",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.028567",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.042283",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.045261",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.102314",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.046889",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.060953",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.116245",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.081045",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.048946",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "3.1E-5",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.333102",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001421",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000501",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.018927",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.008309",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.012407",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.005253",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.360123",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000194",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.020061",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.119499",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.102534",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.006888",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.005968",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001983",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002494",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000307",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "90000",
+            "upper_bound": "99999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "376809572404232",
+        "page_name": "Kaufland Česká republika",
+        "publisher_platforms": [
+            "facebook",
+            "instagram",
+            "messenger"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "_id": "2327421864098990"
+    }
+]

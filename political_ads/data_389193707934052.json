@@ -1,0 +1,182 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=881603066820755&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-10-13",
+        "ad_creative_bodies": [
+            "Ottawa Senators vs Philadelphia Flyers v sobotu v 19:00. Sledujte novou sezónu NHL na Telly."
+        ],
+        "ad_creative_link_captions": [
+            "telly.cz"
+        ],
+        "ad_creative_link_descriptions": [
+            "Ottawa Senators vs Philadelphia Flyers. Sledujte hned za 250 Kč.",
+            "Ottawa Senators vs Philadelphia Flyers. Sledujte hned za 250 Kč.",
+            "Ottawa Senators vs Philadelphia Flyers. Sledujte hned za 250 Kč.",
+            "Ottawa Senators vs Philadelphia Flyers. Sledujte hned za 250 Kč.",
+            "Ottawa Senators vs Philadelphia Flyers. Sledujte hned za 250 Kč.",
+            "Ottawa Senators vs Philadelphia Flyers. Sledujte hned za 250 Kč."
+        ],
+        "ad_creative_link_titles": [
+            "Aplikace pro smart TV (Apple TV, Android TV, Samsung, LG, Hisense, Xbox)",
+            "Aplikace pro smart TV (Apple TV, Android TV, Samsung, LG, Hisense, Xbox)",
+            "Aplikace pro smart TV (Apple TV, Android TV, Samsung, LG, Hisense, Xbox)",
+            "Aplikace pro smart TV (Apple TV, Android TV, Samsung, LG, Hisense, Xbox)",
+            "Aplikace pro smart TV (Apple TV, Android TV, Samsung, LG, Hisense, Xbox)"
+        ],
+        "ad_delivery_start_time": "2023-10-13",
+        "ad_delivery_stop_time": "2023-10-15",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.05304",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.103",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.10809",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.053844",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.042727",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.033351",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.040316",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.057594",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.136351",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.053576",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.054782",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.115725",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.102598",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.045004",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.243401",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.064995",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.16156",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.244329",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.285714",
+                "age": "25-34",
+                "gender": "male"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "8000",
+            "upper_bound": "8999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "389193707934052",
+        "page_name": "Telly",
+        "publisher_platforms": [
+            "facebook",
+            "instagram",
+            "messenger"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "Men",
+        "target_ages": [
+            "23",
+            "60"
+        ],
+        "eu_total_reach": 7435,
+        "beneficiary_payers": [
+            {
+                "payer": "Telly s.r.o.",
+                "beneficiary": "Telly s.r.o.",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 490
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 2154
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 1835
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 1842
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 1218
+                    }
+                ]
+            }
+        ],
+        "_id": "881603066820755"
+    }
+]

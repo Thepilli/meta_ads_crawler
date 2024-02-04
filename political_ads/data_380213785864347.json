@@ -1,0 +1,354 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=290804180601866&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-19",
+        "ad_creative_bodies": [
+            "Chcete věnovat pár minut a záchránit 5000 brněnských stromů🌳? \nMěsto během sucha🔥 nemá prostředky ani vodu💦 na jejich zálivku a pouze s pomocí lidí, jako jste vy mají šanci přežít! \nPodpořte prosím projekt, který inspiruje k zalévání a zlepší půdní podmínky u 5000🌳 brněnských stromů.\n👉Dejte mu prosím 2 hlasy a oslovte i rodinu a přátele, ať letos zvítězí. 👇👇👇\nČas je jen do půlnoci 30.11.‼️\n\nDíky! Společně stromy zachráníme🙂.\n\nhttps://paro.damenavas.cz/projekt/?id=2058"
+        ],
+        "ad_creative_link_captions": [
+            "paro.damenavas.cz"
+        ],
+        "ad_creative_link_descriptions": [
+            "Změna klimatu ohrožuje stromy, které potřebují vodu a dobrou půdu, aby dokázaly přežít další suchá léta. Hlasujte a pomožte zlepšit půdní podmínky u 5000 stromů a zapojit brňáky do jejich zalévání! Uděláte radost stromům, sobě i Vašim dětem:-)."
+        ],
+        "ad_creative_link_titles": [
+            "Zachraňme stromy před suchem - Dáme na vás"
+        ],
+        "ad_delivery_start_time": "2023-11-19",
+        "ad_delivery_stop_time": "2023-11-30",
+        "bylines": "Michal Polanský",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "South Moravian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000436",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001743",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.003485",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.132433",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.036376",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.060771",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.131562",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.159007",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.121978",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.098889",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.119146",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.035722",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.095622",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00196",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000871",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "page_id": "380213785864347",
+        "page_name": "Zalejme.cz",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "800",
+            "upper_bound": "899"
+        },
+        "target_locations": [
+            {
+                "name": "Brno, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "20",
+            "60"
+        ],
+        "eu_total_reach": 4511,
+        "beneficiary_payers": [
+            {
+                "payer": "Michal Polanský",
+                "beneficiary": "Zalejme.cz",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "55-64",
+                        "male": 279,
+                        "female": 439,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 547,
+                        "female": 608,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 167,
+                        "female": 164,
+                        "unknown": 9
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 604,
+                        "female": 730,
+                        "unknown": 16
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 454,
+                        "female": 560,
+                        "unknown": 8
+                    }
+                ]
+            }
+        ],
+        "_id": "290804180601866"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1286109075385199&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-18",
+        "ad_creative_bodies": [
+            "Chcete věnovat pár minut a záchránit 5000 brněnských stromů🌳? \nMěsto během sucha🔥 nemá prostředky ani vodu💦 na jejich zálivku a pouze s pomocí lidí, jako jste vy mají šanci přežít! \nPodpořte prosím projekt, který inspiruje k zalévání a zlepší půdní podmínky u 5000🌳 brněnských stromů.\n👉Dejte mu prosím 2 hlasy a oslovte i rodinu a přátele, ať letos zvítězí. 👇👇👇\nČas je jen do půlnoci 30.11.‼️\n\nDíky! Společně stromy zachráníme🙂.\n\nhttps://paro.damenavas.cz/projekt/?id=2058"
+        ],
+        "ad_creative_link_captions": [
+            "paro.damenavas.cz"
+        ],
+        "ad_creative_link_descriptions": [
+            "Změna klimatu ohrožuje stromy, které potřebují vodu a dobrou půdu, aby dokázaly přežít další suchá léta. Hlasujte a pomožte zlepšit půdní podmínky u 5000 stromů a zapojit brňáky do jejich zalévání! Uděláte radost stromům, sobě i Vašim dětem:-)."
+        ],
+        "ad_creative_link_titles": [
+            "Zachraňme stromy před suchem - Dáme na vás"
+        ],
+        "ad_delivery_start_time": "2023-11-18",
+        "ad_delivery_stop_time": "2023-11-19",
+        "bylines": "Michal Polanský",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "South Moravian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.002871",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.127273",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002871",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.073684",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.16555",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.111005",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.147368",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.107177",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.132057",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.053589",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.039234",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.027751",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.004785",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.004785",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "page_id": "380213785864347",
+        "page_name": "Zalejme.cz",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Brno, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "20",
+            "60"
+        ],
+        "eu_total_reach": 1034,
+        "beneficiary_payers": [
+            {
+                "payer": "Michal Polanský",
+                "beneficiary": "Zalejme.cz",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 41,
+                        "female": 29,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 116,
+                        "female": 138,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 112,
+                        "female": 173,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 77,
+                        "female": 154,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 56,
+                        "female": 133
+                    }
+                ]
+            }
+        ],
+        "_id": "1286109075385199"
+    }
+]

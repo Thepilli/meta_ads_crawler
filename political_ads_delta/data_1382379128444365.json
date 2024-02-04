@@ -1,0 +1,209 @@
+[
+    {
+        "id": "2616498498557312",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=2616498498557312&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-26",
+        "ad_creative_bodies": [
+            "Co jen bude dělat, když to nevyjde? :D"
+        ],
+        "ad_delivery_start_time": "2024-01-26",
+        "ad_delivery_stop_time": "2024-01-30",
+        "bylines": "Margita Balaštíková - poslankyně",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000157",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.054611",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.071026",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.112944",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.056021",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.047285",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.038862",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.046658",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.068675",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.138251",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.050302",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.052535",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.093003",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.112709",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.056962",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000313",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000586",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.008325",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001133",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000703",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.044202",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.108375",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.253371",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.216125",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.132176",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.141674",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.093016",
+                "age": "35-44",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "30000",
+            "upper_bound": "34999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1382379128444365",
+        "page_name": "Margita Balaštíková - poslankyně",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "500",
+            "upper_bound": "599"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "40",
+            "65"
+        ],
+        "eu_total_reach": 25333,
+        "beneficiary_payers": [
+            {
+                "payer": "Margita Balaštíková - poslankyně",
+                "beneficiary": "Margita Balaštíková - poslankyně",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "35-44",
+                        "male": 2380,
+                        "female": 213,
+                        "unknown": 8
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 6483,
+                        "female": 1131,
+                        "unknown": 15
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 5530,
+                        "female": 2773,
+                        "unknown": 18
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 3625,
+                        "female": 3382,
+                        "unknown": 29
+                    }
+                ]
+            }
+        ]
+    }
+]

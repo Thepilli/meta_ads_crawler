@@ -1,0 +1,3202 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1366095487321926&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-19",
+        "ad_creative_bodies": [
+            "Našim cílem je umožnit každému, kdo je odkázán z jakéhokoli důvodu na péči druhé osoby, zůstat co nejdéle doma.  🐝"
+        ],
+        "ad_creative_link_captions": [
+            "facebook.com"
+        ],
+        "ad_creative_link_titles": [
+            "Domácí Péče Včelka"
+        ],
+        "ad_delivery_start_time": "2023-11-19",
+        "ad_delivery_stop_time": "2023-11-29",
+        "bylines": "Domácí péče Včelka",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.054795",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.054795",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.013699",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.047945",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.082192",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.075342",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.047945",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.123288",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.020548",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.109589",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.075342",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.150685",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.130137",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.013699",
+                "region": "South Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.130137",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.410959",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.054795",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.342466",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.013699",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.013699",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.027397",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.006849",
+                "age": "18-24",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "500001",
+            "upper_bound": "1000000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "page_id": "385939388500265",
+        "page_name": "Domácí péče Včelka",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Ostrava, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Reichenberg, Liberecký Kraj, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Sokolov, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Hradec Králové, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Humpolec, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Karlovy Vary, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Mladá Boleslav, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Plasy, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Rokycany, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Zdar nad Sazavou, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Zlín, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "55"
+        ],
+        "eu_total_reach": 146,
+        "beneficiary_payers": [
+            {
+                "payer": "Domácí péče Včelka",
+                "beneficiary": "Domácí péče Včelka",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 1
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 2,
+                        "female": 4
+                    },
+                    {
+                        "age_range": "25-34",
+                        "female": 19
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 8,
+                        "female": 50
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 2,
+                        "female": 60
+                    }
+                ]
+            }
+        ],
+        "_id": "1366095487321926"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=308159342124818&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-19",
+        "ad_creative_bodies": [
+            "Všichni se snažíme zachovat či zlepšovat kvalitu poskytované ošetřovatelské péče. Aby to bylo možné, je nutné si určit, co lze považovat za kvalitní. Přesně k tomu slouží ošetřovatelské standardy – vyjadřují totiž nejnižší možnou formu nebo způsob, jak lze ošetřovatelský úkon provést. 🙂\n\nStandardy máme aplikovány nejen na postupy a úkony, ale také na strukturu (věcné vybavení a personální zabezpečení), ale stejně tak na hodnocení a očekávané změny. 👩‍🔬\n\nKaždý standard má svůj název (problém, který řeší), typ, číslo a obsahuje také informaci o tom, komu je určen, jak dlouho platí a kdo jej vytvořil. U standardu je přesně definováno, kdo a kde může konkrétní výkon provádět, jaké je potřebné vybavení, přesný postup a také co je očekávaným výsledkem. Nedílnou součástí standardu jsou i měřitelné parametry, podle kterých lze snadno provedení výkonu hodnotit.\n\nOšetřovatelské standardy mohou sloužit nejen jako akreditační nástroj, ale především jsou pro naše pacienty zárukou ochrany a bezpečí. Zdravotní sestry jsou díky standardům chráněny před neoprávněným postihem, protože pracují podle závazných předpisů.\n\nOšetřovatelské standardy jsou pravidelně aktualizovány. Zavádíme-li nový standard, před vyhlášením jeho platnosti zjišťujeme, zda je pochopitelný, měřitelný, s dosažitelným výsledkem a zda odpovídá svému účelu. Jen takové standardy jsou v praxi užitečné a mohou plnit svou funkci. 😊"
+        ],
+        "ad_delivery_start_time": "2023-11-19",
+        "ad_delivery_stop_time": "2023-11-24",
+        "bylines": "Domácí péče Včelka",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.070519",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.198825",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.014691",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.065622",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.048972",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.05093",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.022527",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.111655",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.061704",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.060725",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.19001",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.005877",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.097943",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.079079",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.048048",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.172172",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.527528",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.054054",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.065065",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.012012",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.024024",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.007007",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.01001",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001001",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "500001",
+            "upper_bound": "1000000"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "385939388500265",
+        "page_name": "Domácí péče Včelka",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "300",
+            "upper_bound": "399"
+        },
+        "target_locations": [
+            {
+                "name": "Ostrava, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Chvalíkovice, Moravskolezský Kraj, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Plasy, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Reichenberg, Liberecký Kraj, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Sokolov, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Hradec Králové, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Mladá Boleslav, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Pardubice, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Rokycany, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Zdar nad Sazavou, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Zlín, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "22",
+            "55"
+        ],
+        "eu_total_reach": 998,
+        "beneficiary_payers": [
+            {
+                "payer": "Domácí péče Včelka",
+                "beneficiary": "Domácí péče Včelka",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "male": 79,
+                        "female": 527,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 10,
+                        "female": 12
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 24,
+                        "female": 48
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 54,
+                        "female": 172
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 7,
+                        "female": 65
+                    }
+                ]
+            }
+        ],
+        "_id": "308159342124818"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=347844654411906&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-10-25",
+        "ad_creative_bodies": [
+            "➡️ PROČ BY VÁM NEMĚLA BÝT LHOSTEJNÁ BUDOUCNOST DOMÁCÍ PÉČE, A JAK JI MŮŽETE PRÁVĚ VY OVLIVNIT?\n\n1️⃣ Podle studií si více než 80 % dotázaných lidí, kteří by zdravotní péči potřebovali, přáli, aby jim byla zajištěna doma a nemuseli svůj domov opouštět (sami si můžete odpovědět, zda byste raději kvůli zdravotním komplikacím, není-li to nutné, byly hospitalizováni, nebo aby Vám byla péče zajištěna doma),\n2️⃣ Okolo 70-80 % lidí, kterým je domácí péče zajišťována, je ve věku nad 65 let,\n3️⃣ Téměř 89 % lidí ve věku nad 65 let trpí v ČR různým typem chronického onemocnění, a mnoho z nich lze doma léčit,\n4️⃣ Počet lidí nad 65 let věku k 1.1.2021 odpovídal v ČR 20,26 % z celkového počtu obyvatel (2 169 109 obyv. nad 65 let věku – každý pátý obyvatel ČR).\n5️⃣ Počet lidí nad 65 let věku by se měl v letech 2030-2050 zvýšit téměř o 50 % - na 3 075 587 obyv., což bude odpovídat tomu, že 1 ze 3 obyvatel ČR se ve věku na 65 let bude nacházet.\n6️⃣ Kapacita zdravotní služeb (domácí péče) již několik let zajistí péči pouze cca 150 000 lidem, a je to dáno mimo jiné i tím, že ji lidé nevyužívají tehdy, je-li to vhodné.\n\nDomácí péče je zdravotní službou, plně hrazenou vaší zdravotní pojišťovnou a poskytovanou kvalifikovanými zdravotními pracovníky – a nepochybně je mnohdy vhodnou, ale nevyužitou službou (spousta z nás bohužel stále vnímá, že jim pomůže jen lékař, nemocnic, někdy i domov pro seniory, LDN apod.). Domácí péče ale urazila ohromný kus cesty, a měli byste o tom vědět.\n\n1️⃣ Jedná se o zdravotní službu, která je až 8x levnější ve srovnání se zdravotními službami zajištěnými v lůžkových zdravotnických zařízeních.\n2️⃣ Mnoho s těch, kteří jsou hospitalizováni, by hospitalizováni být nemuseli, pokud by u nich byla včas zajišťována i preventivní domácí péče ze strany zdravotníka\n👉 (a právě prevence by měla být základem, nikoli až řešení nastalé komplikace, které se dalo předejít).\n3️⃣ V současné době domácí péče nabízí jak základní péči, tak tu vysoce specializovanou (např. hemodialýza v domácím prostředí, péče o chronické nehojící se rány a mnoho dalšího).\n\n👉 Mnoho z Vás o tom však zcela jistě neví a má domácí péči spojenou spíše s péčí o chod domácnosti – tak tomu však není. ❗\n\n4️⃣ Povědomí o domácí péči je společensky stále nedostatečné a lidé nevědí, jaký význam a jaké zdravotní výkony lze touto formou zajistit – od toho tu jsou jak poskytovatelé domácí péče, tak lékaři, zástupci nemocnic, odbory zdravotnictví v rámci měst, obcí a krajů, či zdravotní pojišťovny, aby na Váš dotaz odpověděli, a zhodnotili, zda je vhodné danou péči v domácím prostředí ve Vašem případě zajistit, či nikoli (je potřeba se nebát zeptat a sám si zjistit podmínky a být aktivní).\n5️⃣ Prakticky rok od roku se zvyšují kompetence zdravotníků v domácí péči, a to včetně toho, který lékař je oprávněn ji předepsat (aktuálně praktický lékař, lékař specialista, lékař v nemocnici při propuštění).\n\nPokud potřebujete zajistit anebo zajišťovat zdravotní péči o sebe, nebo své blízké, nebojte se lékaře zeptat. Jistě vám rád poradí. I pro něj je komfortnější, pokud má v poskytovateli domácí péče partnera, na kterého se může kdykoli obrátit, a také od něj kdykoli může získat veškeré potřebné informace o průběhu léčby a vašem zdravotním stavu.\n\nBudete-li se o domácí péči více zajímat, sami tím pozitivně ovlivníte její budoucí směřování. A nejen to. Zvýšením požadavků na zajištění domácí péče, se zvýší i potřebnost její dostupnost, a následně se navýšení počtu poskytovatelů tohoto typu péče stane pro zdravotní pojišťovnu odůvodněné.\n\n✅ Myslete nejen na to, co potřebujete nyní, ale co byste mohli potřebovat v budoucnu, a sami se na budoucnosti podílejte.\n\n✅ Zdravotní služby jsou tu totiž pro vás, nikoli vy pro ně. Mít proto zájem na tom, aby způsob zajištění péče, který byste sami preferovali, byl i v budoucnu dostupným, je tedy především na vás.\n\nPřeji Vám krásné dny, a opatrujte se!\n\nVojtěch Kubec\nzakladatel Domácí péče Včelka"
+        ],
+        "ad_delivery_start_time": "2023-10-25",
+        "ad_delivery_stop_time": "2023-10-30",
+        "bylines": "Domácí péče Včelka",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.00049",
+                "region": "Sachsen"
+            },
+            {
+                "percentage": "0.069084",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.194512",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.020578",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.064184",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.039686",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.051935",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.025478",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.097011",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.058305",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.069574",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.196962",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.009309",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.102891",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000502",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.043151",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.003512",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.009032",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.04566",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.051681",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.533367",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.252885",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.04566",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.003011",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00853",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001004",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002007",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "500001",
+            "upper_bound": "1000000"
+        },
+        "impressions": {
+            "lower_bound": "3000",
+            "upper_bound": "3999"
+        },
+        "page_id": "385939388500265",
+        "page_name": "Domácí péče Včelka",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "target_locations": [
+            {
+                "name": "Ostrava, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Chvalíkovice, Moravskolezský Kraj, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Plasy, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Reichenberg, Liberecký Kraj, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Sokolov, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Hradec Králové, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Mladá Boleslav, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Pardubice, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Rokycany, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Zdar nad Sazavou, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Zlín, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "22",
+            "55"
+        ],
+        "eu_total_reach": 1955,
+        "beneficiary_payers": [
+            {
+                "payer": "Domácí péče Včelka",
+                "beneficiary": "Domácí péče Včelka",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "DE",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "35-44",
+                        "female": 1
+                    }
+                ]
+            },
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 7,
+                        "female": 17
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 18,
+                        "female": 91
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 86,
+                        "female": 504,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 91,
+                        "female": 1063,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 6,
+                        "female": 103,
+                        "unknown": 1
+                    }
+                ]
+            }
+        ],
+        "_id": "347844654411906"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=297144089618094&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-09-20",
+        "ad_creative_bodies": [
+            "V dalším díle našeho seriálu #JakVčelkaPomáhá Vám představíme komplexní péči o pacienta s inkontinencí. 👩‍🔬👨‍🔬 Není to téma úplně populární, nicméně velmi důležité při péči o osobu blízkou, která z nějakého důvodu trpí tímto onemocněním.\n\n➡️ Nejdříve vysvětlení, co vlastně inkontinence znamená\n👉 močová Inkontinence je samovolný únik moči,\n👉 je to nepříjemný problém, který postihuje 2x častěji ženy než muže,\n👉 mezi nejčastější příčiny patří u žen oslabení svalů pánevního dna,\n👉 u mužů bývá příčinou zvětšení prostaty,\n👉 další příčinou vzniku mohou být ale i různá onemocnění, pooperační stavy, aj.\n\n➡️ Druhy inkontinence\n1⃣ Stresová inkontinence\n👉 samovolný nechtěný únik moči, ke kterému může dojít při kýchání, kašli, smíchu, prudším pohybu, zdvihání břemen, běhu, chůzi do schodů,\n👉 svalstvo pánevního dna je ochablé a pánevní orgány klesají,\n👉 stresová inkontinence postihuje především ženy jakéhokoliv věku a může se objevit i po porodu.\n\n2⃣ Urgentní inkontinence\n👉 nazývá se také jako hyperaktivní měchýř,\n👉 nechtěné unikání moči spojené s náhlým, intenzivním a neovladatelným pocitem nucení na močení,\n👉 na vzniku této inkontinence se podílí svalovina močového měchýře,\n👉 příčinou bývá infekce močových cest nebo močové kameny.\n\nStresová a urgentní inkontinence se může objevit i současně\n\n3️⃣ Inkontinence z přetékání\n👉 jedná se o mimovolnou ztrátu moči při přeplněném močovém měchýři, můžeme popsat jako samovolné odtékání moči po kapkách z přeplněného močového měchýře,\n👉 tento stav většinou doprovází pocit plného močového měchýře,\n👉 nejčastěji se vyskytuje u starších mužů se zvětšenou prostatou, u žen se vyskytuje při zúžení močové trubice,\n👉 dalším důvodem mohou být nervová poškození, např. poranění míchy a mozku, vyhřezlé ploténky, roztroušená sklerózy, cukrovka aj.\n\n4⃣ Reflexní inkontinence\n👉 objevuje se nejčastěji v souvislosti s neurologickými onemocněními\n👉 pacient není schopen vědomě ovládat močení\n\n5️⃣ Inkontinence stolice\n👉 jedná se o samovolný únik stolice, který přetrvává více než jeden měsíc,\n👉 příčinou mohou být pooperační stavy, různá onemocnění, např. vrozené nebo získané poruchy trávicího traktu, aj.,\n👉 v souvislosti s některými diagnózami nebo věkem a imobilitou pacienta dochází k problému s vylučováním stolice, vyprazdňováním\n👉 většina osob, u kterých se nedobrovolný únik stolice začne objevovat, přeruší společenský život a oblíbené aktivity, někteří raději vůbec neopouští domov kvůli strachu, že k úniku dojde na veřejnosti,\n👉 vhodně zvolené inkontinenční pomůcky vám zajistí spolehlivou ochranu a umožní dál dělat aktivity, kterých jste se vzdali.\n\n➡️ Péče o pacienty s poruchou vyprazdňování\n👉 velmi důležité je zajistit dostatečný a pravidelný pitný režim, vhodná strava s dostatkem vlákniny,\n👉 pokud je to možné, podporujeme pacienta v pohybu, například vstát z lůžka, alespoň pár kroků kolem lůžka,\n👉 u pacientů, kteří mají problém s vyprazdňováním si vedeme záznamy, abychom předešli těžkým několikadenním zácpám s dalšími příznaky, jako jsou bolesti břicha, zvracení, nechutenství,\n👉 je-li to možné, pacienta trpícího zácpou pravidelně vysazujeme na WC či pokojové WC,\n👉 zvláště u pacientů plně imobilních nebo užívající léky způsobující zácpu, předcházíme potížím s vyprázdněním preventivním podáváním prostředků proti zácpě,\n👉 někteří pacienti mají naopak problém s řídkou či průjmovitou stolicí,\n👉 i zde je třeba vést záznamy o četnosti a vlastnostech stolice a s informacemi se obrátíme na ošetřujícího lékaře,\n👉 při průjmech zvyšujeme péči o pokožku, neboť hrozí opruzeniny.\n\n➡️ Péče o pacienta s inkontinencí\n👉 důležitý je výběr vhodných pomůcek,\n👉 s výběrem vhodné inkontinenční pomůcky vždy konkrétnímu pacientovi pomůže ošetřující lékař,\n👉 existuje celá řada typů a velikostí inkontinenčních pomůcek, jejichž vzorky lze získat v lékárně či prodejně zdravotnických potřeb,\n👉 jedná se o různé typy podložek, vložek, zalepovacích či natahovacích kalhotek, vložných plen,\n👉 při výměně takovéto pomůcky je vhodné genitálie, třísla a hýždě ošetřovat speciálním ošetřujícím krémem naneseným v tenké vrstvě,\n👉 zejména v péči o imobilního inkontinentního pacienta je nám k dispozici celá škála kosmetiky jako jsou různé mycí, bez oplachové emulze, pěny, krémy, jednorázové mycí žínky,\n👉 jedná-li se o pacienta, který je částečně schopen kontrolovat odchod stolice a moči, ale nezvládne dojít na WC, existuje tzv. pokojové WC nebo podložní mísa,\n👉 péče o inkontinentní osobu, která je navíc imobilní, nebo má sníženou schopnost pohybu, je velmi fyzicky i psychicky náročná,\n👉 staráme-li se o imobilní osobu, je vhodné tomu přizpůsobit prostředí,\n👉 výhodou je vyšší lůžko, přístupné ze všech stran pro snadnou manipulaci.\n\n➡️ Jakou inkontinenční pomůcku vybrat?\n👉 existují vložné pleny, zalepovací a natahovací kalhotky a absorpční podložky, při jejich výběru dbejte na velikost a savost, a především na obvod boků\n👉 pomůcky vybírejte podle typu inkontinence a na doporučení lékaře,\n👉 pro lehký únik moči se hodí spíše inkontinenční vložky, zatímco pro střední a těžký únik moči zalepovací a natahovací kalhotky,\n👉 pomůcky může předepsat praktický lékař nebo specialista (urolog, gynekolog, neurolog, geriatr ,\n👉 pomůcky si na základě předpisu můžete vyzvednout v lékárně nebo ve zdravotnických potřebách.\n\n➡️ Jak správně přebalovat?\n👉 poté, co jste provedli hygienu, si připravte novou absorpční pomůcku,\n👉 pleny pro dospělé, které nejsou natahovací, ale zalepují se po stranách, si rozložte,\n👉 pacienta opatrně přesuňte na bok a a zepředu protáhněte mezi nohama inkontinenční pomůcku,\n👉 pacienta obraťte zpět na záda a upravte pomůcku tak, aby správně seděla,\n👉 nejprve zalepíte horní lepící pásky nebo suché zipy, poté ty spodní,\n👉 pohyblivého pacienta můžete \"přebalit\" i ve stoje,\n👉 postup je podobný, ale nemusíte s pacientem tak složitě manipulovat.\n\n➡️ Hygiena a péče o pokožku\n👉 inkontinence představuje pro pokožku a její ochrannou funkci velkou zátěž,\n👉 správná a dostatečně častá hygiena je základním předpokladem úspěšné péče o člověka, který trpí samovolným únikem moči nebo stolice,\n👉 zásady péče o inkontinentního pacienta,\n👉 včasný a pravidelná výměna absorpčních pomůcek,\n👉 dostatečná hygiena,\n👉 očištění intimních partií denně podle potřeby,\n👉 používání speciálních hygienických přípravků určených speciálně na pokožku namáhanou inkontinencí,\n👉 pokožka je vystavena velké zátěži,\n👉 při opakovaném kontaktu pokožky s agresivními látkami v moči nebo stolici pokožka velmi trpí.\n\nV předchozích dílech jsme popisovali kožní defekty, např. proleženiny, opruzeniny. Právě imobilní inkontinentní pacient je nejvíce náchylný k vzniku těchto kožních defektů. Předcházet jim můžeme pravidelnou péčí o kůži pacienta.\nPečovat je ale třeba také o psychické zdraví, především zachovat lidskou důstojnost.\n\nTento díl je určen hlavně pro ty, kteří pečují v domácím prostředí o své blízké.\n\nVěříme, že zde snad najdete nějakou \"dobrou radu\".\nPéče o tyto pacienty je jistě náročná, fyzicky, psychicky i časové, ale díky Vaší lásce a péči umožňujete svým nejbližším zůstávat co nejdéle doma ve svém prostředí. A to jistě zaslouží obdiv.\n\nNaše zdravotní sestry mají velké zkušenosti s pacienty trpící inkontinencí, dokáží pomoci, poradit. Vždy je na doporučení ošetřujícího lékaře, jakou péči naše sestry budou u Vašich blízkých provádět.\n\nU těchto výkonů se často dělíme o práci s kolegyněmi, které zajišťují péči sociální. Ale to už bude tématem dalších našich dílů.\n\nPřejeme mnoho zdraví, síly, lásky.\n\nZa tým Včelky 🐝\n\nKateřina Nováková\nJindřiška Zelená\nDomácí péče Včelka\nvedoucí sestry pobočky Praha–Východ\n\nDalší témata můžete najít pod hashtagem #JakVčelkaPomáhá."
+        ],
+        "ad_delivery_start_time": "2023-09-20",
+        "ad_delivery_stop_time": "2023-09-25",
+        "bylines": "Domácí péče Včelka",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.069278",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.187216",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.018969",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.081237",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.041237",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.050722",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.025567",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.114639",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.065979",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.058144",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.168247",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.010309",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.108454",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001677",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.054507",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.012998",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.003354",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.025577",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.059119",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.055765",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.043606",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.225157",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.51153",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.005451",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000839",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000419",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "500001",
+            "upper_bound": "1000000"
+        },
+        "impressions": {
+            "lower_bound": "4000",
+            "upper_bound": "4999"
+        },
+        "page_id": "385939388500265",
+        "page_name": "Domácí péče Včelka",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "target_locations": [
+            {
+                "name": "Ostrava, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Chvalíkovice, Moravskolezský Kraj, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Plasy, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Reichenberg, Liberecký Kraj, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Sokolov, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Hradec Králové, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Mladá Boleslav, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Pardubice, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Rokycany, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Zdar nad Sazavou, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Zlín, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "22",
+            "55"
+        ],
+        "eu_total_reach": 2347,
+        "beneficiary_payers": [
+            {
+                "payer": "Domácí péče Včelka",
+                "beneficiary": "Domácí péče Včelka",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "male": 141,
+                        "female": 1220,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 13,
+                        "female": 31
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 61,
+                        "female": 130,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 133,
+                        "female": 537,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 8,
+                        "female": 104
+                    }
+                ]
+            }
+        ],
+        "_id": "297144089618094"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=159197353897115&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-09-14",
+        "ad_creative_bodies": [
+            "V dalším díle našeho seriálu #JakVčelkaPomáhá Vám představíme komplexní péči o imobilního pacienta. 👩‍🔬👨‍🔬\n\n➡️ Co znamená imobilita?\n👉 jedná se o neschopnost pohybu, což je soubor poškození organismu, které je způsobena dlouhodobým pobytem a klidem na lůžku,\n👉 je to stav, kdy dochází k přechodné nebo trvalé ztrátě pohybových schopností nebo jejich omezení,\n👉 nedostatečná pohybová aktivita může mít vážné následky pro lidský organismus a může tak i dojít k celkového zhoršení stavu pacienta,\n👉 nedostatkem pohybu s následkem imobility jsou ohroženi hlavně starší lidé a lidé dlouhodobě nemocní.\n\n➡️ Kdy může k imobilitě docházet?\n👉 důvody vzniku imobility mohou být různé, rozdělujeme dle příčiny vzniku na dočasnou nebo trvalou. Dočasná imobilita může nastat např. po operačních výkonech, po úrazech. Trvalá imobilita vzniká následkem základního onemocnění, či zhoršení celkového stavu pacienta\n\n➡️ Příčiny vzniku imobility\n👉 nejčastější příčinou bývají obtíže tělesné, jako např. velká bolest, celková slabost, poruchy nervového, svalového či kosterního systému, další příčinou může být psychický stav pacienta, deprese, úzkosti, obavy z nemoci aj.\n\n➡️ Výživa imobilního pacienta\n👉 péče o dostatečný příjem živin představuje nedílnou součást komplexní péče o pacienta,\n👉 výživa je primární potřebou každého člověka, přijímání potravy má vliv na zdraví, je podmínkou správné funkce organizmu,\n👉 je důležité sledovat příjem tekutin za den, ale také množství přijaté stravy, jídlo podáváme v pravidelných intervalech, raději menší porce a častěji, upravujeme krájením na malé kousky nebo mletím masa či mixováním pokrmu. Je důležité dbát na vhodnou kombinaci mixovaných potravin.\n👉 v některých případech, zejména u pacientů s poruchou příjmu potravy, s dekubity nebo s úbytkem váhy je vhodné stravu doplnit potravinovými doplňky tzv. sippingem – jde o doplňování kalorií formou popíjení nutričních nápojů, které obsahují a doplňují některé nebo všechny složky základních živin, vitamíny, minerální látky a stopové prvky.\n\n➡️ Hydratace pacienta\n👉 pitný režim znamená pravidelné a průběžné denní doplňování tekutin do lidského organismu,\n👉 je nutné udržovat rovnováhu mezi příjmem a výdejem tekutin,\n👉 základem pitného režimu mají být nekalorické nápoje, především voda. Mezi vhodné nápoje jsou řazeny kvalitní pramenité vody, čaje, čerstvé ovocné šťávy,\n👉 do příjmu tekutin jsou řazeny také tekutiny obsažené v potravě,\n👉 nedostatek tekutin způsobuje dehydrataci organismu. Akutní nedostatek tekutin se projevuje žízní, větší ztráty mohou vést k poklesu fyzické i psychické výkonnosti, pocitu slabosti, nevolnosti až křečím,\n👉 ohroženi dehydratací jsou především staří lidé a lidé dlouhodobě upoutaní na lůžko, lidé se sníženou soběstačností,\n👉 dehydratace se může projevit oschlými sliznicemi a jazykem, suchou kůží a ztrátou elasticity kůže, zmateností.\n👉 sledování bilance tekutin patří k důležitým aspektům ošetřovatelské péče,\n👉 pokud není možné zabezpečit dostatek tekutin perorálně, nedostatek tekutin je možno doplnit také pomocí infuzní terapie.\n\n➡️ Péče o pokožku\n👉 základem je čistá a osušená pokožka,\n👉 denně se omývají intimní partie, hýždě, třísla, případně místa se sklonem k pocení - pod prsy, kožní záhyby,\n👉 nelze-li Vašeho blízkého koupat či sprchovat (bariéry, celkově špatný zdravotní stav) nevadí, existují mycí bez oplachové prostředky jako mycí pěny, čistící pěny na intimní partie znečištěné stolicí (částečně pohlcují zápach), emulze, šampony, které zcela dostatečně umožní zajistit hygienu na lůžku,\n👉 po omytí a osušení pokožku pravidelně ošetřujeme, aby nebyla suchá se sklonem k praskání a vzniku defektů nebo pruritu (svědění),\n👉 tělo promazáváme neparfemovaným ošetřujícím tělovým krémem, pokožka se nejen promastí, ale i prokrví, což předchází vzniku dekubitů (porušení pokožky, proleženin),\n👉 při používání inkontinenčních pomůcek, hýždě a třísla ošetříme bariérovým (ochranným) krémem, který pokožku chrání před agresivní močí a stolicí. Krému naneseme malé množství a lehce rozetřeme.\n\n➡️ Péče o dutinu ústní\n👉 obecně platí, že by pacienti měli co nejdéle užívat své zubní protézy, přes den by je měli mít nasazené – zvyšuje to jejich schopnost komunikace a přispívá k pocitu důstojnosti,\n👉 o dutinu ústní pečujeme vždy, je to důležité z hlediska komfortu pacienta, zlepšení chuti k jídlu či zabránění nevolnosti,\n👉 samotnou dutinu ústní čistíme štětičkami namočenými například do vody s panenským olivovým olejem, nebo v bylinných tinkturách (roztok heřmánku, šalvěje), možno v lékárně zakoupit glycerínové tyčinky,\n👉 vytírání dutiny ústní provádíme od kořene jazyka ke špičce, patro zepředu dozadu, předsíň dutiny ústní od zadních stoliček dopředu, otřeme i plošky zubů. Lze použít i měkký kartáček na zuby, kterým můžeme lehce očistit i povleklý jazyk, na závěr rty ošetříme například jelením lojem či vazelínou.\n\n➡️ Prevence dekubitů\n👉 u imobilních pacientů, kteří jsou ohroženi vznikem proleženin, je nutné dodržovat některá pravidla,\n👉 musíme dbát o čistotu, prokrvení a odlehčení namáhané pokožky v rizikových místech těla – hlava, ramena, lokty, oblast páteře, oblast kosti křížové, hýždě, boky, kotníky a paty, nejnáchylnější je oblast kosti křížové, hýždě, boky a paty.\n👉 v domácím prostředí je dobré používat na vypodložení rizikových míst či míst s již rozvinutým dekubitem pravou ovčí kůži nebo speciální antidekubitní podložku,\n👉 jako nejjednodušší vypodložení k odlehčení může posloužit stočený, měkký froté ručník nebo seskládaná deka,\n👉 základní pravidla jsou: udržovat pokožku celého těla čistou a suchou, vyrovnávat prostěradlo, oblečení a podložky, zabezpečit čisté a suché lůžko. Vyvarovat se, pokud to lze, třecího pohybu\n👉 vrstvy pod pacientem by měly být prodyšné, v lékárně lze zakoupit nepropustné, ale prodyšné podložky,\n👉 velice důležité je pravidelné polohování, změna polohy těla. Ve dne dle potřeby, ale zhruba každé 2 hodiny, v noci po 3 hodinách,\n👉 při domácí péči o těžce nepohyblivého a nemocného člověka je vhodné zajistit polohovací postel s antidekubitní matrací (je možno vypůjčit v půjčovně zdravotnických pomůcek nebo zažádat přes odborného lékaře zdravotní pojišťovnu).\n\n➡️ Polohování pacienta\n👉 pacienta, který není schopný se sám bez pomoci různě otáčet na lůžku, je nutné pravidelně polohovat,\n👉 v domácím prostředí je vhodné využívat střídání polohy na zádech s polohou na pravém a levém boku,\n👉 alespoň ze začátku je dobré mít u lůžka malý notýsek a vždy si zapsat hodinu a polohu, do které jsme pacienta uvedli,\n👉 polohování vždy začínáme tak, že vyjmeme polštář zpod hlavy pacienta, máme-li polohovací lůžko, nastavíme do vodorovné polohy,\n👉 při přetáčení na bok nejprve ruku, na jejíž stranu budeme otáčet, upažíme, koleno, které bude nahoře, pokrčíme, poté jednu svoji ruku vložíme pod lopatku na straně pokrčeného kolena a druhou ruku pod kyčel pokrčeného kolena a současně otočíme na bok, ppokrčené koleno nám pomáhá udržet tělo v požadované poloze, pomůže nám v tom také např. polštář vložený za záda nebo srolovaný ručník, deka. Mezi kolena a kotníky vložíme malý polštářek, deku, ručník – tak, aby nebyla kost na kosti. Tam, kde vzniknou mezery mezi podložkou a tělem pacienta, musíme opět něco vložit, aby to bylo pro pacienta příjemné a nevyvolávalo pnutí nebo bolesti,\n👉 při poloze na zádech můžeme nohy vypodložit polštářem od podkolenní jamky ke kotníkům, tak aby chodidla přesahovala, nedotýkala se podložky, stačí mezera 1 cm,\n👉 existuje i značné množství polohovacích pomůcek. Ty vybíráme s ohledem na potřeby pacienta, pro každého je vhodný jiný typ polohovací pomůcky, s výběrem nám pomohou v lékárně nebo v prodejně zdravotnických potřeb. Některé antidekubitní a polohovací pomůcky pacientům může předepsat odborný lékař\n\nNa vzniku imobility se podílí mnoho faktorů, které k tomu stavu dopomáhají. Některé z nich lze jen velmi málo ovlivnit, ale z naši zkušenosti již víme, že cílenou ošetřovatelskou péčí můžeme dosáhnout velkého zlepšení stavu pacienta.\n\nBez výše uvedených činností zaměřených na péči o imobilního pacienta by docházelo k mnoha nepříznivým komplikacím a někdy i zásadním zdravotním komplikacím.\nV dalších dílech našeho seriálu se budeme zabývat tématem souvisejícím s imobilitou, a to je rehabilitační ošetřovatelství, které je v případě imobilního pacienta velmi důležité.\n\nSestra domácí péče provádí ošetřovatelské výkony u imobilních pacientů doporučené lékařem, jejím úkolem je i edukace rodinných příslušníků v oblasti péče o ležícího pacienta. Rodina si velmi často neví rady, jak o svého blízkého pečovat, a od toho jsme tu my, abychom poradili, pomohli.\n\nPřejeme Vám krásné a klidné dny\n\nZa tým Včelky 🐝\n\nKateřina Nováková,\nJindřiška Zelená\nvedoucí sestry pobočka Praha–Východ\n\nDalší témata můžete najít pod hashtagem #JakVčelkaPomáhá."
+        ],
+        "ad_delivery_start_time": "2023-09-14",
+        "ad_delivery_stop_time": "2023-09-19",
+        "bylines": "Domácí péče Včelka",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.075834",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.173798",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.019475",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.071407",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.03954",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.047212",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.022721",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.12334",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.06285",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.065211",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.168781",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.010328",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.119209",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.000295",
+                "region": "Sachsen"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.002114",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.012383",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.007853",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.255814",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.027182",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.565388",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.003624",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.043793",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.048324",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.029598",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001208",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000604",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001812",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000302",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "500001",
+            "upper_bound": "1000000"
+        },
+        "impressions": {
+            "lower_bound": "6000",
+            "upper_bound": "6999"
+        },
+        "page_id": "385939388500265",
+        "page_name": "Domácí péče Včelka",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "500",
+            "upper_bound": "599"
+        },
+        "target_locations": [
+            {
+                "name": "Ostrava, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Chvalíkovice, Moravskolezský Kraj, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Plasy, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Reichenberg, Liberecký Kraj, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Sokolov, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Hradec Králové, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Mladá Boleslav, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Pardubice, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Rokycany, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Zdar nad Sazavou, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Zlín, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "22",
+            "55"
+        ],
+        "eu_total_reach": 3307,
+        "beneficiary_payers": [
+            {
+                "payer": "Domácí péče Včelka",
+                "beneficiary": "Domácí péče Včelka",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "55-64",
+                        "male": 6,
+                        "female": 160,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 26,
+                        "female": 145,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 12,
+                        "female": 41
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 90,
+                        "female": 847,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 98,
+                        "female": 1872,
+                        "unknown": 7
+                    }
+                ]
+            },
+            {
+                "country": "DE",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "35-44",
+                        "female": 1
+                    }
+                ]
+            }
+        ],
+        "_id": "159197353897115"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1051320259547846&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-09-11",
+        "ad_creative_bodies": [
+            "Nově nabízíme kompletní zdravotní služby domácí péče v okrese Blansko. Garantujeme kvalitu a bezpečí ošetřovatelské péče, včetně erudovaného týmu profesionálů. Domácí zdravotní péči poskytujeme 24 hodin denně.  👩‍⚕️🧑‍⚕️\n\nTěšíme se na vás,\n\nMgr. Marta Šenkyříková\nDomácí péče Včelka \nvedoucí pobočky Blansko\nPražská 66, 678 01, Blansko; \ntel.: +420 601 152 699\ne-mail: senkyrikova@pecevcelka.cz"
+        ],
+        "ad_creative_link_captions": [
+            "pecevcelka.cz"
+        ],
+        "ad_creative_link_descriptions": [
+            "Neváhejte se na nás obrátit s jakýmkoliv dotazem, pokud to bude v našich silách, budeme se Vám snažit pomoct."
+        ],
+        "ad_creative_link_titles": [
+            "Detail pobočky"
+        ],
+        "ad_delivery_start_time": "2023-09-11",
+        "ad_delivery_stop_time": "2023-09-25",
+        "bylines": "Domácí péče Včelka",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.986818",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.013182",
+                "region": "Olomouc Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001084",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001627",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.028917",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.044822",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.020604",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.243087",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.324056",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.171878",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.126875",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.035966",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000542",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000542",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "15000",
+            "upper_bound": "19999"
+        },
+        "page_id": "385939388500265",
+        "page_name": "Domácí péče Včelka",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "target_locations": [
+            {
+                "name": "Blansko, Jihomoravký Kraj, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "25",
+            "60"
+        ],
+        "eu_total_reach": 5398,
+        "beneficiary_payers": [
+            {
+                "payer": "Domácí péče Včelka",
+                "beneficiary": "Domácí péče Včelka",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "55-64",
+                        "male": 114,
+                        "female": 702,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 248,
+                        "female": 951,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 160,
+                        "female": 1345,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 199,
+                        "female": 1793,
+                        "unknown": 9
+                    }
+                ]
+            }
+        ],
+        "_id": "1051320259547846"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=989114105472840&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-08-28",
+        "ad_creative_bodies": [
+            "\"Nepřekonatelné výhody domácí péče pro seniory: zůstaňte v pohodlí domova a získejte individuální péči\"\n\nDomácí péče pro seniory může být velmi prospěšná pro jejich zdraví a kvalitu života. Když se starší lidé stávají závislými na péči, často si přejí zůstat v pohodlí svého domova, kde jsou obklopeni svými vlastními věcmi a paměťmi. Domácí péče pro seniory je způsob, jak tuto touhu uspokojit a současně jim poskytnout potřebnou péči a podporu.\n\nJedním z největších přínosů domácí péče je, že umožňuje starším lidem zůstat v pohodlí svého domova, kde se cítí nejlépe. Domácí prostředí poskytuje senioři pocit bezpečí a komfortu a umožňuje jim zachovat nezávislost a kontrolu nad svým životem.\n\nDomácí péče také zahrnuje individuální přístup ke každému pacientovi, což umožňuje poskytnout přesně tu péči, kterou potřebuje. Domácí pečovatelé se mohou zaměřit na specifické potřeby a zájmy každého pacienta, aby mohli přizpůsobit péči tak, aby byla co nejúčinnější a příjemnější.\n\nDalším důležitým aspektem domácí péče pro seniory je možnost poskytnout podporu nejen v péči o zdraví, ale také v běžných denních aktivitách, jako je vaření, úklid nebo nakupování. To vše pomáhá zachovat seniorům pocit nezávislosti a zlepšuje jejich celkovou kvalitu života.\n\nV neposlední řadě může domácí péče pro seniory přinést výhody i pro rodinné příslušníky. Pokud se starají o svého blízkého, mohou mít klidnější mysl, když vědí, že jsou v dobrých rukou, a mohou si více užívat společné chvíle bez stresu z péče.\n\nZ tohoto důvodu je domácí péče pro seniory skvělou volbou pro mnoho rodin, které hledají způsob, jak pomoci svým blízkým udržet kvalitu života a zároveň jim poskytnout potřebnou péči a podporu.\n\nSlyšeli jste o Chatgpt & Open AI? Jestli ne, tak se jedná se o virtuální umělou inteligenci, která má odpověď takřka na všechno. Ve zkratce můžeme říci, že celý tento text napsal počítač."
+        ],
+        "ad_delivery_start_time": "2023-08-28",
+        "ad_delivery_stop_time": "2023-09-04",
+        "bylines": "Domácí péče Včelka",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000222",
+                "region": "Silesian Voivodeship"
+            },
+            {
+                "percentage": "0.077162",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.18847",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.013969",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.056319",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.053659",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.044124",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.026386",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.130377",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.051663",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.068293",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.171175",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.011973",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.105543",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.000443",
+                "region": "Sachsen"
+            },
+            {
+                "percentage": "0.000222",
+                "region": "Trenčín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000231",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000923",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.050542",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.025156",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.024002",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.018001",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.22294",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.097623",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.036234",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.510039",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002539",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.010616",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001154",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "500001",
+            "upper_bound": "1000000"
+        },
+        "impressions": {
+            "lower_bound": "7000",
+            "upper_bound": "7999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "385939388500265",
+        "page_name": "Domácí péče Včelka",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "500",
+            "upper_bound": "599"
+        },
+        "target_locations": [
+            {
+                "name": "Ostrava, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Chvalíkovice, Moravskolezský Kraj, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Plasy, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Reichenberg, Liberecký Kraj, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Sokolov, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Hradec Králové, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Mladá Boleslav, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Pardubice, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Rokycany, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Zdar nad Sazavou, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Zlín, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "22",
+            "55"
+        ],
+        "eu_total_reach": 4310,
+        "beneficiary_payers": [
+            {
+                "payer": "Domácí péče Včelka",
+                "beneficiary": "Domácí péče Včelka",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "PL",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "female": 1
+                    }
+                ]
+            },
+            {
+                "country": "SK",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "35-44",
+                        "female": 1
+                    }
+                ]
+            },
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "35-44",
+                        "male": 78,
+                        "female": 964,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 109,
+                        "female": 2209,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 46,
+                        "female": 157
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 104,
+                        "female": 423,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 11,
+                        "female": 219
+                    }
+                ]
+            },
+            {
+                "country": "DE",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "35-44",
+                        "female": 2
+                    }
+                ]
+            }
+        ],
+        "_id": "989114105472840"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=199463309560364&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-08-07",
+        "ad_creative_bodies": [
+            "Našim cílem je umožnit každému, kdo je odkázán z jakéhokoli důvodu na péči druhé osoby, zůstat co nejdéle doma.  🐝"
+        ],
+        "ad_creative_link_captions": [
+            "facebook.com"
+        ],
+        "ad_creative_link_titles": [
+            "Domácí Péče Včelka"
+        ],
+        "ad_delivery_start_time": "2023-08-08",
+        "ad_delivery_stop_time": "2023-10-01",
+        "bylines": "Domácí péče Včelka",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000378",
+                "region": "Sachsen"
+            },
+            {
+                "percentage": "0.072848",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.215326",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.019489",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.080416",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.049574",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.059603",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.026112",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.095364",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.053169",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.079092",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.143803",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.021381",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.078524",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.00492",
+                "region": "South Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000214",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000856",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001498",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00214",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.010058",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001498",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.029531",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.433768",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.116841",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.332121",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.023111",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.029531",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.017548",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001284",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "500001",
+            "upper_bound": "1000000"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "page_id": "385939388500265",
+        "page_name": "Domácí péče Včelka",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "target_locations": [
+            {
+                "name": "Ostrava, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Reichenberg, Liberecký Kraj, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Sokolov, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Hradec Králové, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Humpolec, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Karlovy Vary, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Mladá Boleslav, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Plasy, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Rokycany, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Zdar nad Sazavou, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Zlín, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "55"
+        ],
+        "eu_total_reach": 4605,
+        "beneficiary_payers": [
+            {
+                "payer": "Včelka sociální služby",
+                "beneficiary": "Včelka sociální služby",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "DE",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "female": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "female": 1
+                    }
+                ]
+            },
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 7,
+                        "female": 82,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 47,
+                        "female": 546,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 108,
+                        "female": 1552,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 7,
+                        "female": 138
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 138,
+                        "female": 2027,
+                        "unknown": 10
+                    }
+                ]
+            }
+        ],
+        "_id": "199463309560364"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=848812683538934&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-07-26",
+        "ad_creative_bodies": [
+            "Hledáme novou kolegyni/kolegu na pozici všeobecná/praktická sestra domácí péče pro Prahu.  Jak víte, jsme tým lidí, kde je člověk, kolega i pacient, na prvním místě. 🙂\n\nPožadujeme: \n👉 aktivní řidič (sk. B), praxe ve zdravotnictví, empatii, profesionální přístup, slušnost a spolehlivost. Se vším ostatním rádi pomůžeme.\n\nNabízíme smysluplnou práci, odpovídající mzdové ohodnocení, odborný růst (akreditované kurzy MZČR, specializační vzdělávání NCONZO), podporu týmu stabilního zdravotnického zařízení s celorepublikovou působností, stravenkový paušál, příspěvek na telefon. A samozřejmě vše, co budete potřebovat ke své práci: vybavení, ochranné pomůcky, auto, zázemí pobočky. Plus máme pro vás ještě jednu příjemnou věc – nabízíme náborový příspěvek 60 000 Kč pro odbornou způsobilost všeobecná sestra. 🧐🐝🍀\n\nDěkujeme za sdílení."
+        ],
+        "ad_creative_link_captions": [
+            "pecevcelka.cz"
+        ],
+        "ad_creative_link_descriptions": [
+            "Neváhejte se na nás obrátit s jakýmkoliv dotazem, pokud to bude v našich silách, budeme se Vám snažit pomoct."
+        ],
+        "ad_creative_link_titles": [
+            "Detail pobočky"
+        ],
+        "ad_delivery_start_time": "2023-07-26",
+        "ad_delivery_stop_time": "2023-07-31",
+        "bylines": "Domácí péče Včelka",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.832761",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.167239",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.00036",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00054",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.008458",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.022134",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00126",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002699",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.04031",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.133345",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.091956",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.006298",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.397877",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.278927",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.005399",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.007198",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002519",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00072",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "500001",
+            "upper_bound": "1000000"
+        },
+        "impressions": {
+            "lower_bound": "20000",
+            "upper_bound": "24999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "385939388500265",
+        "page_name": "Domácí péče Včelka",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "target_locations": [
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 5699,
+        "beneficiary_payers": [
+            {
+                "payer": "Domácí péče Včelka",
+                "beneficiary": "Domácí péče Včelka",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "male": 15,
+                        "female": 123,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 3,
+                        "female": 47
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 741,
+                        "female": 2211,
+                        "unknown": 40
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 511,
+                        "female": 1550,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 35,
+                        "female": 224,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 14,
+                        "female": 30
+                    }
+                ]
+            }
+        ],
+        "_id": "848812683538934"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=819838536199679&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-07-11",
+        "ad_creative_bodies": [
+            "Hledáme novou kolegyni či kolegu na pozici vedoucí pobočky domácí péče pro Prostějov. Jsme tým lidí, kde je člověk, kolega i pacient, na prvním místě. 👩‍⚕️🧑‍⚕️👨‍⚕️\n\n👉 Očekáváme odbornou způsobilost min. všeobecná sestra, specializovaná způsobilost výhodou, znalost MS Office uživatelská úroveň, aktivní řidič (sk. B), praxe ve zdravotnictví, proaktivní přístup, férové jednání a slušnost. Se vším ostatním rádi pomůžeme.\n\nNabízíme smysluplnou práci, odpovídající mzdové ohodnocení, možnost se realizovat ve svěřeném regionu, odborný růst (akreditované kurzy MZČR, specializační vzdělávání NCONZO), 5 týdnů dovolené, stravenkový paušál, zázemí a podporu stabilního zdravotnického zařízení s celorepublikovou působností a vše ostatní co budete potřebovat ke své práci, tj. kancelář, služební auto, MT, notebook.\n\nTěšíme se na vás. Budeme rádi za sdílení. 🙂"
+        ],
+        "ad_creative_link_captions": [
+            "pecevcelka.cz"
+        ],
+        "ad_creative_link_descriptions": [
+            "Neváhejte se na nás obrátit s jakýmkoliv dotazem, pokud to bude v našich silách, budeme se Vám snažit pomoct."
+        ],
+        "ad_creative_link_titles": [
+            "Detail pobočky"
+        ],
+        "ad_delivery_start_time": "2023-07-11",
+        "ad_delivery_stop_time": "2023-07-31",
+        "bylines": "Domácí péče Včelka",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.336479",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.505129",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.002052",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.010669",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.145671",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.00084",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00084",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00084",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001261",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.007143",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.07479",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.068067",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.34958",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.118067",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.265126",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.007143",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.072689",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.019328",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002521",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.004202",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.007563",
+                "age": "65+",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "20000",
+            "upper_bound": "24999"
+        },
+        "page_id": "385939388500265",
+        "page_name": "Domácí péče Včelka",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "target_locations": [
+            {
+                "name": "Prostejov, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 2368,
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "male": 10,
+                        "female": 162,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 2,
+                        "female": 18
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 281,
+                        "female": 832,
+                        "unknown": 17
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 173,
+                        "female": 631,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 17,
+                        "female": 178,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 6,
+                        "female": 46
+                    }
+                ]
+            }
+        ],
+        "_id": "819838536199679"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=576835904622512&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-07-03",
+        "ad_creative_bodies": [
+            "Tým Domácí péče Včelka Vysočina hledá do týmu kolegyni či kolegu na pozici všeobecná sestra domácí zdravotní péče pro oblast Jihlavy a pro oblast Humpolce a okolí. 🧑‍⚕️👩‍⚕️\n\nVíce info vám poskytne:\n👉 Martina Svobodová – vedoucí pobočky \n👉 tel: 601 152 010, email: svobodova@pecevcelka.cz \n👉 www.pecevcelka.cz\n\nPS: Budeme rádi, pokud budete tento příspěvek sdílet."
+        ],
+        "ad_creative_link_captions": [
+            "pecevcelka.cz"
+        ],
+        "ad_creative_link_descriptions": [
+            "Neváhejte se na nás obrátit s jakýmkoliv dotazem, pokud to bude v našich silách, budeme se Vám snažit pomoct."
+        ],
+        "ad_creative_link_titles": [
+            "Detail pobočky"
+        ],
+        "ad_delivery_start_time": "2023-07-04",
+        "ad_delivery_stop_time": "2023-07-17",
+        "bylines": "Domácí péče Včelka",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.949914",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.050086",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001741",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.005222",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.005657",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001741",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.10705",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.31027",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.072237",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.12141",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.239339",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.020888",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.085292",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.006963",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.01262",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.004352",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000435",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.004787",
+                "age": "55-64",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "385939388500265",
+        "page_name": "Domácí péče Včelka",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "700",
+            "upper_bound": "799"
+        },
+        "target_locations": [
+            {
+                "name": "Humpolec, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 2323,
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "35-44",
+                        "male": 16,
+                        "female": 246,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 279,
+                        "female": 713,
+                        "unknown": 12
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 166,
+                        "female": 550,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 13,
+                        "female": 196
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 11,
+                        "female": 48
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 10,
+                        "female": 29,
+                        "unknown": 1
+                    }
+                ]
+            }
+        ],
+        "_id": "576835904622512"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=601518475117680&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-06-22",
+        "ad_creative_bodies": [
+            "Hledáme novou kolegyni/kolegu na pozici všeobecná/praktická sestra domácí péče pro Berounsko. Jsme tým lidí, kde je člověk, kolega i pacient, na prvním místě. 🙂\n\nPožadujeme: \n👉 aktivní řidič (sk. B), praxe ve zdravotnictví, empatii, profesionální přístup, slušnost a spolehlivost. Se vším ostatním rádi pomůžeme.\n\nNabízíme smysluplnou práci, odpovídající mzdové ohodnocení, odborný růst (akreditované kurzy MZČR, specializační vzdělávání NCONZO), podporu týmu stabilního zdravotnického zařízení s celorepublikovou působností, stravenkový paušál, příspěvek na telefon. A samozřejmě vše, co budete potřebovat ke své práci: vybavení, ochranné pomůcky, auto, zázemí pobočky. A ještě jedna příjemná věc – nabízíme náborový příspěvek 60.000 Kč pro odbornou způsobilost všeobecná sestra. 🧐🐝🍀"
+        ],
+        "ad_creative_link_captions": [
+            "pecevcelka.cz"
+        ],
+        "ad_creative_link_descriptions": [
+            "Neváhejte se na nás obrátit s jakýmkoliv dotazem, pokud to bude v našich silách, budeme se Vám snažit pomoct."
+        ],
+        "ad_creative_link_titles": [
+            "Detail pobočky"
+        ],
+        "ad_delivery_start_time": "2023-06-22",
+        "ad_delivery_stop_time": "2023-07-06",
+        "bylines": "Domácí péče Včelka",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.685204",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.003061",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.311735",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000547",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.007112",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001641",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002188",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002188",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.007112",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.405361",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.149344",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.09628",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.264223",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.010941",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.03337",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001094",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.004923",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.012582",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001094",
+                "age": "65+",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "385939388500265",
+        "page_name": "Domácí péče Včelka",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "500",
+            "upper_bound": "599"
+        },
+        "target_locations": [
+            {
+                "name": "Beroun, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 1808,
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "male": 4,
+                        "female": 23,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 2,
+                        "female": 9
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 4,
+                        "female": 13
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 273,
+                        "female": 741,
+                        "unknown": 13
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 176,
+                        "female": 483,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 20,
+                        "female": 61,
+                        "unknown": 3
+                    }
+                ]
+            }
+        ],
+        "_id": "601518475117680"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=218246357691817&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-06-08",
+        "ad_creative_bodies": [
+            "Hledáme novou kolegyni/kolegu na pozici vedoucí pobočky domácí péče pro naše pobočky Blansko, Brno–město a Brno–venkov. Přidáte se k nám? 👩‍⚕️🧑‍⚕️👨‍⚕️\n\nJsme tým lidí, kde je člověk, kolega i pacient, na prvním místě. \n\n👉 Očekáváme odbornou způsobilost min. všeobecná sestra (specializovaná způsobilost výhodou), znalost MS Office (alespoň uživatelskou úroveň), aktivního řidiče/řidičku (sk. B), praxi ve zdravotnictví, proaktivní přístup, férové jednání a slušnost. \n\nSe vším ostatním rádi pomůžeme.\n\nNabízíme smysluplnou práci, odpovídající mzdové ohodnocení, možnost se realizovat ve svěřeném regionu, odborný růst (akredit. kurzy MZČR, specializační vzdělávání NCONZO), 5 týdnů dovolené, stravenkový paušál, zázemí a podporu stabilního zdravotnického zařízení s celorepublikovou působností a vše ostatní co budete potřebovat ke své práci, tj. kancelář, služební auto, MT, notebook.  🧐🐝🍀\n\nwww.pecevcelka.cz"
+        ],
+        "ad_creative_link_captions": [
+            "pecevcelka.cz"
+        ],
+        "ad_creative_link_descriptions": [
+            "Neváhejte se na nás obrátit s jakýmkoliv dotazem, pokud to bude v našich silách, budeme se Vám snažit pomoct."
+        ],
+        "ad_creative_link_titles": [
+            "Detail pobočky"
+        ],
+        "ad_delivery_start_time": "2023-06-08",
+        "ad_delivery_stop_time": "2023-06-30",
+        "bylines": "Domácí péče Včelka",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.001797",
+                "region": "Lower Austria"
+            },
+            {
+                "percentage": "0.983827",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.00599",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.007787",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.000599",
+                "region": "Pardubice Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000301",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.125752",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000903",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001805",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.033995",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.005415",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.009025",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.357702",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.078219",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000903",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.214801",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.084838",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.069795",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.010529",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002407",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000301",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.003309",
+                "age": "45-54",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "25000",
+            "upper_bound": "29999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "385939388500265",
+        "page_name": "Domácí péče Včelka",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "_id": "218246357691817"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=237338199040173&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-06-07",
+        "ad_creative_bodies": [
+            "Hledáme nové kolegyně/kolegy na pozici všeobecná/praktická sestra domácí péče pro oblasti Brandýs n. Labem, Odolena Voda a Říčany. Jsme tým lidí, kde je člověk, kolega i pacient, na prvním místě. 🙂\n\nPožadujeme: \n👉 aktivní řidič (sk. B), praxe ve zdravotnictví, empatii, profesionální přístup, slušnost a spolehlivost. Se vším ostatním rádi pomůžeme.\n\nNabízíme smysluplnou práci, odpovídající mzdové ohodnocení, odborný růst (akreditované kurzy MZČR, specializační vzdělávání NCONZO), podporu týmu stabilního zdravotnického zařízení s celorepublikovou působností, stravenkový paušál, příspěvek na telefon. A samozřejmě vše, co budete potřebovat ke své práci: vybavení, ochranné pomůcky, auto, zázemí pobočky. A ještě jedna příjemná věc – nabízíme náborový příspěvek 60.000 Kč pro odbornou způsobilost všeobecná sestra. 🧐🐝🍀"
+        ],
+        "ad_creative_link_captions": [
+            "www.pecevcelka.cz"
+        ],
+        "ad_creative_link_titles": [
+            "Domácí péče Včelka – pobočka Praha–východ"
+        ],
+        "ad_delivery_start_time": "2023-06-07",
+        "ad_delivery_stop_time": "2023-06-30",
+        "bylines": "Domácí péče Včelka",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000541",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001083",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.113156",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.034109",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.019491",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.085544",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.055766",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001624",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.179751",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.313481",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.101787",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.005414",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.060639",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.006497",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.01516",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.005956",
+                "age": "55-64",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "385939388500265",
+        "page_name": "Domácí péče Včelka",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "900",
+            "upper_bound": "999"
+        },
+        "_id": "237338199040173"
+    }
+]

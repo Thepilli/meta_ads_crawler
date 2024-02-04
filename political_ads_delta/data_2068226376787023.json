@@ -1,0 +1,159 @@
+[
+    {
+        "id": "282578321501711",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=282578321501711&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-25",
+        "ad_creative_bodies": [
+            "Odmítnout domácí násilí z bezpečných lavic Senátu nestojí tolik odvahy, ani tu však senátor Pavel Fischer nenašel.\nJako 1 z 47 senátorů a senátorek včera nepodpořil přijetí Úmluvy Rady Evropy o prevenci a potírání násilí vůči ženám a domácího násilí. Prokázal tak, že nenávist vůči LGBT+ osobám nebyl z jeho strany ojedinělý exces, ale že toto smýšlení je jeho trvalým hodnotovým ukotvením.\n\nProto za Piráty v letošních senátních volbách vsázíme na Evu Tylovou.\nEva domácí násilí jasně odsuzuje a sdílí obavu velké části veřejnosti, že násilí na ženách a dětech v rodinách není dostatečně vnímáno jako závažný trestný čin.\nK čemuž neschválení Úmluvy Senátem bohužel opět přispěje.\n\nChce to změnu! Podpořte s námi Evu do Senátu ve volbách na podzim."
+        ],
+        "ad_delivery_start_time": "2024-01-25",
+        "ad_delivery_stop_time": "2024-02-01",
+        "bylines": "Česká pirátská strana",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.974066",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.025934",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.006224",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.003112",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.085062",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.057054",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.144191",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.076763",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.106846",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.192946",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.208506",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.089212",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.028008",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002075",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "2068226376787023",
+        "page_name": "Piráti Praha 12",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "target_locations": [
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "50"
+        ],
+        "eu_total_reach": 958,
+        "beneficiary_payers": [
+            {
+                "payer": "Piráti Praha 12",
+                "beneficiary": "Piráti Praha 12",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "35-44",
+                        "male": 139,
+                        "female": 74,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 201,
+                        "female": 186,
+                        "unknown": 27
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 103,
+                        "female": 82,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 86,
+                        "female": 55,
+                        "unknown": 2
+                    }
+                ]
+            }
+        ]
+    }
+]

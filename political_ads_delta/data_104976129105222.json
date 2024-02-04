@@ -1,0 +1,195 @@
+[
+    {
+        "id": "1404495690157211",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1404495690157211&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-27",
+        "ad_creative_bodies": [
+            "První velká kulturní akce letošního roku je zde! :-)\n\nV uplynulém roce jsme s velkým úspěchem obnovili tradici masopustu na Desítce. Protože zájem předčil naše očekávání, navazujeme letos druhým ročníkem!\n\nTěšit se můžete opět na masky a jejich průvod Vršovicemi, dílničky pro děti, zabijačkové speciality a opekání na ohni, nebo třeba lidovou hudbu a tance!\n\nJste srdečně zváni, začínáme 14:00 a letos jako bonus připravujeme i večerní akci ve Vzletu, detailní info brzy :-)\n\nOdkaz na událost: 👇\nhttps://www.facebook.com/events/288571967540037/?ref=newsfeed&locale=cs_CZ"
+        ],
+        "ad_delivery_start_time": "2024-01-27",
+        "bylines": "Pavel Šutka, místostarosta Desítky",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Prague"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001401",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.003891",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002335",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.021634",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.26428",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.200156",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.079533",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.125447",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.06537",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.035486",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.084669",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00856",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.049961",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.028482",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000934",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.026615",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000934",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000311",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "15000",
+            "upper_bound": "19999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "104976129105222",
+        "page_name": "Pavel Šutka, místostarosta Desítky",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "target_locations": [
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 3,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 6494,
+        "beneficiary_payers": [
+            {
+                "payer": "Desítková ODS",
+                "beneficiary": "Desítková ODS",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "55-64",
+                        "male": 183,
+                        "female": 544,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 321,
+                        "female": 806,
+                        "unknown": 15
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 171,
+                        "female": 511,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 420,
+                        "female": 1698,
+                        "unknown": 25
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 55,
+                        "female": 139,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 228,
+                        "female": 1286,
+                        "unknown": 9
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,556 @@
+[
+    {
+        "id": "269651345988022",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=269651345988022&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-31",
+        "ad_creative_bodies": [
+            "Skvělá zpráva, korespondenční volba je o krok blíž k jejímu definitivnímu schválení!\n\nNavzdory opozičním obstrukcím, které nafoukly jednání na více než 60 hodin, jsme postoupili změnu zákona do druhého čtení. Bitva ještě není u konce, ale jsem si jistý, že dopadne dobře. My se voličů nebojíme."
+        ],
+        "ad_delivery_start_time": "2024-02-01",
+        "bylines": "Jan Jakob",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.007974",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.051037",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.125997",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.481659",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.232855",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.065391",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.022329",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.007974",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00319",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001595",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "page_id": "1240809492610426",
+        "page_name": "Jan Jakob",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Central Bohemian Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "45"
+        ],
+        "eu_total_reach": 627,
+        "beneficiary_payers": [
+            {
+                "payer": "Jan Jakob",
+                "beneficiary": "Jan Jakob",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 146,
+                        "female": 14,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 302,
+                        "female": 32,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 79,
+                        "female": 5
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 41,
+                        "female": 5
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "901125968421177",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=901125968421177&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-31",
+        "ad_creative_bodies": [
+            "Zdůvodnění dnešního rozhodnutí Ústavního soudu by mělo být pozorně posloucháno především v hnutí ANO. \n\nZkritizoval jejich bezbřehé obstrukce a blokaci práce v Poslanecké sněmovně. Vlastní návrhy řešení nemají a bořit jednání jim přímo kritizuje nezávislá soudní instance."
+        ],
+        "ad_delivery_start_time": "2024-01-31",
+        "bylines": "Jan Jakob",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.00141",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.004231",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.070522",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.246827",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.019746",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.48519",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.104372",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.052186",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.015515",
+                "age": "18-24",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1240809492610426",
+        "page_name": "Jan Jakob",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Central Bohemian Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "45"
+        ],
+        "eu_total_reach": 709,
+        "beneficiary_payers": [
+            {
+                "payer": "Jan Jakob",
+                "beneficiary": "Jan Jakob",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 175,
+                        "female": 14
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 344,
+                        "female": 37,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 50,
+                        "female": 3
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 74,
+                        "female": 11
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "688031850109140",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=688031850109140&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-16",
+        "ad_creative_bodies": [
+            "Všichni víme, jaký je pravý důvod odmítání korespondenční volby Babišem a Okamurou.\n\nNení to strach z podvodů.\n\nJe to strach z voličů, kteří by je nevolili."
+        ],
+        "ad_delivery_start_time": "2024-01-17",
+        "ad_delivery_stop_time": "2024-01-24",
+        "bylines": "Jan Jakob",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.002535",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002535",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.010139",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.026616",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.086185",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.007605",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.489227",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.073511",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.065906",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.235741",
+                "age": "25-34",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "page_id": "1240809492610426",
+        "page_name": "Jan Jakob",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "target_locations": [
+            {
+                "name": "Central Bohemian Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "45"
+        ],
+        "eu_total_reach": 790,
+        "beneficiary_payers": [
+            {
+                "payer": "Jan Jakob",
+                "beneficiary": "Jan Jakob",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "35-44",
+                        "male": 386,
+                        "female": 58,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 186,
+                        "female": 21,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 68,
+                        "female": 8
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 52,
+                        "female": 6
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1596133341130261",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1596133341130261&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-16",
+        "ad_creative_bodies": [
+            "Příjmy ruského rozpočtu z ropy a plynu se vloni snížily zhruba o 24 procent.\n\nPokud chceme bezpečný svět, tak bez závislosti na šíleném diktátorovi. Jsem moc rád, že se k tomu postupně směřuje a ČR jde příkladem."
+        ],
+        "ad_delivery_start_time": "2024-01-16",
+        "ad_delivery_stop_time": "2024-01-23",
+        "bylines": "Jan Jakob",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001418",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.028369",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.314184",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.447518",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001418",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.048227",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.133333",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002837",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00922",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.010638",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002837",
+                "age": "45-54",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "2000",
+            "upper_bound": "2999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1240809492610426",
+        "page_name": "Jan Jakob",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "target_locations": [
+            {
+                "name": "Central Bohemian Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "45"
+        ],
+        "eu_total_reach": 1437,
+        "beneficiary_payers": [
+            {
+                "payer": "Jan Jakob",
+                "beneficiary": "Jan Jakob",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 188,
+                        "female": 15,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 68,
+                        "female": 4
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 443,
+                        "female": 13,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 631,
+                        "female": 40,
+                        "unknown": 4
+                    }
+                ]
+            }
+        ]
+    }
+]

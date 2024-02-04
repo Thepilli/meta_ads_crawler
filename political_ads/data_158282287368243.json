@@ -1,0 +1,187 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=720257940138566&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-05",
+        "ad_creative_bodies": [
+            "Neznečišťuj oceány cigaretami 🌊 #nenechseovladat \n\nNENECH SE OVLÁDAT 🚬\nhttps://nenechseovladat.tubrr.net/\nhttps://www.instagram.com/nenech_se_ovladat/"
+        ],
+        "ad_creative_link_captions": [
+            "nenechseovladat.tubrr.net"
+        ],
+        "ad_delivery_start_time": "2023-11-05",
+        "ad_delivery_stop_time": "2023-11-11",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.00012",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.058478",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.165848",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.11396",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.069982",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.046974",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.025165",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.034032",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.048053",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.086998",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.046255",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.059676",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.136609",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.065069",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.04278",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.061302",
+                "age": "13-17",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.422926",
+                "age": "13-17",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.077015",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.140936",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002857",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.085228",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.134865",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.013808",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.061064",
+                "age": "13-17",
+                "gender": "female"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "8000",
+            "upper_bound": "8999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "158282287368243",
+        "page_name": "Instagram User 2877232216",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "13",
+            "30"
+        ],
+        "eu_total_reach": 8400,
+        "beneficiary_payers": [
+            {
+                "payer": "Nenech se ovládat",
+                "beneficiary": "Nenech se ovládat",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "13-17",
+                        "male": 515,
+                        "female": 513,
+                        "unknown": 3553
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 716,
+                        "female": 647,
+                        "unknown": 24
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 1133,
+                        "female": 1184,
+                        "unknown": 116
+                    }
+                ]
+            }
+        ],
+        "_id": "720257940138566"
+    }
+]

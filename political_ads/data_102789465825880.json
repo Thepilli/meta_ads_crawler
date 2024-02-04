@@ -1,0 +1,2287 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=890875499417974&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-07",
+        "ad_creative_link_captions": [
+            "atrophodermavdcer.live"
+        ],
+        "ad_creative_link_titles": [
+            "Přístup k platformě zde"
+        ],
+        "ad_delivery_start_time": "2023-12-07",
+        "ad_delivery_stop_time": "2023-12-08",
+        "currency": "EUR",
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "page_id": "102789465825880",
+        "page_name": "Littlegame02",
+        "publisher_platforms": [
+            "facebook",
+            "instagram",
+            "audience_network",
+            "messenger"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "25",
+            "65"
+        ],
+        "eu_total_reach": 88,
+        "beneficiary_payers": [
+            {
+                "payer": "g7",
+                "beneficiary": "g7",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 11,
+                        "female": 19,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 6,
+                        "female": 10
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 13,
+                        "female": 7
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 13,
+                        "female": 7
+                    }
+                ]
+            }
+        ],
+        "_id": "890875499417974"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=864481102123465&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-07",
+        "ad_creative_link_captions": [
+            "typhoidalvdcer.live"
+        ],
+        "ad_creative_link_titles": [
+            "Přístup k platformě zde"
+        ],
+        "ad_delivery_start_time": "2023-12-07",
+        "ad_delivery_stop_time": "2023-12-08",
+        "currency": "EUR",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000558",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.05692",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.082589",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.071429",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.048549",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.026228",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.040179",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.053013",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.063058",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.142299",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.038504",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.055804",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.101563",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.184152",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.035156",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001112",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.027793",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.026681",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.103947",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.17065",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.136187",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.146192",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.093385",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.192329",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.058366",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.038355",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001668",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001112",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002223",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "page_id": "102789465825880",
+        "page_name": "Littlegame02",
+        "publisher_platforms": [
+            "facebook",
+            "instagram",
+            "audience_network",
+            "messenger"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "25",
+            "65"
+        ],
+        "eu_total_reach": 1735,
+        "beneficiary_payers": [
+            {
+                "payer": "g7",
+                "beneficiary": "g7",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 48,
+                        "female": 50,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 346,
+                        "female": 263,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 307,
+                        "female": 245
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 187,
+                        "female": 168,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 105,
+                        "female": 69,
+                        "unknown": 2
+                    }
+                ]
+            }
+        ],
+        "_id": "864481102123465"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=878554273682608&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-07",
+        "ad_creative_link_captions": [
+            "typhoidalvdcer.live"
+        ],
+        "ad_creative_link_titles": [
+            "Přístup k platformě zde"
+        ],
+        "ad_delivery_start_time": "2023-12-07",
+        "ad_delivery_stop_time": "2023-12-08",
+        "currency": "EUR",
+        "delivery_by_region": [
+            {
+                "percentage": "0.056216",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.088649",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.052973",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.059459",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.034595",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.052973",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.059459",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.038919",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.140541",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.036757",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.064865",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.099459",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.184865",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.03027",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001081",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001081",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.179459",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.134054",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.098378",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.105946",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.174054",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.140541",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.056216",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.031351",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.055135",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.020541",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002162",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "page_id": "102789465825880",
+        "page_name": "Littlegame02",
+        "publisher_platforms": [
+            "facebook",
+            "instagram",
+            "audience_network",
+            "messenger"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "25",
+            "65"
+        ],
+        "eu_total_reach": 902,
+        "beneficiary_payers": [
+            {
+                "payer": "g7",
+                "beneficiary": "g7",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 19,
+                        "female": 29
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 166,
+                        "female": 124,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 161,
+                        "female": 130,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 98,
+                        "female": 91
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 52,
+                        "female": 51,
+                        "unknown": 1
+                    }
+                ]
+            }
+        ],
+        "_id": "878554273682608"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=3634054720173291&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-07",
+        "ad_creative_link_captions": [
+            "typhoidalvdcer.live"
+        ],
+        "ad_creative_link_titles": [
+            "Přístup k platformě zde"
+        ],
+        "ad_delivery_start_time": "2023-12-07",
+        "ad_delivery_stop_time": "2023-12-08",
+        "currency": "EUR",
+        "delivery_by_region": [
+            {
+                "percentage": "0.049808",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.076628",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.061303",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.057471",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.036398",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.045977",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.047893",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.06705",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.141762",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.038314",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.076628",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.078544",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.185824",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.036398",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.051724",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.178161",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.118774",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.193487",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.164751",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.126437",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.086207",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.038314",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001916",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.011494",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.02682",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001916",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "page_id": "102789465825880",
+        "page_name": "Littlegame02",
+        "publisher_platforms": [
+            "facebook",
+            "instagram",
+            "audience_network",
+            "messenger"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "25",
+            "65"
+        ],
+        "eu_total_reach": 508,
+        "beneficiary_payers": [
+            {
+                "payer": "g7",
+                "beneficiary": "g7",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 14,
+                        "female": 6
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 101,
+                        "female": 86,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 93,
+                        "female": 66,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 62,
+                        "female": 45
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 27,
+                        "female": 20
+                    }
+                ]
+            }
+        ],
+        "_id": "3634054720173291"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=321922064120594&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-07",
+        "ad_creative_link_captions": [
+            "atrophodermavdcer.live"
+        ],
+        "ad_creative_link_titles": [
+            "Přístup k platformě zde"
+        ],
+        "ad_delivery_start_time": "2023-12-07",
+        "ad_delivery_stop_time": "2023-12-08",
+        "currency": "EUR",
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "page_id": "102789465825880",
+        "page_name": "Littlegame02",
+        "publisher_platforms": [
+            "facebook",
+            "instagram",
+            "audience_network",
+            "messenger"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "25",
+            "65"
+        ],
+        "eu_total_reach": 4,
+        "beneficiary_payers": [
+            {
+                "payer": "g7",
+                "beneficiary": "g7",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "female": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 2
+                    }
+                ]
+            }
+        ],
+        "_id": "321922064120594"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=363557082869210&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-07",
+        "ad_creative_link_captions": [
+            "atrophodermavdcer.live"
+        ],
+        "ad_creative_link_titles": [
+            "Přístup k platformě zde"
+        ],
+        "ad_delivery_start_time": "2023-12-07",
+        "ad_delivery_stop_time": "2023-12-08",
+        "currency": "EUR",
+        "delivery_by_region": [
+            {
+                "percentage": "0.044728",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.105431",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.105431",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.083067",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.028754",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.031949",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.051118",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.054313",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.108626",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.031949",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.041534",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.079872",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.194888",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.038339",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.095847",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.099042",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.038339",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.047923",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.111821",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.201278",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.134185",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.191693",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.022364",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.054313",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.003195",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "page_id": "102789465825880",
+        "page_name": "Littlegame02",
+        "publisher_platforms": [
+            "facebook",
+            "instagram",
+            "audience_network",
+            "messenger"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "25",
+            "65"
+        ],
+        "eu_total_reach": 301,
+        "beneficiary_payers": [
+            {
+                "payer": "g7",
+                "beneficiary": "g7",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 12,
+                        "female": 7
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 63,
+                        "female": 42
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 60,
+                        "female": 35,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 31,
+                        "female": 30
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 17,
+                        "female": 15
+                    }
+                ]
+            }
+        ],
+        "_id": "363557082869210"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=788797116592676&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-07",
+        "ad_creative_link_captions": [
+            "atrophodermavdcer.live"
+        ],
+        "ad_creative_link_titles": [
+            "Přístup k platformě zde"
+        ],
+        "ad_delivery_start_time": "2023-12-07",
+        "ad_delivery_stop_time": "2023-12-08",
+        "currency": "EUR",
+        "delivery_by_region": [
+            {
+                "percentage": "0.054795",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.09589",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.068493",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.054795",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.034247",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.068493",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.061644",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.068493",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.157534",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.041096",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.047945",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.075342",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.157534",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.013699",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.027397",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.054795",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.075342",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.109589",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.082192",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.10274",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.184932",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.171233",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.143836",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.041096",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.006849",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "page_id": "102789465825880",
+        "page_name": "Littlegame02",
+        "publisher_platforms": [
+            "facebook",
+            "instagram",
+            "audience_network",
+            "messenger"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "25",
+            "65"
+        ],
+        "eu_total_reach": 146,
+        "beneficiary_payers": [
+            {
+                "payer": "g7",
+                "beneficiary": "g7",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 11,
+                        "female": 12
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 25,
+                        "female": 15,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 21,
+                        "female": 27
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 16,
+                        "female": 6
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 4,
+                        "female": 8
+                    }
+                ]
+            }
+        ],
+        "_id": "788797116592676"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=337711652330338&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-07",
+        "ad_creative_link_captions": [
+            "atrophodermavdcer.live"
+        ],
+        "ad_creative_link_titles": [
+            "Přístup k platformě zde"
+        ],
+        "ad_delivery_start_time": "2023-12-07",
+        "ad_delivery_stop_time": "2023-12-08",
+        "currency": "EUR",
+        "delivery_by_region": [
+            {
+                "percentage": "0.035714",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.116071",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.0625",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.035714",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.017857",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.035714",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.080357",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.053571",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.125",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.017857",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.071429",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.160714",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.169643",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.017857",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.044643",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.205357",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.125",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.116071",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.044643",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.008929",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.116071",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.053571",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.107143",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.151786",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.026786",
+                "age": "25-34",
+                "gender": "female"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "page_id": "102789465825880",
+        "page_name": "Littlegame02",
+        "publisher_platforms": [
+            "facebook",
+            "instagram",
+            "audience_network",
+            "messenger"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "25",
+            "65"
+        ],
+        "eu_total_reach": 112,
+        "beneficiary_payers": [
+            {
+                "payer": "g7",
+                "beneficiary": "g7",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 6,
+                        "female": 3
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 13,
+                        "female": 17
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 23,
+                        "female": 13,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 14,
+                        "female": 12
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 5,
+                        "female": 5
+                    }
+                ]
+            }
+        ],
+        "_id": "337711652330338"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=293287147025027&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-06",
+        "ad_creative_link_captions": [
+            "atrophodermavdcer.live"
+        ],
+        "ad_creative_link_titles": [
+            "Přístup k platformě zde"
+        ],
+        "ad_delivery_start_time": "2023-12-07",
+        "ad_delivery_stop_time": "2023-12-07",
+        "currency": "EUR",
+        "delivery_by_region": [
+            {
+                "percentage": "0.042802",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.093385",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.070039",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.062257",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.031128",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.042802",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.070039",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.046693",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.155642",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.023346",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.042802",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.089494",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.167315",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.062257",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.003891",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.132296",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.124514",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.116732",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.132296",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.128405",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.101167",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.171206",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.081712",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.007782",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "page_id": "102789465825880",
+        "page_name": "Littlegame02",
+        "publisher_platforms": [
+            "facebook",
+            "instagram",
+            "audience_network",
+            "messenger"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "36",
+            "65"
+        ],
+        "eu_total_reach": 257,
+        "beneficiary_payers": [
+            {
+                "payer": "g7",
+                "beneficiary": "g7",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "35-44",
+                        "male": 44,
+                        "female": 33,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 30,
+                        "female": 34,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 32,
+                        "female": 34
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 26,
+                        "female": 21
+                    }
+                ]
+            }
+        ],
+        "_id": "293287147025027"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=224443550673837&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-06",
+        "ad_creative_link_captions": [
+            "typhoidalvdcer.live"
+        ],
+        "ad_creative_link_titles": [
+            "Přístup k platformě zde"
+        ],
+        "ad_delivery_start_time": "2023-12-06",
+        "ad_delivery_stop_time": "2023-12-07",
+        "currency": "EUR",
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "page_id": "102789465825880",
+        "page_name": "Littlegame02",
+        "publisher_platforms": [
+            "facebook",
+            "audience_network"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "35",
+            "65"
+        ],
+        "eu_total_reach": 47,
+        "beneficiary_payers": [
+            {
+                "payer": "g7",
+                "beneficiary": "g7",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "35-44",
+                        "male": 6,
+                        "female": 5,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 5,
+                        "female": 4
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 9,
+                        "female": 4
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 6,
+                        "female": 7
+                    }
+                ]
+            }
+        ],
+        "_id": "224443550673837"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1085961522580812&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-06",
+        "ad_creative_link_captions": [
+            "typhoidalvdcer.live"
+        ],
+        "ad_creative_link_titles": [
+            "Přístup k platformě zde"
+        ],
+        "ad_delivery_start_time": "2023-12-06",
+        "ad_delivery_stop_time": "2023-12-07",
+        "currency": "EUR",
+        "delivery_by_region": [
+            {
+                "percentage": "0.002079",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.064449",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.099792",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.087318",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.056133",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.024948",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.049896",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.043659",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.045738",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.139293",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.039501",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.056133",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.08316",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.182952",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.024948",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.002079",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.137214",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.162162",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.101871",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.116424",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.147609",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.128898",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.116424",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.08316",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.004158",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "page_id": "102789465825880",
+        "page_name": "Littlegame02",
+        "publisher_platforms": [
+            "facebook",
+            "audience_network"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "35",
+            "65"
+        ],
+        "eu_total_reach": 480,
+        "beneficiary_payers": [
+            {
+                "payer": "g7",
+                "beneficiary": "g7",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "35-44",
+                        "male": 71,
+                        "female": 56,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 62,
+                        "female": 78,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 66,
+                        "female": 56
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 49,
+                        "female": 40
+                    }
+                ]
+            }
+        ],
+        "_id": "1085961522580812"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1527205931405893&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-06",
+        "ad_creative_link_captions": [
+            "typhoidalvdcer.live"
+        ],
+        "ad_creative_link_titles": [
+            "Přístup k platformě zde"
+        ],
+        "ad_delivery_start_time": "2023-12-06",
+        "ad_delivery_stop_time": "2023-12-07",
+        "currency": "EUR",
+        "delivery_by_region": [
+            {
+                "percentage": "0.05598",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.066158",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.073791",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.061069",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.025445",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.053435",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.061069",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.050891",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.142494",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.033079",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.045802",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.10687",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.180662",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.043257",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.152672",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.086514",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.094148",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.173028",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.058524",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.117048",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.167939",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.147583",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002545",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "page_id": "102789465825880",
+        "page_name": "Littlegame02",
+        "publisher_platforms": [
+            "facebook",
+            "audience_network"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "35",
+            "65"
+        ],
+        "eu_total_reach": 390,
+        "beneficiary_payers": [
+            {
+                "payer": "g7",
+                "beneficiary": "g7",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "35-44",
+                        "male": 66,
+                        "female": 60
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 68,
+                        "female": 58,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 46,
+                        "female": 37
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 34,
+                        "female": 23
+                    }
+                ]
+            }
+        ],
+        "_id": "1527205931405893"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=888444336330921&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-06",
+        "ad_creative_link_captions": [
+            "atrophodermavdcer.live"
+        ],
+        "ad_creative_link_titles": [
+            "Přístup k platformě zde"
+        ],
+        "ad_delivery_start_time": "2023-12-06",
+        "ad_delivery_stop_time": "2023-12-07",
+        "currency": "EUR",
+        "delivery_by_region": [
+            {
+                "percentage": "0.036398",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.111111",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.072797",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.063218",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.02682",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.049808",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.055556",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.059387",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.137931",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.032567",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.055556",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.091954",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.17433",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.032567",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.003839",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.003839",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.136276",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.138196",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.180422",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.101727",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.051823",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.182342",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.059501",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.142035",
+                "age": "35-44",
+                "gender": "female"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "page_id": "102789465825880",
+        "page_name": "Littlegame02",
+        "publisher_platforms": [
+            "facebook",
+            "instagram",
+            "audience_network",
+            "messenger"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "36",
+            "65"
+        ],
+        "eu_total_reach": 526,
+        "beneficiary_payers": [
+            {
+                "payer": "g7",
+                "beneficiary": "g7",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "35-44",
+                        "male": 94,
+                        "female": 74,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 95,
+                        "female": 71
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 72,
+                        "female": 53,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 31,
+                        "female": 27
+                    }
+                ]
+            }
+        ],
+        "_id": "888444336330921"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=318579730883084&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-13",
+        "ad_creative_link_captions": [
+            "luzeweisii.info"
+        ],
+        "ad_creative_link_descriptions": [
+            "Zemní plyn je jedním z nejdůležitějších paliv na naší planetě. Již nyní uspokojuje přibližně 18% světových energetických potřeb a toto číslo se v příštích letech pravděpodobně zvýší, přičemž Mezinárodní energetická agentura (IEA) předpovídá, že do roku 2040 bu..."
+        ],
+        "ad_creative_link_titles": [
+            "Více informací v článku."
+        ],
+        "ad_delivery_start_time": "2023-11-14",
+        "ad_delivery_stop_time": "2023-11-14",
+        "currency": "ZAR",
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "102789465825880",
+        "page_name": "Littlegame02",
+        "publisher_platforms": [
+            "facebook",
+            "instagram",
+            "audience_network"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "40",
+            "65"
+        ],
+        "eu_total_reach": 1,
+        "beneficiary_payers": [
+            {
+                "payer": "qr1",
+                "beneficiary": "qr1",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "35-44",
+                        "male": 1
+                    }
+                ]
+            }
+        ],
+        "_id": "318579730883084"
+    }
+]

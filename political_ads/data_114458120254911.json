@@ -1,0 +1,409 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1366578623940358&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-10-24",
+        "ad_creative_bodies": [
+            "Tofu má nepochybně své místo na všech stolech, nejen na těch veganských.👩👨🧒 Je velmi zdravé, jednoduché na přípravu a také dokáže být velice chutné.😋 Jak často je tofu součástí tvého jídelníčku? Pokud ho nezařazuješ, jaký je důvod? Poděl se s námi v komentářích 👇👇👇"
+        ],
+        "ad_delivery_start_time": "2023-10-24",
+        "ad_delivery_stop_time": "2023-10-25",
+        "currency": "EUR",
+        "delivery_by_region": [
+            {
+                "percentage": "0.050609",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.133549",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.108555",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.055708",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.048868",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.030216",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.040662",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.0572",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.117508",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.047128",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.066401",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.113405",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.085427",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.044765",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000374",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002495",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002121",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.282685",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.044162",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.091193",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.225923",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.111776",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.074351",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.056886",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.107285",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000749",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "114458120254911",
+        "page_name": "Lunter CZ",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "49"
+        ],
+        "eu_total_reach": 7955,
+        "beneficiary_payers": [
+            {
+                "payer": "ALFA BIO",
+                "beneficiary": "ALFA BIO",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 731,
+                        "female": 456,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 2266,
+                        "female": 896,
+                        "unknown": 17
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 1811,
+                        "female": 596,
+                        "unknown": 20
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 860,
+                        "female": 354,
+                        "unknown": 6
+                    }
+                ]
+            }
+        ],
+        "_id": "1366578623940358"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1813142685784599&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-10-24",
+        "ad_creative_link_captions": [
+            "lunter.cz",
+            "lunter.cz",
+            "lunter.cz",
+            "lunter.cz",
+            "lunter.cz"
+        ],
+        "ad_delivery_start_time": "2023-10-24",
+        "ad_delivery_stop_time": "2023-10-25",
+        "currency": "EUR",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000157",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.044434",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.227979",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.111006",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.053384",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.046475",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.023081",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.037369",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.052442",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.104883",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.042079",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.055268",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.09295",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.068771",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.039724",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.002222",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001111",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.009998",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.023488",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000635",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.189018",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.045548",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.119505",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.038724",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.097921",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.218378",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.253452",
+                "age": "18-24",
+                "gender": "male"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "6000",
+            "upper_bound": "6999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "114458120254911",
+        "page_name": "Lunter CZ",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "49"
+        ],
+        "eu_total_reach": 6239,
+        "beneficiary_payers": [
+            {
+                "payer": "ALFA BIO",
+                "beneficiary": "ALFA BIO",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 1597,
+                        "female": 1191,
+                        "unknown": 63
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 1376,
+                        "female": 753,
+                        "unknown": 14
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 617,
+                        "female": 287,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 244,
+                        "female": 148,
+                        "unknown": 4
+                    }
+                ]
+            }
+        ],
+        "_id": "1813142685784599"
+    }
+]

@@ -1,0 +1,1106 @@
+[
+    {
+        "id": "643498847831434",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=643498847831434&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-25",
+        "ad_creative_bodies": [
+            "Přijďte na natáčení podcastu Dobrovský & Šídlo! Tentokrát se pánové vypraví do Litomyšle. Můžete se těšit na pořádnou dávku názorů, vzpomínek, informací a sentimentu.\nKotelna - Music Club Litomyšl | Vstupné 250 Kč."
+        ],
+        "ad_creative_link_captions": [
+            "PAMĚŤ NÁRODA | Dobrovský & Šídlo"
+        ],
+        "ad_creative_link_descriptions": [
+            "18.30 open\n19.00 začátek\npředprodej: https://www.smsticket.cz/vstupenky/41545-pameti-naroda-dobrovsky-sidlo-mc-kotelna-litomysl\n--------------\nVaše pravidelná dávka názorů, vzpomínek, informací a sentimentu. Devadesátky i dnešek. Čím jsme si prošli a jak jsme to přežili? Unikátní mix historie a politiky s předsedou Kolegia Paměti národa Janem Dobrovským a novinářem Jindřichem Šídlem."
+        ],
+        "ad_creative_link_titles": [
+            "PAMĚŤ NÁRODA | Dobrovský & Šídlo"
+        ],
+        "ad_delivery_start_time": "2024-01-25",
+        "bylines": "Post Bellum, z.ú. ",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.075337",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.046577",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.080428",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.085772",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.711886",
+                "region": "Pardubice Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000766",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.004086",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.003064",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.115169",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.164709",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.141726",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.027324",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.111849",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.100358",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.041369",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.157559",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.040603",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.036517",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.027324",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.025536",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002043",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "8000",
+            "upper_bound": "8999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "139379141293",
+        "page_name": "Paměť národa",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "target_locations": [
+            {
+                "name": "Litomysl, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Poland",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": true
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 3905,
+        "beneficiary_payers": [
+            {
+                "payer": "Post Bellum",
+                "beneficiary": "Post Bellum",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 555,
+                        "female": 451,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 617,
+                        "female": 645,
+                        "unknown": 16
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 159,
+                        "female": 100
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 392,
+                        "female": 436,
+                        "unknown": 12
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 143,
+                        "female": 162
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 107,
+                        "female": 107,
+                        "unknown": 8
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "858256596070337",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=858256596070337&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-22",
+        "ad_creative_bodies": [
+            "Přijďte na natáčení podcastu Dobrovský & Šídlo! Tentokrát se pánové vypraví do Litomyšle. Můžete se těšit na pořádnou dávku názorů, vzpomínek, informací a sentimentu.\nKotelna - Music Club Litomyšl | Vstupné 250 Kč."
+        ],
+        "ad_creative_link_captions": [
+            "PAMĚŤ NÁRODA | Dobrovský & Šídlo"
+        ],
+        "ad_creative_link_descriptions": [
+            "18.30 open\n19.00 začátek\npředprodej: https://www.smsticket.cz/vstupenky/41545-pameti-naroda-dobrovsky-sidlo-mc-kotelna-litomysl\n--------------\nVaše pravidelná dávka názorů, vzpomínek, informací a sentimentu. Devadesátky i dnešek. Čím jsme si prošli a jak jsme to přežili? Unikátní mix historie a politiky s předsedou Kolegia Paměti národa Janem Dobrovským a novinářem Jindřichem Šídlem."
+        ],
+        "ad_creative_link_titles": [
+            "PAMĚŤ NÁRODA | Dobrovský & Šídlo"
+        ],
+        "ad_delivery_start_time": "2024-01-22",
+        "bylines": "Post Bellum, z.ú. ",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.076505",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.049674",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.059826",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.086294",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.727701",
+                "region": "Pardubice Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000742",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001856",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001485",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.028953",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.097624",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.01856",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.136971",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.134001",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.132146",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.033779",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.2049",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.030067",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.051967",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.089087",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002598",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.035264",
+                "age": "65+",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "5000",
+            "upper_bound": "5999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "139379141293",
+        "page_name": "Paměť národa",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Litomysl, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Poland",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": true
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 2798,
+        "beneficiary_payers": [
+            {
+                "payer": "Post Bellum",
+                "beneficiary": "Post Bellum",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 91,
+                        "female": 81
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 263,
+                        "female": 361,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 356,
+                        "female": 552,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 240,
+                        "female": 369,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 78,
+                        "female": 140
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 50,
+                        "female": 95,
+                        "unknown": 5
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "340838315524440",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=340838315524440&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-22",
+        "ad_creative_bodies": [
+            "Přijďte na natáčení podcastu Dobrovský & Šídlo! Tentokrát se pánové vypraví do Litomyšle. Můžete se těšit na pořádnou dávku názorů, vzpomínek, informací a sentimentu.\nKotelna - Music Club Litomyšl | Vstupné 250 Kč."
+        ],
+        "ad_creative_link_captions": [
+            "PAMĚŤ NÁRODA | Dobrovský & Šídlo"
+        ],
+        "ad_creative_link_descriptions": [
+            "18.30 open\n19.00 začátek\npředprodej: https://www.smsticket.cz/vstupenky/41545-pameti-naroda-dobrovsky-sidlo-mc-kotelna-litomysl\n--------------\nVaše pravidelná dávka názorů, vzpomínek, informací a sentimentu. Devadesátky i dnešek. Čím jsme si prošli a jak jsme to přežili? Unikátní mix historie a politiky s předsedou Kolegia Paměti národa Janem Dobrovským a novinářem Jindřichem Šídlem."
+        ],
+        "ad_creative_link_titles": [
+            "PAMĚŤ NÁRODA | Dobrovský & Šídlo"
+        ],
+        "ad_delivery_start_time": "2024-01-22",
+        "ad_delivery_stop_time": "2024-01-22",
+        "bylines": "Post Bellum, z.ú. ",
+        "currency": "CZK",
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "139379141293",
+        "page_name": "Paměť národa",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Litomysl, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Poland",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": true
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 6,
+        "beneficiary_payers": [
+            {
+                "payer": "Post Bellum",
+                "beneficiary": "Post Bellum",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 1,
+                        "female": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 1
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 1
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 1,
+                        "female": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "388309933704925",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=388309933704925&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-16",
+        "ad_creative_bodies": [
+            "Přijďte na natáčení podcastu Dobrovský & Šídlo! Tentokrát se pánové vypraví do Jihlavy. Můžete se těšit na pořádnou dávku názorů, vzpomínek, informací a sentimentu.\nDKO Jihlava | Vstupné 250 Kč."
+        ],
+        "ad_creative_link_captions": [
+            "Dobrovský & Šídlo: Živé natáčení podcastu Paměti národa | Jihlava"
+        ],
+        "ad_creative_link_descriptions": [
+            "Natáčení podcastu Dobrovský & Šídlo tentokrát v Jihlavě!\n\nVaše pravidelná dávka názorů, vzpomínek, informací a sentimentu. Od devadesátých let po současnost – čím jsme si prošli a jak jsme to přežili? Unikátní mix politiky a historie v podání předsedy Kolegia Paměti národa Jana Dobrovského a novináře Jindřicha Šídla.\n\nDKO Jihlava\nVstupné 250 Kč.\nhttps://goout.net/cs/dobrovsky-and-sidlo-podcast-pameti-naroda/szlfquw/"
+        ],
+        "ad_creative_link_titles": [
+            "Dobrovský & Šídlo: Živé natáčení podcastu Paměti národa | Jihlava"
+        ],
+        "ad_delivery_start_time": "2024-01-16",
+        "ad_delivery_stop_time": "2024-01-28",
+        "bylines": "Post Bellum, z.ú. ",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000266",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.024501",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.975233",
+                "region": "Vysočina Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000262",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.178553",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.036707",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.053225",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.099633",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.099895",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.114053",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.024646",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.019927",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001835",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.120346",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.046932",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002622",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.153907",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.044048",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.003146",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000262",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "6000",
+            "upper_bound": "6999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "139379141293",
+        "page_name": "Paměť národa",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "target_locations": [
+            {
+                "name": "Jihlava, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 3748,
+        "beneficiary_payers": [
+            {
+                "payer": "Paměť národa",
+                "beneficiary": "Paměť národa",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "55-64",
+                        "male": 168,
+                        "female": 203,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 587,
+                        "female": 681,
+                        "unknown": 10
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 140,
+                        "female": 179,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 435,
+                        "female": 459,
+                        "unknown": 12
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 380,
+                        "female": 381,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 94,
+                        "female": 76
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "335273486012530",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=335273486012530&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-16",
+        "ad_creative_bodies": [
+            "Přijďte na natáčení podcastu Dobrovský & Šídlo! Tentokrát se pánové vypraví do Jihlavy. Můžete se těšit na pořádnou dávku názorů, vzpomínek, informací a sentimentu.\nDKO Jihlava | Vstupné 250 Kč."
+        ],
+        "ad_creative_link_captions": [
+            "Dobrovský & Šídlo: Živé natáčení podcastu Paměti národa | Jihlava"
+        ],
+        "ad_creative_link_descriptions": [
+            "Natáčení podcastu Dobrovský & Šídlo tentokrát v Jihlavě!\n\nVaše pravidelná dávka názorů, vzpomínek, informací a sentimentu. Od devadesátých let po současnost – čím jsme si prošli a jak jsme to přežili? Unikátní mix politiky a historie v podání předsedy Kolegia Paměti národa Jana Dobrovského a novináře Jindřicha Šídla.\n\nDKO Jihlava\nVstupné 250 Kč.\nhttps://goout.net/cs/dobrovsky-and-sidlo-podcast-pameti-naroda/szlfquw/"
+        ],
+        "ad_creative_link_titles": [
+            "Dobrovský & Šídlo: Živé natáčení podcastu Paměti národa | Jihlava"
+        ],
+        "ad_delivery_start_time": "2024-01-16",
+        "ad_delivery_stop_time": "2024-01-27",
+        "bylines": "Post Bellum, z.ú. ",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.001336",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.029392",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.969272",
+                "region": "Vysočina Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.002738",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.031485",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000684",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002053",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.031143",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.042779",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.02909",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.131075",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.15948",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000342",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.052361",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.113279",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.152635",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.03833",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.1013",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.108145",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002738",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000342",
+                "age": "18-24",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "5000",
+            "upper_bound": "5999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "139379141293",
+        "page_name": "Paměť národa",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Jihlava, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 3011,
+        "beneficiary_payers": [
+            {
+                "payer": "Paměť národa",
+                "beneficiary": "Paměť národa",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 153,
+                        "female": 85,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 466,
+                        "female": 446,
+                        "unknown": 8
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 91,
+                        "female": 92,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 125,
+                        "female": 112,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 331,
+                        "female": 296,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 383,
+                        "female": 316,
+                        "unknown": 8
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "662666162732007",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=662666162732007&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-16",
+        "ad_creative_bodies": [
+            "Přijďte na natáčení podcastu Dobrovský & Šídlo! Tentokrát se pánové vypraví do Jihlavy. Můžete se těšit na pořádnou dávku názorů, vzpomínek, informací a sentimentu.\nDKO Jihlava | Vstupné 250 Kč."
+        ],
+        "ad_creative_link_captions": [
+            "www.facebook.com"
+        ],
+        "ad_delivery_start_time": "2024-01-16",
+        "ad_delivery_stop_time": "2024-01-27",
+        "bylines": "Post Bellum, z.ú. ",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.04797",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.95203",
+                "region": "Vysočina Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.014388",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.007194",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.046763",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.064748",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.061151",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.02518",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.053957",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.230216",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.082734",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.176259",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.064748",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.097122",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.07554",
+                "age": "35-44",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "139379141293",
+        "page_name": "Paměť národa",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Jihlava, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 271,
+        "beneficiary_payers": [
+            {
+                "payer": "Paměť národa",
+                "beneficiary": "Paměť národa",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 7,
+                        "female": 4
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 23,
+                        "female": 18
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 21,
+                        "female": 64
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 27,
+                        "female": 49,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 15,
+                        "female": 18
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 13,
+                        "female": 17
+                    }
+                ]
+            }
+        ]
+    }
+]

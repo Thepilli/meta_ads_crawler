@@ -1,0 +1,206 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=691192402940376&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-10-10",
+        "ad_creative_bodies": [
+            "Poslední volné termíny na Vánoční focení, ateliér Praskačka u Hradce Králové. Přijďte si s dětma zablbnout do \"sněhu\". Líbí se Vám fotky? Máte zájem o více informací, napište mi nebo se mrkněte na můj profil:)\nBudu se těšit na focení:)",
+            "Přijďte si s dětma zablbnout do \"sněhu\"., ateliér Praskačka u Hradce Králové. Líbí se Vám fotky? Máte zájem o více informací, napište mi nebo se mrkněte na můj profil:). \nBudu se těšit na focení:)"
+        ],
+        "ad_creative_link_captions": [
+            "instagram.com"
+        ],
+        "ad_creative_link_titles": [
+            "Vánoční focení 2023",
+            "Vánoční focení 2023"
+        ],
+        "ad_delivery_start_time": "2023-10-10",
+        "ad_delivery_stop_time": "2023-10-17",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.489483",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.001706",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.005117",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.346219",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.157476",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000572",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.025186",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.006297",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.003434",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001717",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.024041",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00229",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002862",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.016027",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001145",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.09273",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.53921",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.196909",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.057813",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.014883",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.013165",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001717",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "2000",
+            "upper_bound": "2999"
+        },
+        "page_id": "1398628210149887",
+        "page_name": "Danny fotografka",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "target_locations": [
+            {
+                "name": "Roudnice, Hradec Králové, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "Women",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 1729,
+        "beneficiary_payers": [
+            {
+                "payer": "Danny fotografka",
+                "beneficiary": "Danny fotografka",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "male": 11,
+                        "female": 101,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 42,
+                        "female": 942,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 5,
+                        "female": 26,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 4,
+                        "female": 28
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 23,
+                        "female": 344,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 44,
+                        "female": 162,
+                        "unknown": 6
+                    }
+                ]
+            }
+        ],
+        "_id": "691192402940376"
+    }
+]

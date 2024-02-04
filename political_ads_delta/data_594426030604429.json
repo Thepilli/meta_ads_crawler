@@ -1,0 +1,176 @@
+[
+    {
+        "id": "1064347011489918",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1064347011489918&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-02-01",
+        "ad_creative_bodies": [
+            "Únava z Orbána už byla tak silná, že vyjednávání bylo krátké. Ve hře byl scénář zbavení Maďarska hlasovacích práv a úplná stopka k unijním fondům, následně by s Maďarskem tvrdě a nekompromisně zúčtovaly finanční trhy."
+        ],
+        "ad_delivery_start_time": "2024-02-01",
+        "ad_delivery_stop_time": "2024-02-03",
+        "bylines": "Martin Procházka",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "South Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.0033",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.006601",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.019802",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.016502",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.072607",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.059406",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.122112",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.151815",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.108911",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.089109",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.079208",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.056106",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.0033",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.135314",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.075908",
+                "age": "18-24",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1001",
+            "upper_bound": "5000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "page_id": "594426030604429",
+        "page_name": "Martin Procházka",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Milevsko, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 309,
+        "beneficiary_payers": [
+            {
+                "payer": "Martin Procházka",
+                "beneficiary": "Martin Procházka",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 18,
+                        "female": 23,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 22,
+                        "female": 6,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 24,
+                        "female": 5
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 46,
+                        "female": 17,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 33,
+                        "female": 27
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 37,
+                        "female": 41
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,675 @@
+[
+    {
+        "id": "624022099816552",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=624022099816552&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-21",
+        "ad_creative_bodies": [
+            "Jak jsme na tom s eurem 💶 a jsme vůbec ready ho přijmout? Podívejte se, jak to vidí expert na EU Ondřej Krutílek 👆🇪🇺"
+        ],
+        "ad_delivery_start_time": "2024-01-21",
+        "ad_delivery_stop_time": "2024-01-30",
+        "bylines": "Ondřej Krutílek",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.0001",
+                "region": "Lower Austria"
+            },
+            {
+                "percentage": "5.0E-5",
+                "region": "Sachsen"
+            },
+            {
+                "percentage": "5.0E-5",
+                "region": "Trnava Region"
+            },
+            {
+                "percentage": "0.00015",
+                "region": "Lower Silesian Voivodeship"
+            },
+            {
+                "percentage": "0.0627",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.235615",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.156826",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.077686",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.065307",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.051423",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.000501",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.034733",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.076935",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.168304",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.022554",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.047063",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000508",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.086528",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.012811",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.394814",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.137417",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.33391",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.016472",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.012811",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00244",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001322",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000661",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000305",
+                "age": "18-24",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "25000",
+            "upper_bound": "29999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1220066088147062",
+        "page_name": "Ondřej Krutílek",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "800",
+            "upper_bound": "899"
+        },
+        "target_locations": [
+            {
+                "name": "Plzen, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Breclav, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Brno, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Bucovice, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Ceske Budejovice, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Cesky Krumlov, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Horovice, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Hradec Králové, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Hrusovany nad Jevisovkou, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Jablonec nad Nisou, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Jihlava, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Jindrichuv Hradec, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Klatovy, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Kolín, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Ledec nad Sazavou, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Liberec, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Mladá Boleslav, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Nove Mesto na Morave, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Pardubice, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Písek, Jihočeský Kraj, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Prachatice, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Pribram, Středočeský Kraj, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Tábor, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Trebic, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Trutnov, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Uherske hradiste, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Vrchlabí, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Zlín, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "50"
+        ],
+        "eu_total_reach": 19685,
+        "beneficiary_payers": [
+            {
+                "payer": "Ondřej Krutílek",
+                "beneficiary": "Ondřej Krutílek",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "DE",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 1
+                    }
+                ]
+            },
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 7766,
+                        "female": 252,
+                        "unknown": 13
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 2703,
+                        "female": 252,
+                        "unknown": 10
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 6568,
+                        "female": 324,
+                        "unknown": 26
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 1702,
+                        "female": 48,
+                        "unknown": 6
+                    }
+                ]
+            },
+            {
+                "country": "PL",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "35-44",
+                        "male": 1
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 1
+                    }
+                ]
+            },
+            {
+                "country": "AT",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "35-44",
+                        "male": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 1
+                    }
+                ]
+            },
+            {
+                "country": "SK",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "male": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "394476796457794",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=394476796457794&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-17",
+        "ad_creative_bodies": [
+            "V pátek jsme se v Brně bavili o Evropské unii. 🇪🇺 Bylo narváno! 🙌\n\nDíky Mladí občanští demokraté a Mladí konzervativci za uspořádání! 😊"
+        ],
+        "ad_delivery_start_time": "2024-01-18",
+        "ad_delivery_stop_time": "2024-01-23",
+        "bylines": "Ondřej Krutílek",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.050544",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.133731",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.120393",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.053703",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.039312",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.030537",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.050895",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.064233",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.121797",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.049842",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.061425",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.088101",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.08424",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.050544",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.000702",
+                "region": "Unknown"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001055",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.120295",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002462",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.052058",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.209989",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.176926",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.10095",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.211396",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.02427",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001407",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.065072",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.004221",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.009497",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000703",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00211",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000703",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.016532",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000352",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "4000",
+            "upper_bound": "4999"
+        },
+        "page_id": "1220066088147062",
+        "page_name": "Ondřej Krutílek",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "500",
+            "upper_bound": "599"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 2839,
+        "beneficiary_payers": [
+            {
+                "payer": "Ondřej Krutílek",
+                "beneficiary": "Ondřej Krutílek",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 148,
+                        "female": 12,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 503,
+                        "female": 69,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 601,
+                        "female": 342,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 597,
+                        "female": 185,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 47,
+                        "female": 7,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 287,
+                        "female": 27,
+                        "unknown": 1
+                    }
+                ]
+            }
+        ]
+    }
+]

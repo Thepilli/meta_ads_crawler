@@ -1,0 +1,191 @@
+[
+    {
+        "id": "907363621094385",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=907363621094385&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-24",
+        "ad_creative_bodies": [
+            "Milí spoluobčané, je tu videozpravodaj #2! 😊  Rád bych vás seznámil s tím, co jsme v Opatovicích nad Labem společně zvládli v uplynulém roce, ale i s tím, co nás čeká letos. Přeji pokud možno klidné dny. 😊  S pozdravem Pavel Kohout, starosta #opatovickyzpravodaj"
+        ],
+        "ad_creative_link_titles": [
+            "Opatovický videozpravodaj #2"
+        ],
+        "ad_delivery_start_time": "2024-01-24",
+        "ad_delivery_stop_time": "2024-01-28",
+        "bylines": "Konektor Digital",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Pardubice Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.0003",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.039663",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.021034",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.033053",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.101563",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.076923",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.152344",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.076322",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.090445",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002404",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.11238",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.101563",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.164663",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.003005",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.021935",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001803",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000601",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1001",
+            "upper_bound": "5000"
+        },
+        "impressions": {
+            "lower_bound": "15000",
+            "upper_bound": "19999"
+        },
+        "page_id": "204829789371435",
+        "page_name": "Pavel Václav Kohout, starosta Opatovic nad Labem",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "3000",
+            "upper_bound": "3499"
+        },
+        "target_locations": [
+            {
+                "name": "Opatovice nad Labem, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 3357,
+        "beneficiary_payers": [
+            {
+                "payer": "Opatovice podle vás",
+                "beneficiary": "Opatovice podle vás",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 254,
+                        "female": 256,
+                        "unknown": 8
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 338,
+                        "female": 301,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 73,
+                        "female": 70
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 110,
+                        "female": 132,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 507,
+                        "female": 338,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 548,
+                        "female": 374,
+                        "unknown": 10
+                    }
+                ]
+            }
+        ]
+    }
+]

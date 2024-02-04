@@ -1,0 +1,875 @@
+[
+    {
+        "id": "1570635427073364",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1570635427073364&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-29",
+        "ad_creative_bodies": [
+            "Už jen pár dní na to využít celý kalendář s detaily brněnské architektury... 🗓️\nPokud se vám líbí kniha BRNO (NE) ZNÁMÉ, k mání je ještě několik kousků jejího sourozence okrášlující stůl každého znalce našeho města. Kalendář, který nabízí možnost vychutnat si detaily architektury novodobé i z první poloviny 20. století, a to včetně dvou pohledů na díla krajinářská.\n◼️ https://shop.kambrno.cz/"
+        ],
+        "ad_delivery_start_time": "2024-01-29",
+        "ad_delivery_stop_time": "2024-02-01",
+        "bylines": "Kancelář architekta města Brna",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.77141",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.09398",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.080059",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.007066",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.047202",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.000283",
+                "region": "Trnava Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.035039",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.025586",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.034542",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.104335",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.034471",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002061",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.08543",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.21322",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.067022",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.2914",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.103056",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000924",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001706",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000426",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000782",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "15000",
+            "upper_bound": "19999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "553405241527947",
+        "page_name": "Kancelář architekta města Brna - KAM Brno",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "target_locations": [
+            {
+                "name": "Brno, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "25",
+            "65"
+        ],
+        "eu_total_reach": 13997,
+        "beneficiary_payers": [
+            {
+                "payer": "Kancelář architekta města Brna",
+                "beneficiary": "Kancelář architekta města Brna",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "SK",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "35-44",
+                        "male": 1
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 1
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 1,
+                        "female": 1
+                    }
+                ]
+            },
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "male": 1468,
+                        "female": 943,
+                        "unknown": 13
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 485,
+                        "female": 360,
+                        "unknown": 11
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 485,
+                        "female": 493,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 2998,
+                        "female": 1202,
+                        "unknown": 29
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 4098,
+                        "female": 1448,
+                        "unknown": 24
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1573114606860518",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1573114606860518&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-29",
+        "ad_creative_bodies": [
+            "Už jen pár dní na to využít celý kalendář s detaily brněnské architektury... 🗓️\nPokud se vám líbí kniha BRNO (NE) ZNÁMÉ, k mání je ještě několik kousků jejího sourozence okrášlující stůl každého znalce našeho města. Kalendář, který nabízí možnost vychutnat si detaily architektury novodobé i z první poloviny 20. století, a to včetně dvou pohledů na díla krajinářská.\n◼️ https://shop.kambrno.cz/"
+        ],
+        "ad_delivery_start_time": "2024-01-29",
+        "ad_delivery_stop_time": "2024-02-01",
+        "bylines": "Kancelář architekta města Brna",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.008811",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.083258",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.748247",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.005754",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.033447",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.001618",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.003596",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.027333",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.021219",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.017623",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.003417",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.006114",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.006114",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.033447",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.002189",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.007478",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.031005",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.106693",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.276856",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.174904",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.19296",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.016232",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.012767",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.050885",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.059457",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.04979",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.014043",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.003465",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001277",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "9000",
+            "upper_bound": "9999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "553405241527947",
+        "page_name": "Kancelář architekta města Brna - KAM Brno",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 5559,
+        "beneficiary_payers": [
+            {
+                "payer": "Kancelář architekta města Brna",
+                "beneficiary": "Kancelář architekta města Brna",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 279,
+                        "female": 170
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 1518,
+                        "female": 1058,
+                        "unknown": 12
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 959,
+                        "female": 585,
+                        "unknown": 19
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 326,
+                        "female": 273,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 77,
+                        "female": 89
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 70,
+                        "female": 41
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "340337945505265",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=340337945505265&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-24",
+        "ad_creative_bodies": [
+            "🟡 7 lokalit v Brně (a jeho blízkém okolí), 7 přístupů ke krajinářské architektuře, 7 ateliérových prací studentů Ústav zahradní a krajinářské architektury. A nejen to, ve spolupráci i s našimi odborníky vznikla spousta inspirativních návrhů.\n👀 Přijďte se přesvědčit už zítra na vernisáž KRAJINÁŘSKÁ ARCHITEKTURA & MĚSTO BRNO – od 17 hodin v GALERII! VSTUPTE v přízemí naší kanceláře na Zelném trhu."
+        ],
+        "ad_delivery_start_time": "2024-01-24",
+        "ad_delivery_stop_time": "2024-01-25",
+        "bylines": "Kancelář architekta města Brna",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000238",
+                "region": "Lower Austria"
+            },
+            {
+                "percentage": "0.771861",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.091256",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.079581",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.00822",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.048844",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001068",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001424",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.003085",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001305",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.041286",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.080437",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.283664",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.025744",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.03488",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.118875",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.233005",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.076759",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.034761",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.06276",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000949",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "8000",
+            "upper_bound": "8999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "553405241527947",
+        "page_name": "Kancelář architekta města Brna - KAM Brno",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Brno, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "25",
+            "65"
+        ],
+        "eu_total_reach": 8306,
+        "beneficiary_payers": [
+            {
+                "payer": "Kancelář architekta města Brna",
+                "beneficiary": "Kancelář architekta města Brna",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "AT",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "female": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "female": 1
+                    }
+                ]
+            },
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "male": 1002,
+                        "female": 527,
+                        "unknown": 8
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 293,
+                        "female": 217,
+                        "unknown": 11
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 348,
+                        "female": 294,
+                        "unknown": 9
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 2391,
+                        "female": 676,
+                        "unknown": 12
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 1964,
+                        "female": 647,
+                        "unknown": 26
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "760914525387970",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=760914525387970&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-24",
+        "ad_creative_bodies": [
+            "🟡 7 lokalit v Brně (a jeho blízkém okolí), 7 přístupů ke krajinářské architektuře, 7 ateliérových prací studentů Ústav zahradní a krajinářské architektury. A nejen to, ve spolupráci i s našimi odborníky vznikla spousta inspirativních návrhů.\n👀 Přijďte se přesvědčit už zítra na vernisáž KRAJINÁŘSKÁ ARCHITEKTURA & MĚSTO BRNO – od 17 hodin v GALERII! VSTUPTE v přízemí naší kanceláře na Zelném trhu."
+        ],
+        "ad_delivery_start_time": "2024-01-24",
+        "ad_delivery_stop_time": "2024-01-25",
+        "bylines": "Kancelář architekta města Brna",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.008256",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.084264",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.742593",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.007042",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.033997",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.001214",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.004857",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.029869",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.021855",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.017727",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.002914",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.005342",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.004614",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.035454",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.012802",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.003382",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.015217",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.1843",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.172464",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.10942",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.286232",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.064493",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.050483",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.046135",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.030435",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.008213",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.013527",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001449",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001449",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "4000",
+            "upper_bound": "4999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "553405241527947",
+        "page_name": "Kancelář architekta města Brna - KAM Brno",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 4124,
+        "beneficiary_payers": [
+            {
+                "payer": "Kancelář architekta města Brna",
+                "beneficiary": "Kancelář architekta města Brna",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 209,
+                        "female": 126
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 1185,
+                        "female": 714,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 763,
+                        "female": 453,
+                        "unknown": 14
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 267,
+                        "female": 191,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 56,
+                        "female": 63
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 53,
+                        "female": 34
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,246 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1112641206387372&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-30",
+        "ad_creative_link_captions": [
+            "debilobrand.com",
+            "debilobrand.com",
+            "debilobrand.com",
+            "debilobrand.com",
+            "debilobrand.com",
+            "debilobrand.com",
+            "debilobrand.com",
+            "debilobrand.com",
+            "debilobrand.com",
+            "debilobrand.com"
+        ],
+        "ad_delivery_start_time": "2023-11-30",
+        "ad_delivery_stop_time": "2023-12-03",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.046427",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.205466",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.123477",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.070794",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.036549",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.025354",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.030622",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.050708",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.083306",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.054659",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.059269",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.109648",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.068489",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.035232",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000334",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.045151",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001338",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00301",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.011706",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.010702",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.018729",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.1",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.039465",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00301",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.522408",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.1699",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.008361",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.051171",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.011706",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001003",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002007",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "3000",
+            "upper_bound": "3999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "111818971753871",
+        "page_name": "Deb i lobrand.cz",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 3014,
+        "beneficiary_payers": [
+            {
+                "payer": "debilobrand",
+                "beneficiary": "debilobrand",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "65+",
+                        "male": 9,
+                        "female": 35,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 32,
+                        "female": 153,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 3,
+                        "female": 35
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 25,
+                        "female": 118,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 299,
+                        "female": 1562,
+                        "unknown": 56
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 135,
+                        "female": 508,
+                        "unknown": 9
+                    }
+                ]
+            }
+        ],
+        "_id": "1112641206387372"
+    }
+]

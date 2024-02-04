@@ -1,0 +1,159 @@
+[
+    {
+        "id": "757175436459127",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=757175436459127&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-25",
+        "ad_creative_bodies": [
+            "JE TO NORMÁLNÍ❓\nSenátorka Daniela Kovářová, která zastupuje náš okres Plzeň Jih hlasovala PROTI přijetí Úmluvy Rady Evropy o prevenci a potírání násilí vůči ženám a domácího násilí.\nJe to pro mě naprosto nepochopitelné, že paní senátorka jako žena nesouhlasí s úmluvou, která má za cíl ženy chránit.\nČesko tak bude patřit mezi menšinu zemí, které takzvanou Istanbulskou úmluvu sice podepsaly, ale neratifikovaly.\nNásilí na ženách a domácí násilí, jak ukazují medializované případy z poslední doby, jsou v České republice vážným problémem."
+        ],
+        "ad_delivery_start_time": "2024-01-25",
+        "ad_delivery_stop_time": "2024-01-29",
+        "bylines": "STAN",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.997024",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.002976",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001474",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000737",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.120855",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.036846",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.16507",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.171702",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.070007",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.111275",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.095063",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.218128",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.005895",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002948",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "2000",
+            "upper_bound": "2999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "140958725929135",
+        "page_name": "Pavel Čížek",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "target_locations": [
+            {
+                "name": "Blovice, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "50"
+        ],
+        "eu_total_reach": 1346,
+        "beneficiary_payers": [
+            {
+                "payer": "Celoživotní a distanční vzdělávání ZČU",
+                "beneficiary": "Celoživotní a distanční vzdělávání ZČU",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "male": 233,
+                        "female": 151,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 296,
+                        "female": 164,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 129,
+                        "female": 50,
+                        "unknown": 8
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 224,
+                        "female": 95,
+                        "unknown": 4
+                    }
+                ]
+            }
+        ]
+    }
+]

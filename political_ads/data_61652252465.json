@@ -1,0 +1,451 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1005017110795917&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-15",
+        "ad_creative_bodies": [
+            "Český útočník se chystá se Senators na zápasy ve Švédsku. A popisuje, jak by vypadala #NHLGlobalSeries v jeho rodišti.\n\nhttps://www.nhl.com/cs/news/dominik-kubalik-o-global-series"
+        ],
+        "ad_creative_link_captions": [
+            "nhl.com"
+        ],
+        "ad_creative_link_descriptions": [
+            "Český útočník se chystá se Senators na zápasy ve Švédsku. A popisuje, jak by vypadala Global Series v jeho rodišti"
+        ],
+        "ad_creative_link_titles": [
+            "Kubalík: NHL v Plzni? Vzal bych kluky do pivovaru | NHL.com/cs"
+        ],
+        "ad_delivery_start_time": "2023-11-15",
+        "ad_delivery_stop_time": "2023-11-16",
+        "currency": "USD",
+        "delivery_by_region": [
+            {
+                "percentage": "0.044957",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.121474",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.140538",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.063764",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.052686",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.020739",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.030916",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.066083",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.138993",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.043153",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.057066",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.091975",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.057323",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.070334",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.00763",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.009311",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001293",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001681",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000129",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001552",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000776",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.008535",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.029743",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.006466",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.406311",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.228889",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.14936",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.098668",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.025605",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.014225",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.009569",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000259",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "61652252465",
+        "page_name": "NHL",
+        "publisher_platforms": [
+            "facebook",
+            "instagram",
+            "audience_network",
+            "messenger"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 7554,
+        "beneficiary_payers": [
+            {
+                "payer": "NHL",
+                "beneficiary": "NHL",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 1155,
+                        "female": 50,
+                        "unknown": 10
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 763,
+                        "female": 110,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 198,
+                        "female": 59,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 230,
+                        "female": 66,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 1770,
+                        "female": 74,
+                        "unknown": 13
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 3142,
+                        "female": 72,
+                        "unknown": 12
+                    }
+                ]
+            }
+        ],
+        "_id": "1005017110795917"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=767690625047756&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-03-22",
+        "ad_creative_bodies": [
+            "V řadě vrcholových českých i slovenských klubů zastávají ženy důležité funkce. Od ředitelky až po fyzioterapeutky.\n\nhttps://www.nhl.com/cs/news/zeny-ve-spickovych-muzskych-tymech-v-cesku-i-na-slovensku/c-342469150"
+        ],
+        "ad_creative_link_captions": [
+            "nhl.com"
+        ],
+        "ad_creative_link_descriptions": [
+            "Během sezony 2022-23 přinášíme řadu článků věnujících se hokeji jako sportu s přesahem do celé společnosti. Po listopadu, kdy probíhala tradiční iniciativa Hokej proti rakovině, a lednu, kdy jsme se věnovali charitativní oblasti, je březen Měsícem genderové rovnosti. V tomto..."
+        ],
+        "ad_creative_link_titles": [
+            "Haberová, Darsová, Skaličanová... Mužský hokej zdobí řada žen"
+        ],
+        "ad_delivery_start_time": "2023-03-22",
+        "ad_delivery_stop_time": "2023-03-26",
+        "currency": "USD",
+        "delivery_by_region": [
+            {
+                "percentage": "0.05519",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.141292",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.119585",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.062885",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.054054",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.026608",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.037172",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.06037",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.118858",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.051687",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.053047",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.097505",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.063258",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.05847",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "1.9E-5",
+                "region": "Unknown"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.023361",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.231054",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000727",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000857",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00041",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.022485",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.027534",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.065611",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.13601",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00095",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.106203",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.172969",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.077459",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.070827",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.029545",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.03057",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001416",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002012",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "100000",
+            "upper_bound": "124999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "61652252465",
+        "page_name": "NHL",
+        "publisher_platforms": [
+            "facebook",
+            "instagram",
+            "audience_network",
+            "messenger"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "_id": "767690625047756"
+    }
+]

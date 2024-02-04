@@ -1,0 +1,219 @@
+[
+    {
+        "id": "1041984623764233",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1041984623764233&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-25",
+        "ad_creative_bodies": [
+            "Pan poslanec MUDr. Jan Síla (SPD) dnes ve svém projevu upozornil na problematiku a slabá místa korespondenční volby, kterou tvrdě prosazuje pětikoalice. Poslechněte si 👇 Souhlasíte? A co si o korespondenční volbě myslíte Vy?"
+        ],
+        "ad_delivery_start_time": "2024-01-25",
+        "ad_delivery_stop_time": "2024-02-01",
+        "bylines": "Svoboda a přímá demokracie (SPD)",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.027893",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.07181",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.088427",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.0273",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.023145",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.036795",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.0273",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.054006",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.407715",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.024332",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.037982",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.062908",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.072404",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.037982",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.008464",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.004232",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.008464",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.037485",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.120314",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.207981",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.163241",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.138452",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.131802",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.070133",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.028416",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.079807",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001209",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1001",
+            "upper_bound": "5000"
+        },
+        "impressions": {
+            "lower_bound": "8000",
+            "upper_bound": "8999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "597980334012769",
+        "page_name": "Svoboda a přímá demokracie Moravskoslezský kraj - SPD",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "500",
+            "upper_bound": "599"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 1658,
+        "beneficiary_payers": [
+            {
+                "payer": "Svoboda a přímá demokracie",
+                "beneficiary": "Svoboda  přímá demokracie",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 14,
+                        "female": 7
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 62,
+                        "female": 14
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 116,
+                        "female": 47
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 270,
+                        "female": 132
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 218,
+                        "female": 199
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 229,
+                        "female": 344,
+                        "unknown": 2
+                    }
+                ]
+            }
+        ]
+    }
+]

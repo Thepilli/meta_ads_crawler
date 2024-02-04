@@ -1,0 +1,191 @@
+[
+    {
+        "id": "400949212411646",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=400949212411646&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-31",
+        "ad_creative_bodies": [
+            "A jdeme si pro více % 🇨🇿🇨🇿🇨🇿"
+        ],
+        "ad_delivery_start_time": "2024-01-31",
+        "bylines": "Svoboda a přímá demokracie - SPD Chomutov",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.041987",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.013825",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.944188",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000514",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.01286",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.005658",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.118313",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.041152",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.059156",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.168724",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.181584",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.191358",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.204733",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001029",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.007202",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001543",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000514",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00463",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001029",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "2000",
+            "upper_bound": "2999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "110285958334498",
+        "page_name": "Svoboda a přímá demokracie - SPD Chomutov",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Chomutov, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 1932,
+        "beneficiary_payers": [
+            {
+                "payer": "SPD CHOMUTOV",
+                "beneficiary": "SPD CHOMUTOV",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 9,
+                        "female": 3,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 398,
+                        "female": 230,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 328,
+                        "female": 372,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 25,
+                        "female": 11
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 115,
+                        "female": 14
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 353,
+                        "female": 80,
+                        "unknown": 2
+                    }
+                ]
+            }
+        ]
+    }
+]

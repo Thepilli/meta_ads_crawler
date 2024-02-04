@@ -1,0 +1,245 @@
+[
+    {
+        "id": "269882052793580",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=269882052793580&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-29",
+        "ad_delivery_start_time": "2024-01-29",
+        "ad_delivery_stop_time": "2024-02-01",
+        "bylines": "Romana Fischerová",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000333",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.055026",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.069719",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.117503",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.05486",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.048033",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.036753",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.044037",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.068762",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.14872",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.050614",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.051446",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.096191",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.101145",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.056857",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001004",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.188062",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "8.4E-5",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000293",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002552",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.197181",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.071109",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.020078",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.040616",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000586",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001046",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.130966",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.161543",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.172795",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002761",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.008533",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000753",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "4.2E-5",
+                "age": "18-24",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "30000",
+            "upper_bound": "34999"
+        },
+        "page_id": "105549357880586",
+        "page_name": "Romana Fischerová",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "600",
+            "upper_bound": "699"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 23447,
+        "beneficiary_payers": [
+            {
+                "payer": "Radim F. Holeček",
+                "beneficiary": "Radim F. Holeček",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 480,
+                        "female": 61,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 3862,
+                        "female": 971,
+                        "unknown": 14
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 4131,
+                        "female": 4714,
+                        "unknown": 24
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 4496,
+                        "female": 3131,
+                        "unknown": 18
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 1700,
+                        "female": 204,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 66,
+                        "female": 25,
+                        "unknown": 1
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,231 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=7057991997583548&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-03",
+        "ad_creative_bodies": [
+            "100 největších událostí českých dějin 🇨🇿 na www.tcm100.cz  jen za 100 Kč + zdarma poštovné. 👑 Oslavte s námi 100. vydání Tajemství české minulosti mimořádné rozsahem i tématem! Vychází jako bookazine o formátu 230 × 297 mm na 132 stranách.\n\nMůžete také podpořit jediný magazín výhradně o české historii předplatným na rok. Anebo získejte všech 100 vzácných vydání na www.tcm100.cz\n\nPublikace 100 největších událostí českých dějin bude dostupná od čtvrtka 9. listopadu 2023 v trafikách za 119,90 Kč (předplatitelé ji získávají automaticky) a později i u knihkupců s doporučenou cenou 199 Kč. Jen do úterý 7. listopadu exkluzivně na www.tcm100.cz za pouhých 100 Kč s poštovným zdarma.\n+++\nPŘEDPLATITELÉ, POZOR: Publikaci získáváte automaticky v rámci svého předplatného Tajemství české minulosti, nemusíte nic dalšího podnikat."
+        ],
+        "ad_delivery_start_time": "2023-11-03",
+        "ad_delivery_stop_time": "2023-11-07",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.045061",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.159445",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.131138",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.072213",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.042172",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.019642",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.03004",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.060081",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.099942",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.045638",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.061814",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.110919",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.072213",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.049682",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000576",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.011514",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.041451",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001727",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002303",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000576",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000576",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.02418",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.116868",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.204951",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.137594",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.122625",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.031664",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.222222",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.081174",
+                "age": "25-34",
+                "gender": "female"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "2000",
+            "upper_bound": "2999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "136408396412676",
+        "page_name": "Tajemství české minulosti",
+        "publisher_platforms": [
+            "facebook",
+            "instagram",
+            "audience_network",
+            "messenger"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            },
+            {
+                "name": "Slovakia",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": true
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "27",
+            "65"
+        ],
+        "eu_total_reach": 1750,
+        "beneficiary_payers": [
+            {
+                "payer": "Tajemství české minulosti",
+                "beneficiary": "Tajemství české minulosti",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "55-64",
+                        "male": 72,
+                        "female": 55,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 42,
+                        "female": 20,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 239,
+                        "female": 203,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 213,
+                        "female": 141,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 386,
+                        "female": 356,
+                        "unknown": 4
+                    }
+                ]
+            }
+        ],
+        "_id": "7057991997583548"
+    }
+]

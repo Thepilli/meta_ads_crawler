@@ -1,0 +1,140 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1377938849749513&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-22",
+        "ad_creative_bodies": [
+            "Druhý díl podcastu Anatomie obrany na téma největšího vyzbrojovacího projektu současnosti. Jak se mezivládní obchod vyjednává? Kolik nás F-35 budou stát a jak zatíží obranný rozpočet v následujících letech? To vše popsala vrchní ředitelka ekonomické sekce Ministerstva obrany Blanka Cupáková, která vedla 🇨🇿 vyjednávací tým.\n\n🎧 https://open.spotify.com/episode/5A7bqT92zkhasy3UZC0GA8\n🎧 https://podcasts.apple.com/us/podcast/neviditeln%C3%A9-st%C3%ADha%C4%8Dky-2-na%C5%A1e-obrana-nen%C3%AD-zadarmo/id1674534984?i=1000635016707\n🎧 https://mocr.army.cz/informacni-servis/av/neviditelne-stihacky-ii--_-nase-obrana-neni-zadarmo-247805/"
+        ],
+        "ad_creative_link_titles": [
+            "Neviditelné stíhačky 2: Naše obrana není zadarmo"
+        ],
+        "ad_delivery_start_time": "2023-11-23",
+        "ad_delivery_stop_time": "2023-11-24",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.739462",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.250673",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.009865",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001354",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00316",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.014898",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.042438",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.345824",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.084424",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.434763",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.072686",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000451",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "2000",
+            "upper_bound": "2999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "503753689753306",
+        "page_name": "Ministerstvo obrany České republiky",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "target_locations": [
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "35",
+            "56"
+        ],
+        "eu_total_reach": 2209,
+        "beneficiary_payers": [
+            {
+                "payer": "Ministerstvo obrany České republiky",
+                "beneficiary": "Ministerstvo obrany České republiky",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "55-64",
+                        "male": 187,
+                        "female": 33,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 766,
+                        "female": 94,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 963,
+                        "female": 161,
+                        "unknown": 7
+                    }
+                ]
+            }
+        ],
+        "_id": "1377938849749513"
+    }
+]

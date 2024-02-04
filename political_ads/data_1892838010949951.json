@@ -1,0 +1,364 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=308558558630751&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-02",
+        "ad_creative_bodies": [
+            "Настало время объединиться во имя жителей западного Негева, которые пережили страшную трагедию.\nНужна ВАША помощь!\n\nВместе мы справимся с бедой и победим!\n\nФото: Орен Бен Хакун, архив ККЛ-ЕНФ"
+        ],
+        "ad_creative_link_captions": [
+            "donate.kkl-jnf.org"
+        ],
+        "ad_creative_link_titles": [
+            "Если вы хотите и можете помочь, пройдите по ссылке >>"
+        ],
+        "ad_delivery_start_time": "2023-11-02",
+        "ad_delivery_stop_time": "2023-11-07",
+        "currency": "ILS",
+        "delivery_by_region": [
+            {
+                "percentage": "0.090061",
+                "region": "Uusimaa"
+            },
+            {
+                "percentage": "0.023129",
+                "region": "New South Wales"
+            },
+            {
+                "percentage": "0.501009",
+                "region": "Masovian Voivodeship"
+            },
+            {
+                "percentage": "0.30753",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.023398",
+                "region": "Larnaca District"
+            },
+            {
+                "percentage": "0.054874",
+                "region": "Paphos District"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001047",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.022427",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000281",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.134943",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.051833",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.010369",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.140301",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.102575",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.04438",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001182",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.082636",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.147631",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.132691",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.117289",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.009052",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000844",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000146",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000372",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "175000",
+            "upper_bound": "199999"
+        },
+        "page_id": "1892838010949951",
+        "page_name": "ЕНФ-ККЛ-Евразия Jewish National Fund Eurasia",
+        "publisher_platforms": [
+            "facebook",
+            "instagram",
+            "audience_network",
+            "messenger"
+        ],
+        "spend": {
+            "lower_bound": "7000",
+            "upper_bound": "7999"
+        },
+        "target_locations": [
+            {
+                "name": "Paphos District, Cyprus",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            },
+            {
+                "name": "Warsaw, Poland",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Larnaca, Cyprus",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Helsinki, Finland",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "24",
+            "65"
+        ],
+        "eu_total_reach": 87094,
+        "beneficiary_payers": [
+            {
+                "payer": "Keren Kayemeth LeIsrael - Jewish National Fund",
+                "beneficiary": "Keren Kayemeth LeIsrael - Jewish National Fund",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CY",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "55-64",
+                        "male": 378,
+                        "female": 676,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 591,
+                        "female": 1218,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 757,
+                        "female": 1442,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 200,
+                        "female": 411,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 14,
+                        "female": 35,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 534,
+                        "female": 776,
+                        "unknown": 3
+                    }
+                ]
+            },
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "male": 3984,
+                        "female": 3528,
+                        "unknown": 17
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 651,
+                        "female": 1024,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 1732,
+                        "female": 2178,
+                        "unknown": 10
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 267,
+                        "female": 223,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 4417,
+                        "female": 3343,
+                        "unknown": 28
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 3953,
+                        "female": 2325,
+                        "unknown": 35
+                    }
+                ]
+            },
+            {
+                "country": "FI",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "55-64",
+                        "male": 506,
+                        "female": 1003,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 942,
+                        "female": 1205,
+                        "unknown": 15
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 270,
+                        "female": 704,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 613,
+                        "female": 556,
+                        "unknown": 9
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 33,
+                        "female": 29,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 1114,
+                        "female": 1061,
+                        "unknown": 12
+                    }
+                ]
+            },
+            {
+                "country": "PL",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "55-64",
+                        "male": 1840,
+                        "female": 3275,
+                        "unknown": 11
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 4879,
+                        "female": 5978,
+                        "unknown": 27
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 713,
+                        "female": 1466,
+                        "unknown": 9
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 613,
+                        "female": 499,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 6638,
+                        "female": 5252,
+                        "unknown": 46
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 6990,
+                        "female": 6450,
+                        "unknown": 50
+                    }
+                ]
+            }
+        ],
+        "_id": "308558558630751"
+    }
+]

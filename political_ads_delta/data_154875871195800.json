@@ -1,0 +1,161 @@
+[
+    {
+        "id": "891822725752494",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=891822725752494&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-29",
+        "ad_creative_bodies": [
+            "Máme pro vás skvělou novinku 👍. Dnes krajské zastupitelstvo rozhodlo o dotačním programu ohledně sdílených kol pro obce a města ve spolupráci s Nadačním fondem Škoda Auto. A tak po letech čekání bude mít i Město Trutnov svá sdílená kola 🚵‍♂️.\n\n✅ Přinést do Trutnova a jeho okolí tento projekt je velkým posunem v rozvoji města i cykloturistiky. A co je ještě lepší, do budoucna plánujeme zapojit i okolní obce.\n\n✅ Představte si, jak pohodlné a zábavné bude cestování na kole, když si ho můžete jednoduše vzít dle potřeby a vrátit zpět až dojedete na místo. Tento nový systém nejenže usnadní naše každodenní cesty, ale také pomůže chránit životní prostředí v našem okolí.\n\nTěšíme se na to, jak společně vytvoříme přívětivější a zdravější komunitu pro všechny."
+        ],
+        "ad_delivery_start_time": "2024-01-29",
+        "ad_delivery_stop_time": "2024-02-02",
+        "bylines": "Česká pirátská strana KhK",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Hradec Králové Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.013928",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.02507",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.030641",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.119777",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.100279",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.019499",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.033426",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.13649",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.197772",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.091922",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.044568",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.18663",
+                "age": "35-44",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100",
+            "upper_bound": "1000"
+        },
+        "impressions": {
+            "lower_bound": "2000",
+            "upper_bound": "2999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "154875871195800",
+        "page_name": "Piráti a nezávislí Trutnov",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "target_locations": [
+            {
+                "name": "Trutnov, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 360,
+        "beneficiary_payers": [
+            {
+                "payer": "Piráti Královéhradecký kraj",
+                "beneficiary": "Piráti Královéhradecký kraj",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 9,
+                        "female": 5
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 36,
+                        "female": 43
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 67,
+                        "female": 71
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 33,
+                        "female": 49
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 7,
+                        "female": 16
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 11,
+                        "female": 12
+                    }
+                ]
+            }
+        ]
+    }
+]

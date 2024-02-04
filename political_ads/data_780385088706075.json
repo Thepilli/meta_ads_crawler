@@ -1,0 +1,138 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=387636847120370&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-22",
+        "ad_creative_bodies": [
+            "Přinášíme tipy na předsevzetí do roku 2024, která jsou šetrná k vaší peněžence i životnímu prostředí. Některá jsou snadnější, některá náročnější, stačí si vybrat jen jedno a to dodržet. 😉\n\n💡Snižte spotřebu energií v domácnosti: vypínejte světla, když nejsou potřeba, nepřetápějte místnosti, v létě místo klimatizace správně stiňte a větrejte.\n\n☀️ Přejděte na obnovitelné zdroje energie: rozhodněte se pro instalaci solárních panelů nebo tepelného čerpadla.\n\n🏡 Zlepšete izolaci domu nebo bytu, aby se snížila potřeba vytápění a chlazení.\n\n🚋 Pokud můžete, omezte používání automobilu: zavažte se k častějšímu používání veřejné dopravy, chůze nebo jízdy na kole.\n\n💚 Investuje do energeticky úsporných spotřebičů jako jsou LED žárovky, pračky nebo chladničky. Nezapomeňte využívat ECO programy, které dané spotřebiče nabízejí.\n\nJdete do toho s námi? 😊"
+        ],
+        "ad_delivery_start_time": "2023-12-28",
+        "ad_delivery_stop_time": "2023-12-29",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.594737",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.405263",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001391",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.003911",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002521",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.328466",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.127944",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.092829",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.228422",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.151412",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.063103",
+                "age": "45-54",
+                "gender": "female"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "page_id": "780385088706075",
+        "page_name": "Pražská plynárenská",
+        "publisher_platforms": [
+            "facebook",
+            "instagram",
+            "audience_network",
+            "messenger"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "target_locations": [
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            },
+            {
+                "name": "Central Bohemian Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "30",
+            "50"
+        ],
+        "eu_total_reach": 11355,
+        "beneficiary_payers": [
+            {
+                "payer": "Pražská plynárenská, a.s.",
+                "beneficiary": "Pražská plynárenská, a.s.",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 2628,
+                        "female": 1068,
+                        "unknown": 29
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 3779,
+                        "female": 1472,
+                        "unknown": 45
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 1742,
+                        "female": 726,
+                        "unknown": 16
+                    }
+                ]
+            }
+        ],
+        "_id": "387636847120370"
+    }
+]

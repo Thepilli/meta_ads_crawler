@@ -1,0 +1,605 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1054714728939309&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-10",
+        "ad_creative_bodies": [
+            "Čestmír Strakatý - po rozhovoru ve svém pořadu označil Bena Cristovao za \"nezodpovědného\" a ve vysílání řekl, že \"finanční informace tohoto rozsahu by mohly otřást základy společnosti v zemi\"."
+        ],
+        "ad_creative_link_captions": [
+            "http://WWW.IDNES.CZ"
+        ],
+        "ad_creative_link_descriptions": [
+            "Výtah z rozhovoru"
+        ],
+        "ad_creative_link_titles": [
+            "Rozhovor přerušily úřady, ale bylo pozdě, protože Benny Cristo už všechno řekl."
+        ],
+        "ad_delivery_start_time": "2024-01-10",
+        "ad_delivery_stop_time": "2024-01-10",
+        "currency": "EUR",
+        "delivery_by_region": [
+            {
+                "percentage": "0.036424",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.195364",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.125828",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.056291",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.02649",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.029801",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.05298",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.059603",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.086093",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.033113",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.036424",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.099338",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.10596",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.056291",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.003311",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.013245",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.129139",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.039735",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.294702",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.364238",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.043046",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.016556",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.019868",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.029801",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.046358",
+                "age": "35-44",
+                "gender": "male"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "page_id": "252430678264343",
+        "page_name": "MARCO CITTERIO Rappresentanze Industriali",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "26",
+            "65"
+        ],
+        "eu_total_reach": 303,
+        "beneficiary_payers": [
+            {
+                "payer": "Everything Autism and More",
+                "beneficiary": "Everything Autism and More",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 89,
+                        "female": 110,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 14,
+                        "female": 39
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 13,
+                        "female": 12
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 1,
+                        "female": 5
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 9,
+                        "female": 6
+                    }
+                ]
+            }
+        ],
+        "_id": "1054714728939309"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=946526740361564&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-10",
+        "ad_creative_bodies": [
+            "Čestmír Strakatý - po rozhovoru ve svém pořadu označil Bena Cristovao za \"nezodpovědného\" a ve vysílání řekl, že \"finanční informace tohoto rozsahu by mohly otřást základy společnosti v zemi\"."
+        ],
+        "ad_creative_link_captions": [
+            "http://WWW.IDNES.CZ"
+        ],
+        "ad_creative_link_descriptions": [
+            "Výtah z rozhovoru"
+        ],
+        "ad_creative_link_titles": [
+            "Rozhovor přerušily úřady, ale bylo pozdě, protože Benny Cristo už všechno řekl."
+        ],
+        "ad_delivery_start_time": "2024-01-10",
+        "ad_delivery_stop_time": "2024-01-11",
+        "currency": "EUR",
+        "delivery_by_region": [
+            {
+                "percentage": "0.030581",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.110092",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.119266",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.042813",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.033639",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.024465",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.045872",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.091743",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.11315",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.058104",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.070336",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.119266",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.131498",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.009174",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.009174",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.006116",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.012232",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.006116",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.021407",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.073394",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.394495",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.35474",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.045872",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.076453",
+                "age": "35-44",
+                "gender": "female"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "252430678264343",
+        "page_name": "MARCO CITTERIO Rappresentanze Industriali",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "26",
+            "65"
+        ],
+        "eu_total_reach": 332,
+        "beneficiary_payers": [
+            {
+                "payer": "Everything Autism and More",
+                "beneficiary": "Everything Autism and More",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 129,
+                        "female": 116,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 24,
+                        "female": 25
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 7,
+                        "female": 15
+                    },
+                    {
+                        "age_range": "55-64",
+                        "female": 4
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 3,
+                        "female": 2
+                    }
+                ]
+            }
+        ],
+        "_id": "946526740361564"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=750173493705691&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-10",
+        "ad_creative_bodies": [
+            "Čestmír Strakatý - po rozhovoru ve svém pořadu označil Bena Cristovao za \"nezodpovědného\" a ve vysílání řekl, že \"finanční informace tohoto rozsahu by mohly otřást základy společnosti v zemi\"."
+        ],
+        "ad_creative_link_captions": [
+            "http://WWW.IDNES.CZ"
+        ],
+        "ad_creative_link_descriptions": [
+            "Výtah z rozhovoru"
+        ],
+        "ad_creative_link_titles": [
+            "Rozhovor přerušily úřady, ale bylo pozdě, protože Benny Cristo už všechno řekl."
+        ],
+        "ad_delivery_start_time": "2024-01-10",
+        "ad_delivery_stop_time": "2024-01-10",
+        "currency": "EUR",
+        "delivery_by_region": [
+            {
+                "percentage": "0.049342",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.161184",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.082237",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.059211",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.042763",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.039474",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.039474",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.049342",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.111842",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.019737",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.036184",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.141447",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.125",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.042763",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.006579",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.009868",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.105263",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.375",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.424342",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.009868",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.009868",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.003289",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.036184",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.013158",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.006579",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "page_id": "252430678264343",
+        "page_name": "MARCO CITTERIO Rappresentanze Industriali",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "26",
+            "65"
+        ],
+        "eu_total_reach": 296,
+        "beneficiary_payers": [
+            {
+                "payer": "Everything Autism and More",
+                "beneficiary": "Everything Autism and More",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 129,
+                        "female": 114,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 11,
+                        "female": 32
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 2,
+                        "female": 4
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 3,
+                        "female": 3
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 1,
+                        "female": 3
+                    }
+                ]
+            }
+        ],
+        "_id": "750173493705691"
+    }
+]

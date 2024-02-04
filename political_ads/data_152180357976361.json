@@ -1,0 +1,4704 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=7377856948943510&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-20",
+        "ad_creative_bodies": [
+            "Neutuchající rebel, zastupitel města Mohelnice a nezničitelný bojovník za lepší svět. 🇨🇿🏳️‍🌈💚"
+        ],
+        "ad_creative_link_captions": [
+            "facebook.com"
+        ],
+        "ad_creative_link_titles": [
+            "Tadeáš Bača"
+        ],
+        "ad_delivery_start_time": "2024-01-20",
+        "ad_delivery_stop_time": "2024-01-21",
+        "bylines": "Tadeáš Bača",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.846591",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.113636",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.039773",
+                "region": "Pardubice Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.022727",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.039773",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.193182",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.113636",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.051136",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.164773",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.051136",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.204545",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.051136",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.005682",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.039773",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.039773",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.005682",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.017045",
+                "age": "18-24",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "page_id": "152180357976361",
+        "page_name": "Tadeáš Bača",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Loucna nad Desnou, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Zulova, Olomoucký Kraj, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Javorník, Olomoucký Kraj, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Jeseník, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Mikulovice, Olomoucký Kraj, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Vidnava, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 176,
+        "beneficiary_payers": [
+            {
+                "payer": "Za naši Mohelnici a přidružené obce",
+                "beneficiary": "Za naši Mohelnici a přidružené obce",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 4,
+                        "female": 3
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 7,
+                        "female": 7
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 9,
+                        "female": 20
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 9,
+                        "female": 29,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 7,
+                        "female": 34,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 9,
+                        "female": 36
+                    }
+                ]
+            }
+        ],
+        "_id": "7377856948943510"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=7254441021279482&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-20",
+        "ad_creative_bodies": [
+            "Neutuchající rebel, zastupitel města Mohelnice a nezničitelný bojovník za lepší svět. 🇨🇿🏳️‍🌈💚"
+        ],
+        "ad_creative_link_captions": [
+            "facebook.com"
+        ],
+        "ad_creative_link_titles": [
+            "Tadeáš Bača"
+        ],
+        "ad_delivery_start_time": "2024-01-20",
+        "ad_delivery_stop_time": "2024-01-20",
+        "bylines": "Tadeáš Bača",
+        "currency": "CZK",
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "152180357976361",
+        "page_name": "Tadeáš Bača",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Loucna nad Desnou, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Zulova, Olomoucký Kraj, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Javorník, Olomoucký Kraj, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Jeseník, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Mikulovice, Olomoucký Kraj, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Vidnava, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 1,
+        "beneficiary_payers": [
+            {
+                "payer": "Za naši Mohelnici a přidružené obce",
+                "beneficiary": "Za naši Mohelnici a přidružené obce",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "male": 1
+                    }
+                ]
+            }
+        ],
+        "_id": "7254441021279482"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1311423269547397&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-19",
+        "ad_creative_bodies": [
+            "Neutuchající rebel, zastupitel města Mohelnice a nezničitelný bojovník za lepší svět. 🇨🇿🏳️‍🌈💚"
+        ],
+        "ad_creative_link_captions": [
+            "facebook.com"
+        ],
+        "ad_creative_link_titles": [
+            "Tadeáš Bača"
+        ],
+        "ad_delivery_start_time": "2024-01-19",
+        "ad_delivery_stop_time": "2024-01-20",
+        "bylines": "Tadeáš Bača",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Olomouc Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.102151",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.080645",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.021505",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.236559",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.322581",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.236559",
+                "age": "45-54",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "152180357976361",
+        "page_name": "Tadeáš Bača",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Olomouc Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "Women",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 186,
+        "beneficiary_payers": [
+            {
+                "payer": "Za naši Mohelnici a přidružené obce",
+                "beneficiary": "Za naši Mohelnici a přidružené obce",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "female": 4
+                    },
+                    {
+                        "age_range": "25-34",
+                        "female": 15
+                    },
+                    {
+                        "age_range": "35-44",
+                        "female": 19
+                    },
+                    {
+                        "age_range": "45-54",
+                        "female": 44
+                    },
+                    {
+                        "age_range": "55-64",
+                        "female": 60
+                    },
+                    {
+                        "age_range": "65+",
+                        "female": 44
+                    }
+                ]
+            }
+        ],
+        "_id": "1311423269547397"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=748503844006121&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-18",
+        "ad_creative_bodies": [
+            "Nějaký reportér na ČT povídá o výsostech a jasnostech, které se účastní mše za Schwarzenberga.\n\nProsím, Česká televize, můžete udělat svým zaměstnancům školení, ve kterém budou obeznámeni se zákonem č. 61/1918 Sb., kterým se zrušují šlechtictví, řády a tituly?\n\nNechci od vašich zaměstnanců, aby se k republikánským myšlenkám hlásili (byť by to bylo záhodné), stačí mi, když nebudou jednat v rozporu se zákony. ;-)"
+        ],
+        "ad_delivery_start_time": "2024-01-18",
+        "ad_delivery_stop_time": "2024-01-19",
+        "bylines": "Tadeáš Bača",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Olomouc Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.003817",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.251908",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.408397",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.232824",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.103053",
+                "age": "55-64",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "152180357976361",
+        "page_name": "Tadeáš Bača",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Olomouc Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "60",
+            "65"
+        ],
+        "eu_total_reach": 261,
+        "beneficiary_payers": [
+            {
+                "payer": "Za naši Mohelnici a přidružené obce",
+                "beneficiary": "Za naši Mohelnici a přidružené obce",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "55-64",
+                        "male": 27,
+                        "female": 66
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 61,
+                        "female": 107,
+                        "unknown": 1
+                    }
+                ]
+            }
+        ],
+        "_id": "748503844006121"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=737848021598629&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-14",
+        "ad_creative_bodies": [
+            "Ministerstvo zdravotnictví v připomínkovém řízení odmítlo růst věku odchodu do důchodu slovy: „Nelze neustále prodlužovat věk odchodu do starobního důchodu, neboť populace ve věku nad 65 let není v takovém zdravotním stavu…“\n\nMinistr zdravotnictví Válek přesto růst věku odchodu do důchodu podporuje.\n\nTýjo, něco takovýho se snad může stát jen v České republice - ministr zdravotnictví jde proti ministerstvu zdravotnictví a proti zdraví občanů a občanek republiky.\n\nUf, ať už jsou volby - na tuhle bandu se nedá koukat."
+        ],
+        "ad_delivery_start_time": "2024-01-14",
+        "ad_delivery_stop_time": "2024-01-16",
+        "bylines": "Tadeáš Bača",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Olomouc Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.00317",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.057052",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.29477",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.255151",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.152139",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.069731",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.161648",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00317",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00317",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "152180357976361",
+        "page_name": "Tadeáš Bača",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Olomouc Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "50",
+            "65"
+        ],
+        "eu_total_reach": 637,
+        "beneficiary_payers": [
+            {
+                "payer": "Za naši Mohelnici a přidružené obce",
+                "beneficiary": "Za naši Mohelnici a přidružené obce",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "65+",
+                        "male": 96,
+                        "female": 186,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 44,
+                        "female": 36,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 102,
+                        "female": 161,
+                        "unknown": 2
+                    }
+                ]
+            }
+        ],
+        "_id": "737848021598629"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=370483825672713&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-03",
+        "ad_creative_bodies": [
+            "O každým Silvestru si sednu s papírem a propiskou a píšu seznam snů a cílů na nadcházející rok. Na Nový rok pak vyhodnocuju seznam z roku minulýho.\n\nJedinej bod, kterej jsem si nikdy netroufl hodnotit, a kterej je v seznamu každoročně je - být dobrým člověkem.\n\nNo. Na rok 2024 mám v seznamu třeba: prosadit kus programu, přečíst 73 knih, začít včelařit, prohýřit pár nocí, zasadit alespoň čtyři vzrostlé stromy, uspořádat filmfest nebo přidat do sbírky tři kéry…\n\nNo, bude to perný rok, tak abych se do toho pustil. A co vy, taky si děláte podobné seznamy? :-)))"
+        ],
+        "ad_delivery_start_time": "2024-01-03",
+        "ad_delivery_stop_time": "2024-01-04",
+        "bylines": "Tadeáš Bača",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Olomouc Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.384393",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.491329",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.124277",
+                "age": "45-54",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "152180357976361",
+        "page_name": "Tadeáš Bača",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Olomouc Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "Women",
+        "target_ages": [
+            "50",
+            "65"
+        ],
+        "eu_total_reach": 346,
+        "beneficiary_payers": [
+            {
+                "payer": "Za naši Mohelnici a přidružené obce",
+                "beneficiary": "Za naši Mohelnici a přidružené obce",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "female": 43
+                    },
+                    {
+                        "age_range": "55-64",
+                        "female": 133
+                    },
+                    {
+                        "age_range": "65+",
+                        "female": 170
+                    }
+                ]
+            }
+        ],
+        "_id": "370483825672713"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1004367953999058&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-21",
+        "ad_creative_bodies": [
+            "Normální země: ministři a poslanci prosazují systémová řešení problematiky bezdomovectví.\n\nČeská republika: ministr a vládní poslanec pózují ve spacáky a dělají reklamu na Nocleženky.\n\nUf, neuvěřitelná banda, toto. Že koupí Nocleženku je hezké, ale jejich práce je prosadit systémové řešení. Aspoň víme, jak se pozná pravý asociál - dělá politiku, která žene lidi do chudoby a pod most, a pak se barví na sympaťáka, kterej koupí ze statisícovýho platu Nocleženku za stovku.\n\nPotřebujeme ve sněmovně úplně novou politickou reprezentaci, nezatíženou minulostí, s nabroušenými lokty a odvahou prosadit reálná a systémová řešení problémů - nikdo takový tam teď nesedí, bohužel."
+        ],
+        "ad_delivery_start_time": "2023-12-21",
+        "ad_delivery_stop_time": "2023-12-21",
+        "bylines": "Tadeáš Bača",
+        "currency": "CZK",
+        "estimated_audience_size": {
+            "lower_bound": "500001",
+            "upper_bound": "1000000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "152180357976361",
+        "page_name": "Tadeáš Bača",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "57",
+            "65"
+        ],
+        "eu_total_reach": 29,
+        "beneficiary_payers": [
+            {
+                "payer": "Za naši Mohelnici a přidružené obce",
+                "beneficiary": "Za naši Mohelnici a přidružené obce",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "55-64",
+                        "male": 3,
+                        "female": 4
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 7,
+                        "female": 15
+                    }
+                ]
+            }
+        ],
+        "_id": "1004367953999058"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=801277285344865&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-20",
+        "ad_creative_bodies": [
+            "Normální země: ministři a poslanci prosazují systémová řešení problematiky bezdomovectví.\n\nČeská republika: ministr a vládní poslanec pózují ve spacáky a dělají reklamu na Nocleženky.\n\nUf, neuvěřitelná banda, toto. Že koupí Nocleženku je hezké, ale jejich práce je prosadit systémové řešení. Aspoň víme, jak se pozná pravý asociál - dělá politiku, která žene lidi do chudoby a pod most, a pak se barví na sympaťáka, kterej koupí ze statisícovýho platu Nocleženku za stovku.\n\nPotřebujeme ve sněmovně úplně novou politickou reprezentaci, nezatíženou minulostí, s nabroušenými lokty a odvahou prosadit reálná a systémová řešení problémů - nikdo takový tam teď nesedí, bohužel."
+        ],
+        "ad_delivery_start_time": "2023-12-20",
+        "ad_delivery_stop_time": "2023-12-22",
+        "bylines": "Tadeáš Bača",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Olomouc Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.371041",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.425339",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.036199",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.158371",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00905",
+                "age": "25-34",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "152180357976361",
+        "page_name": "Tadeáš Bača",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Olomouc Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "Women",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 221,
+        "beneficiary_payers": [
+            {
+                "payer": "Za naši Mohelnici a přidružené obce",
+                "beneficiary": "Za naši Mohelnici a přidružené obce",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "female": 2
+                    },
+                    {
+                        "age_range": "35-44",
+                        "female": 8
+                    },
+                    {
+                        "age_range": "45-54",
+                        "female": 35
+                    },
+                    {
+                        "age_range": "55-64",
+                        "female": 82
+                    },
+                    {
+                        "age_range": "65+",
+                        "female": 94
+                    }
+                ]
+            }
+        ],
+        "_id": "801277285344865"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=7271776706220069&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-19",
+        "ad_creative_bodies": [
+            "Jako každý rok, tak i letos. S naším týmem Za naši Mohelnici a přidružené obce právě roznášíme PFka, kterými chceme popřát všem sousedkám a sousedům z Mohelnice a přidružených obcí rok 2024 plný zdraví, lásky, štěstí, úsměvů, míru, pospolitosti a krásných myšlenek. 💚\n\nA toto přání samozřejmě patří i vám všem známým, neznámým, kamarádům, přátelům a příbuzným, kteří znáte Mohelnici, tedy nejkrásnější město na světě, jen z návštěv a vyprávění, či se jej teprve chystáte poznat! 🙂 \n\nA co že nám to padá z nebes na letošním PFku? Postavičky z reliéfu Kopaná od sochaře Jaromíra Šolce. 🙂"
+        ],
+        "ad_delivery_start_time": "2023-12-19",
+        "ad_delivery_stop_time": "2023-12-20",
+        "bylines": "Tadeáš Bača",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Olomouc Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.231752",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.058394",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.29927",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.105839",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.262774",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.041971",
+                "age": "18-24",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "152180357976361",
+        "page_name": "Tadeáš Bača",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Olomouc Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "Women",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 531,
+        "beneficiary_payers": [
+            {
+                "payer": "Za naši Mohelnici a přidružené obce",
+                "beneficiary": "Za naši Mohelnici a přidružené obce",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "female": 23
+                    },
+                    {
+                        "age_range": "25-34",
+                        "female": 32
+                    },
+                    {
+                        "age_range": "35-44",
+                        "female": 58
+                    },
+                    {
+                        "age_range": "45-54",
+                        "female": 127
+                    },
+                    {
+                        "age_range": "55-64",
+                        "female": 144
+                    },
+                    {
+                        "age_range": "65+",
+                        "female": 164
+                    }
+                ]
+            }
+        ],
+        "_id": "7271776706220069"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1549696402478936&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-19",
+        "ad_creative_bodies": [
+            "Jako každý rok, tak i letos. S naším týmem Za naši Mohelnici a přidružené obce právě roznášíme PFka, kterými chceme popřát všem sousedkám a sousedům z Mohelnice a přidružených obcí rok 2024 plný zdraví, lásky, štěstí, úsměvů, míru, pospolitosti a krásných myšlenek. 💚\n\nA toto přání samozřejmě patří i vám všem známým, neznámým, kamarádům, přátelům a příbuzným, kteří znáte Mohelnici, tedy nejkrásnější město na světě, jen z návštěv a vyprávění, či se jej teprve chystáte poznat! 🙂 \n\nA co že nám to padá z nebes na letošním PFku? Postavičky z reliéfu Kopaná od sochaře Jaromíra Šolce. 🙂"
+        ],
+        "ad_delivery_start_time": "2023-12-19",
+        "ad_delivery_stop_time": "2023-12-20",
+        "bylines": "Tadeáš Bača",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Olomouc Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.208589",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.236196",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.092025",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.174847",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.187117",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.101227",
+                "age": "18-24",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "5001",
+            "upper_bound": "10000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "page_id": "152180357976361",
+        "page_name": "Tadeáš Bača",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Mohelnice, Olomoucký Kraj, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "Women",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 326,
+        "beneficiary_payers": [
+            {
+                "payer": "Za naši Mohelnici a přidružené obce",
+                "beneficiary": "Za naši Mohelnici a přidružené obce",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "female": 33
+                    },
+                    {
+                        "age_range": "25-34",
+                        "female": 61
+                    },
+                    {
+                        "age_range": "35-44",
+                        "female": 57
+                    },
+                    {
+                        "age_range": "45-54",
+                        "female": 77
+                    },
+                    {
+                        "age_range": "55-64",
+                        "female": 68
+                    },
+                    {
+                        "age_range": "65+",
+                        "female": 30
+                    }
+                ]
+            }
+        ],
+        "_id": "1549696402478936"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=733986031957304&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-18",
+        "ad_creative_bodies": [
+            "Radost; kdysi, nyní, za pár měsíců…\n\nLéta jsme se snažili prosadit více stromů na našem mohelnickém náměstí, nyní se to konečně povedlo - máme závazné stanovisko od památkářů a práce na výsadbě mohou brzy začít!\n\nArchitekt navrhl dvě verze - jednu s kvetoucími stromy prunus, druhou s pravidelně stříhanými habry. V obou verzích se počítalo s devíti stromy. Zasáhli však památkáři, počet stromů snížili na osm a umožnili pouze výsadbu habrů. Což o to, že kvetoucí prunusy by byly mnohem hezčí a především by měly větší zelenou plochu, tedy by lépe plnily funkci ochlazení náměstí v parných dnech - podle památkářů je důležitější výhled na střechy. \n\nNejsem odpůrce památkové ochrany, ale pokud si mám vybrat mezi výhledem na střechy a ochlazením centra města, pak beru ochlazení - obzvláště, když klimatická změna vyrazila dveře a kvalita života ve městech v jejím důsledku mnohdy klesá. Navíc by výsadba prunusů odpovídala historickému stavu.\n\nAle i tak - lepší něco než nic. Stromy na náměstí Svobody budou a já z toho mám obrovskou radost! Ouu yesss!💚\n\nZa naši Mohelnici a přidružené obce\n\n👉Srovnání zamítnutých prunusů s povolenými habry přikládám do komentáře."
+        ],
+        "ad_delivery_start_time": "2023-12-18",
+        "ad_delivery_stop_time": "2023-12-21",
+        "bylines": "Tadeáš Bača",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Olomouc Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001081",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001081",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001081",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.092973",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.114595",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.071351",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.088649",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.052973",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.025946",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.250811",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.032432",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.085405",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.038919",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.12",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.022703",
+                "age": "65+",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "5001",
+            "upper_bound": "10000"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "152180357976361",
+        "page_name": "Tadeáš Bača",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Mohelnice, Olomoucký Kraj, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 936,
+        "beneficiary_payers": [
+            {
+                "payer": "Za naši Mohelnici a přidružené obce",
+                "beneficiary": "Za naši Mohelnici a přidružené obce",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 66,
+                        "female": 36
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 232,
+                        "female": 106,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 111,
+                        "female": 86
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 79,
+                        "female": 82,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 30,
+                        "female": 49,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 24,
+                        "female": 21
+                    }
+                ]
+            }
+        ],
+        "_id": "733986031957304"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1071679573880299&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-15",
+        "ad_creative_bodies": [
+            "Přátelé, prosím, hlasujte pro náš mohelnický stromeček v anketě Deníku, zbývá posledních pár hodin a každý hlas se počítá!🎄🎄\n\nHlasovat můžete na tomto odkaze, díky moc za každý hlas! 👉  https://sumpersky.denik.cz/zpravy_region/nejkrasnejsi-vanocni-strom-olomouckeho-kraje-2023.html"
+        ],
+        "ad_delivery_start_time": "2023-12-15",
+        "ad_delivery_stop_time": "2023-12-16",
+        "bylines": "Tadeáš Bača",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.050699",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.089161",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.118007",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.051573",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.036713",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.051573",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.050699",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.057692",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.132867",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.047203",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.056818",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.094406",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.11451",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.048077",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001739",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001739",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.24",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.086957",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.228696",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.064348",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.215652",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.16087",
+                "age": "65+",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "152180357976361",
+        "page_name": "Tadeáš Bača",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "50",
+            "65"
+        ],
+        "eu_total_reach": 1147,
+        "beneficiary_payers": [
+            {
+                "payer": "Za naši Mohelnici a přidružené obce",
+                "beneficiary": "Za naši Mohelnici a přidružené obce",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "55-64",
+                        "male": 248,
+                        "female": 263,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 185,
+                        "female": 276,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 100,
+                        "female": 74
+                    }
+                ]
+            }
+        ],
+        "_id": "1071679573880299"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1712356462619291&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-14",
+        "ad_creative_bodies": [
+            "Tyhle memíčka jsou skvělá věc - jde s nimi jednoduše a stručně popsat holou realitu. Třeba uvažování nejhoršího premiéra ever."
+        ],
+        "ad_delivery_start_time": "2023-12-14",
+        "ad_delivery_stop_time": "2023-12-15",
+        "bylines": "Tadeáš Bača",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.052065",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.068223",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.125673",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.048474",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.046679",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.041293",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.052065",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.102334",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.141831",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.048474",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.066427",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.066427",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.095153",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.044883",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.016158",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.082585",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.249551",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.177738",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.278276",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.195691",
+                "age": "65+",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "page_id": "152180357976361",
+        "page_name": "Tadeáš Bača",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "50",
+            "65"
+        ],
+        "eu_total_reach": 563,
+        "beneficiary_payers": [
+            {
+                "payer": "Za naši Mohelnici a přidružené obce",
+                "beneficiary": "Za naši Mohelnici a přidružené obce",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "male": 46,
+                        "female": 9
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 139,
+                        "female": 99
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 109,
+                        "female": 155
+                    }
+                ]
+            }
+        ],
+        "_id": "1712356462619291"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=318919347641957&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-14",
+        "ad_creative_bodies": [
+            "Neutuchající rebel, zastupitel města Mohelnice a nezničitelný bojovník za lepší svět. 🇨🇿💚🔻🌈"
+        ],
+        "ad_creative_link_captions": [
+            "facebook.com"
+        ],
+        "ad_creative_link_titles": [
+            "Tadeáš Bača"
+        ],
+        "ad_delivery_start_time": "2023-12-14",
+        "ad_delivery_stop_time": "2023-12-14",
+        "bylines": "Tadeáš Bača",
+        "currency": "CZK",
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "152180357976361",
+        "page_name": "Tadeáš Bača",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "50",
+            "65"
+        ],
+        "eu_total_reach": 89,
+        "beneficiary_payers": [
+            {
+                "payer": "Za naši Mohelnici a přidružené obce",
+                "beneficiary": "Za naši Mohelnici a přidružené obce",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "male": 8,
+                        "female": 9
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 11,
+                        "female": 17
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 10,
+                        "female": 34
+                    }
+                ]
+            }
+        ],
+        "_id": "318919347641957"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=261865073244418&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-13",
+        "ad_creative_bodies": [
+            "Neutuchající rebel, zastupitel města Mohelnice a nezničitelný bojovník za lepší svět. 🇨🇿💚🔻🌈"
+        ],
+        "ad_creative_link_captions": [
+            "facebook.com"
+        ],
+        "ad_creative_link_titles": [
+            "Tadeáš Bača"
+        ],
+        "ad_delivery_start_time": "2023-12-13",
+        "ad_delivery_stop_time": "2023-12-15",
+        "bylines": "Tadeáš Bača",
+        "currency": "CZK",
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "152180357976361",
+        "page_name": "Tadeáš Bača",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "Women",
+        "target_ages": [
+            "65",
+            "65"
+        ],
+        "eu_total_reach": 28,
+        "beneficiary_payers": [
+            {
+                "payer": "Za naši Mohelnici a přidružené obce",
+                "beneficiary": "Za naši Mohelnici a přidružené obce",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "65+",
+                        "female": 28
+                    }
+                ]
+            }
+        ],
+        "_id": "261865073244418"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=2145906735755542&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-11",
+        "ad_creative_bodies": [
+            "BABI RŮŽI\n\nVčera uplynulo devět let ode dne, kdy navždy odešla moje milovaná babi Růži. Všichni už ví, že to byla Růži, kdo mě přivedl k politice. A byla to babi Růži, kdo mě přivedl k věcem, které jsou pro mě v mém politickém snažení tuze důležité… \n\nPřivedla mě k vlastenectví. Prababička byla dítě první republiky a vlastenectví nemělo v jejím podání podobu bezhlavého mávání vlajkou, tupé nenávisti ke všem okolo a strachu ze všeho cizího a nového, jak je to v dnešní době bohužel obvyklé. Mělo a má podobu lásky k naší republice a jejím humanitním a pokrokovým tradicím. Vlastenectví v podání babi Růži nebylo hnědé, bylo parádně duhové!\n\nPřivedla mě k lásce k přírodě a celé naší planetě. Seděli jsme v bunkru, který na balkoně vytvořila svými šlahouny vinná réva, a trávili hodiny povídáním o bohatství, které nám naše země dává, a o závazcích a povinnostech, které k ní máme. Planetu a její přírodu musíme chránit, protože mamonáři, kteří chtějí mít pořád víc a víc, se sami nikdy nezastaví. Klimatická krize není mýtus, ale realita, kterou musíme se vší vervou řešit. Ochrana a obnova biodiverzity není ekoterorismus, ale návrat k funkčnímu systému. Strom je vždy cennější než parkovací místo. A půda, která nám dává obživu, je cennější než velkosklady a satelitní vesničky.\n\nPřivedla mě k levicovým myšlenkám. Ne pro svoji peněženku, nebo pro peněženku svých kámošů, ale aby bylo dobře všem. Ne mávání rudou vlajkou a bezhlavé oslavování všemožných ismů, ale politika, která myslí na dobré živobytí té poslední babičky v té nejzapadlejší dědině. Kvalitní zdravotnictví pro všechny, ne Julínkovo zdravotnictví pro vyvolené. Solidarita namísto sobectví.\n\nZkrátka, Růži mě formovala. Díky Růži jsem vlastenec, zelenej, levičák, progresivní, feminista, egalitář a takhle bych mohl pokračovat. Díky Růži jsem tím, kým jsem. Ne stoprocentně, to by ani nešlo, ale v základech.\n\nDíky Růži mám ideály jaké mám. Díky Růži se zajímám o svět kolem sebe. \n\nBabi Růži? Tam někam hluboko do srdce, kde pořád žiješ v těch nejkrásnějších vzpomínkách, Ti slibuju, že za tyhle naše ideály nikdy nepřestanu bojovat! Nevím, jak to dopadne, ale nevzdám to! ❤️💚🇨🇿🏳️‍🌈🔻✊"
+        ],
+        "ad_delivery_start_time": "2023-12-11",
+        "ad_delivery_stop_time": "2023-12-13",
+        "bylines": "Tadeáš Bača",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.050571",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.053834",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.099511",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.055465",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.039152",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.027732",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.044046",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.12398",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.132137",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.032626",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.053834",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.104405",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.119086",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.063622",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.632787",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.318033",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.04918",
+                "age": "45-54",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "500001",
+            "upper_bound": "1000000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "152180357976361",
+        "page_name": "Tadeáš Bača",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "Women",
+        "target_ages": [
+            "50",
+            "65"
+        ],
+        "eu_total_reach": 609,
+        "beneficiary_payers": [
+            {
+                "payer": "Za naši Mohelnici a přidružené obce",
+                "beneficiary": "Za naši Mohelnici a přidružené obce",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "female": 30
+                    },
+                    {
+                        "age_range": "55-64",
+                        "female": 194
+                    },
+                    {
+                        "age_range": "65+",
+                        "female": 386
+                    }
+                ]
+            }
+        ],
+        "_id": "2145906735755542"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=386895347093783&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-09",
+        "ad_creative_bodies": [
+            "OBČAN Karel Schwarzenberg, nikoliv kníže.\n\nMasaryk, Beneš, Štefánik, Rašín, naši předci v legiích a tisíce dalších Čechů a Slováků bojovali za republiku, díky nim tu nejsou žádná knížata a žádní poddaní. Nikdo nikomu nemusí sloužit, nikdo se před nikým nemusí klanět a dělat pukrlata. Jsou tu občané, kteří jsou si v právech a povinnostech před zákonem rovni.\n\nToto dnes mnozí politici a mediální tlučhubové pošlapali. Smutný den.\n\nAť žije republika, ať žijí republikánské tradice! Ať občan Schwarzenberg odpočívá v pokoji, ať jde vše feudální konečně k šípku!"
+        ],
+        "ad_delivery_start_time": "2023-12-09",
+        "ad_delivery_stop_time": "2023-12-11",
+        "bylines": "Tadeáš Bača",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.041441",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.068468",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.122523",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.054054",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.03964",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.025225",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.045045",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.081081",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.185586",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.055856",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.045045",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.095495",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.095495",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.045045",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.007194",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.618705",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.374101",
+                "age": "55-64",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "152180357976361",
+        "page_name": "Tadeáš Bača",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "55",
+            "60"
+        ],
+        "eu_total_reach": 557,
+        "beneficiary_payers": [
+            {
+                "payer": "Za naši Mohelnici a přidružené obce",
+                "beneficiary": "Za naši Mohelnici a přidružené obce",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "55-64",
+                        "male": 344,
+                        "female": 208,
+                        "unknown": 4
+                    }
+                ]
+            }
+        ],
+        "_id": "386895347093783"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=877471717104904&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-03",
+        "ad_creative_bodies": [
+            "Neutuchající rebel, zastupitel města Mohelnice a nezničitelný bojovník za lepší svět. 🇨🇿🏳️‍🌈💚"
+        ],
+        "ad_creative_link_captions": [
+            "facebook.com"
+        ],
+        "ad_creative_link_titles": [
+            "Tadeáš Bača"
+        ],
+        "ad_delivery_start_time": "2023-12-03",
+        "ad_delivery_stop_time": "2023-12-04",
+        "bylines": "Tadeáš Bača",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.096154",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.076923",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.044872",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.057692",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.019231",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.038462",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.025641",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.115385",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.147436",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.038462",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.070513",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.057692",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.153846",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.057692",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.448718",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.102564",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.448718",
+                "age": "55-64",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "500001",
+            "upper_bound": "1000000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "152180357976361",
+        "page_name": "Tadeáš Bača",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "Women",
+        "target_ages": [
+            "50",
+            "65"
+        ],
+        "eu_total_reach": 156,
+        "beneficiary_payers": [
+            {
+                "payer": "Za naši Mohelnici a přidružené obce",
+                "beneficiary": "Za naši Mohelnici a přidružené obce",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "female": 16
+                    },
+                    {
+                        "age_range": "55-64",
+                        "female": 70
+                    },
+                    {
+                        "age_range": "65+",
+                        "female": 70
+                    }
+                ]
+            }
+        ],
+        "_id": "877471717104904"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=169741539559060&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-28",
+        "ad_creative_bodies": [
+            "„5K ztrácí podle STEMu na ANO+SPD 8 procentních bodů. V září to byly 3 procentní body.“\n\nBlažek dál likviduje právní stát.\nJurečka dál likviduje sociální stát.\nVálek dál nečinně přihlíží kolapsu zdravotnictví.\nČernochová svými výkřiky dál poškozuje ČR v zahraničí.\nBek dál lže a likviduje české školství.\nFiala dál vysílá Nutellou upatlaný signály.\nPiráti, kďo?\nA Stanjura, navzdor vší té tragédii, dál dělá brutální sekeru.\n\nMěli jsme tu spoustu strašných vlád, ale tahle je k tomu všemu totálně neschopná. Je to snad první vláda, jejíž úhlavní nepřítel má křeslo premiéra jisté, i když zbytek volebního období protancuje na TikToku.\n\nAchjo, tohle si naše republika nezaslouží."
+        ],
+        "ad_delivery_start_time": "2023-11-28",
+        "ad_delivery_stop_time": "2023-11-29",
+        "bylines": "Tadeáš Bača",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.034884",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.05814",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.09593",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.055233",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.037791",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.046512",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.06686",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.040698",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.186047",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.061047",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.052326",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.093023",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.127907",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.043605",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.325581",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.610465",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.063953",
+                "age": "45-54",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "500001",
+            "upper_bound": "1000000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "152180357976361",
+        "page_name": "Tadeáš Bača",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "Women",
+        "target_ages": [
+            "50",
+            "65"
+        ],
+        "eu_total_reach": 355,
+        "beneficiary_payers": [
+            {
+                "payer": "Za naši Mohelnici a přidružené obce",
+                "beneficiary": "Za naši Mohelnici a přidružené obce",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "female": 22
+                    },
+                    {
+                        "age_range": "55-64",
+                        "female": 112
+                    },
+                    {
+                        "age_range": "65+",
+                        "female": 210
+                    }
+                ]
+            }
+        ],
+        "_id": "169741539559060"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=3203980113238048&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-27",
+        "ad_creative_bodies": [
+            "V listopadu a prosinci 1989 tiskli a vyvěšovali věrní pohlaváři KSČ letáčky s nápisy „Stávka není dialog.“. Odpovědí na ně byly rukou psané letáky s nápisy „Vy máte tiskárny, my máme pravdu!“.\n\nV listopadu 2023 představitelé, členové a roztleskávači vládních stran říkají, že stávka není dialog a mnozí se dokonce neštítí řečí typu „kdo to vaše stávkování zaplatí“.\n\nKdo je kdo tedy víme. Přístup mocných zůstává i po třech desetiletích totožný - kdo nejde s námi, jde proti nám. Odpovědí jim musí být masivní stávka a jasné požadavky, ze kterých se nesleví ani o píď. \n\nHODNĚ ŠTĚSTÍ VŠEM STÁVKUJÍCÍM! ✊"
+        ],
+        "ad_delivery_start_time": "2023-11-27",
+        "ad_delivery_stop_time": "2023-11-29",
+        "bylines": "Tadeáš Bača",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.036697",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.088685",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.11315",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.053517",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.041284",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.045872",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.062691",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.091743",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.126911",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.041284",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.055046",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.08104",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.111621",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.050459",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.623656",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.311828",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.064516",
+                "age": "45-54",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "500001",
+            "upper_bound": "1000000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "page_id": "152180357976361",
+        "page_name": "Tadeáš Bača",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "Women",
+        "target_ages": [
+            "50",
+            "65"
+        ],
+        "eu_total_reach": 664,
+        "beneficiary_payers": [
+            {
+                "payer": "Za naši Mohelnici a přidružené obce",
+                "beneficiary": "Za naši Mohelnici a přidružené obce",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "female": 42
+                    },
+                    {
+                        "age_range": "55-64",
+                        "female": 203
+                    },
+                    {
+                        "age_range": "65+",
+                        "female": 406
+                    }
+                ]
+            }
+        ],
+        "_id": "3203980113238048"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=3578012459139222&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-26",
+        "ad_creative_bodies": [
+            "„5K ztrácí podle STEMu na ANO+SPD 8 procentních bodů. V září to byly 3 procentní body.“\n\nBlažek dál likviduje právní stát.\nJurečka dál likviduje sociální stát.\nVálek dál nečinně přihlíží kolapsu zdravotnictví.\nČernochová svými výkřiky dál poškozuje ČR v zahraničí.\nBek dál lže a likviduje české školství.\nFiala dál vysílá Nutellou upatlaný signály.\nPiráti, kďo?\nA Stanjura, navzdor vší té tragédii, dál dělá brutální sekeru.\n\nMěli jsme tu spoustu strašných vlád, ale tahle je k tomu všemu totálně neschopná. Je to snad první vláda, jejíž úhlavní nepřítel má křeslo premiéra jisté, i když zbytek volebního období protancuje na TikToku.\n\nAchjo, tohle si naše republika nezaslouží."
+        ],
+        "ad_delivery_start_time": "2023-11-26",
+        "ad_delivery_stop_time": "2023-11-28",
+        "bylines": "Tadeáš Bača",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Olomouc Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.04067",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002392",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.186603",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.165072",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.229665",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.045455",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.327751",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002392",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "152180357976361",
+        "page_name": "Tadeáš Bača",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Olomouc Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "50",
+            "65"
+        ],
+        "eu_total_reach": 422,
+        "beneficiary_payers": [
+            {
+                "payer": "Za naši Mohelnici a přidružené obce",
+                "beneficiary": "Za naši Mohelnici a přidružené obce",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "55-64",
+                        "male": 78,
+                        "female": 96,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 19,
+                        "female": 17
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 69,
+                        "female": 137,
+                        "unknown": 1
+                    }
+                ]
+            }
+        ],
+        "_id": "3578012459139222"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1496433931198117&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-23",
+        "ad_creative_bodies": [
+            "Krátkými videi bych vám chtěl představit a trochu přiblížit umění ve veřejném prostoru ze 70. a 80. let, které najdeme v naší milované Mohelnici. 💚\n\nDíl druhý - Sedící dívka"
+        ],
+        "ad_creative_link_titles": [
+            "Sedící dívka"
+        ],
+        "ad_delivery_start_time": "2023-11-23",
+        "ad_delivery_stop_time": "2023-11-25",
+        "bylines": "Tadeáš Bača",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Olomouc Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.022409",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.10084",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.159664",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.137255",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.084034",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.114846",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.128852",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.05042",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.030812",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002801",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.12605",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.042017",
+                "age": "35-44",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "152180357976361",
+        "page_name": "Tadeáš Bača",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Mohelnice, Olomoucký Kraj, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 354,
+        "beneficiary_payers": [
+            {
+                "payer": "Za naši Mohelnici a přidružené obce",
+                "beneficiary": "Za naši Mohelnici a přidružené obce",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 8,
+                        "female": 1
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 57,
+                        "female": 11
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 45,
+                        "female": 15
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 49,
+                        "female": 46
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 30,
+                        "female": 41
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 18,
+                        "female": 36
+                    }
+                ]
+            }
+        ],
+        "_id": "1496433931198117"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1244165329863552&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-22",
+        "ad_creative_bodies": [
+            "V pondělí budou učitelé, učitelky a nepedagogičtí pracovníci napříč republikou stávkovat za naše školství a proti tupým vládním škrtům. Dle mapy, kterou zveřejnila Učitelská platforma, se ke stávce přidaly i obě naše mohelnické základní školy.\n\nDržím učitelům, učitelkám a nepedagogickým pracovníkům v jejich boji za české školství palce! ✊ Podpořit je můžeme všichni - třeba podpisem petice - odkaz na online petici přidávám do komentáře."
+        ],
+        "ad_delivery_start_time": "2023-11-22",
+        "ad_delivery_stop_time": "2023-11-24",
+        "bylines": "Tadeáš Bača",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Olomouc Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.175439",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.347953",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.444444",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.032164",
+                "age": "35-44",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "152180357976361",
+        "page_name": "Tadeáš Bača",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Olomouc Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "Women",
+        "target_ages": [
+            "39",
+            "65"
+        ],
+        "eu_total_reach": 331,
+        "beneficiary_payers": [
+            {
+                "payer": "Za naši Mohelnici a přidružené obce",
+                "beneficiary": "Za naši Mohelnici a přidružené obce",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "35-44",
+                        "female": 11
+                    },
+                    {
+                        "age_range": "45-54",
+                        "female": 60
+                    },
+                    {
+                        "age_range": "55-64",
+                        "female": 119
+                    },
+                    {
+                        "age_range": "65+",
+                        "female": 152
+                    }
+                ]
+            }
+        ],
+        "_id": "1244165329863552"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1440575286804481&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-22",
+        "ad_creative_bodies": [
+            "V pondělí budou učitelé a učitelky napříč republikou stávkovat za naše školství a proti tupým vládním škrtům. Dle mapy, kterou zveřejnila Učitelská platforma, se ke stávce přidaly i obě naše mohelnické základní školy.\n\nDržím učitelům a učitelkám v jejich boji za české školství palce! ✊ Podpořit je můžeme všichni - třeba podpisem petice - odkaz na online petici přidávám do komentáře."
+        ],
+        "ad_delivery_start_time": "2023-11-22",
+        "ad_delivery_stop_time": "2023-11-22",
+        "bylines": "Tadeáš Bača",
+        "currency": "CZK",
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "152180357976361",
+        "page_name": "Tadeáš Bača",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Olomouc Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "Women",
+        "target_ages": [
+            "39",
+            "65"
+        ],
+        "eu_total_reach": 52,
+        "beneficiary_payers": [
+            {
+                "payer": "Za naši Mohelnici a přidružené obce",
+                "beneficiary": "Za naši Mohelnici a přidružené obce",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "35-44",
+                        "female": 2
+                    },
+                    {
+                        "age_range": "45-54",
+                        "female": 11
+                    },
+                    {
+                        "age_range": "55-64",
+                        "female": 20
+                    },
+                    {
+                        "age_range": "65+",
+                        "female": 19
+                    }
+                ]
+            }
+        ],
+        "_id": "1440575286804481"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1786830545075818&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-21",
+        "ad_creative_bodies": [
+            "ZÁTAH NA KRAJSKÉM ÚŘADĚ\n\nOlomoucký krajský úřad, ředitelství správy krajských silnic, přerovský magistrát - to je jen několik míst, na kterých před pár dny proběhla policejní razie.\n\nZatčeni a obviněni byli vlivní členové ODS. Dnes již bývalý náměstek hejtmana pro dopravu Zácha, který mimo to seděl na židli přerovského radního, působil v dozorčí radě firmy DPOV, výboru pro audit státní organizace Správa železnic, byl členem expertního týmu ODS pro dopravu a účastnil se vládních koaličních jednání K15. A spolu s ním i bývalý krajský předseda ODS a svého času největší sponzor této strany Knobloch, který jen tak shodou okolností vlastní firmu spolu s hejtmanem Jihočeského kraje Kubou. \n\nMezi další zatčené a obviněné patří dle médií třeba ředitel SSOK Štěpánek, či jeho předchůdce Foltýnek - tedy ředitelé krajské společnosti, která hospodaří s ročním rozpočtem, jenž přesahuje 700 milionů korun.\n\nJde o velkou kauzu, kterou můžeme srovnávat s těmi, které kdysi otřásaly krajskou i celostátní politikou - třeba s (rovněž olomouckou) kauzou Vidkun. Přesto politici mlčí. Všichni od ANO, přes Lidovce a STAN, až po Piráty a strany na levici mlčí, nebo zveřejňují naprosto bezvýznamná a jakkoliv nekonkrétní prohlášení.\n\nŘíkám si, kde jsou nekompromisní stanoviska, kterými na jedné straně hnutí ANO nešetří třeba u kauzy Dozimetr a na straně druhé strany vládní koalice třeba u kauz Andreje Babiše? Nic. Ticho po pěšině. A víte proč? Protože jsou to kamarádi a vzájemně se potřebují.\n\nODS v Olomouckém kraji vládla snad s každým. A jak strany dnešní krajské koalice, tak strany dnešní krajské opozice si dělají zálusk na spolupráci s ODS i po příštích krajských volbách, které se uskuteční na podzim roku 2024.\n\nZávěr z této kauzy je pro mě jasný - v krajských volbách podpořím svým hlasem jen a pouze tu stranu, která 1. odmítne jakoukoliv povolební spolupráci s ODS, 2. představí a zaváže se prosadit sérii protikorupčních opatření, která povedou k větší transparentnosti celého kraje i jeho organizací.\n\nA vy, politici, kteří dnes mlčíte a u jiných kauz křičíte do nebes, vy, kteří měříte dvojím metrem - styďte se!"
+        ],
+        "ad_delivery_start_time": "2023-11-21",
+        "ad_delivery_stop_time": "2023-11-21",
+        "bylines": "Tadeáš Bača",
+        "currency": "CZK",
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "152180357976361",
+        "page_name": "Tadeáš Bača",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Olomouc Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "55",
+            "65"
+        ],
+        "eu_total_reach": 40,
+        "beneficiary_payers": [
+            {
+                "payer": "Za naši Mohelnici a přidružené obce",
+                "beneficiary": "Za naši Mohelnici a přidružené obce",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "55-64",
+                        "male": 4,
+                        "female": 13
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 6,
+                        "female": 17
+                    }
+                ]
+            }
+        ],
+        "_id": "1786830545075818"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=306350748945480&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-17",
+        "ad_creative_bodies": [
+            "Krátkými videi bych vám chtěl představit a trochu přiblížit umění ve veřejném prostoru ze 70. a 80. let, které najdeme v naší milované Mohelnici. 💚\n\nDíl první - Dětské hry/Děti míru"
+        ],
+        "ad_delivery_start_time": "2023-11-17",
+        "ad_delivery_stop_time": "2023-11-18",
+        "bylines": "Tadeáš Bača",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Olomouc Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.008993",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.181655",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.22482",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.365108",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.219424",
+                "age": "65+",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "5001",
+            "upper_bound": "10000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "152180357976361",
+        "page_name": "Tadeáš Bača",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Olomouc Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "55",
+            "65"
+        ],
+        "eu_total_reach": 568,
+        "beneficiary_payers": [
+            {
+                "payer": "Za naši Mohelnici a přidružené obce",
+                "beneficiary": "Za naši Mohelnici a přidružené obce",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "55-64",
+                        "male": 101,
+                        "female": 125
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 122,
+                        "female": 203,
+                        "unknown": 5
+                    }
+                ]
+            }
+        ],
+        "_id": "306350748945480"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=310591331866041&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-16",
+        "ad_creative_bodies": [
+            "Krátkými videi bych vám chtěl představit a trochu přiblížit umění ve veřejném prostoru ze 70. a 80. let, které najdeme v naší milované Mohelnici. 💚\n\nDíl první - Dětské hry/Děti míru"
+        ],
+        "ad_delivery_start_time": "2023-11-16",
+        "ad_delivery_stop_time": "2023-11-19",
+        "bylines": "Tadeáš Bača",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Olomouc Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001399",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002797",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.054545",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.109091",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.134266",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.093706",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.131469",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.090909",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.047552",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.057343",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.116084",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.121678",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.025175",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.013986",
+                "age": "18-24",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1001",
+            "upper_bound": "5000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "152180357976361",
+        "page_name": "Tadeáš Bača",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Mohelnice, Olomoucký Kraj, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 716,
+        "beneficiary_payers": [
+            {
+                "payer": "Za naši Mohelnici a přidružené obce",
+                "beneficiary": "Za naši Mohelnici a přidružené obce",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "male": 94,
+                        "female": 96,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 41,
+                        "female": 67,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 18,
+                        "female": 10
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 83,
+                        "female": 34
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 87,
+                        "female": 65
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 39,
+                        "female": 78
+                    }
+                ]
+            }
+        ],
+        "_id": "310591331866041"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=879057477208081&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-15",
+        "ad_creative_bodies": [
+            "CHATA KARLOV\n\nMěsto Mohelnice je vlastníkem chaty v Moravském Karlově, tato chata byla postavena svépomocí v 80. letech a již delší dobu je v žalostném stavu; tak žalostném, že dětem teče voda do postelí, když venku prší. Chatu využívá pouze ZŠ Mlýnská. ZŠ Vodní využívá pro potřeby lyžáků a škol v přírodě služeb soukromníků a eko centra Sluňákov, které přináší dětem i učitelům mnohem větší komfort a vychází ekonomicky srovnatelně.\n\nV poslední době sílí v zastupitelstvu tlak na opravu této chaty. Projektová cena opravy byla v roce 2019 více než 25 milionů korun, dnes se tak již pohybujeme v částkách, které přesahují 35 milionů korun. To je pro město významná suma, za kterou bychom mohli postavit například bytový dům s 15 jednotkami 2+kk, školku pro 40 dětí, nebo opravit budovy v několika přidružených obcích a ještě by zbylo na revitalizaci náměstí Kosmonautů.\n\nNejsem zastánce rozprodávání městského majetku, právě naopak. V tomto případě se však nebavíme o majetku, který je ve městě a slouží občanům, či může být využit k rozvoji naší Mohelnice, naopak se bavíme o majetku, který je pro město extrémně nákladný, má přínos jen pro několik málo lidí a i ten je velmi pochybný. Na straně zastánců opravy jsou především emoce a hezké vzpomínky na toto místo, na straně zastánců prodeje ekonomická nevýhodnost, mizivá využitelnost a potřeba peněz tady v Mohelnici.\n\nPřesto k opravě této chaty směřujeme. Prvním krokem je vyčlenění 650 tisíc korun na projektovou dokumentaci v rozpočtu na rok 2024. Pokud tento krok projde, přijde v dalších měsících či letech na řadu vyčlenění prostředků na opravu chaty. Ani jeden z těchto kroků nemá moji podporu a jsem přesvědčen, že pokud zastupitelé chtějí investovat desítky milionů korun do budovy, která stojí 40 kilometrů od Mohelnice, pak by k tomuto měli mít posvěcení od občanů a občanek města.\n\nAť už anketou nebo referendem, občané by měli mít možnost zodpovědět na několik otázek. Tak například... Má město investovat částku vyšší než 35 milionů korun do školní chaty, která má mizivé využití a nachází se 40 kilometrů od Mohelnice, na úkor investic ve městě samotném?\n\nMyslíte, že NE? Pak máme jasnou shodu! Stavíme totiž tvrdá fakta a prospěch města a jeho občanů nad emoce a vzpomínky.\n\nMůj pohled je jasný; každá koruna, kterou do chaty vložíme, je koruna promarněná, notabene, když je potřeba tady v naší Mohelnici. Chatu prodejme a část peněz z prodeje získaných použijme na zřízení sociálního fondu, který přispěje dětem z nízkopříjmových rodin na lyžáky, školy v přírodě a další školní aktivity – to je totiž skutečně zodpovědný a sociální přístup. \n\nTadeáš Bača\n- zastupitel města Mohelnice"
+        ],
+        "ad_delivery_start_time": "2023-11-15",
+        "ad_delivery_stop_time": "2023-11-17",
+        "bylines": "Tadeáš Bača",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Olomouc Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.005376",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.010753",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.005376",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.053763",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.021505",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.037634",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.010753",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.112903",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.134409",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.05914",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.225806",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.139785",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.11828",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.043011",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.021505",
+                "age": "18-24",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "152180357976361",
+        "page_name": "Tadeáš Bača",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Olomouc Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 186,
+        "beneficiary_payers": [
+            {
+                "payer": "Za naši Mohelnici a přidružené obce",
+                "beneficiary": "Za naši Mohelnici a přidružené obce",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "male": 26,
+                        "female": 11,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 21,
+                        "female": 22,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 8,
+                        "female": 4
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 7,
+                        "female": 2
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 10,
+                        "female": 4
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 25,
+                        "female": 42,
+                        "unknown": 1
+                    }
+                ]
+            }
+        ],
+        "_id": "879057477208081"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1142202497157778&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-13",
+        "ad_creative_bodies": [
+            "LÍPA REPUBLIKY\n\nS Honzou Peškarem jsme v našem krásném mohelnickém parku zasadili lípu srdčitou, neboli lípu republiky. Ta se tradičně vysazuje v období kolem 28. října, kdy si připomínáme pád zdegenerované habsburské despocie a vyhlášení Československé republiky. A víte, proč zrovna lípa?\n\nOd 2. do 12. června roku 1848 se na všeslovanském sjezdu v Praze sešli zástupci všech porobených slovanských národů; tedy Češi, Slováci, Poláci, Rusíni, Chorvati, Srbové, Slovinci a Dalmatinci. Ti v reakci na Frankfurtský sněm, kde byl jako symbol velkoněmectví zvolen dub, stanovili tehdy lípu, jako symbol Slovanů. Od té doby je lípa národním stromem Čechů, Slováků a třeba i Slovinců.\n\nAle dost už hej slovanství, lípa je krásný, mohutný a odolný strom, který do našich podmínek přirozeně patří. Když kvete, tak krásně voní, a také má své místo v přírodní medicíně. S každým zasazeným stromem přispíváme k o kousek lepšímu životu v našem okolí a s Honzou máme velkou radost, že jsme k tomu mohli přispět!\n\nTož lípo, ať se ti u nás v mohelnickém parku líbí!💚"
+        ],
+        "ad_delivery_start_time": "2023-11-13",
+        "ad_delivery_stop_time": "2023-11-15",
+        "bylines": "Tadeáš Bača",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Olomouc Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.015414",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.055877",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.1079",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.150289",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.088632",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.102119",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.109827",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.148362",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.111753",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.057803",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.025048",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001927",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.003854",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.019268",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001927",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "152180357976361",
+        "page_name": "Tadeáš Bača",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Olomouc Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 520,
+        "beneficiary_payers": [
+            {
+                "payer": "Za naši Mohelnici a přidružené obce",
+                "beneficiary": "Za naši Mohelnici a přidružené obce",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 30,
+                        "female": 8
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 53,
+                        "female": 10
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 46,
+                        "female": 13
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 58,
+                        "female": 29,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 57,
+                        "female": 78,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 56,
+                        "female": 77,
+                        "unknown": 1
+                    }
+                ]
+            }
+        ],
+        "_id": "1142202497157778"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=762527765683318&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-07",
+        "ad_creative_bodies": [
+            "Premiér Fiala jel do Německa na nákup, aby mohl natočit video, ve kterém nám poví, že mají levnější potraviny. O přepočet na průměrný plat se jako správný asociál ani nepokusil, neb by zjistil, že rozdíly v cenách potravin v Německu a u nás nejsou jen těch pár euro na cenovce, ale jsou násobně vyšší - v náš neprospěch, samosebou.\n\nA řešení? S tím pochopitelně také nepřišel.\n\nTak snad si aspoň ten benzín za cestu na nákup do Německa zaplatil ze svýho a ne z eráru, darebák. Byť ani o tom si iluze nedělám."
+        ],
+        "ad_delivery_start_time": "2023-11-07",
+        "ad_delivery_stop_time": "2023-11-09",
+        "bylines": "Tadeáš Bača",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Olomouc Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.003731",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.220149",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.298507",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.227612",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.246269",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.003731",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "page_id": "152180357976361",
+        "page_name": "Tadeáš Bača",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Olomouc Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "55",
+            "65"
+        ],
+        "eu_total_reach": 268,
+        "beneficiary_payers": [
+            {
+                "payer": "Za naši Mohelnici a přidružené obce",
+                "beneficiary": "Za naši Mohelnici a přidružené obce",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "55-64",
+                        "male": 66,
+                        "female": 61,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 59,
+                        "female": 80,
+                        "unknown": 1
+                    }
+                ]
+            }
+        ],
+        "_id": "762527765683318"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=2605855012894778&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-10-30",
+        "ad_creative_bodies": [
+            "Za 22 dní trvání konfliktu bylo v Pásmu Gazy dle oficiálních informací zavražděno 8005 lidí, z toho 3342 dětí.\n\nProboha svatého, tohle musí skončit! Žádný boj se zlem nejde ospravedlnit vražděním tisíců dětí, žádný!"
+        ],
+        "ad_delivery_start_time": "2023-10-30",
+        "ad_delivery_stop_time": "2023-11-01",
+        "bylines": "Tadeáš Bača",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.054054",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.048048",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.147147",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.051051",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.033033",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.042042",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.039039",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.105105",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.12012",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.054054",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.066066",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.063063",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.126126",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.051051",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.006006",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.777778",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.216216",
+                "age": "65+",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "152180357976361",
+        "page_name": "Tadeáš Bača",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "65",
+            "65"
+        ],
+        "eu_total_reach": 335,
+        "beneficiary_payers": [
+            {
+                "payer": "Za naši Mohelnici a přidružené obce",
+                "beneficiary": "Za naši Mohelnici a přidružené obce",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "65+",
+                        "male": 72,
+                        "female": 259,
+                        "unknown": 2
+                    }
+                ]
+            }
+        ],
+        "_id": "2605855012894778"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1359801087979365&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-10-28",
+        "ad_creative_bodies": [
+            "NOVÉ IDEJE, MILOVANÁ REPUBLIKO!\n\n105 let od vzniku ostrova demokracie uprostřed střední Evropy plné ismů. 105 let mimořádných úspěchů, které inspirují i zlepšují a zachraňují životy desítkám a stovkám milionů. 105 let zvratů, omylů a obrovských chyb. Tak nějak jde ve stručnosti popsat trvání naší republiky, která povstala 28. října 1918 na troskách zdegenerované habsburské monarchie.\n\nTakové výročí se ideálně hodí k oslavám všech těch úspěchů i k deklaracím, kterými jasně odmítneme opakování neúspěchů. Čím dál tím víc mám však pocit, že odkaz první republiky, tedy státu, který stál na principech pokroku a humanismu, opouštíme.\n\nSpolečenské příkopy v naší zemi se prohlubují, generace spolu nedovedou normálně komunikovat, soused souseda pro jiný názor často nepozdraví. Sociální jistoty se rozpadají; jen letos reálné mzdy klesly na nejnižší úroveň od velké krize v roce 2008. Zdravotnictví je taktéž v krizi a k tomu stojí před další ještě větší krizí, která přichází v důsledku stárnutí lékařek a lékařů. Svět kolem nás běží a my nejsme sto ani navýšit žalostně nízké kapacity stávajících železnic, natož postavit síť tolik potřebných VRTek. Zuří klimatická krize a my, namísto využití potenciálu, který ekologická transformace přináší, zavíráme oči a děláme, že se nás to netýká, že mi přeci nic. Stát zbytečně plýtvá penězi za špatnou a přebyrokratizovanou organizaci, reformy však není schopen, neb by to znamenalo ztrátu mnohých politických korýtek. Obrovské zisky tečou do kapes miliardářů a stát namísto zavedení férové daňové progrese okrádá seniory, pracující, rodiny a mladé.\n\nNebudu se o tom všem rozepisovat dnes, myslím, že každé téma si pro svoji délku zaslouží samostatný příspěvěk. Takže jen ve stručnosti.\n\nPokud má naše republika prožít další staletí úspěšně, pak potřebuje nastartovat. Potřebuje novou vizi, která bude hledět právě na progres, nikoliv na boje dávno minulé. Potřebuje politickou reprezentaci, která nebude kňourat a házet vše na oponenty. Potřebuje politiky, kteří budou skutečnými osobnostmi s jasnou vizí a s vytyčenými cíli, nikoliv bezbarvé úředníčky, kterým jde jen o vlastní živobytí a ne o budoucnost republiky. Potřebuje změnu, zásadní změnu, ta musí být sociální, ekologická a musí hledět právě na další úspěšné trvání naší republiky. Ale o tom víc až jindy...\n\nDnes JEN TO NEJLEPŠÍ MILOVANÁ REPUBLIKO, ať vzkvétáš, ať máš ideje, ať máš před sebou ještě dlouhou a zářnou budoucnost a ať máš spoustu dcer a synů, kterým nebudeš lhostejná! Já pro to udělám vše, co bude v mých silách, slibuju!\n\n„A třeba být na stráži posud a stále – proti chybám starým i novým!“ - Tomáš Garrigue Masaryk\n\n📸 u památníku prezidenta osvoboditele v Náměšti na Hané"
+        ],
+        "ad_delivery_start_time": "2023-10-28",
+        "ad_delivery_stop_time": "2023-10-30",
+        "bylines": "Tadeáš Bača",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Olomouc Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001847",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001847",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001847",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.055402",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.076639",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.103416",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.108033",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.228994",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.125577",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.089566",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.017544",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.062789",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.087719",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.020314",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00277",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.015697",
+                "age": "18-24",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "152180357976361",
+        "page_name": "Tadeáš Bača",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Olomouc Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 1069,
+        "beneficiary_payers": [
+            {
+                "payer": "Za naši Mohelnici a přidružené obce",
+                "beneficiary": "Za naši Mohelnici a přidružené obce",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "65+",
+                        "male": 112,
+                        "female": 248,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 60,
+                        "female": 17
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 95,
+                        "female": 19,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 68,
+                        "female": 22
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 97,
+                        "female": 83,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 117,
+                        "female": 136,
+                        "unknown": 2
+                    }
+                ]
+            }
+        ],
+        "_id": "1359801087979365"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=993279968396630&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-10-25",
+        "ad_creative_bodies": [
+            "ZDRAVÉ KRAJINĚ ZDAR!\n\nPoslouchal jsem tuhle v televizi reportáž, ve které povídali šokující zprávu PŘEMNOŽENÍ HRABOŠI ŽEROU OZIM.  Slovíčko šokující myslím samozřejmě ironicky, z přemnožených hrabošů se stává kolorit každé zemědělské sezóny. Zásadním způsobem k tomu přispívá probíhající klimatická krize. Nedostatek srážek, slabé zimy, extrémní teploty, jako třeba dvacetistupňové noci v polovině října - to vše jsou dopady klimatické krize a ideální podmínky pro hraboše.\n\nMinisterstvo zemědělství na to reaguje zvýšením dotace na rodenticidy. Jde o mnohamiliónové částky na jedy, které mimo hrabošů hubí i další druhy zvířat. Nejčastěji se používá Stutox, jehož účinnou látkou je fosfid zinku, který je vysoce toxický pro všechny druhy savců i ptáků.\n\nPřitom k regulaci množství hrabošů nejlépe přispějeme kroky, které z mnoha jiných důvodů stejně musíme udělat - jde o adaptační a mitigační opatření.\n\nMitigační opatření jsou jasná. Musíme učinit vše pro snižování množství vypouštěných skleníkových plynů, abychom minimalizovali dopady klimatické krize. Přispět k tomu můžeme všichni, ač vyřešit to můžou především státy a mezinárodní organizace. \n\nAdaptační opatření mají za cíl přizpůsobit se změnám klimatu, které již nastaly, nebo není v našich silách je zastavit. V rámci krajiny jde například o obnovu remízků, polních cest, mezí, alejí, jakož i zmenšování výměry ploch pro jednu plodinu a podobně. Že tato opatření pomohou se zadržením vody a eliminací vodní i větrné eroze je jasné, ale jak pomohou proti přemnoženým hrabošům? Poskytnou totiž útočiště mnoha druhům živočichů, které jsme kdysi při tvorbě širých lánů z polí vyhnali. A tihle živočichové stojí v potravním řetězci nad hraboši, tedy jsou jejich přirozenými regulátory. \n\nProč to píšu? Abychom si připomněli, že jednoduchá řešení nejsou vždy ta nejlepší a že obnova krajiny je lepší volba, než tuny jedů. Byť nejde o okamžité řešení - právě proto však musíme s jeho realizací začít včil.\n\nZdravé krajině zdar, jedům a klimatické změně zmar!💚🌍\n\n📸 fotka z procházky po poli, které je nejen plné hrabošů, ale hlavně je v části zasaženo obrovskou vodní i větrnou erozí"
+        ],
+        "ad_delivery_start_time": "2023-10-25",
+        "ad_delivery_stop_time": "2023-10-26",
+        "bylines": "Tadeáš Bača",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Olomouc Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.003584",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.003584",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.121864",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.082437",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.089606",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.222222",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.344086",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.132616",
+                "age": "55-64",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "page_id": "152180357976361",
+        "page_name": "Tadeáš Bača",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Olomouc Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "50",
+            "65"
+        ],
+        "eu_total_reach": 277,
+        "beneficiary_payers": [
+            {
+                "payer": "Za naši Mohelnici a přidružené obce",
+                "beneficiary": "Za naši Mohelnici a přidružené obce",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "65+",
+                        "male": 34,
+                        "female": 96,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 23,
+                        "female": 25,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 37,
+                        "female": 62
+                    }
+                ]
+            }
+        ],
+        "_id": "993279968396630"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1296260207696112&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-10-24",
+        "ad_creative_bodies": [
+            "ZDRAVÉ KRAJINĚ ZDAR!\n\nPoslouchal jsem tuhle v televizi reportáž, ve které povídali šokující zprávu PŘEMNOŽENÍ HRABOŠI ŽEROU OZIM.  Slovíčko šokující myslím samozřejmě ironicky, z přemnožených hrabošů se stává kolorit každé zemědělské sezóny. Zásadním způsobem k tomu přispívá probíhající klimatická krize. Nedostatek srážek, slabé zimy, extrémní teploty, jako třeba dvacetistupňové noci v polovině října - to vše jsou dopady klimatické krize a ideální podmínky pro hraboše.\n\nMinisterstvo zemědělství na to reaguje zvýšením dotace na rodenticidy. Jde o mnohamiliónové částky na jedy, které mimo hrabošů hubí i další druhy zvířat. Nejčastěji se používá Stutox, jehož účinnou látkou je fosfid zinku, který je vysoce toxický pro všechny druhy savců i ptáků.\n\nPřitom k regulaci množství hrabošů nejlépe přispějeme kroky, které z mnoha jiných důvodů stejně musíme udělat - jde o adaptační a mitigační opatření.\n\nMitigační opatření jsou jasná. Musíme učinit vše pro snižování množství vypouštěných skleníkových plynů, abychom minimalizovali dopady klimatické krize. Přispět k tomu můžeme všichni, ač vyřešit to můžou především státy a mezinárodní organizace. \n\nAdaptační opatření mají za cíl přizpůsobit se změnám klimatu, které již nastaly, nebo není v našich silách je zastavit. V rámci krajiny jde například o obnovu remízků, polních cest, mezí, alejí, jakož i zmenšování výměry ploch pro jednu plodinu a podobně. Že tato opatření pomohou se zadržením vody a eliminací vodní i větrné eroze je jasné, ale jak pomohou proti přemnoženým hrabošům? Poskytnou totiž útočiště mnoha druhům živočichů, které jsme kdysi při tvorbě širých lánů z polí vyhnali. A tihle živočichové stojí v potravním řetězci nad hraboši, tedy jsou jejich přirozenými regulátory. \n\nProč to píšu? Abychom si připomněli, že jednoduchá řešení nejsou vždy ta nejlepší a že obnova krajiny je lepší volba, než tuny jedů. Byť nejde o okamžité řešení - právě proto však musíme s jeho realizací začít včil.\n\nZdravé krajině zdar, jedům a klimatické změně zmar!💚🌍\n\n📸 fotka z procházky po poli, které je nejen plné hrabošů, ale hlavně je v části zasaženo obrovskou vodní i větrnou erozí"
+        ],
+        "ad_delivery_start_time": "2023-10-24",
+        "ad_delivery_stop_time": "2023-10-25",
+        "bylines": "Tadeáš Bača",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Olomouc Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.59276",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.131222",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.253394",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.004525",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.0181",
+                "age": "18-24",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "152180357976361",
+        "page_name": "Tadeáš Bača",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Olomouc Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "25"
+        ],
+        "eu_total_reach": 221,
+        "beneficiary_payers": [
+            {
+                "payer": "Za naši Mohelnici a přidružené obce",
+                "beneficiary": "Za naši Mohelnici a přidružené obce",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 29,
+                        "female": 1
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 131,
+                        "female": 56,
+                        "unknown": 4
+                    }
+                ]
+            }
+        ],
+        "_id": "1296260207696112"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1572754913463414&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-10-22",
+        "ad_creative_bodies": [
+            "Během pár dní tisíce mrtvých Palestinců a Izraelců. Za rok a něco statisíce mrtvých ve válce na Ukrajině. Další statisíce a miliony mrtvých v jiných konfliktech, které se napříč světem v posledních měsících a letech udály. \n\nZa 23 let trvání tohoto století desítky milionů.\n\nSvět potřebuje mír!\n\nZačátkem června příštího roku se uskuteční volby do EP. Vím, že je to slabá instituce s minimem pravomocí. Přesto věřím, že by tyto volby mohly nastartovat nejsilnější mírovou iniciativu v dějinách.\n\nSilná Evropská unie má potenciál být lídrem mírových snah ve světě. Mírových snah, které budou tvrdě protiimperialistické - ať už jde o imperialismus ruský, americký, čínský nebo jakýkoliv jiný.\n\nJen to chce zvolit politiky, kteří mír SKUTEČNĚ chtějí. Ne věrné lokaje velmocí, kteří se za slovo mír jen schovávají, ne prodloužené prsty zbrojařské lobby, ale ty, kteří to myslí vážně a dají tomu vše.\n\nBláznivý idealista Bača věří, že se to může podařit. Že mír může dostat šanci. V opačném případě budou nevinní dál umírat a v Evropě se v důsledku obrovského zbrojení zhroutí mnoho sociálních standardů. \n\nGIVE PEACE A CHANCE!🕊️✌️☮️"
+        ],
+        "ad_delivery_start_time": "2023-10-22",
+        "ad_delivery_stop_time": "2023-10-25",
+        "bylines": "Tadeáš Bača",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.049738",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.096859",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.138743",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.044503",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.026178",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.04712",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.041885",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.062827",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.112565",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.041885",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.057592",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.086387",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.136126",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.057592",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "1",
+                "age": "65+",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "152180357976361",
+        "page_name": "Tadeáš Bača",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "Women",
+        "target_ages": [
+            "65",
+            "65"
+        ],
+        "eu_total_reach": 384,
+        "beneficiary_payers": [
+            {
+                "payer": "Za naši Mohelnici a přidružené obce",
+                "beneficiary": "Za naši Mohelnici a přidružené obce",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "65+",
+                        "female": 384
+                    }
+                ]
+            }
+        ],
+        "_id": "1572754913463414"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1707267923118295&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-10-22",
+        "ad_creative_bodies": [
+            "Gratuluji přes pár kopců do Vidnavy k závaznému výsledku referenda, ve kterém se občané vyslovili PROTI obnově těžby kaolínu.\n\nVěřím, že výsledky referenda budou respektovat i na krajském úřadě a MŽP a učiní kroky, které jsou k realizaci vůle občanů a občanek Vidnavy nezbytné.\n\nSever našeho kraje je krásný a v minulosti tvrdě zkoušený region, další šrámy si nezaslouží.\n\nGlück auf!"
+        ],
+        "ad_delivery_start_time": "2023-10-22",
+        "ad_delivery_stop_time": "2023-10-24",
+        "bylines": "Tadeáš Bača",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Olomouc Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.048276",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.075862",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.117241",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.144828",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.117241",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.124138",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.137931",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.062069",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.075862",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.048276",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.041379",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.006897",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1001",
+            "upper_bound": "5000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "152180357976361",
+        "page_name": "Tadeáš Bača",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Vidnava, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 145,
+        "beneficiary_payers": [
+            {
+                "payer": "Za naši Mohelnici a přidružené obce",
+                "beneficiary": "Za naši Mohelnici a přidružené obce",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "55-64",
+                        "male": 17,
+                        "female": 18,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "18-24",
+                        "female": 6
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 7,
+                        "female": 7
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 11,
+                        "female": 11
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 20,
+                        "female": 21
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 9,
+                        "female": 17
+                    }
+                ]
+            }
+        ],
+        "_id": "1707267923118295"
+    }
+]

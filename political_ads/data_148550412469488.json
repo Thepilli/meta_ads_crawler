@@ -1,0 +1,674 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=695259866062547&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-11",
+        "ad_creative_link_captions": [
+            "decin.evangnet.cz",
+            "decin.evangnet.cz"
+        ],
+        "ad_creative_link_titles": [
+            "Jan Palach 55",
+            "Jan Palach 55"
+        ],
+        "ad_delivery_start_time": "2024-01-11",
+        "ad_delivery_stop_time": "2024-01-15",
+        "bylines": "Farní sbor Českobratrské církve evangelické v Děčíně",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.00042",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.0168",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.081478",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.081058",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.060479",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.156657",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.031499",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.02268",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.02268",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00042",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.330953",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.158757",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.01974",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00084",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00168",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00126",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00168",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.01092",
+                "age": "18-24",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "5000",
+            "upper_bound": "5999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "148550412469488",
+        "page_name": "Farní sbor Českobratrské církve evangelické v Děčíně",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "300",
+            "upper_bound": "399"
+        },
+        "target_locations": [
+            {
+                "name": "Decin, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 2379,
+        "beneficiary_payers": [
+            {
+                "payer": "Farní sbor Českobratrské církve evangelické v Děčíně",
+                "beneficiary": "Farní sbor Českobratrské církve evangelické v Děčíně",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 26,
+                        "female": 54,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 144,
+                        "female": 194,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 378,
+                        "female": 788,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 193,
+                        "female": 373,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 40,
+                        "female": 47,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 75,
+                        "female": 54,
+                        "unknown": 1
+                    }
+                ]
+            }
+        ],
+        "_id": "695259866062547"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=6921160047938854&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-04",
+        "ad_creative_bodies": [
+            "Zveme Vás na slavnostní odhalení pomníku Jana Palacha a Jana Zajíce od architekta Davida Vávry, které se uskuteční dne 16. ledna 2024 od 18:00 před evangelickým kostelem na Teplické ulici v Děčíně.\n \nPřipomínku 55. výročí činu Jana Palacha hudbou doprovodí Bohdan Mikolášek, Palachův současník a autor ikonické písně Ticho. Slavnostního aktu bude dále účasten předseda Senátu PČR Miloš Vystrčil, autor pomníku David Vávra, představitelé vedení Českobratrské církve evangelické a primátor města Děčín.\nStátní hymnu zazpívá Pěvecký sbor Gymnázia Děčín.\n \nTěšíme se na setkání s Vámi a děkujeme za předání pozvání Vašim přátelům."
+        ],
+        "ad_creative_link_captions": [
+            "Slavnostní odhalení děčínského pomníku Jana Palacha a Jana Zajíce"
+        ],
+        "ad_creative_link_descriptions": [
+            "Zveme Vás na slavnostní odhalení pomníku Jana Palacha a Jana Zajíce od architekta Davida Vávry, které se uskuteční dne 16. ledna 2024 od 18:00 před evangelickým kostelem na Teplické ulici v Děčíně.\n \nPřipomínku 55. výročí činu Jana Palacha hudbou doprovodí Bohdan Mikolášek, Palachův současník a autor ikonické písně Ticho. Slavnostního aktu bude dále účasten předseda Senátu PČR Miloš Vystrčil, autor pomníku David Vávra, představitelé vedení Českobratrské církve evangelické a primátor města Děčín.\nStátní hymnu zazpívá Pěvecký sbor Gymnázia Děčín.\n \nTěšíme se na setkání s Vámi a děkujeme za předání pozvání Vašim přátelům."
+        ],
+        "ad_creative_link_titles": [
+            "Slavnostní odhalení děčínského pomníku Jana Palacha a Jana Zajíce"
+        ],
+        "ad_delivery_start_time": "2024-01-04",
+        "ad_delivery_stop_time": "2024-01-15",
+        "bylines": "Farní sbor Českobratrské církve evangelické v Děčíně",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000412",
+                "region": "Sachsen"
+            },
+            {
+                "percentage": "0.053542",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.946046",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001637",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.13257",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.009002",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.077332",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.020458",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.128887",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.006956",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.081424",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.235679",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000818",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.046645",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.139116",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.022913",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.088789",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002455",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000409",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002046",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002864",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "6000",
+            "upper_bound": "6999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "148550412469488",
+        "page_name": "Farní sbor Českobratrské církve evangelické v Děčíně",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "500",
+            "upper_bound": "599"
+        },
+        "target_locations": [
+            {
+                "name": "Decin, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 2416,
+        "beneficiary_payers": [
+            {
+                "payer": "Farní sbor Českobratrské církve evangelické v Děčíně",
+                "beneficiary": "Farní sbor Českobratrské církve evangelické v Děčíně",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 22,
+                        "female": 17,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 114,
+                        "female": 189,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 340,
+                        "female": 576,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 217,
+                        "female": 324,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 199,
+                        "female": 315,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 50,
+                        "female": 56,
+                        "unknown": 4
+                    }
+                ]
+            },
+            {
+                "country": "DE",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "55-64",
+                        "male": 1
+                    }
+                ]
+            }
+        ],
+        "_id": "6921160047938854"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1171576416821748&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-02-01",
+        "ad_creative_bodies": [
+            "Při děčínském pietním aktu věnovaném Palachovi před čtyřmi lety vznikla myšlenka vybudování pomníku. Pomníku jemného, subtilního, přesto nesoucího silné poselství. Postupem času nabíral plán čím dal jasnějších kontur.\n\nAutoři plánu na vznik nového pomníku oslovili známého architekta a herce divadla Sklep Davida Vávru, kterému se myšlenka na pomník Jana Palacha a Jana Zajíce zalíbila a souhlasil s tím, že vytvoří jeho návrh. Vávra zvolil pro pomník netradiční materiál. Zatímco většinou se využívá kámen nebo kov, děčínský pomník bude skleněný a navíc bude interaktivní. O tom, jak bude v danou chvíli vypadat, rozhodnou lidé kolem něj chodící. Na vrcholu tenkého skleněného podstavce bude srdce, které bude zářit modře či červeně. To podle toho, zda se lidé jdoucí po ulici dotknou ruky Jana Palacha či Jana Zajíce.\n\nVíce informací: https://decin.evangnet.cz/jan-palach/\n\nZáštitu nad výstavbou pomníku Jana Palacha převzali předseda Senátu Parlamentu České republiky Miloš Vystrčil a senátor pro Děčínsko Zbyněk Linhart.\n\nProsíme Vás o podporu výstavby pomníku, ať již finančně, nebo sdílením této informace.\n\nDěkujeme."
+        ],
+        "ad_delivery_start_time": "2023-02-02",
+        "ad_delivery_stop_time": "2023-02-08",
+        "bylines": "Pavel Randák",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000617",
+                "region": "Sachsen"
+            },
+            {
+                "percentage": "0.022419",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.976964",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.002274",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.173625",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001447",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001033",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.075858",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.110996",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.045473",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.083506",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.096941",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00186",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.106449",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.095907",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.085573",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.059322",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.035759",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.020256",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002687",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001033",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "148550412469488",
+        "page_name": "Farní sbor Českobratrské církve evangelické v Děčíně",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "_id": "1171576416821748"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=736256097841787&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-01-11",
+        "ad_creative_bodies": [
+            "Zveme Vás ke vzpomínce na Jana Palacha, uctění jeho mimořádného činu, připomínce jeho odkazu...\n\nPřesně za týden, v pondělí 16. ledna 2023, se v 17:00 opět sejdeme v kostele na Teplické ul. v Děčíně. Svíčky i květiny s sebou.\n\nBudeme též rádi, když Vám budeme moci osobně představit projekt pomníku Jana Palacha a Jana Zajíce od Davida Vávry, který bychom v tomto roce chtěli před děčínským kostelem vybudovat.\n\nZáštitu nad výstavbou pomníku Jana Palacha převzali předseda Senátu Parlamentu České republiky Miloš Vystrčil a senátor pro Děčínsko Zbyněk Linhart\n\nVíce k památníku: https://decin.evangnet.cz/jan-palach/"
+        ],
+        "ad_delivery_start_time": "2023-01-11",
+        "ad_delivery_stop_time": "2023-01-17",
+        "bylines": "Pavel Randák",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000823",
+                "region": "Sachsen"
+            },
+            {
+                "percentage": "0.999177",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001604",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001604",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.055333",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001604",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.089816",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.081796",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.113873",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.116279",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.202085",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.036889",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.106656",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.109864",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.081796",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000802",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "5001",
+            "upper_bound": "10000"
+        },
+        "impressions": {
+            "lower_bound": "3000",
+            "upper_bound": "3999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "148550412469488",
+        "page_name": "Farní sbor Českobratrské církve evangelické v Děčíně",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "_id": "736256097841787"
+    }
+]

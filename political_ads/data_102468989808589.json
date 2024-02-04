@@ -1,0 +1,359 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1496542867832398&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-10-19",
+        "ad_creative_link_captions": [
+            "OSA ZLA: geopolitické souvislosti teroru Hamásu "
+        ],
+        "ad_creative_link_descriptions": [
+            "Srdečně vás zveme na debatu expertů z Centra transatlantických vztahů nesoucí název OSA ZLA: geopolitické souvislosti teroru Hamásu. Uskuteční se v pondělí 23. října od 17:00 v CEVRO Institutu, Jungmannova 17, Praha 1.\nNa debatě vystoupí: \n- Jaroslav Kuchyňa, senior fellow PCTR, \n- Tomáš Pojar, poradce pro národní bezpečnost a člen rady PCTR,\n- Alexandr Vondra, poslanec EP a předseda rady PCTR,\n- Michael Žantovský, senior fellow PCTR.\n\nV případě zájmu prosíme o potvrzení účasti na pctr@pctr.cz do konce týdne."
+        ],
+        "ad_creative_link_titles": [
+            "OSA ZLA: geopolitické souvislosti teroru Hamásu "
+        ],
+        "ad_delivery_start_time": "2023-10-19",
+        "ad_delivery_stop_time": "2023-10-20",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.875363",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.124637",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000482",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.017607",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.003859",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.09672",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.181621",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.026773",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.180656",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.029667",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.143029",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000965",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.136035",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.036179",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.014954",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.099855",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.022914",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.005306",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002894",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000482",
+                "age": "18-24",
+                "gender": "unknown"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "6000",
+            "upper_bound": "6999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "102468989808589",
+        "page_name": "CEVRO Institut",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "700",
+            "upper_bound": "799"
+        },
+        "target_locations": [
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            },
+            {
+                "name": "Central Bohemian Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 4107,
+        "beneficiary_payers": [
+            {
+                "payer": "Magnas Performance s.r.o.",
+                "beneficiary": "CEVRO",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 150,
+                        "female": 123,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 401,
+                        "female": 414,
+                        "unknown": 16
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 73,
+                        "female": 111,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 95,
+                        "female": 62,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 564,
+                        "female": 593,
+                        "unknown": 22
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 753,
+                        "female": 749,
+                        "unknown": 12
+                    }
+                ]
+            }
+        ],
+        "_id": "1496542867832398"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=671332947797621&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-12-16",
+        "ad_creative_link_captions": [
+            "cevroinstitut.cz",
+            "cevroinstitut.cz",
+            "cevroinstitut.cz"
+        ],
+        "ad_delivery_start_time": "2022-12-16",
+        "ad_delivery_stop_time": "2022-12-17",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.043546",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.311042",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.129082",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.055988",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.034215",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.007776",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.024883",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.043546",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.088647",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.046656",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.043546",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.096423",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.037325",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.037325",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.091757",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.055988",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.027994",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.07154",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.006221",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.304821",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.37325",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00311",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.032659",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.026439",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.004666",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001555",
+                "age": "55-64",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "102468989808589",
+        "page_name": "CEVRO Institut",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "_id": "671332947797621"
+    }
+]

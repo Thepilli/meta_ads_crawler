@@ -1,0 +1,175 @@
+[
+    {
+        "id": "8101321626558877",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=8101321626558877&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-02-02",
+        "ad_creative_bodies": [
+            "🚨Prodej městského pozemku manželovi prostějovské radní.🚨\n\n🚫 V Na rovinu! si potrpíme na transparentnost a rovný přístup. \nNyní vám ukážeme odstrašující příklad, jak se to dělat nemá.\n\n➡️✅ Vyzvali jsme vedení města k nápravě. Příště bude zadání parametrů obálkové metody jednoznačné."
+        ],
+        "ad_creative_link_titles": [
+            "Podivný prodej městského pozemku"
+        ],
+        "ad_delivery_start_time": "2024-02-02",
+        "bylines": "Prostějov Na rovinu",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Olomouc Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.007123",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.038462",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.052707",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.098291",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.138889",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.189459",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.069088",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.09188",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.104701",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.12037",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.06339",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.024217",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000712",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000712",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "232458533991461",
+        "page_name": "Prostějov Na rovinu",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Prostejov, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 1391,
+        "beneficiary_payers": [
+            {
+                "payer": "Prostějov Na rovinu",
+                "beneficiary": "Prostějov Na rovinu",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "male": 195,
+                        "female": 129,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 34,
+                        "female": 10
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 169,
+                        "female": 54
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 266,
+                        "female": 89,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 97,
+                        "female": 138
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 74,
+                        "female": 147
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,187 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=206908055693622&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-07",
+        "ad_creative_bodies": [
+            "\"Hrdina Stop na cestě popisuje mechanismus války, a to pohledem zdola, z řad těch, kteří v ní dávají všanc své životy. A k čtenářově překvapení přináší nečekaně upřímný příběh o lásce k životu, ať už je jakýkoli.\" napsala o Stopách na cestě jedna z nejuznávanějších českých spisovatelek KateřinaTučková"
+        ],
+        "ad_creative_link_captions": [
+            "familium.cz"
+        ],
+        "ad_creative_link_descriptions": [
+            "Podívejte se na ukrajinsko-ruskou válku očima skutečného ukrajinského vojáka. Kniha, která vám přiblíží realitu i díky více než 60 QR kódům."
+        ],
+        "ad_creative_link_titles": [
+            "Autentický příběh o válce na Ukrajině"
+        ],
+        "ad_delivery_start_time": "2023-11-07",
+        "ad_delivery_stop_time": "2023-11-08",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000473",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.04214",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.203125",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.106061",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.067708",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.03267",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.023201",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.036932",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.043561",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.088068",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.046875",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.066761",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.113636",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.077178",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.05161",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.171816",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.133427",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.037453",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.26779",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.271536",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.117978",
+                "age": "65+",
+                "gender": "female"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "2000",
+            "upper_bound": "2999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "110392171871210",
+        "page_name": "Stopy na cestě",
+        "publisher_platforms": [
+            "facebook",
+            "instagram",
+            "audience_network",
+            "messenger"
+        ],
+        "spend": {
+            "lower_bound": "300",
+            "upper_bound": "399"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "Women",
+        "target_ages": [
+            "21",
+            "65"
+        ],
+        "eu_total_reach": 2127,
+        "beneficiary_payers": [
+            {
+                "payer": "Familium.cz, dárky pro muže",
+                "beneficiary": "Familium.cz, dárky pro muže",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "female": 80
+                    },
+                    {
+                        "age_range": "25-34",
+                        "female": 285
+                    },
+                    {
+                        "age_range": "35-44",
+                        "female": 580
+                    },
+                    {
+                        "age_range": "45-54",
+                        "female": 572
+                    },
+                    {
+                        "age_range": "55-64",
+                        "female": 367
+                    },
+                    {
+                        "age_range": "65+",
+                        "female": 252
+                    }
+                ]
+            }
+        ],
+        "_id": "206908055693622"
+    }
+]

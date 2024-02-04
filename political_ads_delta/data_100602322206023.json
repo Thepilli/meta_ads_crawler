@@ -1,0 +1,671 @@
+[
+    {
+        "id": "699891328917957",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=699891328917957&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-22",
+        "ad_creative_bodies": [
+            "Co dalšího se událo v práci europoslankyně? \nDůležitá témata naplnily celý týden. V pravidelném týdnu v kostce se pokusím vše přiblížit. ;)\n\n...Ve STŘEDU jsem vystoupila na plénu, v projevu jsem upozornila na zdražování a energeticou krizi a její dopad na ženy, které jsou zasaženy více než muži. 👩❗...\n\nZajímá vás víc? Sledujte moji facebookovou stránku a nebo mi napište na e-mail radka.maxova@europarl.europa.eu. 📨"
+        ],
+        "ad_creative_link_captions": [
+            "facebook.com"
+        ],
+        "ad_creative_link_titles": [
+            "Radka Maxová"
+        ],
+        "ad_delivery_start_time": "2024-01-23",
+        "ad_delivery_stop_time": "2024-01-29",
+        "bylines": "Radka Maxová",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.401786",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.234694",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.354592",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.008929",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.002558",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002558",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.033248",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.005115",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.030691",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002558",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.079284",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.124041",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.130435",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.19821",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.141944",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.162404",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.076726",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.007673",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002558",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "500001",
+            "upper_bound": "1000000"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "100602322206023",
+        "page_name": "Radka Maxová",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "target_locations": [
+            {
+                "name": "South Bohemian Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            },
+            {
+                "name": "Central Bohemian Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            },
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "25",
+            "65"
+        ],
+        "eu_total_reach": 766,
+        "beneficiary_payers": [
+            {
+                "payer": "Radka Maxová",
+                "beneficiary": "Radka Maxová",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "35-44",
+                        "male": 62,
+                        "female": 24,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 97,
+                        "female": 102,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 26,
+                        "female": 6,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 111,
+                        "female": 60,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 127,
+                        "female": 155,
+                        "unknown": 4
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "758387259480327",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=758387259480327&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-18",
+        "ad_creative_bodies": [
+            "Jaké jsou názory obyvatel České republiky na Evropskou unii? 🤔\n\nZa finanční podpory Progresivní aliance socialistů a demokratů v EP jsem zadala studii s názvem Češi a EU a tady se můžete podívat na její shrnutí.\nStudie odráží názory obyvatel ČR na členství v EU. Ve videu najdete co bereme v Česku jako pozitiva a negativa EU nebo jaké vidíme hlavní výzvy pro Evropu do budoucna? A dostáváme vlastně o dění v Evropské unii dost informací? 🇨🇿🤝🇪🇺\n\nV případě otázek se na mě můžete obrátit buď tady, nebo na emailu radka.maxova@ep.europa.eu."
+        ],
+        "ad_creative_link_titles": [
+            "Češi a Evropská unie - Názory české populace na Evropskou unii."
+        ],
+        "ad_delivery_start_time": "2024-01-18",
+        "ad_delivery_stop_time": "2024-01-26",
+        "bylines": "Radka Maxová",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000467",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.054756",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.104398",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.112706",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.054315",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.04367",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.035024",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.043359",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.06618",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.138072",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.04946",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.052939",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.089054",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.100348",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.05525",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000842",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001473",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.039072",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00792",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.11861",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.174836",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.118084",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.243534",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.227353",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.010998",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.017576",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.038361",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000868",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000105",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000368",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "80000",
+            "upper_bound": "89999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "100602322206023",
+        "page_name": "Radka Maxová",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "5000",
+            "upper_bound": "5999"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "25",
+            "65"
+        ],
+        "eu_total_reach": 38027,
+        "beneficiary_payers": [
+            {
+                "payer": "Radka Maxová",
+                "beneficiary": "Radka Maxová",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 668,
+                        "female": 301,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 1485,
+                        "female": 418,
+                        "unknown": 14
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 4508,
+                        "female": 1458,
+                        "unknown": 32
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 6645,
+                        "female": 4488,
+                        "unknown": 33
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 8641,
+                        "female": 9256,
+                        "unknown": 56
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "228179303674456",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=228179303674456&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-18",
+        "ad_creative_bodies": [
+            "Jak vypadá můj pracovní týden v Evropském parlamentu? Jakým tématům ze sociální politiky jsme se v uplynulém týdnu v EP věnovali?\n\nSledujte moji facebookovou stránku a nebo mi napište na e-mail radka.maxova@europarl.europa.eu. 📨"
+        ],
+        "ad_creative_link_captions": [
+            "facebook.com"
+        ],
+        "ad_creative_link_titles": [
+            "Radka Maxová"
+        ],
+        "ad_delivery_start_time": "2024-01-18",
+        "ad_delivery_stop_time": "2024-01-22",
+        "bylines": "Radka Maxová",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.001408",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.053496",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.140779",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.123416",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.068512",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.038949",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.028625",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.046926",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.058189",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.1145",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.045519",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.047865",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.088221",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.093383",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.050211",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001401",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001868",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.053246",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.037366",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.091079",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.046707",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.18029",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.118169",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.133115",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.237739",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00327",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.078001",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000934",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.014012",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002802",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "3000",
+            "upper_bound": "3999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "100602322206023",
+        "page_name": "Radka Maxová",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "28",
+            "65"
+        ],
+        "eu_total_reach": 2146,
+        "beneficiary_payers": [
+            {
+                "payer": "Radka Maxová",
+                "beneficiary": "Radka Maxová",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 100,
+                        "female": 30,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 167,
+                        "female": 80,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 253,
+                        "female": 114,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 285,
+                        "female": 195,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 386,
+                        "female": 509,
+                        "unknown": 6
+                    }
+                ]
+            }
+        ]
+    }
+]

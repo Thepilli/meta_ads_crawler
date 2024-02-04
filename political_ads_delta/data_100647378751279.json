@@ -1,0 +1,179 @@
+[
+    {
+        "id": "354297497454875",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=354297497454875&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-24",
+        "ad_creative_bodies": [
+            "☝️Mít pocit domova, pocit bezpečí...Ne všichni mají to štěstí 😔\nRozhodla jsem se proto s mou Iniciativa Pivoňka  ulehčit start do nového života mladým lidem, kteří opouštějí dětské domovy, osamostatňují se a začínají žít ve vlastním. ❤️\nSbírku talířů, hrnků, skleniček, hrnců nebo ložního prádla jsem předala dětským domovům v Boršově nad Vltavou, Horní Plané a Zvíkovském Podhradí. \n\n‼️‼️A sbírka i nadále pokračuje, takže až budete při jarním úklidu vyřazovat nepotřebné či nehodící se vybavení, vzpomeňte si na nás. \nDěkujeme ❤️\nVaše Pivoňka Vaňková 💖.🌺🌺\n\n#pivonkavankova #pivonkavestanu #pivonkavesnemovne"
+        ],
+        "ad_creative_link_captions": [
+            "www.pivonkavankova.cz"
+        ],
+        "ad_delivery_start_time": "2024-01-24",
+        "ad_delivery_stop_time": "2024-01-25",
+        "bylines": "Pavla Pivoňka Vaňková STAN",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "South Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.059229",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.023416",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.061983",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.020661",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.03168",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.041322",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.152893",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.106061",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.319559",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.033058",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.064738",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.078512",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.004132",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001377",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001377",
+                "age": "18-24",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "page_id": "100647378751279",
+        "page_name": "Pavla Pivoňka Vaňková STAN",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "South Bohemian Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 744,
+        "beneficiary_payers": [
+            {
+                "payer": "Pavla Pivoňka Vaňková STAN",
+                "beneficiary": "Pavla Pivoňka Vaňková STAN",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "55-64",
+                        "male": 47,
+                        "female": 111,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 17,
+                        "female": 57,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 15,
+                        "female": 43
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 23,
+                        "female": 24
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 30,
+                        "female": 45
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 77,
+                        "female": 232,
+                        "unknown": 3
+                    }
+                ]
+            }
+        ]
+    }
+]

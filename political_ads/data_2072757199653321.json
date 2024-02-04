@@ -1,0 +1,2041 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=190733844094789&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-25",
+        "ad_creative_bodies": [
+            "Přidejte se a podepište petici na https://bit.ly/Nebourat!",
+            "Přidejte se a podepište petici na https://bit.ly/Nebourat!"
+        ],
+        "ad_creative_link_captions": [
+            "petice.com"
+        ],
+        "ad_creative_link_titles": [
+            "Zachraňme železniční most",
+            "Zachraňme železniční most"
+        ],
+        "ad_delivery_start_time": "2023-11-25",
+        "ad_delivery_stop_time": "2023-12-03",
+        "bylines": "Zachraňme Železniční most",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.055845",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.200872",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.091011",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.053594",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.039105",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.032916",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.041356",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.051625",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.087917",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.048108",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.047264",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.123927",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.085666",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.040793",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001981",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.098061",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.097495",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.169237",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.208292",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.202632",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.037074",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.164285",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.015848",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001415",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002264",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001415",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "9000",
+            "upper_bound": "9999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "2072757199653321",
+        "page_name": "Zachraňme Železniční most",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "38",
+            "65"
+        ],
+        "eu_total_reach": 7267,
+        "beneficiary_payers": [
+            {
+                "payer": "Nebourat z.s.",
+                "beneficiary": "Nebourat z.s.",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "65+",
+                        "male": 1472,
+                        "female": 1432,
+                        "unknown": 16
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 689,
+                        "female": 112,
+                        "unknown": 10
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 1161,
+                        "female": 262,
+                        "unknown": 14
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 1196,
+                        "female": 693,
+                        "unknown": 10
+                    }
+                ]
+            }
+        ],
+        "_id": "190733844094789"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=3479259048991590&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-25",
+        "ad_creative_bodies": [
+            "Přidejte se a podepište petici na https://bit.ly/Nebourat!"
+        ],
+        "ad_creative_link_captions": [
+            "www.petice.com"
+        ],
+        "ad_creative_link_titles": [
+            "Zachraňme železniční most"
+        ],
+        "ad_delivery_start_time": "2023-11-25",
+        "ad_delivery_stop_time": "2023-12-03",
+        "bylines": "Zachraňme Železniční most",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.03751",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.348364",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.096169",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.0415",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.031125",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.013966",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.026736",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.046688",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.086193",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.037909",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.04589",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.111333",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.048284",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.028332",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000802",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.1428",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.213799",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.136382",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.205375",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.157641",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.077818",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.022864",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.036101",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002808",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001604",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002006",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "500001",
+            "upper_bound": "1000000"
+        },
+        "impressions": {
+            "lower_bound": "3000",
+            "upper_bound": "3999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "2072757199653321",
+        "page_name": "Zachraňme Železniční most",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "50"
+        ],
+        "eu_total_reach": 2594,
+        "beneficiary_payers": [
+            {
+                "payer": "Nebourat z.s.",
+                "beneficiary": "Nebourat z.s.",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "male": 194,
+                        "female": 57,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 356,
+                        "female": 90,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 340,
+                        "female": 393,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 533,
+                        "female": 512,
+                        "unknown": 4
+                    }
+                ]
+            }
+        ],
+        "_id": "3479259048991590"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=367496539016608&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-14",
+        "ad_creative_bodies": [
+            "Přidejte se a podepište petici na https://bit.ly/Nebourat!"
+        ],
+        "ad_creative_link_captions": [
+            "www.petice.com"
+        ],
+        "ad_creative_link_titles": [
+            "Zachraňme železniční most"
+        ],
+        "ad_delivery_start_time": "2023-11-15",
+        "ad_delivery_stop_time": "2023-11-25",
+        "bylines": "Zachraňme Železniční most",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.035874",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.351501",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.09624",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.044498",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.03208",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.011728",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.027596",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.039669",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.076923",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.038289",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.050017",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.115902",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.048293",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.03139",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.003121",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002774",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.022191",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.15846",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.175451",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.166782",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.123093",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.344313",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.003814",
+                "age": "18-24",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "4000",
+            "upper_bound": "4999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "2072757199653321",
+        "page_name": "Zachraňme Železniční most",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "40"
+        ],
+        "eu_total_reach": 2993,
+        "beneficiary_payers": [
+            {
+                "payer": "Nebourat z.s.",
+                "beneficiary": "Nebourat z.s.",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 506,
+                        "female": 355,
+                        "unknown": 11
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 993,
+                        "female": 457,
+                        "unknown": 9
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 481,
+                        "female": 64,
+                        "unknown": 8
+                    }
+                ]
+            }
+        ],
+        "_id": "367496539016608"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=6951408378239045&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-14",
+        "ad_creative_bodies": [
+            "Přidejte se a podepište petici na https://bit.ly/Nebourat!"
+        ],
+        "ad_creative_link_captions": [
+            "www.petice.com"
+        ],
+        "ad_creative_link_titles": [
+            "Zachraňme železniční most"
+        ],
+        "ad_delivery_start_time": "2023-11-15",
+        "ad_delivery_stop_time": "2023-12-03",
+        "bylines": "Zachraňme Železniční most",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.041291",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.300036",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.096105",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.045078",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.025604",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.027948",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.035341",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.045078",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.074829",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.041111",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.049766",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.105481",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.072304",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.040029",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.035944",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.115716",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.185953",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.35155",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.254906",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.055933",
+                "age": "45-54",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "2072757199653321",
+        "page_name": "Zachraňme Železniční most",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "Women",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 5273,
+        "beneficiary_payers": [
+            {
+                "payer": "Nebourat z.s.",
+                "beneficiary": "Nebourat z.s.",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "female": 1917
+                    },
+                    {
+                        "age_range": "25-34",
+                        "female": 1014
+                    },
+                    {
+                        "age_range": "35-44",
+                        "female": 196
+                    },
+                    {
+                        "age_range": "45-54",
+                        "female": 305
+                    },
+                    {
+                        "age_range": "55-64",
+                        "female": 631
+                    },
+                    {
+                        "age_range": "65+",
+                        "female": 1390
+                    }
+                ]
+            }
+        ],
+        "_id": "6951408378239045"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1491601565024262&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-14",
+        "ad_creative_bodies": [
+            "Přidejte se a podepište petici na https://bit.ly/Nebourat!",
+            "Přidejte se a podepište petici na https://bit.ly/Nebourat!"
+        ],
+        "ad_creative_link_captions": [
+            "petice.com"
+        ],
+        "ad_creative_link_titles": [
+            "Zachraňme železniční most",
+            "Zachraňme železniční most"
+        ],
+        "ad_delivery_start_time": "2023-11-15",
+        "ad_delivery_stop_time": "2023-11-25",
+        "bylines": "Zachraňme Železniční most",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.058967",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.190289",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.088721",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.047336",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.036381",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.04152",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.048823",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.048012",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.088721",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.04436",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.056668",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.117122",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.088315",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.044766",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.034492",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.274064",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.560829",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.130615",
+                "age": "45-54",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "2072757199653321",
+        "page_name": "Zachraňme Železniční most",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "Women",
+        "target_ages": [
+            "40",
+            "65"
+        ],
+        "eu_total_reach": 7255,
+        "beneficiary_payers": [
+            {
+                "payer": "Nebourat z.s.",
+                "beneficiary": "Nebourat z.s.",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "35-44",
+                        "female": 258
+                    },
+                    {
+                        "age_range": "45-54",
+                        "female": 977
+                    },
+                    {
+                        "age_range": "55-64",
+                        "female": 2050
+                    },
+                    {
+                        "age_range": "65+",
+                        "female": 4195
+                    }
+                ]
+            }
+        ],
+        "_id": "1491601565024262"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1019824969291987&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-08",
+        "ad_creative_bodies": [
+            "Zachovat a opravit železniční most pod Vyšehradem! Říkají kajakář Vavřinec Hradilek, hudebník a režisér Ondrej Havelka and his Melody Makers, kardiochirurg a senátor Prof. Jan Pirk, architektka Eva Jiricna, režisér Jan Hřebejk a designérka a podnikatelka Anna Maresova designers. Přidejte se i vy - podepište petici na https://bit.ly/Nebourat! \n\nZa video děkujeme tvůrčí skupině Remízek. \n\nMartin Kupka Martin Baxa International Council on Monuments and Sites (ICOMOS) UNESCO Národní památkový ústav Petr Hlaváček - náměstek pro rozvoj ČT24 Zdeněk Hřib - náměstek pro dopravu Bohuslav Svoboda, primátor hl. m. Prahy Jiří Pospíšil Klub Za starou Prahu Ondřej Prokop"
+        ],
+        "ad_creative_link_captions": [
+            "www.petice.com"
+        ],
+        "ad_creative_link_titles": [
+            "Zachovat a opravit železniční most! Říkají osobnosti"
+        ],
+        "ad_delivery_start_time": "2023-11-08",
+        "ad_delivery_stop_time": "2023-11-12",
+        "bylines": "Zachraňme Železniční most",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.743018",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.256982",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.00138",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.134663",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001534",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00046",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001994",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.013957",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.044785",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.013497",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.115031",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.024233",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.202761",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.171012",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.128067",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.079294",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.019939",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.005061",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.041718",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000613",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "page_id": "2072757199653321",
+        "page_name": "Zachraňme Železniční most",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "900",
+            "upper_bound": "999"
+        },
+        "target_locations": [
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            },
+            {
+                "name": "Central Bohemian Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 6425,
+        "beneficiary_payers": [
+            {
+                "payer": "Zachraňme Železniční most",
+                "beneficiary": "Zachraňme Železniční most",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 878,
+                        "female": 1322,
+                        "unknown": 33
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 517,
+                        "female": 91,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 292,
+                        "female": 130,
+                        "unknown": 13
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 272,
+                        "female": 88,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 750,
+                        "female": 158,
+                        "unknown": 10
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 1115,
+                        "female": 835,
+                        "unknown": 9
+                    }
+                ]
+            }
+        ],
+        "_id": "1019824969291987"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=711460574204756&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-10-31",
+        "ad_creative_bodies": [
+            "🤎Přátelé, nechali jsme prověřit nutnost třetí koleje zkušeným nezávislým dopravním technologem!🤎 Na základě dostupných dat pro předpokládaný výhledový provoz se ukazuje, že při modernizaci zabezpečovacího zařízení \n\n👉TŘETÍ KOLEJ PŘES ŘEKU NENÍ NUTNÁ!👈\n \n👉Tyto poznatky shrnuje studie, která počítá se zastávkou pro oblast Výtoně i Albertova a provozem plánované tangenciální linky Smíchov – Vršovice. Její detailní výsledky vám představíme během příštího týdne. \n\n👉Jsme  v kontaktu s JASPERS, poradenskou službou Evropské investiční banky, která dle svého vlastního vyjádření klade důraz na komplexní analýzu všech variant a řádné konzultace během celého procesu. \n\n👉Podle téhož vyjádření aktuálně pro tříkolejné řešení Správy železnic neočekává EIB použití svých fondů. Evropské peníze přitom i v Praze mohou běžně podpořit významné projekty přispívající k udržitelné dopravě.\n\n👉Údajná potřeba třetí koleje je Správou železnic dlouhodobě prezentována jako záminka pro demolici kulturní památky železničního mostu pod Vyšehradem. Nutnost prověřit potřebu třetí koleje požaduje i vědecká rada generální ředitelky Národního památkového úřadu. \n\n👉Svůj projekt Správa železnic zároveň prosazuje před tím, než je dokončena revize celé koncepce pražského železničního uzlu, jehož je železniční most součástí."
+        ],
+        "ad_creative_link_captions": [
+            "nebourat.cz"
+        ],
+        "ad_creative_link_descriptions": [
+            "Nebourat.cz Zachraňme železniční most pod VyšehrademPODEPSAT PETICI PETIČNÍ ARCHY KE STAŽENÍ PETICE dle čl. 18 Listiny základních práv a svobod a zákona č. 85/1990 Sb. o právu petičním za zachování a opravu kulturní památky železničního mostu pod Vyšehradem My, níže podep..."
+        ],
+        "ad_creative_link_titles": [
+            "Nebourat.cz – Zachraňme železniční most pod Vyšehradem"
+        ],
+        "ad_delivery_start_time": "2023-10-31",
+        "ad_delivery_stop_time": "2023-11-04",
+        "bylines": "Zachraňme Železniční most",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.964044",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.035956",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001675",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.076826",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.020724",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.016747",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.068244",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.129998",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.065522",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.042495",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.139627",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001465",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.147792",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.136697",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.110739",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.033284",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001047",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00314",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001884",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002093",
+                "age": "18-24",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1001",
+            "upper_bound": "5000"
+        },
+        "impressions": {
+            "lower_bound": "6000",
+            "upper_bound": "6999"
+        },
+        "page_id": "2072757199653321",
+        "page_name": "Zachraňme Železniční most",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "target_locations": [
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 4570,
+        "beneficiary_payers": [
+            {
+                "payer": "Zachraňme Železniční most",
+                "beneficiary": "Zachraňme Železniční most",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 367,
+                        "female": 203,
+                        "unknown": 10
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 621,
+                        "female": 99,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 706,
+                        "female": 326,
+                        "unknown": 15
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 529,
+                        "female": 159,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 653,
+                        "female": 80,
+                        "unknown": 9
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 667,
+                        "female": 313,
+                        "unknown": 8
+                    }
+                ]
+            }
+        ],
+        "_id": "711460574204756"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1478613746271565&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-10-12",
+        "ad_creative_bodies": [
+            "Proč podepsat naši petici na https://nebourat.cz/? Přinášíme první dávku argumentů...\n\n👉Železniční most na Vyšehradě je kulturní památka v centru města a v památkové rezervaci UNESCO. Je klíčovou součástí panoramatu Prahy a výhledů z mnoha míst města. \n👉Památková ochrana mostu byla už dvakrát navzdory snahám Správy železnic potvrzena. \n👉Most je jedním z posledních svého druhu v České republice. Je nejlepším příkladem klasické městské železnice v Praze a dokladem rozvoje Prahy na počátku 20. století. \n👉Výjimečnost mostu představuje potenciál pro příjmy Prahy z turismu. Most také pomáhá zvýšit atraktivitu nejen historického jádra Prahy pro turisty i občany ČR a ulevuje tak centru města.\n👉V zahraničí se historické mosty, které jsou obdobně výjimečné a ikonické jako most pod Vyšehradem, opravují.\n👉Bourání mostu by byla promarněná šance a mezinárodní ostuda. Památková ochrana mostu musí být nezbytným výchozím parametrem plánování pražského železničního uzlu."
+        ],
+        "ad_creative_link_captions": [
+            "nebourat.cz"
+        ],
+        "ad_creative_link_descriptions": [
+            "Nebourat.cz Zachraňme železniční most pod VyšehrademPODEPSAT PETICI PETIČNÍ ARCHY KE STAŽENÍ PETICE dle čl. 18 Listiny základních práv a svobod a zákona č. 85/1990 Sb. o právu petičním za zachování a opravu kulturní památky železničního mostu pod Vyšehradem My, níže podep..."
+        ],
+        "ad_creative_link_titles": [
+            "Nebourat.cz – Zachraňme železniční most pod Vyšehradem"
+        ],
+        "ad_delivery_start_time": "2023-10-12",
+        "ad_delivery_stop_time": "2023-10-16",
+        "bylines": "Zachraňme Železniční most",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.975552",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.024448",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.020259",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.034036",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.038088",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001621",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.004862",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002431",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.081848",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.169368",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.060778",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.003241",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.102917",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.044571",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.110211",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.110211",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.047002",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.163695",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.004862",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100",
+            "upper_bound": "1000"
+        },
+        "impressions": {
+            "lower_bound": "4000",
+            "upper_bound": "4999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "2072757199653321",
+        "page_name": "Zachraňme Železniční most",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "target_locations": [
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 1255,
+        "beneficiary_payers": [
+            {
+                "payer": "Zachraňme Železniční most",
+                "beneficiary": "Zachraňme Železniční most",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 42,
+                        "female": 25
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 127,
+                        "female": 101,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 75,
+                        "female": 58,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 55,
+                        "female": 47,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 209,
+                        "female": 136,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 202,
+                        "female": 136,
+                        "unknown": 6
+                    }
+                ]
+            }
+        ],
+        "_id": "1478613746271565"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=525600136436556&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-10-07",
+        "ad_creative_bodies": [
+            "Přátelé, podepište naši petici za záchranu ikonického železničního mostu pod Vyšehradem na https://nebourat.cz/ Podívejte se, jak jsme vytvořili lidský řetěz na našem mostu. Všem vám moc děkujem, byli jste skvělí!!! 🤎🤎🤎",
+            "Přátelé, podepište naši petici za záchranu ikonického železničního mostu pod Vyšehradem na https://nebourat.cz/ Podívejte se, jak jsme vytvořili lidský řetěz na našem mostu. Všem vám moc děkujem, byli jste skvělí!!! 🤎🤎🤎"
+        ],
+        "ad_creative_link_captions": [
+            "nebourat.cz"
+        ],
+        "ad_creative_link_descriptions": [
+            "Nebourat.cz Zachraňme železniční most pod VyšehrademPODEPSAT PETICI PETIČNÍ ARCHY KE STAŽENÍ PETICE dle čl. 18 Listiny základních práv a svobod a zákona č. 85/1990 Sb. o právu petičním za zachování a opravu kulturní památky železničního mostu pod Vyšehradem My, níže podep...",
+            "Nebourat.cz Zachraňme železniční most pod VyšehrademPODEPSAT PETICI PETIČNÍ ARCHY KE STAŽENÍ PETICE dle čl. 18 Listiny základních práv a svobod a zákona č. 85/1990 Sb. o právu petičním za zachování a opravu kulturní památky železničního mostu pod Vyšehradem My, níže podep..."
+        ],
+        "ad_creative_link_titles": [
+            "Je to můj most, je to náš most!",
+            "Je to můj most, je to náš most!"
+        ],
+        "ad_delivery_start_time": "2023-10-07",
+        "ad_delivery_stop_time": "2023-10-16",
+        "bylines": "Zachraňme Železniční most",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.055489",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.129055",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.115166",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.058962",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.050383",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.027166",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.047728",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.055115",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.113804",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.050757",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.056783",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.106723",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.085957",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.046911",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000545",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.157302",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001225",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.008644",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.111357",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.161522",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.172276",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.050948",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.149985",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000919",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.038662",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.105095",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.023177",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.012082",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00371",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001327",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000442",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000783",
+                "age": "18-24",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "40000",
+            "upper_bound": "44999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "2072757199653321",
+        "page_name": "Zachraňme Železniční most",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "1500",
+            "upper_bound": "1999"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 28749,
+        "beneficiary_payers": [
+            {
+                "payer": "Nebourat z.s.",
+                "beneficiary": "Nebourat z.s.",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 1136,
+                        "female": 109,
+                        "unknown": 23
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 5062,
+                        "female": 681,
+                        "unknown": 36
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 4746,
+                        "female": 3088,
+                        "unknown": 39
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 4407,
+                        "female": 1497,
+                        "unknown": 13
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 4622,
+                        "female": 355,
+                        "unknown": 27
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 3272,
+                        "female": 254,
+                        "unknown": 16
+                    }
+                ]
+            }
+        ],
+        "_id": "525600136436556"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=802292094974415&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-09-07",
+        "ad_creative_bodies": [
+            "Přijďte v sobotu podpořit záchranu želeničního mostu pod Vyšehradem❗Řetěz za záchranu železničního mostu❗ Sejdeme se už tuto sobotu 9. 9. od 14:00 na náplavce u mostu (na výtoňské straně). Přijďte s námi ukázat, že nejen UNESCO, nejen ICOMOS, nejen více než 120 českých i světových architektů, nejen památkáři, nejen pražští senátoři, nejen osobnosti veřejného života, ale i MY, občané a občanky, si přejeme zachování a opravu mostu v souladu s moderními technologiemi, aby mohl sloužit železničnímu provozu dalších 100 let. A proč?\n➡ Železniční most je zákonem chráněná kulturní památka.\n➡ Je jedinečnou součástí pražského panoramatu.\n➡ To, že most chátrá, je mezinárodní ostuda.\n➡ Odborníci potvrdili, že most JE opravitelný.\n➡ Podobné mosty se opravují a jejich životnost se prodlužuje všude na světě. Čím to, že jen u nás to nejde?\nPřidejte se: https://www.facebook.com/events/6633437140033410/?\nDěkujeme 🤎."
+        ],
+        "ad_creative_link_captions": [
+            "www.facebook.com"
+        ],
+        "ad_delivery_start_time": "2023-09-07",
+        "ad_delivery_stop_time": "2023-09-09",
+        "bylines": "Zachraňme Železniční most",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.847333",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.152667",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000837",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.135728",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00201",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001256",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.070585",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.068157",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.122247",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.177761",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.055849",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.004354",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.025873",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.033074",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.030143",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.114377",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.027966",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.126601",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001256",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001926",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "500001",
+            "upper_bound": "1000000"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "2072757199653321",
+        "page_name": "Zachraňme Železniční most",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "target_locations": [
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            },
+            {
+                "name": "Central Bohemian Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 11837,
+        "beneficiary_payers": [
+            {
+                "payer": "Nebourat z.s.",
+                "beneficiary": "Nebourat z.s.",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 395,
+                        "female": 334,
+                        "unknown": 15
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 843,
+                        "female": 1512,
+                        "unknown": 23
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 309,
+                        "female": 667,
+                        "unknown": 10
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 360,
+                        "female": 814,
+                        "unknown": 15
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 1460,
+                        "female": 2123,
+                        "unknown": 52
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 1366,
+                        "female": 1621,
+                        "unknown": 24
+                    }
+                ]
+            }
+        ],
+        "_id": "802292094974415"
+    }
+]

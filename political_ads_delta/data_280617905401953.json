@@ -1,0 +1,562 @@
+[
+    {
+        "id": "1738750576610616",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1738750576610616&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-02-02",
+        "ad_creative_bodies": [
+            "Navštívila jsem naše útočiště pro lidi bez domova na lodi Hermes, v Troji a v Kloubových domech spolu s ředitelem Centrum sociálních služeb Praha, panem Romanem Bélou. Jsem moc ráda, že se nám díky usilovné práci letos podařilo navýšit kapacitu na 620 lůžek. Ta v těchto mrazivých měsících poskytují nejen střechu nad hlavou, ale i pocit bezpečí a naděje. Historicky poprvé také máme k dispozici i místa v nemocnici, konkrétně 4 lůžka v Nemocnice Na Františku a 3 lůžka v Nemocnici následné péče ve Vysočanech. 🏠❤️\n\nKaždý z nás je totiž důležitý a zaslouží si naši podporu. To je poselství, které šíříme společně s naším Centrem sociálních služeb, které v zajišťování pomoci hraje klíčovou roli. Celý systém by ale nefungoval bez přispění Armáda spásy, NADĚJE, pobočka Praha, Arcidiecézní charita Praha, Medici na ulici a mnoha dalších organizací, které se podílejí na tom, aby v Praze nikdo nemusel čelit zimě osamocen. 🤝\n\nJsem vděčná všem, kteří pomáhají. Jsem vděčná, že jste nikoho nenechali na holičkách a že doslova zachraňujete lidské životy. Každá ruka, která pomůže, každé laskavé slovo totiž může změnit něčí osud. Je mi ctí být součástí tak skvěle fungujícího týmu. 🙏"
+        ],
+        "ad_delivery_start_time": "2024-02-02",
+        "bylines": "Občanská demokratická strana",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.993164",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.006836",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001243",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001243",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000373",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000124",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001243",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.109344",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.083748",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.113196",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.230865",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.189985",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.074056",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.107107",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.075547",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.006585",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.005343",
+                "age": "55-64",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "500001",
+            "upper_bound": "1000000"
+        },
+        "impressions": {
+            "lower_bound": "8000",
+            "upper_bound": "8999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "280617905401953",
+        "page_name": "Alexandra Udženija",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "55"
+        ],
+        "eu_total_reach": 7879,
+        "beneficiary_payers": [
+            {
+                "payer": "Alexandra Udženija",
+                "beneficiary": "Alexandra Udženija",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 608,
+                        "female": 674,
+                        "unknown": 10
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 1858,
+                        "female": 911,
+                        "unknown": 10
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 1529,
+                        "female": 862,
+                        "unknown": 10
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 880,
+                        "female": 596,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 53,
+                        "female": 43,
+                        "unknown": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1461787171070919",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1461787171070919&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-25",
+        "ad_creative_bodies": [
+            "Byla jsem se před časem podívat v Lysolajích, kde vyrostly krásné nové domy za finanční podpory hl.m. Prahy. 🏘️ Pobavila jsem se i s novými nájemníky, jak jsou s novým bydlením spokojení. Byty jsou připravené pro zdravotně postižené nebo třeba pro hasiče, zdravotníky nebo učitele. \nTi všichni tu najdou nový domov, bezpečí a pohodlí. Pojďte se mnou na krátkou návštěvu. 👀"
+        ],
+        "ad_creative_link_titles": [
+            "Návštěva bytů v Lysolajích"
+        ],
+        "ad_delivery_start_time": "2024-01-28",
+        "ad_delivery_stop_time": "2024-02-01",
+        "bylines": "Občanská demokratická strana",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.959273",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.040727",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.036405",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.382451",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.170209",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.111857",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.034371",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.261244",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000346",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002684",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000433",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "40000",
+            "upper_bound": "44999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "280617905401953",
+        "page_name": "Alexandra Udženija",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "target_locations": [
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "25",
+            "45"
+        ],
+        "eu_total_reach": 22940,
+        "beneficiary_payers": [
+            {
+                "payer": "Alexandra Udženija",
+                "beneficiary": "Alexandra Udženija",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "male": 841,
+                        "female": 794,
+                        "unknown": 8
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 3932,
+                        "female": 2584,
+                        "unknown": 10
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 8835,
+                        "female": 6035,
+                        "unknown": 62
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1765184997295996",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1765184997295996&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-28",
+        "ad_creative_bodies": [
+            "Byla jsem se před časem podívat v Lysolajích, kde vyrostly krásné nové domy za finanční podpory hl.m. Prahy. 🏘️ Pobavila jsem se i s novými nájemníky, jak jsou s novým bydlením spokojení. Byty jsou připravené pro zdravotně postižené nebo třeba pro hasiče, zdravotníky nebo učitele. \nTi všichni tu najdou nový domov, bezpečí a pohodlí. Pojďte se mnou na krátkou návštěvu. 👀"
+        ],
+        "ad_creative_link_captions": [
+            "instagram.com"
+        ],
+        "ad_delivery_start_time": "2024-01-28",
+        "ad_delivery_stop_time": "2024-02-01",
+        "bylines": "Občanská demokratická strana",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.975314",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.024554",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.000132",
+                "region": "Unknown"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.003231",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.012922",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.004442",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.189528",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.198681",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.107686",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.48028",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.003231",
+                "age": "35-44",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "500001",
+            "upper_bound": "1000000"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "280617905401953",
+        "page_name": "Alexandra Udženija",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "target_locations": [
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "35"
+        ],
+        "eu_total_reach": 7559,
+        "beneficiary_payers": [
+            {
+                "payer": "Alexandra Udženija",
+                "beneficiary": "Alexandra Udženija",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 1476,
+                        "female": 3568,
+                        "unknown": 96
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 800,
+                        "female": 1408,
+                        "unknown": 24
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 24,
+                        "female": 33
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "301848932418906",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=301848932418906&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-21",
+        "ad_creative_bodies": [
+            "Každá druhá žena se setká se sexuálním obtěžováním nebo násilím. 😡 Nedělám si ideály, že z naší společnosti domácí nebo sexualizované násilí nadobro zmizí, ale musíme mu říct jasné NE!\n\nA nejen to. Musíme být schopni ženám, ale i mužům, kteří si takovým traumatem procházejí, poskytnout bezpečné útočiště a pomoc. A právě takové místo budeme mít už od pondělí 22. ledna u nás v Praze. 👍 Už v pondělí totiž otevře své dveře centrum PORT společnosti proFem o.p.s. 🙏 Jsem proto moc ráda, že jsme mohli otevření takto komplexního centra podpořit, a to téměř čtyřmi miliony. Poděkování tedy patří i mým kolegům z Rady hlavního města.\n\nVěřím, že v Portu najdou ti, kteří potřebují pomoc, svůj bezpečný přístav. Jsem ráda, že vás máme. Jsem vděčná, že pomáháte. ❤"
+        ],
+        "ad_delivery_start_time": "2024-01-21",
+        "ad_delivery_stop_time": "2024-01-27",
+        "bylines": "Občanská demokratická strana",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.966941",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.033059",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.239243",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.462117",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.276769",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.021871",
+                "age": "45-54",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "100000",
+            "upper_bound": "124999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "280617905401953",
+        "page_name": "Alexandra Udženija",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "2500",
+            "upper_bound": "2999"
+        },
+        "target_locations": [
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "Women",
+        "target_ages": [
+            "22",
+            "45"
+        ],
+        "eu_total_reach": 100364,
+        "beneficiary_payers": [
+            {
+                "payer": "Alexandra Udženija",
+                "beneficiary": "Alexandra Udženija",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "female": 27967
+                    },
+                    {
+                        "age_range": "25-34",
+                        "female": 46696
+                    },
+                    {
+                        "age_range": "35-44",
+                        "female": 24175
+                    },
+                    {
+                        "age_range": "45-54",
+                        "female": 2210
+                    }
+                ]
+            }
+        ]
+    }
+]

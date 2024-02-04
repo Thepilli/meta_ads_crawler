@@ -1,0 +1,208 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=679036637328962&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-14",
+        "ad_creative_link_captions": [
+            "leafenergytravelqi.xyz"
+        ],
+        "ad_creative_link_descriptions": [
+            "Český prezident učinil významné prohlášení, když oznámil objev zásob ropy s kapacitou těžby 50 000 barelů denně v Brně a Kujově. Nové zásoby ropy pokryjí desetinu denní spotřeby země a budou mít miliardovou hodnotu."
+        ],
+        "ad_creative_link_titles": [
+            "Více informací"
+        ],
+        "ad_delivery_start_time": "2023-11-15",
+        "ad_delivery_stop_time": "2023-11-15",
+        "currency": "USD",
+        "delivery_by_region": [
+            {
+                "percentage": "0.001475",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.047198",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.10472",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.078171",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.063422",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.020649",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.057522",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.057522",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.045723",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.129794",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.030973",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.053097",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.097345",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.168142",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.044248",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.00295",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001475",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00295",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.082596",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.321534",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.10177",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.238938",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.023599",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.117994",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.066372",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.039823",
+                "age": "25-34",
+                "gender": "female"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "122210350877457",
+        "page_name": "Rampart Business Solutions",
+        "publisher_platforms": [
+            "facebook",
+            "instagram",
+            "audience_network",
+            "messenger"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "33",
+            "59"
+        ],
+        "eu_total_reach": 675,
+        "beneficiary_payers": [
+            {
+                "payer": "Rampart Business Solutions",
+                "beneficiary": "Rampart Business Solutions",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 80,
+                        "female": 27,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 218,
+                        "female": 69,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 162,
+                        "female": 45,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 56,
+                        "female": 16
+                    }
+                ]
+            }
+        ],
+        "_id": "679036637328962"
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=357816379939398&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-01",
+        "ad_creative_link_captions": [
+            "cz.genomehaven.xyz"
+        ],
+        "ad_creative_link_descriptions": [
+            "Český prezident učinil významné prohlášení, když oznámil objev zásob ropy s kapacitou těžby 50 000 barelů denně v Brně a Kujově. Nové zásoby ropy pokryjí desetinu denní spotřeby země a budou mít miliardovou hodnotu."
+        ],
+        "ad_creative_link_titles": [
+            "MND"
+        ],
+        "ad_delivery_start_time": "2023-11-01",
+        "ad_delivery_stop_time": "2023-11-02",
+        "currency": "EUR",
+        "delivery_by_region": [
+            {
+                "percentage": "0.002315",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.053241",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.122685",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.064815",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.046296",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.027778",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.060185",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.046296",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.043981",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.092593",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.043981",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.078704",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.101852",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.178241",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.037037",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.148492",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.092807",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.102088",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.24594",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.118329",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.074246",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.148492",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.062645",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00232",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00464",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "104679152736019",
+        "page_name": "Informed Strategy",
+        "publisher_platforms": [
+            "facebook",
+            "instagram",
+            "audience_network",
+            "messenger"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "30",
+            "64"
+        ],
+        "eu_total_reach": 443,
+        "beneficiary_payers": [
+            {
+                "payer": "Анна Чичкан",
+                "beneficiary": "Анна Чичкан",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 64,
+                        "female": 27
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 106,
+                        "female": 51,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 64,
+                        "female": 40,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 44,
+                        "female": 32
+                    }
+                ]
+            }
+        ],
+        "_id": "357816379939398"
+    }
+]

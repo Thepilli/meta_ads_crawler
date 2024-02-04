@@ -1,0 +1,417 @@
+[
+    {
+        "id": "678950854312366",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=678950854312366&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-23",
+        "ad_creative_bodies": [
+            "❄️ Sousedé, své bruslení můžete letos nově pilovat v areálu Pražačka  ⛸ ⛸ ⛸.\n👉 Zdejší syntetická ledová plocha je v provozu až do 17. března ⏰ (vhodná je spíše pro menší děti a začátečníky).\n👉 pro školy od 8:00 do 14:00 \n🔹 Pro veřejnost ve všední dny 15:00 až 20:00, o víkendu 10:00 až 18:00  ❄️\n(vstupné 120 Kč, do 14 let 80 Kč) 💰. \n🔹 Půjčovna bruslí v provozu 👈."
+        ],
+        "ad_delivery_start_time": "2024-01-23",
+        "bylines": "Městská část Praha 3",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000221",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.000221",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.999115",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.000221",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.000221",
+                "region": "South Moravian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000215",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.031828",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002581",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000645",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00172",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.032688",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.021075",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.032903",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.090753",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.064516",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.137634",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.16043",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.02129",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.156344",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.20086",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.004301",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.039355",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00086",
+                "age": "18-24",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100",
+            "upper_bound": "1000"
+        },
+        "impressions": {
+            "lower_bound": "9000",
+            "upper_bound": "9999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "271054846258904",
+        "page_name": "Praha 3",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "300",
+            "upper_bound": "399"
+        },
+        "target_locations": [
+            {
+                "name": "130 00, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "zips",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 4521,
+        "beneficiary_payers": [
+            {
+                "payer": "Praha 3",
+                "beneficiary": "Praha 3",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "55-64",
+                        "male": 99,
+                        "female": 183,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 640,
+                        "female": 934,
+                        "unknown": 20
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 98,
+                        "female": 153,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 300,
+                        "female": 422,
+                        "unknown": 8
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 727,
+                        "female": 746,
+                        "unknown": 12
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 152,
+                        "female": 148,
+                        "unknown": 4
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "6876174222492322",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=6876174222492322&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-11",
+        "ad_creative_bodies": [
+            "Zúčastněte se elektronické aukce vybraných bytů k pronájmu v naší nejkrásnější městské části 🚀 🚀 🚀.\n🔹 Lhůta pro podání přihlášek začíná 8. 1. 2024 a končí 29. 1. 2024 v 18:00 ⏰.\n👉  Všechny potřebné informace najdete zde: https://1url.cz/SrMEV  👁 👁 👁."
+        ],
+        "ad_delivery_start_time": "2024-01-12",
+        "ad_delivery_stop_time": "2024-01-29",
+        "bylines": "Městská část Praha 3",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.988783",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.011217",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000348",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.030282",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.004786",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002611",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002262",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.015576",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.023408",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.120954",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.111295",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000522",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.211712",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.189871",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.14993",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.027323",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.048643",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.044901",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.014619",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000957",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100",
+            "upper_bound": "1000"
+        },
+        "impressions": {
+            "lower_bound": "15000",
+            "upper_bound": "19999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "271054846258904",
+        "page_name": "Praha 3",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "500",
+            "upper_bound": "599"
+        },
+        "target_locations": [
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "130 00, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "zips",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 11501,
+        "beneficiary_payers": [
+            {
+                "payer": "Praha 3",
+                "beneficiary": "Praha 3",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "55-64",
+                        "male": 179,
+                        "female": 516,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 559,
+                        "female": 1279,
+                        "unknown": 30
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 168,
+                        "female": 348,
+                        "unknown": 11
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 1390,
+                        "female": 2182,
+                        "unknown": 55
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 269,
+                        "female": 314,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 1723,
+                        "female": 2433,
+                        "unknown": 26
+                    }
+                ]
+            }
+        ]
+    }
+]

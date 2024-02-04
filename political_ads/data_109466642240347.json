@@ -1,0 +1,455 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=843583170904690&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-02",
+        "ad_creative_link_captions": [
+            "instagram.com",
+            "instagram.com",
+            "instagram.com",
+            "instagram.com",
+            "instagram.com",
+            "instagram.com",
+            "instagram.com",
+            "instagram.com",
+            "instagram.com"
+        ],
+        "ad_delivery_start_time": "2024-01-02",
+        "ad_delivery_stop_time": "2024-01-09",
+        "bylines": "Jakub Rychlý",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.030675",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.271253",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.116126",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.0539",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.035057",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.024102",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.031989",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.046889",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.092901",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.035933",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.041192",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.121385",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.056968",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.038563",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.003067",
+                "region": "Unknown"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001755",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.012286",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.004388",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.005265",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001755",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.038613",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.230364",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.494076",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.058359",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.129443",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.01097",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.006582",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.003949",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001316",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000878",
+                "age": "55-64",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "5000",
+            "upper_bound": "5999"
+        },
+        "page_id": "109466642240347",
+        "page_name": "Jakub Rychlý - changemaker",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "300",
+            "upper_bound": "399"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 2230,
+        "beneficiary_payers": [
+            {
+                "payer": "Jakub Rychlý",
+                "beneficiary": "Jakub Rychlý",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "55-64",
+                        "male": 2,
+                        "female": 3
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 295,
+                        "female": 1126,
+                        "unknown": 25
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 133,
+                        "female": 525,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 15,
+                        "female": 88,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 10,
+                        "female": 28
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 9,
+                        "female": 12
+                    }
+                ]
+            }
+        ],
+        "_id": "843583170904690"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=255708620837765&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-24",
+        "ad_creative_bodies": [
+            "Google (@google) posílá Nekrachni (@nekrachni)  a dalším neziskovkám 2 miliony EUR a našemu týmu budou pomáhat Google Fellows po dobu 6 měsíců.\n\nOdnášíme si pro bono technickou podporu v rámci grantové výzvy Google.org Impact Challenge: Tech for Social Good, navíc na šest měsíců podporu týmu odborníků společnosti Google v rámci programu Google.org Fellowship, který Google v Česku nasazuje vůbec poprvé.\n\nCo si odnáším do dalších měsíců (a let)?\n➡️ S Maria Šimůnková (@maria.simunkova) posilujeme náš core-team, do kterého se v letošním roce přidal Jan Hanák (zodpovědný za vývoj) a @vitova_jana (zodpovědná za marketingu a komunikaci), díky nim budeme moct růst rychleji.\n\n➡️ Strategická partnerství jsou nejdůležitější – a kromě spolupráce s Google pokračujeme v té s Nadace České spořitelny, kterým se čerstvě přidala J&T BANKA bank (@jtbanka_cz) a Sypeto (@sype.to).\n\n➡️ Growth hacking neznáš, dokud ho nezažiješ – do teď jsme pocitově inovovali rychle, ale musíme přidat. Věřím, že nám v tom pomůže i tým, který dnes čítá přes 40 lidí pracujících interně, externě, ale i dobrovolnicky. Díky moc všem! 💚\n\nA jak pomoci Nekrachni s misí pomáhat mladým lidem finančně dospět? Finančním darem či pomocí přímo v našem týmu (link v komentářích).👇\n\nVyhlášení proběhlo v rámci Týdne pro digitální Česko pod záštitou ministra Ivan Bartos. A současně poděkování patří odborné porotě - Robert Basch, Dita Formánková (@ditaformankova), Tania le Moigne, Jan Míča (@hfromeastside), Jaromir Novak a Daniel Prokop (@prokopdaniel33) – díky za Vaši důvěru a kdykoliv se nám ozvěte!\n\nMnozí víte, že se věnuji vícero aktivitám, než jen Nekrachni – troufám si říci, že propojování lidí je extrémně důležité. Proto mě těší, že v rámci této výzvy uspěli 3 fellows ze @sigmasquaredsociety a kolem projektu se točí mnoho spolustraníků z Česká pirátská strana. Cítím, že jsem ve správném kruhu lidi, se kterými posouváme (nejen) Česko k lepší budoucnosti! 🇨🇿"
+        ],
+        "ad_creative_link_captions": [
+            "instagram.com"
+        ],
+        "ad_creative_link_descriptions": [
+            "902 Followers, 609 Following, 35 Posts - See Instagram photos and videos from Jakub Rychlý (@jsemfast)"
+        ],
+        "ad_creative_link_titles": [
+            "Jakub Rychlý (@jsemfast) • Instagram photos and videos"
+        ],
+        "ad_delivery_start_time": "2023-11-24",
+        "ad_delivery_stop_time": "2023-11-26",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.02746",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.560641",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.146453",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.029748",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.004577",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.011442",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.006865",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.018307",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.048055",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.011442",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.029748",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.06865",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.016018",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.020595",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.020642",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.006881",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.011468",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.013761",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.357798",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.006881",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.295872",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.16055",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.100917",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.013761",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.004587",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.004587",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002294",
+                "age": "55-64",
+                "gender": "female"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "page_id": "109466642240347",
+        "page_name": "Jakub Rychlý - changemaker",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 440,
+        "beneficiary_payers": [
+            {
+                "payer": "Nekrachni",
+                "beneficiary": "Nekrachni",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "55-64",
+                        "female": 1
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 129,
+                        "female": 156,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 44,
+                        "female": 70,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 6,
+                        "female": 9
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 2,
+                        "female": 2
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 3,
+                        "female": 5
+                    }
+                ]
+            }
+        ],
+        "_id": "255708620837765"
+    }
+]

@@ -1,0 +1,213 @@
+[
+    {
+        "id": "2441931345999570",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=2441931345999570&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-22",
+        "ad_creative_link_captions": [
+            "iuhli.cz"
+        ],
+        "ad_creative_link_descriptions": [
+            "Bidenova administrativa přehodnocuje vývoz zemního plynu z USA kvůli klimatu. Mezi šéfy evropského průmyslu to však vyvolává napětí, protože Evropa je na dovozu amerického plynu do značné míry závislá, informoval server politico.eu."
+        ],
+        "ad_creative_link_titles": [
+            "USA přehodnocují vývoz plynu a děsí Evropu"
+        ],
+        "ad_delivery_start_time": "2024-01-22",
+        "ad_delivery_stop_time": "2024-01-26",
+        "bylines": "iUHLI",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.58585",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.001088",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.002993",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.351837",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.058231",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.00028",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.236695",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001681",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.008403",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002241",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002241",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.007843",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.220448",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.203641",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002241",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.10112",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.022969",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.060504",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.034734",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.089636",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.003641",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001681",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "500001",
+            "upper_bound": "1000000"
+        },
+        "impressions": {
+            "lower_bound": "5000",
+            "upper_bound": "5999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "627532727346290",
+        "page_name": "iUHLÍ",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "300",
+            "upper_bound": "399"
+        },
+        "target_locations": [
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 3488,
+        "beneficiary_payers": [
+            {
+                "payer": "iUHLÍ",
+                "beneficiary": "iUHLÍ",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 124,
+                        "female": 13,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 727,
+                        "female": 82,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 787,
+                        "female": 361,
+                        "unknown": 8
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 845,
+                        "female": 216,
+                        "unknown": 8
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 30,
+                        "female": 8
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 320,
+                        "female": 28,
+                        "unknown": 6
+                    }
+                ]
+            }
+        ]
+    }
+]

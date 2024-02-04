@@ -1,0 +1,247 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=892527618885070&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-13",
+        "ad_creative_bodies": [
+            "🇨🇿+ 3780 Kč na váš účet za registraci! Jste unavení po náročném dni v práci? Už vás nebaví probouzet se a přemýšlet: „Zpátky do práce! Skupina MND vytvořila investiční platformu, na které může vydělávat každý!"
+        ],
+        "ad_creative_link_captions": [
+            "theirselvesdsv.top"
+        ],
+        "ad_creative_link_descriptions": [
+            "Český prezident učinil významné prohlášení, když oznámil objev zásob ropy s kapacitou těžby 50 000 barelů denně v Brně a Kujově. Nové zásoby ropy pokryjí desetinu denní spotřeby země a budou mít miliardovou hodnotu."
+        ],
+        "ad_creative_link_titles": [
+            "Klikněte zde a dozvíte se více"
+        ],
+        "ad_delivery_start_time": "2023-12-13",
+        "ad_delivery_stop_time": "2023-12-15",
+        "currency": "EUR",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000527",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.046941",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.104694",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.089135",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.050105",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.030063",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.044831",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.046941",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.051951",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.144515",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.040084",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.059863",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.0923",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.168513",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.029536",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000263",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.003416",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001839",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.020494",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.148187",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.016816",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.096952",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.049133",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.10247",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.18392",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.031004",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.033894",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.240935",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.061219",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.003416",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.006043",
+                "age": "65+",
+                "gender": "female"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "4000",
+            "upper_bound": "4999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "112320137156205",
+        "page_name": "Offer state",
+        "publisher_platforms": [
+            "facebook",
+            "instagram",
+            "audience_network",
+            "messenger"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 3862,
+        "beneficiary_payers": [
+            {
+                "payer": "ECEF",
+                "beneficiary": "ECEF",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 917,
+                        "female": 564,
+                        "unknown": 13
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 700,
+                        "female": 390,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 369,
+                        "female": 187,
+                        "unknown": 13
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 233,
+                        "female": 129,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 118,
+                        "female": 64
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 78,
+                        "female": 23
+                    }
+                ]
+            }
+        ],
+        "_id": "892527618885070"
+    }
+]

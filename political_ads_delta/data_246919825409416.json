@@ -1,0 +1,155 @@
+[
+    {
+        "id": "395714263120908",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=395714263120908&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-16",
+        "ad_creative_bodies": [
+            "Na Přerovském deníku dnes vyšel článek o největších “ostudách” Přerova. A je mezi nimi i hotel Strojař. Věříme ale, že už dlouho ostudou nebude. Nicméně je fakt, že trochu péče by si zasloužila pasáž i prostor kolem nádraží. \n\nDoufejme, že město po nákladné rekonstrukci EMOSu bude myslet kromě úředníků i na lidi a vyčlení peníze alespoň na některá místa, kterými jich každý den projdou stovky. Co by si podle vás zasloužilo rekonstrukci jako první? 👇"
+        ],
+        "ad_delivery_start_time": "2024-01-17",
+        "ad_delivery_stop_time": "2024-01-23",
+        "bylines": "Česká pirátská strana",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.995027",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.004973",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001999",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.096935",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.117921",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.138241",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.196203",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.118588",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.098601",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.141572",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.086942",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000999",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001666",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000333",
+                "age": "18-24",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "6000",
+            "upper_bound": "6999"
+        },
+        "page_id": "246919825409416",
+        "page_name": "Piráti Přerov",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "500",
+            "upper_bound": "599"
+        },
+        "target_locations": [
+            {
+                "name": "Prerov, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "50"
+        ],
+        "eu_total_reach": 3016,
+        "beneficiary_payers": [
+            {
+                "payer": "Česká pirátská strana",
+                "beneficiary": "Česká pirátská strana",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 354,
+                        "female": 261,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 296,
+                        "female": 291,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 589,
+                        "female": 425,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 415,
+                        "female": 356,
+                        "unknown": 5
+                    }
+                ]
+            }
+        ]
+    }
+]

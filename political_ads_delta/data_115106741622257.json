@@ -1,0 +1,1472 @@
+[
+    {
+        "id": "1058602975395844",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1058602975395844&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-02-01",
+        "ad_creative_bodies": [
+            "S kolegy z odborových organizací v ocelářských podnicích v rámci OS KOVO jsme se dnes sešli na Vysočině. Jednali jsme především o situaci v LIBERTY Ostrava. Je nedůstojné, jak se tento podnik chová k tisícům svých zaměstnanců! Z týdne na týden odkládá jejich nástup do práce a přitom moc dobře ví, že to znovu a znovu nebude platit. Takovou nejistotu si oceláři opravdu nezaslouží. Rozhodli jsme se proto, že začneme připravovat protesty proti chování majitele Liberty Ostrava. S odboráři z celé republiky jsme se shodli, že situace je vážná v celém oboru i s ohledem na rostoucí ceny energií. Úřad vlády ČR Petr Fiala by měl ocel konečně považovat za strategickou surovinu!"
+        ],
+        "ad_delivery_start_time": "2024-02-01",
+        "ad_delivery_stop_time": "2024-02-01",
+        "bylines": "Roman Ďurčo",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.037865",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.050324",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.070478",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.030781",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.025895",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.020398",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.023574",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.038353",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.496275",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.02394",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.03017",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.061927",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.049713",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.040308",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000727",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.028343",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000727",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000606",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000848",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.003997",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.132025",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.116885",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.010053",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001575",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.089147",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.120397",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.099806",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.074855",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.129845",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.026284",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.16376",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000121",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "9000",
+            "upper_bound": "9999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "115106741622257",
+        "page_name": "Roman Ďurčo",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "500",
+            "upper_bound": "599"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 8285,
+        "beneficiary_payers": [
+            {
+                "payer": "Roman Ďurčo",
+                "beneficiary": "Roman Ďurčo",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 824,
+                        "female": 83,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 1352,
+                        "female": 618,
+                        "unknown": 13
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 736,
+                        "female": 1090,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 994,
+                        "female": 965,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 217,
+                        "female": 33,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 1072,
+                        "female": 234,
+                        "unknown": 6
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1250610352523372",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1250610352523372&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-31",
+        "ad_creative_bodies": [
+            "Ve Škoda Auto Mladá Boleslav jsme dnes s Ivo Kuželem za OS KOVO jednali se závodní radou Odbory KOVO MB v čele s Jardou Povšíkem. Děkuji kolegům za velice otevřenou, a troufnu si říct, přátelskou debatu. Tématem bylo vyhodnocení protestů proti krokům Úřad vlády ČR Petr Fiala a příprava našich dalších společných kroků v následujících měsících. Zároveň jsme hovořili o možnosti mnohem hlubší spolupráce našich odborových organizací včetně intenzivní kooperace v rámci Průmyslové aliance odborových svazů. Nechyběly ani dotazy a ty se především točily kolem nesmyslného návrhu na výpověď bez udání důvodu. Jsme zásadně proti!"
+        ],
+        "ad_delivery_start_time": "2024-01-31",
+        "ad_delivery_stop_time": "2024-02-01",
+        "bylines": "Roman Ďurčo",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "6.0E-5",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.104163",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.042774",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.041328",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.020604",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.028014",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.00976",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.100307",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.030664",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.080607",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.027291",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.02217",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.420808",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.046268",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.025182",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000359",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.197272",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000359",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001795",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00377",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000479",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.062048",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.207982",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.067193",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000957",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.132891",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.063843",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.058398",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.026865",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.066176",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.030396",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.078382",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000838",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "20000",
+            "upper_bound": "24999"
+        },
+        "page_id": "115106741622257",
+        "page_name": "Roman Ďurčo",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 16351,
+        "beneficiary_payers": [
+            {
+                "payer": "Roman Ďurčo",
+                "beneficiary": "Roman Ďurčo",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 449,
+                        "female": 63,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 2221,
+                        "female": 1123,
+                        "unknown": 14
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 1067,
+                        "female": 1310,
+                        "unknown": 16
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 1106,
+                        "female": 1037,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 3476,
+                        "female": 976,
+                        "unknown": 30
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 3297,
+                        "female": 508,
+                        "unknown": 8
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "843569494205448",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=843569494205448&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-30",
+        "ad_creative_bodies": [
+            "Dnes večer budu mít příležitost prezentovat na ČT24 za OS KOVO výsledky jednání s Ministerstvo práce a sociálních věcí Marian Jurečka na téma předčasných důchodů pro náročné profese, situaci v podniku LIBERTY Ostrava či energetické soběstačnosti České republiky a dopady kroků Úřad vlády ČR Petr Fiala na tuto oblast. Budu rád, když se podíváte.😉"
+        ],
+        "ad_delivery_start_time": "2024-01-30",
+        "ad_delivery_stop_time": "2024-01-31",
+        "bylines": "Roman Ďurčo",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.048553",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.080063",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.108403",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.048157",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.041419",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.037257",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.045184",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.065002",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.195997",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.043995",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.052319",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.08482",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.102457",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.046373",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000789",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.003748",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.010651",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.006114",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.008679",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001578",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.032742",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.012623",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.044576",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.15286",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.190927",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.093294",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.284221",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.155227",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001381",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000592",
+                "age": "18-24",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "6000",
+            "upper_bound": "6999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "115106741622257",
+        "page_name": "Roman Ďurčo",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "500",
+            "upper_bound": "599"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 4922,
+        "beneficiary_payers": [
+            {
+                "payer": "Roman Ďurčo",
+                "beneficiary": "Roman Ďurčo",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 54,
+                        "female": 19,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 64,
+                        "female": 31
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 166,
+                        "female": 44
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 473,
+                        "female": 226,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 775,
+                        "female": 787,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 968,
+                        "female": 1441,
+                        "unknown": 8
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "404576142029416",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=404576142029416&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-25",
+        "ad_creative_bodies": [
+            "Po tom, co vláda zvedla lidem daně a zvyšuje věk odchodu do důchodu, přišlo Ministerstvo financí České republiky Zbyněk Stanjura s dalším nápadem, jak potrestat poctivě pracující zaměstnance. Naši ekonomiku má spasit výpověď bez udání důvodu. Opravdu brilantní ekonomická úvaha pane ministře! Nejistá práce jistě zvedne spotřebu domácností, které táhnou ekonomický růst 🤦🏻‍♂️\nčlánek ⬇️\nhttps://www.seznamzpravy.cz/clanek/ekonomika-finance-ekonomika-se-zveda-ale-malo-rika-stanjura-vola-po-snazsich-vyhazovech-244448#source=hp&seq_no=1&dop_ab_variant=0&dop_source_zone_name=zpravy.sznhp.box&utm_campaign=abtest240_dop_cizich_clanku_varC&utm_medium=z-boxiku&utm_source=www.seznam.cz"
+        ],
+        "ad_delivery_start_time": "2024-01-25",
+        "ad_delivery_stop_time": "2024-01-27",
+        "bylines": "Roman Ďurčo",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.05256",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.084232",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.111704",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.053468",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.042457",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.033943",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.042457",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.074696",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.165853",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.048587",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.049949",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.083664",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.105687",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.05063",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.000114",
+                "region": "Unknown"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001017",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.05457",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000113",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000678",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000565",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001356",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.003615",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.005423",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.012541",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.126878",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.06327",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.150153",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.076376",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.139532",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.158965",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.079313",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.125297",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000339",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "115106741622257",
+        "page_name": "Roman Ďurčo",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "500",
+            "upper_bound": "599"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 8731,
+        "beneficiary_payers": [
+            {
+                "payer": "Roman Ďurčo",
+                "beneficiary": "Roman Ďurčo",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 702,
+                        "female": 48,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 1235,
+                        "female": 483,
+                        "unknown": 12
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 1109,
+                        "female": 1407,
+                        "unknown": 9
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 1329,
+                        "female": 1123,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 676,
+                        "female": 111,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 560,
+                        "female": 32,
+                        "unknown": 5
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1085275525931188",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1085275525931188&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-24",
+        "ad_creative_bodies": [
+            "Dnešní nález Ústavní soud České republiky je pro OS KOVO i mě osobně zklamáním, ale respektuji ho. Doufám, že se politici v budoucnu nebudou podobných faulů jako Úřad vlády ČR Petr Fiala dopouštět!\nčlánek ⬇️\nhttps://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-je-to-urazka-zni-od-senioru-k-verdiktu-ustavniho-soudu-o-duchodech-244410"
+        ],
+        "ad_delivery_start_time": "2024-01-24",
+        "ad_delivery_stop_time": "2024-01-26",
+        "bylines": "Roman Ďurčo",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.046588",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.085482",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.116683",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.049722",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.039179",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.035333",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.04673",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.071663",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.166975",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.046873",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.052429",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.085482",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.1107",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.04616",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001138",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.044523",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000569",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000142",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000427",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.003698",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.008677",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.160028",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.102845",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00128",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.170839",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.148649",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.274111",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.022048",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.039545",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002134",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.019203",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000142",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "9000",
+            "upper_bound": "9999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "115106741622257",
+        "page_name": "Roman Ďurčo",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "500",
+            "upper_bound": "599"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 6822,
+        "beneficiary_payers": [
+            {
+                "payer": "Roman Ďurčo",
+                "beneficiary": "Roman Ďurčo",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 135,
+                        "female": 15,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 723,
+                        "female": 313,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 1201,
+                        "female": 1927,
+                        "unknown": 9
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 1125,
+                        "female": 1045,
+                        "unknown": 8
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 278,
+                        "female": 61,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 155,
+                        "female": 26,
+                        "unknown": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1069101237636717",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1069101237636717&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-22",
+        "ad_creative_bodies": [
+            "Návrhy opatření na oživení ekonomiky od Národní ekonomická rada vlády (NERV) pro Úřad vlády ČR Petr Fiala ukazují, s kým se ministři radí. Jsou to prakticky výlučně bankéři a zástupci podnikatelů. Jiný pohled zastupuje pouze Daniel Prokop. Výsledkem jsou rady typu: zjednodušte propouštění zaměstnanců či přivezte zahraniční dělníky. To opravdu ti lidé nechápou, že se naše země může posunout dál pouze v případě srovnání životní úrovně se západními státy? Není přece možné, aby si lidé pár kilometrů od domova vydělali násobně víc peněz za stejnou práci. To je důvod odchodu kvalifikovaných pracovníků a přehřátého trhu práce. Řešením rozhodně není hromadný dovoz levné pracovní síly!\nčlánek ⬇️\nhttps://www.seznamzpravy.cz/clanek/ekonomika-firmy-37-navrhu-jak-rozhybat-cesko-snazsi-propousteni-je-jen-zacatek-244234#dop_ab_variant=1164100&dop_source_zone_name=zpravy.sznhp.box&source=hp&seq_no=1&utm_campaign=abtest242_shorts_varCC&utm_medium=z-boxiku&utm_source=www.seznam.cz"
+        ],
+        "ad_delivery_start_time": "2024-01-23",
+        "ad_delivery_stop_time": "2024-01-25",
+        "bylines": "Roman Ďurčo",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.00032",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.047799",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.096875",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.111764",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.053294",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.040833",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.033229",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.046648",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.067289",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.153556",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.048246",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.054508",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.088887",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.10908",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.047671",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000254",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.130018",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000445",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.054751",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.069995",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.118648",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.151931",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.120617",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.094576",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000762",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.139291",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.014736",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.086827",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.007558",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000953",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000191",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000889",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.007558",
+                "age": "18-24",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "20000",
+            "upper_bound": "24999"
+        },
+        "page_id": "115106741622257",
+        "page_name": "Roman Ďurčo",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 16119,
+        "beneficiary_payers": [
+            {
+                "payer": "Roman Ďurčo",
+                "beneficiary": "Roman Ďurčo",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 1367,
+                        "female": 119,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 2047,
+                        "female": 862,
+                        "unknown": 14
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 1899,
+                        "female": 2392,
+                        "unknown": 15
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 2193,
+                        "female": 1868,
+                        "unknown": 12
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 1102,
+                        "female": 232,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 1489,
+                        "female": 119,
+                        "unknown": 3
+                    }
+                ]
+            }
+        ]
+    }
+]

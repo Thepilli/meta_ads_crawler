@@ -1,0 +1,163 @@
+[
+    {
+        "id": "908174727556742",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=908174727556742&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-30",
+        "ad_creative_bodies": [
+            "Tušíte, kolik je v Hradci laviček? Už je jich takřka 3200 a postupně přibývají další. Od roku 2018 se jejich počet zvýšil o více než 600 kusů. Bohužel lavičky bývají častým cílem vandalů. Proto pracovníci truhlárny technických služeb připravují nová prkna, která budou sloužit k jejich opravě. Jen za loňský rok technické služby opravily, natřely nebo vyměnily asi 500 kusů laviček.\n\nDěkuji zaměstnancům technických služeb za jejich práci i vám všem, kteří se ke svému okolí chováte ohleduplně. O tom, jak budou vypadat oblíbená místa například v parku nebo na břehu Labe, rozhodujeme my všichni. 🖤\n\n📸 Technické služby Hradec Králové"
+        ],
+        "ad_delivery_start_time": "2024-01-30",
+        "ad_delivery_stop_time": "2024-02-01",
+        "bylines": "Česká pirátská strana",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Hradec Králové Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.015873",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.02381",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.119048",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.119048",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.031746",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.246032",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.103175",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.15873",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.119048",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.007937",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.02381",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.007937",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.02381",
+                "age": "65+",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100",
+            "upper_bound": "1000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "page_id": "101230222584230",
+        "page_name": "Pavel Vrbický - náměstek primátorky Hradce Králové",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Hradec Králové, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 126,
+        "beneficiary_payers": [
+            {
+                "payer": "Piráti Královéhradecký kraj",
+                "beneficiary": "Piráti Královéhradecký kraj",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 15,
+                        "female": 15,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 4,
+                        "female": 3
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 2,
+                        "female": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 31,
+                        "female": 20
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 13,
+                        "female": 15
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 3,
+                        "female": 3
+                    }
+                ]
+            }
+        ]
+    }
+]

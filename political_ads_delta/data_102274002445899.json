@@ -1,0 +1,804 @@
+[
+    {
+        "id": "695382396007751",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=695382396007751&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-23",
+        "ad_creative_bodies": [
+            "Předčasné vyplacení tiketu 🤑 Stačí, aby váš tým vedl o 2 góly ⚽ a vyhráváte👏 Nabídky i pro další populární sporty 🚀",
+            "Předčasné vyplacení tiketu 🤑 Stačí, aby váš tým vedl o 2 góly ⚽ a vyhráváte👏 Nabídky i pro další populární sporty 🚀"
+        ],
+        "ad_creative_link_captions": [
+            "gml-grp.com"
+        ],
+        "ad_creative_link_descriptions": [
+            "Hra právě začíná",
+            "Hra právě začíná"
+        ],
+        "ad_creative_link_titles": [
+            "Uvítací bonus 3 000 Kč",
+            "Uvítací bonus 3 000 Kč"
+        ],
+        "ad_delivery_start_time": "2024-01-23",
+        "ad_delivery_stop_time": "2024-01-23",
+        "currency": "EUR",
+        "delivery_by_region": [
+            {
+                "percentage": "0.007634",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.091603",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.122137",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.053435",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.045802",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.038168",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.068702",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.045802",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.091603",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.083969",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.045802",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.114504",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.137405",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.053435",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.030534",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.030534",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.221374",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.160305",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.053435",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.068702",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.061069",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.10687",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.129771",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.007634",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.038168",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.030534",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.061069",
+                "age": "45-54",
+                "gender": "female"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "102274002445899",
+        "page_name": "Betano Czech Republic",
+        "publisher_platforms": [
+            "facebook",
+            "instagram",
+            "audience_network"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 131,
+        "beneficiary_payers": [
+            {
+                "payer": "Kaizen Gaming CZ Limited",
+                "beneficiary": "Kaizen Gaming CZ Limited",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 5,
+                        "female": 4,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 21,
+                        "female": 4
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 29,
+                        "female": 14
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 17,
+                        "female": 8
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 9,
+                        "female": 8
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 4,
+                        "female": 7
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1320405698672697",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1320405698672697&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-23",
+        "ad_creative_bodies": [
+            "Předčasné vyplacení tiketu 🤑 Stačí, aby váš tým vedl o 2 góly ⚽ a vyhráváte👏 Nabídky i pro další populární sporty 🚀",
+            "Předčasné vyplacení tiketu 🤑 Stačí, aby váš tým vedl o 2 góly ⚽ a vyhráváte👏 Nabídky i pro další populární sporty 🚀"
+        ],
+        "ad_creative_link_captions": [
+            "gml-grp.com"
+        ],
+        "ad_creative_link_descriptions": [
+            "Hra právě začíná",
+            "Hra právě začíná"
+        ],
+        "ad_creative_link_titles": [
+            "Uvítací bonus 3 000 Kč",
+            "Uvítací bonus 3 000 Kč"
+        ],
+        "ad_delivery_start_time": "2024-01-23",
+        "ad_delivery_stop_time": "2024-01-23",
+        "currency": "EUR",
+        "delivery_by_region": [
+            {
+                "percentage": "0.053763",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.134409",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.107527",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.048387",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.075269",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.032258",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.037634",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.043011",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.102151",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.053763",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.05914",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.112903",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.096774",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.043011",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.048387",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.032258",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.155914",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.026882",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.05914",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.075269",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.080645",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.069892",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.198925",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.172043",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.021505",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.05914",
+                "age": "55-64",
+                "gender": "female"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "102274002445899",
+        "page_name": "Betano Czech Republic",
+        "publisher_platforms": [
+            "facebook",
+            "instagram",
+            "audience_network"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 186,
+        "beneficiary_payers": [
+            {
+                "payer": "Kaizen Gaming CZ Limited",
+                "beneficiary": "Kaizen Gaming CZ Limited",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 11,
+                        "female": 5
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 37,
+                        "female": 6
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 32,
+                        "female": 15
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 29,
+                        "female": 13
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 14,
+                        "female": 11
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 9,
+                        "female": 4
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "915672729933842",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=915672729933842&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-23",
+        "ad_creative_bodies": [
+            "Předčasné vyplacení tiketu 🤑 Stačí, aby váš tým vedl o 2 góly ⚽ a vyhráváte👏 Nabídky i pro další populární sporty 🚀",
+            "Předčasné vyplacení tiketu 🤑 Stačí, aby váš tým vedl o 2 góly ⚽ a vyhráváte👏 Nabídky i pro další populární sporty 🚀"
+        ],
+        "ad_creative_link_captions": [
+            "gml-grp.com"
+        ],
+        "ad_creative_link_descriptions": [
+            "Hra právě začíná",
+            "Hra právě začíná"
+        ],
+        "ad_creative_link_titles": [
+            "Uvítací bonus 3 000 Kč",
+            "Uvítací bonus 3 000 Kč"
+        ],
+        "ad_delivery_start_time": "2024-01-23",
+        "ad_delivery_stop_time": "2024-01-23",
+        "currency": "EUR",
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "102274002445899",
+        "page_name": "Betano Czech Republic",
+        "publisher_platforms": [
+            "facebook",
+            "instagram",
+            "audience_network"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 94,
+        "beneficiary_payers": [
+            {
+                "payer": "Kaizen Gaming CZ Limited",
+                "beneficiary": "Kaizen Gaming CZ Limited",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 8,
+                        "female": 4
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 17,
+                        "female": 7
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 11,
+                        "female": 4,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 16,
+                        "female": 5
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 4,
+                        "female": 10
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 2,
+                        "female": 5
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "309625875056228",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=309625875056228&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-09-06",
+        "ad_creative_bodies": [
+            "Předčasné vyplacení tiketu 🤑 Stačí, aby váš tým vedl o 2 góly ⚽ a vyhráváte👏 Nabídky i pro další populární sporty 🚀",
+            "Předčasné vyplacení tiketu 🤑 Stačí, aby váš tým vedl o 2 góly ⚽ a vyhráváte👏 Nabídky i pro další populární sporty 🚀"
+        ],
+        "ad_creative_link_captions": [
+            "gml-grp.com"
+        ],
+        "ad_creative_link_descriptions": [
+            "Hra právě začíná",
+            "Hra právě začíná"
+        ],
+        "ad_creative_link_titles": [
+            "Uvítací bonus 3 000 Kč",
+            "Uvítací bonus 3 000 Kč"
+        ],
+        "ad_delivery_start_time": "2023-09-09",
+        "currency": "EUR",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000364",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.050333",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.107129",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.098585",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.058538",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.046503",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.035095",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.046635",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.056934",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.115973",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.049167",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.062512",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.115691",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.11403",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.042511",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000196",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.12544",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001407",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.043876",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.026397",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.050676",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.238788",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.122311",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.212492",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000347",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.04076",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.056901",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.025413",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.015662",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.035777",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000612",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001571",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001375",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "250000",
+            "upper_bound": "299999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "102274002445899",
+        "page_name": "Betano Czech Republic",
+        "publisher_platforms": [
+            "facebook",
+            "instagram",
+            "audience_network"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 156189,
+        "beneficiary_payers": [
+            {
+                "payer": "Kaizen Gaming CZ Limited",
+                "beneficiary": "Kaizen Gaming CZ Limited",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "65+",
+                        "male": 4029,
+                        "female": 2483,
+                        "unknown": 55
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 19871,
+                        "female": 6462,
+                        "unknown": 97
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 6956,
+                        "female": 4185,
+                        "unknown": 31
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 33677,
+                        "female": 8034,
+                        "unknown": 223
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 19391,
+                        "female": 5672,
+                        "unknown": 249
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 37857,
+                        "female": 9015,
+                        "unknown": 218
+                    }
+                ]
+            }
+        ]
+    }
+]

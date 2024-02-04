@@ -1,0 +1,220 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1023022148800958&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-28",
+        "ad_creative_bodies": [
+            "Finanční jistota navzdory krizím a inflaci"
+        ],
+        "ad_creative_link_captions": [
+            "multrisp.online"
+        ],
+        "ad_creative_link_titles": [
+            "Zaregistrujte se nyní"
+        ],
+        "ad_delivery_start_time": "2023-11-28",
+        "ad_delivery_stop_time": "2023-11-28",
+        "currency": "MXN",
+        "delivery_by_region": [
+            {
+                "percentage": "0.001686",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.059022",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.129848",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.08769",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.059022",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.047218",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.05059",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.048904",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.055649",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.099494",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.045531",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.062395",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.106239",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.111298",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.035413",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001686",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.043845",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.11973",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.075885",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.200675",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.05059",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.062395",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.126476",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.118044",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.148398",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.045531",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.005059",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001686",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "page_id": "109108601822793",
+        "page_name": "Vidos",
+        "publisher_platforms": [
+            "facebook",
+            "instagram",
+            "audience_network",
+            "messenger"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "25",
+            "65"
+        ],
+        "eu_total_reach": 593,
+        "beneficiary_payers": [
+            {
+                "payer": "Autos-F1",
+                "beneficiary": "Autos-F1",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 119,
+                        "female": 37,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 70,
+                        "female": 27
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 88,
+                        "female": 30,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 75,
+                        "female": 26,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 71,
+                        "female": 45
+                    }
+                ]
+            }
+        ],
+        "_id": "1023022148800958"
+    }
+]

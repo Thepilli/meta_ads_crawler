@@ -1,0 +1,258 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1165655317725815&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-10-30",
+        "ad_creative_bodies": [
+            "Při vaření a uklízení se mohou uvolňovat škodliviny.  Zkontrolujte svůj domov pomocí průvodce znečištěním interiéru od společnosti Dyson.",
+            "Při vaření a uklízení se mohou uvolňovat škodliviny.  Zkontrolujte svůj domov pomocí průvodce znečištěním interiéru od společnosti Dyson.",
+            "Při vaření a uklízení se mohou uvolňovat škodliviny.  Zkontrolujte svůj domov pomocí průvodce znečištěním interiéru od společnosti Dyson."
+        ],
+        "ad_creative_link_captions": [
+            "dyson.cz"
+        ],
+        "ad_creative_link_descriptions": [
+            "Kvalita vnitřního ovzduší",
+            "Kvalita vnitřního ovzduší",
+            "Kvalita vnitřního ovzduší"
+        ],
+        "ad_delivery_start_time": "2023-11-01",
+        "ad_delivery_stop_time": "2023-11-10",
+        "currency": "EUR",
+        "delivery_by_region": [
+            {
+                "percentage": "0.00144",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.047868",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.186041",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.111296",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.054234",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.039532",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.032055",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.040846",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.0534",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.101243",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.042412",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.062443",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.104047",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.079039",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.044104",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001069",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.089297",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001527",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001705",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.100875",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.173911",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.094004",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.077871",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.040818",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.008983",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.086955",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.102453",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.030766",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.09207",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.061558",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.034024",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001221",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000891",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "60000",
+            "upper_bound": "69999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1858491734432869",
+        "page_name": "Dyson",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "300",
+            "upper_bound": "399"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 38326,
+        "beneficiary_payers": [
+            {
+                "payer": "Dyson",
+                "beneficiary": "Dyson",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 6834,
+                        "female": 2419,
+                        "unknown": 353
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 3618,
+                        "female": 1604,
+                        "unknown": 35
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 3694,
+                        "female": 3509,
+                        "unknown": 67
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 4026,
+                        "female": 3060,
+                        "unknown": 48
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 3964,
+                        "female": 1337,
+                        "unknown": 60
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 3417,
+                        "female": 1209,
+                        "unknown": 42
+                    }
+                ]
+            }
+        ],
+        "_id": "1165655317725815"
+    }
+]

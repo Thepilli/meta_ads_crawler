@@ -1,0 +1,205 @@
+[
+    {
+        "id": "381115684567611",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=381115684567611&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-25",
+        "ad_creative_bodies": [
+            "👩‍🌾 💪 Přestože mnoho zemědělských podniků vedou muži, jsou i firmy, kde vládnou ženy. V zemědělství pak najdeme i na dalších pozicích mnoho zkušených manažerek a expertek se specializací na různá odborná témata. Na nedávném setkání v závěru loňského roku poctil členky Klubu zemědělských manažerek svou návštěvou také ministr zemědělství Marek Výborný. Bylo to inspirativní setkání. 🤟"
+        ],
+        "ad_delivery_start_time": "2024-01-25",
+        "ad_delivery_stop_time": "2024-01-29",
+        "bylines": "Zelinářská unie Čech a Moravy",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.10369",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.104326",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.120229",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.054707",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.052163",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.024809",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.033715",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.066158",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.111323",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.06743",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.046438",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.08715",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.076972",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.050891",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001275",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.004461",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.026769",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.151689",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.323773",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.093053",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.089229",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.191842",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.095602",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.016571",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002549",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.003187",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "2000",
+            "upper_bound": "2999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "2171341796434035",
+        "page_name": "Zelinářská unie Čech a Moravy",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "26",
+            "60"
+        ],
+        "eu_total_reach": 1551,
+        "beneficiary_payers": [
+            {
+                "payer": "Zelinářská unie Čech a Moravy",
+                "beneficiary": "Zelinářská unie Čech a Moravy",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 140,
+                        "female": 26,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 238,
+                        "female": 42,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 508,
+                        "female": 150,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 301,
+                        "female": 146,
+                        "unknown": 4
+                    }
+                ]
+            }
+        ]
+    }
+]

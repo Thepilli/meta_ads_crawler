@@ -1,0 +1,2784 @@
+[
+    {
+        "id": "1436624427231885",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1436624427231885&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-22",
+        "ad_creative_bodies": [
+            "Do you know how to vote? 🗳️  The European elections are approaching, and to help us all prepare, there's now a website answering any questions you might have. And to ensure you don't forget to use your vote, you can also sign up for voting reminders."
+        ],
+        "ad_delivery_start_time": "2024-01-22",
+        "ad_delivery_stop_time": "2024-01-25",
+        "bylines": "European Parliament",
+        "currency": "EUR",
+        "delivery_by_region": [
+            {
+                "percentage": "0.049234",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.179823",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.102426",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.058228",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.040703",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.032789",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.04168",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.050519",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.092918",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.049234",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.061774",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.104379",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.092815",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.043478",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000151",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.150803",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000554",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000302",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.07515",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.020184",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.050234",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.066039",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.035587",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000654",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.063522",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.194191",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.047566",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.206523",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.054764",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.032667",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000856",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000252",
+                "age": "18-24",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "25000",
+            "upper_bound": "29999"
+        },
+        "page_id": "178362315106",
+        "page_name": "European Parliament",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 19669,
+        "beneficiary_payers": [
+            {
+                "payer": "European Parliament",
+                "beneficiary": "European Parliament",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 945,
+                        "female": 401,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 2996,
+                        "female": 1312,
+                        "unknown": 13
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 707,
+                        "female": 649,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 1493,
+                        "female": 998,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 4103,
+                        "female": 1262,
+                        "unknown": 17
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 3858,
+                        "female": 1088,
+                        "unknown": 11
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "756689866352258",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=756689866352258&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-22",
+        "ad_creative_bodies": [
+            "Border checks for air and sea travel have been lifted for Bulgaria and Romania as they move to join the Schengen area. 🚢 ✈️\n \nAs of 31 March, air and sea passengers travelling between Bulgaria or Romania and any Schengen member country will no longer have to undergo border controls.\n \nDiscussions to remove checks at land borders will continue this year. The European Parliament has previously called for Bulgaria and Romania's full accession to the Schengen area.\n \nRead more about the enlargement of the EU's border-free zone 👉 https://europa.eu/!4NdgRm"
+        ],
+        "ad_delivery_start_time": "2024-01-22",
+        "ad_delivery_stop_time": "2024-01-25",
+        "bylines": "European Parliament",
+        "currency": "EUR",
+        "delivery_by_region": [
+            {
+                "percentage": "0.048523",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.181507",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.108879",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.055679",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.040896",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.031386",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.038574",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.051756",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.098176",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.048461",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.066413",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.099777",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.084084",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.045887",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.00019",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.201947",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000411",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.01754",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.053821",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.060647",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.041432",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.15767",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.21029",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000411",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.043234",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.058972",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.034859",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.048195",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.068991",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000885",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000316",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00019",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "40000",
+            "upper_bound": "44999"
+        },
+        "languages": [
+            "en"
+        ],
+        "page_id": "178362315106",
+        "page_name": "European Parliament",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 31727,
+        "beneficiary_payers": [
+            {
+                "payer": "European Parliament",
+                "beneficiary": "European Parliament",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 1525,
+                        "female": 555,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 4989,
+                        "female": 1919,
+                        "unknown": 13
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 1311,
+                        "female": 1103,
+                        "unknown": 10
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 2183,
+                        "female": 1368,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 6390,
+                        "female": 1866,
+                        "unknown": 28
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 6654,
+                        "female": 1703,
+                        "unknown": 13
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "840704374529249",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=840704374529249&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-22",
+        "ad_creative_bodies": [
+            "Hateful messages and acts driven by prejudice should not be tolerated.\n\nParliament is calling on national governments to finally include hate speech and hate crimes among criminal offences across the EU by the end of the legislative term in June.\n\nParliament wants laws on hate speech and hate crimes based on race, religion or national origin to be the same throughout the EU to protect vulnerable groups and communities."
+        ],
+        "ad_delivery_start_time": "2024-01-22",
+        "ad_delivery_stop_time": "2024-01-26",
+        "bylines": "European Parliament",
+        "currency": "EUR",
+        "delivery_by_region": [
+            {
+                "percentage": "0.045186",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.234999",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.131545",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.053019",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.038511",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.021339",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.037469",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.051322",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.101138",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.042987",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.050781",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.082693",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.064287",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.044723",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000351",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.180256",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000391",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.032373",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.109966",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.080366",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.047212",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.241097",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.055451",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00164",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.063222",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.036785",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.035809",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.077944",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.034091",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001289",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000664",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001093",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "30000",
+            "upper_bound": "34999"
+        },
+        "languages": [
+            "en"
+        ],
+        "page_id": "178362315106",
+        "page_name": "European Parliament",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 25466,
+        "beneficiary_payers": [
+            {
+                "payer": "European Parliament",
+                "beneficiary": "European Parliament",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 2058,
+                        "female": 829,
+                        "unknown": 9
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 2816,
+                        "female": 1420,
+                        "unknown": 28
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 942,
+                        "female": 917,
+                        "unknown": 17
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 1209,
+                        "female": 873,
+                        "unknown": 10
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 4616,
+                        "female": 1619,
+                        "unknown": 42
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 6174,
+                        "female": 1996,
+                        "unknown": 33
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1060431778581603",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1060431778581603&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-22",
+        "ad_creative_bodies": [
+            "What are you listening to?🎧 Share some music from an artist that you think deserves more visibility."
+        ],
+        "ad_delivery_start_time": "2024-01-22",
+        "ad_delivery_stop_time": "2024-01-25",
+        "bylines": "European Parliament",
+        "currency": "EUR",
+        "delivery_by_region": [
+            {
+                "percentage": "0.051629",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.148675",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.10308",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.057664",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.043673",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.032766",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.044611",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.057083",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.112914",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.049797",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.059184",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.105315",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.085647",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.047964",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000181",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.082084",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000181",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000993",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.03585",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.054723",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.057883",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.1825",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.184486",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000226",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.057883",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.142902",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.037972",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.068629",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.070345",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.022124",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000497",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000542",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "25000",
+            "upper_bound": "29999"
+        },
+        "languages": [
+            "en"
+        ],
+        "page_id": "178362315106",
+        "page_name": "European Parliament",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 22209,
+        "beneficiary_payers": [
+            {
+                "payer": "European Parliament",
+                "beneficiary": "European Parliament",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 1212,
+                        "female": 490,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 4086,
+                        "female": 1558,
+                        "unknown": 22
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 794,
+                        "female": 841,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 1520,
+                        "female": 1282,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 3165,
+                        "female": 1818,
+                        "unknown": 11
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 4042,
+                        "female": 1282,
+                        "unknown": 12
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "374624008510279",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=374624008510279&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-22",
+        "ad_creative_bodies": [
+            "Voting shapes the world you live in. This year, you can take part in the European elections, one of the biggest democratic elections in the world. This is how it works👉 \n \n#UseYourVote #EUElections2024"
+        ],
+        "ad_creative_link_captions": [
+            "elections.europa.eu"
+        ],
+        "ad_delivery_start_time": "2024-01-22",
+        "ad_delivery_stop_time": "2024-01-23",
+        "bylines": "European Parliament",
+        "currency": "EUR",
+        "delivery_by_region": [
+            {
+                "percentage": "0.042563",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.20038",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.113939",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.056019",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.037882",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.029838",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.040661",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.047243",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.099605",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.044025",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.063771",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.09434",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.090098",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.039637",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000291",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000728",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000583",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.057239",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.230993",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.264055",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.026944",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.056802",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.048645",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.048209",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.030731",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.135159",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.021555",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.058404",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.018497",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001165",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "7000",
+            "upper_bound": "7999"
+        },
+        "languages": [
+            "en"
+        ],
+        "page_id": "178362315106",
+        "page_name": "European Parliament",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 6698,
+        "beneficiary_payers": [
+            {
+                "payer": "European Parliament",
+                "beneficiary": "European Parliament",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 401,
+                        "female": 185
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 1813,
+                        "female": 393,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 1586,
+                        "female": 390,
+                        "unknown": 8
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 928,
+                        "female": 331,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 334,
+                        "female": 211
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 148,
+                        "female": 127,
+                        "unknown": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1137025183973052",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1137025183973052&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-22",
+        "ad_creative_bodies": [
+            "A win for the climate: Parliament approves new rules to cut harmful greenhouse gas emissions other than CO2 🌳\n \nCO2 is not the only culprit. Used in fridges, air conditioning units, and other everyday items, greenhouse gases such as fluorinated gases and ozone-depleting substances deal considerable damage, polluting the environment and worsening climate change. \n \nParliament approves a phase-out on the use of F-gases and a reduction in other non-CO2 greenhouse gases. Following the phase-out, products containing F-gases will no longer be allowed to be sold on the EU market from 2050. \n \nThis includes types of refrigerators and air conditioning units.\n \nRead more 👉 https://europa.eu/!DyBqcK"
+        ],
+        "ad_delivery_start_time": "2024-01-22",
+        "ad_delivery_stop_time": "2024-01-26",
+        "bylines": "European Parliament",
+        "currency": "EUR",
+        "delivery_by_region": [
+            {
+                "percentage": "0.04951",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.177637",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.113228",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.055419",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.043254",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.03046",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.03879",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.053879",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.1043",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.047058",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.057463",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.096599",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.084811",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.047592",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000691",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.035922",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000189",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000974",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.030705",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.041893",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.077627",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.11996",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.184607",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000409",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.05767",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.05327",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.211949",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.033816",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.082278",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.067255",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000597",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000189",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "35000",
+            "upper_bound": "39999"
+        },
+        "page_id": "178362315106",
+        "page_name": "European Parliament",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 32433,
+        "beneficiary_payers": [
+            {
+                "payer": "European Parliament",
+                "beneficiary": "European Parliament",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 1835,
+                        "female": 977,
+                        "unknown": 13
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 3817,
+                        "female": 2140,
+                        "unknown": 22
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 1076,
+                        "female": 1143,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 1695,
+                        "female": 1333,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 5874,
+                        "female": 2470,
+                        "unknown": 19
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 6744,
+                        "female": 2618,
+                        "unknown": 31
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "364867402842424",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=364867402842424&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-22",
+        "ad_creative_bodies": [
+            "Do you know how to vote? 🗳️  The European elections are approaching, and to help us all prepare, there's now a website answering any questions you might have. And to ensure you don't forget to use your vote, you can also sign up for voting reminders."
+        ],
+        "ad_delivery_start_time": "2024-01-22",
+        "ad_delivery_stop_time": "2024-01-25",
+        "bylines": "European Parliament",
+        "currency": "EUR",
+        "delivery_by_region": [
+            {
+                "percentage": "0.047287",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.227614",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.11092",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.050648",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.040219",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.024247",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.034675",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.047086",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.091586",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.044213",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.057255",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.092246",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.073544",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.043494",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.014967",
+                "region": "Unknown"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000117",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.144356",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000526",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001783",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.015991",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.034028",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.130617",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.10872",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.099746",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00076",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.014208",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.226182",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002719",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.062297",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.022305",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.048031",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.087497",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000117",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "45000",
+            "upper_bound": "49999"
+        },
+        "page_id": "178362315106",
+        "page_name": "European Parliament",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 34016,
+        "beneficiary_payers": [
+            {
+                "payer": "European Parliament",
+                "beneficiary": "European Parliament",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 4468,
+                        "female": 3412,
+                        "unknown": 93
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 2993,
+                        "female": 1643,
+                        "unknown": 18
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 547,
+                        "female": 486,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 1164,
+                        "female": 763,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 4938,
+                        "female": 2131,
+                        "unknown": 26
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 7737,
+                        "female": 3719,
+                        "unknown": 61
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1117989539644390",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1117989539644390&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-22",
+        "ad_creative_bodies": [
+            "A win for the climate: Parliament approves new rules to cut harmful greenhouse gas emissions other than CO2 🌳\n \nCO2 is not the only culprit. Used in fridges, air conditioning units, and other everyday items, greenhouse gases such as fluorinated gases and ozone-depleting substances deal considerable damage, polluting the environment and worsening climate change. \n \nParliament approves a phase-out on the use of F-gases and a reduction in other non-CO2 greenhouse gases. Following the phase-out, products containing F-gases will no longer be allowed to be sold on the EU market from 2050. \n \nThis includes types of refrigerators and air conditioning units.\n \nRead more 👉 link in bio",
+            "A win for the climate: Parliament approves new rules to cut harmful greenhouse gas emissions other than CO2 🌳\n \nCO2 is not the only culprit. Used in fridges, air conditioning units, and other everyday items, greenhouse gases such as fluorinated gases and ozone-depleting substances deal considerable damage, polluting the environment and worsening climate change. \n \nParliament approves a phase-out on the use of F-gases and a reduction in other non-CO2 greenhouse gases. Following the phase-out, products containing F-gases will no longer be allowed to be sold on the EU market from 2050. \n \nThis includes types of refrigerators and air conditioning units.\n \nRead more 👉 link in bio"
+        ],
+        "ad_creative_link_captions": [
+            "europarl.europa.eu"
+        ],
+        "ad_delivery_start_time": "2024-01-22",
+        "ad_delivery_stop_time": "2024-01-26",
+        "bylines": "European Parliament",
+        "currency": "EUR",
+        "delivery_by_region": [
+            {
+                "percentage": "0.010969",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.03744",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.073216",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.094754",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.054987",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.04472",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.101632",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.049974",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.02625",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "4.0E-5",
+                "region": "Flemish Region"
+            },
+            {
+                "percentage": "0.036919",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.049773",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.114868",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.214114",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.047748",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.0001",
+                "region": "Wallonia"
+            },
+            {
+                "percentage": "0.042494",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000242",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.074213",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000423",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.025952",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002537",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.086454",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.036925",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.135238",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.211404",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000181",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.096219",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.063884",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.024744",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.096259",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.108541",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.03457",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001329",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000886",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "50000",
+            "upper_bound": "59999"
+        },
+        "languages": [
+            "en"
+        ],
+        "page_id": "178362315106",
+        "page_name": "European Parliament",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 49125,
+        "beneficiary_payers": [
+            {
+                "payer": "European Parliament",
+                "beneficiary": "European Parliament",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "35-44",
+                        "male": 6717,
+                        "female": 4294,
+                        "unknown": 44
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 1228,
+                        "female": 1289,
+                        "unknown": 12
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 1717,
+                        "female": 1834,
+                        "unknown": 9
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 4781,
+                        "female": 3686,
+                        "unknown": 21
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 10500,
+                        "female": 5391,
+                        "unknown": 66
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 4779,
+                        "female": 3173,
+                        "unknown": 126
+                    }
+                ]
+            },
+            {
+                "country": "BE",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "35-44",
+                        "female": 1
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 1
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 3
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 1,
+                        "female": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1441776599711920",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1441776599711920&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-22",
+        "ad_creative_bodies": [
+            "Border checks for air and sea travel have been lifted for Bulgaria and Romania as they move to join the Schengen area. 🚢 ✈️\n \nAs of 31 March, air and sea passengers travelling between Bulgaria or Romania and any Schengen member country will no longer have to undergo border controls.\n \nDiscussions to remove checks at land borders will continue this year. The European Parliament has previously called for Bulgaria and Romania's full accession to the Schengen area.\n \nRead more about the enlargement of the EU's border-free zone 👉 link in bio"
+        ],
+        "ad_creative_link_captions": [
+            "europarl.europa.eu"
+        ],
+        "ad_creative_link_descriptions": [
+            "Schengen, the EU's passport-free travel area, covers 29 countries. Read on to learn which countries are members and who is likely to join next."
+        ],
+        "ad_creative_link_titles": [
+            "Schengen: enlargement of Europe’s border-free area | News | European Parliament"
+        ],
+        "ad_delivery_start_time": "2024-01-22",
+        "ad_delivery_stop_time": "2024-01-26",
+        "bylines": "European Parliament",
+        "currency": "EUR",
+        "delivery_by_region": [
+            {
+                "percentage": "0.0114",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.046852",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.216072",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.101051",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.050278",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.034793",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.031861",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.038813",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.047115",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.095022",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.043919",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.060855",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.100194",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.08237",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.039406",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000165",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.079019",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000397",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.051147",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.093764",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.088177",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.042716",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.028632",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002579",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000727",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.069662",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.059214",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.051147",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.109238",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.175296",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.146598",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001025",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000496",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "35000",
+            "upper_bound": "39999"
+        },
+        "languages": [
+            "en"
+        ],
+        "page_id": "178362315106",
+        "page_name": "European Parliament",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 31311,
+        "beneficiary_payers": [
+            {
+                "payer": "European Parliament",
+                "beneficiary": "European Parliament",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "55-64",
+                        "male": 1547,
+                        "female": 1547,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 3304,
+                        "female": 2390,
+                        "unknown": 15
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 866,
+                        "female": 1292,
+                        "unknown": 12
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 4434,
+                        "female": 2667,
+                        "unknown": 22
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 2107,
+                        "female": 1791,
+                        "unknown": 78
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 5302,
+                        "female": 2836,
+                        "unknown": 31
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "917743086453375",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=917743086453375&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-22",
+        "ad_creative_bodies": [
+            "Hateful messages and acts driven by prejudice should not be tolerated.\n\nParliament is calling on national governments to finally include hate speech and hate crimes among criminal offences across the EU by the end of the legislative term in June.\n\nParliament wants laws on hate speech and hate crimes based on race, religion or national origin to be the same throughout the EU to protect vulnerable groups and communities.\n\nSee the link in bio to find out more.",
+            "Hateful messages and acts driven by prejudice should not be tolerated.\n\nParliament is calling on national governments to finally include hate speech and hate crimes among criminal offences across the EU by the end of the legislative term in June.\n\nParliament wants laws on hate speech and hate crimes based on race, religion or national origin to be the same throughout the EU to protect vulnerable groups and communities.\n\nSee the link in bio to find out more."
+        ],
+        "ad_creative_link_captions": [
+            "europarl.europa.eu"
+        ],
+        "ad_delivery_start_time": "2024-01-22",
+        "ad_delivery_stop_time": "2024-01-26",
+        "bylines": "European Parliament",
+        "currency": "EUR",
+        "delivery_by_region": [
+            {
+                "percentage": "0.013898",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.038639",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.072863",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.096391",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.057704",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.044727",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.096827",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.05147",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.025371",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "7.3E-5",
+                "region": "Flemish Region"
+            },
+            {
+                "percentage": "0.042568",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.054987",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.107354",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.205564",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.049675",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.000121",
+                "region": "Wallonia"
+            },
+            {
+                "percentage": "0.041768",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "7.3E-5",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.060522",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000511",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001411",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.154954",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.104016",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.071566",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.110462",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.241504",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.0009",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.026077",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.051035",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002433",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.094772",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.021747",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.038921",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.018852",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000243",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "50000",
+            "upper_bound": "59999"
+        },
+        "languages": [
+            "en"
+        ],
+        "page_id": "178362315106",
+        "page_name": "European Parliament",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 39939,
+        "beneficiary_payers": [
+            {
+                "payer": "European Parliament",
+                "beneficiary": "European Parliament",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "BE",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "female": 1
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 1
+                    },
+                    {
+                        "age_range": "65+",
+                        "female": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 3
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 2
+                    }
+                ]
+            },
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "35-44",
+                        "male": 6370,
+                        "female": 2488,
+                        "unknown": 37
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 894,
+                        "female": 775,
+                        "unknown": 10
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 1600,
+                        "female": 1072,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 4276,
+                        "female": 2098,
+                        "unknown": 21
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 9928,
+                        "female": 3896,
+                        "unknown": 58
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 4541,
+                        "female": 2942,
+                        "unknown": 100
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1097672624908225",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1097672624908225&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-22",
+        "ad_creative_bodies": [
+            "What are you listening to?🎧 Share some music from an artist that you think deserves more visibility."
+        ],
+        "ad_delivery_start_time": "2024-01-22",
+        "ad_delivery_stop_time": "2024-01-25",
+        "bylines": "European Parliament",
+        "currency": "EUR",
+        "delivery_by_region": [
+            {
+                "percentage": "0.016885",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.047115",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.201861",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.107339",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.051738",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.039535",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.029439",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.038394",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.049865",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.101165",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.045095",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.055074",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.096834",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.079919",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.03974",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000362",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.125648",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000151",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001175",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000482",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.080139",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.073538",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.03472",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.164195",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002682",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.082068",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.046052",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.055756",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.090747",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.054069",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.097348",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.090536",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000332",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "40000",
+            "upper_bound": "44999"
+        },
+        "languages": [
+            "en"
+        ],
+        "page_id": "178362315106",
+        "page_name": "European Parliament",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 34212,
+        "beneficiary_payers": [
+            {
+                "payer": "European Parliament",
+                "beneficiary": "European Parliament",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 3011,
+                        "female": 2723,
+                        "unknown": 89
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 3230,
+                        "female": 2659,
+                        "unknown": 11
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 1152,
+                        "female": 1528,
+                        "unknown": 12
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 1794,
+                        "female": 1850,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 4169,
+                        "female": 2440,
+                        "unknown": 16
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 5448,
+                        "female": 3004,
+                        "unknown": 39
+                    }
+                ]
+            }
+        ]
+    }
+]

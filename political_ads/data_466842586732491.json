@@ -1,0 +1,848 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=290936917279121&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-17",
+        "ad_creative_bodies": [
+            "Jestli dnes potkáte spoustu lidí v nápadně ohrnutých kalhotách, má to dobrý důvod. Před 12 lety odešla politická superstar globálního významu, která dodnes inspiruje to lepší v každém z nás – prezident v krátkých kalhotách, za kterého jsme se přesto nikdy nemuseli stydět. Co Václav Havel a jeho odkaz znamená pro vás?"
+        ],
+        "ad_delivery_start_time": "2023-12-18",
+        "ad_delivery_stop_time": "2023-12-18",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.052632",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.139319",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.102167",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.040248",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.043344",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.055728",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.055728",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.06192",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.130031",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.037152",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.043344",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.089783",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.105263",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.043344",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.037152",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.01548",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.024768",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.167183",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.077399",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.22291",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.260062",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.080495",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.037152",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.03096",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.040248",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.006192",
+                "age": "35-44",
+                "gender": "female"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "page_id": "466842586732491",
+        "page_name": "Up Česká republika",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 329,
+        "beneficiary_payers": [
+            {
+                "payer": "Up Česká republika",
+                "beneficiary": "Up Česká republika",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 10,
+                        "female": 12
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 8,
+                        "female": 13
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 12,
+                        "female": 2
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 26,
+                        "female": 5
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 54,
+                        "female": 25
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 84,
+                        "female": 72
+                    }
+                ]
+            }
+        ],
+        "_id": "290936917279121"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1049532406497651&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-10",
+        "ad_creative_bodies": [
+            "Tak sláva! 🏆🌿 Up Česká republika je letošním vítězem #ZelenaVyzva23. To je skvělá zpráva pro všechny, kteří se zapojili! 👏\n\nSpolečně jsme ušli úžasných 2 092 670 zelených kilometrů a snížili emise CO2 o 252 tuny! 🌍🌳 Tohle jsou čísla, na která můžeme být hrdí. A navrch, díky partnerství s Mastercard se vysadí 50 tisíc stromů, které nám pomohou udržet naši planetu zdravou. 🌲💚\n\nDěkujeme všem, kteří se do toho zapojili a udělali správnou věc! 💪 Těšíme se na další ročník Zelené výzvy a pokračujeme v naší cestě k udržitelnější budoucnosti. 😊🌱"
+        ],
+        "ad_creative_link_captions": [
+            "www.upcz.cz"
+        ],
+        "ad_delivery_start_time": "2023-11-10",
+        "ad_delivery_stop_time": "2023-11-11",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.06095",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.066116",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.115702",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.041322",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.048554",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.042355",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.049587",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.067149",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.14876",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.040289",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.063017",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.089876",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.089876",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.076446",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.003071",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002047",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.097236",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.156602",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.403275",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.035824",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.020471",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.114637",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.039918",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.037871",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.046059",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.007165",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.004094",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.03173",
+                "age": "35-44",
+                "gender": "male"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "466842586732491",
+        "page_name": "Up Česká republika",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 975,
+        "beneficiary_payers": [
+            {
+                "payer": "Up Česká republika",
+                "beneficiary": "Up Česká republika",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 7,
+                        "female": 4
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 35,
+                        "female": 20
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 31,
+                        "female": 37
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 39,
+                        "female": 45,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 95,
+                        "female": 112
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 153,
+                        "female": 394,
+                        "unknown": 3
+                    }
+                ]
+            }
+        ],
+        "_id": "1049532406497651"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=3273187252986391&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-10-28",
+        "ad_creative_bodies": [
+            "„Lide československý. Tvůj odvěký sen se stal skutkem…“\nSen o samostatné Československé republice se nám splnil před 105 lety. To na republiku ale není žádný věk. A tak věříme, že se naše republika „popere“ se všemi výzvami s mladickým zápalem."
+        ],
+        "ad_delivery_start_time": "2023-10-28",
+        "ad_delivery_stop_time": "2023-10-30",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000465",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.056279",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.110698",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.09907",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.055349",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.042326",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.034884",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.038605",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.073023",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.137209",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.045116",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.056279",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.106512",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.092093",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.052093",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000471",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.290292",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.004241",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.005184",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.012253",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.073516",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.083883",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.167766",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.301131",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000471",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.021678",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001885",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.006598",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.018379",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.008483",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002828",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000471",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000471",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "2000",
+            "upper_bound": "2999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "466842586732491",
+        "page_name": "Up Česká republika",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 2081,
+        "beneficiary_payers": [
+            {
+                "payer": "Up Česká republika",
+                "beneficiary": "Up Česká republika",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 26,
+                        "female": 14,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 39,
+                        "female": 9,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 639,
+                        "female": 616,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 356,
+                        "female": 178,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 156,
+                        "female": 46,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 18,
+                        "female": 11,
+                        "unknown": 1
+                    }
+                ]
+            }
+        ],
+        "_id": "3273187252986391"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=309745347714515&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-03-01",
+        "ad_creative_bodies": [
+            "Soucítíme s těmi, kteří v současné době nemohou prožívat svůj život v bezpečí a míru. V Up Česká republika jsme se proto rozhodli přispět finanční částkou 150 000 korun organizaci Český červený kříž.  🇺🇦 💛💙\n\n#Stopthewar #StayStrongUkraine  #SlavaUkraine"
+        ],
+        "ad_delivery_start_time": "2022-03-01",
+        "ad_delivery_stop_time": "2022-03-05",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.057929",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.150983",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.104325",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.072608",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.039843",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.031193",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.0519",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.051638",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.094889",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.046658",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.049803",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.116907",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.077588",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.053735",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001326",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.084063",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.082206",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.056219",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.108194",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.030496",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.06497",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.178202",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.077168",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000796",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.118006",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.037921",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.072925",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00053",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000265",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000265",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.086449",
+                "age": "45-54",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "5000",
+            "upper_bound": "5999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "466842586732491",
+        "page_name": "Up Česká republika",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "500",
+            "upper_bound": "599"
+        },
+        "_id": "309745347714515"
+    }
+]

@@ -1,0 +1,258 @@
+[
+    {
+        "id": "687201226826120",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=687201226826120&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-02-02",
+        "ad_creative_bodies": [
+            "K nedožitým 95. narozeninám Věry Chytilové nyní na Vltavě uvádíme její Osudy, které můžete slyšet v nové, remastrované podobě. Významná představitelka československé nové vlny v nich vzpomíná na své začátky u filmu i na to, proč se během normalizace rozhodla nedělat kompromisy ▶ rozhl.as/OsudyChytilova"
+        ],
+        "ad_creative_link_captions": [
+            "vltava.rozhlas.cz"
+        ],
+        "ad_creative_link_titles": [
+            "Osudy Věry Chytilové"
+        ],
+        "ad_delivery_start_time": "2024-02-02",
+        "bylines": "Český rozhlas",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000419",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.042112",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.23172",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.125288",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.051959",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.03436",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.026818",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.035827",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.058663",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.095956",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.039807",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.043578",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.10287",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.061806",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.048816",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.00126",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.108778",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00042",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00651",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.0084",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.01197",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.070349",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.074129",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.196136",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.01743",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.189416",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.063209",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00294",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.173247",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.069509",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00378",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00231",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00021",
+                "age": "18-24",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "5000",
+            "upper_bound": "5999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "58864692622",
+        "page_name": "Český rozhlas Vltava",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 4681,
+        "beneficiary_payers": [
+            {
+                "payer": "Český rozhlas",
+                "beneficiary": "Český rozhlas",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 40,
+                        "female": 31,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 518,
+                        "female": 825,
+                        "unknown": 14
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 331,
+                        "female": 934,
+                        "unknown": 11
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 335,
+                        "female": 902,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 301,
+                        "female": 353,
+                        "unknown": 18
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 83,
+                        "female": 57,
+                        "unknown": 2
+                    }
+                ]
+            }
+        ]
+    }
+]

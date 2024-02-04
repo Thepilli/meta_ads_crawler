@@ -1,0 +1,219 @@
+[
+    {
+        "id": "2433316670389409",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=2433316670389409&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-25",
+        "ad_creative_link_captions": [
+            "csob.cz",
+            "csob.cz",
+            "csob.cz",
+            "csob.cz"
+        ],
+        "ad_delivery_start_time": "2024-01-25",
+        "ad_delivery_stop_time": "2024-01-30",
+        "bylines": "ČSOB",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000126",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.04165",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.29504",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.119813",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.046487",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.040322",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.018174",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.032093",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.045236",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.091675",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.040128",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.045101",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.090764",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.049928",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.043463",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "1.0E-5",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001002",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.112581",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.036599",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.005318",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.233052",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.084941",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.099604",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.315267",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.06103",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.047167",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002803",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000626",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "100000",
+            "upper_bound": "124999"
+        },
+        "page_id": "315972808450196",
+        "page_name": "ČSOB",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "2500",
+            "upper_bound": "2999"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "54"
+        ],
+        "eu_total_reach": 103657,
+        "beneficiary_payers": [
+            {
+                "payer": "Československá obchodní banka, a. s.",
+                "beneficiary": "Československá obchodní banka, a. s.",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 24191,
+                        "female": 8817,
+                        "unknown": 552
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 32725,
+                        "female": 10339,
+                        "unknown": 291
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 11686,
+                        "female": 4896,
+                        "unknown": 104
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 6335,
+                        "female": 3799,
+                        "unknown": 65
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 1
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,413 @@
+[
+    {
+        "id": "1023333118731894",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1023333118731894&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-22",
+        "ad_creative_bodies": [
+            "🇺🇸 Republikánský kandidát Donald Trump prohlásil, že pokud vyhraje prezidentské volby, vyřeší konflikt mezi Ruskem a Ukrajinou ještě před svou inaugurací."
+        ],
+        "ad_delivery_start_time": "2024-01-22",
+        "ad_delivery_stop_time": "2024-01-25",
+        "bylines": "Borgis a.s.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.04687",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.1412",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.11853",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.05429",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.035447",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.030383",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.040393",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.066302",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.132427",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.042984",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.055055",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.093093",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.088206",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.050992",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.003827",
+                "region": "Unknown"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.002246",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001241",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.14909",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.013537",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.057047",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.238886",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.200343",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.268267",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.043095",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.020927",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.003902",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001419",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "25000",
+            "upper_bound": "29999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "202451429883",
+        "page_name": "Novinky.cz",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "50"
+        ],
+        "eu_total_reach": 16912,
+        "beneficiary_payers": [
+            {
+                "payer": "Novinky.cz",
+                "beneficiary": "Novinky.cz",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 2522,
+                        "female": 229,
+                        "unknown": 66
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 4041,
+                        "female": 354,
+                        "unknown": 38
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 4538,
+                        "female": 729,
+                        "unknown": 24
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 3389,
+                        "female": 965,
+                        "unknown": 21
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "2600881950119202",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=2600881950119202&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-18",
+        "ad_creative_link_captions": [
+            "instagram.com",
+            "instagram.com",
+            "instagram.com",
+            "instagram.com",
+            "instagram.com",
+            "instagram.com",
+            "instagram.com",
+            "instagram.com",
+            "instagram.com",
+            "instagram.com"
+        ],
+        "ad_delivery_start_time": "2024-01-18",
+        "ad_delivery_stop_time": "2024-01-23",
+        "bylines": "Borgis a.s.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.001428",
+                "region": "Silesian Voivodeship"
+            },
+            {
+                "percentage": "0.61652",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.20995",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.004761",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.004285",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.1602",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.002856",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.003068",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.16901",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.167988",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.0427",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.315776",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.269241",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.023268",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.005625",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00179",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000511",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001023",
+                "age": "45-54",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "8000",
+            "upper_bound": "8999"
+        },
+        "page_id": "202451429883",
+        "page_name": "Novinky.cz",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "900",
+            "upper_bound": "999"
+        },
+        "target_locations": [
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            },
+            {
+                "name": "Brno, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Ostrava, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "45"
+        ],
+        "eu_total_reach": 3985,
+        "beneficiary_payers": [
+            {
+                "payer": "Novinky.cz",
+                "beneficiary": "Novinky.cz",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "PL",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 1,
+                        "female": 2
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 1,
+                        "female": 2
+                    }
+                ]
+            },
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "35-44",
+                        "male": 91,
+                        "female": 167,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 4,
+                        "female": 12
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 661,
+                        "female": 1235,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 656,
+                        "female": 1053,
+                        "unknown": 22
+                    }
+                ]
+            }
+        ]
+    }
+]

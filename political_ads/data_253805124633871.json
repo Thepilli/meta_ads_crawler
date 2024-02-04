@@ -1,0 +1,194 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=838678674607744&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-27",
+        "ad_creative_bodies": [
+            "Soutěž NEJpraxe Zdravých měst 2023 – hlasujte pro nás, hlasujte pro Dolní Měcholupy! ✨ Stačí kliknout na odkazy níže a dát To se mi líbí.\n\nPředem děkujeme za každý hlas, oba naše projekty - Měchurka i polytechnická učebna, si to zaslouží. 💛❤️\n\nPro Měchurku hlasujeme tady (klik na To se mi líbí):\nhttps://www.facebook.com/photo/?fbid=725778809595066&set=a.725792879593659\n\nPro polytechnickou učebnu hlasujeme tady (klik na To se mi líbí): https://www.facebook.com/photo/?fbid=725779052928375&set=pcb.725792926260321\n\n@sledující"
+        ],
+        "ad_creative_link_descriptions": [
+            "Dolní Měcholupy jsou městská čtvrť a katastrální území Prahy v obvodě Praha 10."
+        ],
+        "ad_creative_link_titles": [
+            "Dolní Měcholupy"
+        ],
+        "ad_delivery_start_time": "2023-11-27",
+        "ad_delivery_stop_time": "2023-12-04",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.001825",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.029805",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.568127",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.400243",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.02037",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.054938",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001235",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.059877",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.038272",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.059877",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.106173",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.020988",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.097531",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.110494",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.21358",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.164815",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000617",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.050617",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000617",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "2000",
+            "upper_bound": "2999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "253805124633871",
+        "page_name": "Dolní Měcholupy",
+        "publisher_platforms": [
+            "facebook",
+            "instagram",
+            "audience_network",
+            "messenger"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 1641,
+        "beneficiary_payers": [
+            {
+                "payer": "Jana Doláková",
+                "beneficiary": "Zdravé Dolní Měcholupy",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 33,
+                        "female": 34
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 62,
+                        "female": 158,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 97,
+                        "female": 179,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 82,
+                        "female": 172
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 89,
+                        "female": 267
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 97,
+                        "female": 346,
+                        "unknown": 2
+                    }
+                ]
+            }
+        ],
+        "_id": "838678674607744"
+    }
+]

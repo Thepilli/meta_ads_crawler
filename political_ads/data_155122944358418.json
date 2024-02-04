@@ -1,0 +1,244 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1010747456662765&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-09",
+        "ad_creative_link_captions": [
+            "ttechp1ion11rs.site"
+        ],
+        "ad_delivery_start_time": "2024-01-10",
+        "ad_delivery_stop_time": "2024-01-10",
+        "currency": "USD",
+        "delivery_by_region": [
+            {
+                "percentage": "0.048",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.165333",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.089067",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.062933",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.026133",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.037867",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.035733",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.056",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.142933",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.0368",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.057067",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.096533",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.112533",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.033067",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.003784",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.387027",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.247027",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.04973",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.166486",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.01027",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.098919",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.036757",
+                "age": "55-64",
+                "gender": "female"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "page_id": "155122944358418",
+        "page_name": "Motivate Vision",
+        "publisher_platforms": [
+            "facebook",
+            "instagram",
+            "audience_network",
+            "messenger"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "35",
+            "64"
+        ],
+        "eu_total_reach": 1862,
+        "beneficiary_payers": [
+            {
+                "payer": "Verkhovska Marina",
+                "beneficiary": "Verkhovska Marina",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "35-44",
+                        "male": 716,
+                        "female": 457,
+                        "unknown": 19
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 308,
+                        "female": 183,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 92,
+                        "female": 68
+                    }
+                ]
+            }
+        ],
+        "_id": "1010747456662765"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1355631635071645&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-07",
+        "ad_creative_link_captions": [
+            "ttechp1ion11rs.site"
+        ],
+        "ad_delivery_start_time": "2024-01-08",
+        "ad_delivery_stop_time": "2024-01-08",
+        "currency": "USD",
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "page_id": "155122944358418",
+        "page_name": "Motivate Vision",
+        "publisher_platforms": [
+            "facebook",
+            "instagram",
+            "audience_network",
+            "messenger"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "28",
+            "54"
+        ],
+        "eu_total_reach": 80,
+        "beneficiary_payers": [
+            {
+                "payer": "Verkhovska Marina",
+                "beneficiary": "Verkhovska Marina",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 33,
+                        "female": 19
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 12,
+                        "female": 9
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 3,
+                        "female": 4
+                    }
+                ]
+            }
+        ],
+        "_id": "1355631635071645"
+    }
+]

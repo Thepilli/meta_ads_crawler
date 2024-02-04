@@ -1,0 +1,850 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1411057259814219&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-06",
+        "ad_creative_bodies": [
+            "Jablonecká energetická byla v televizi! \nDěkujeme TV rtm plus! A jestli vám právě tento díl Jabloneckého magazínu utekl, nevadí!\nDejte si 5 minut pauzu a pusťe si to 👇👇👇"
+        ],
+        "ad_creative_link_titles": [
+            "Jablonecká energetická pohledem TV rtm plus"
+        ],
+        "ad_delivery_start_time": "2023-11-06",
+        "ad_delivery_stop_time": "2023-11-11",
+        "bylines": "Jablonecká energetická a. s. ",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000233",
+                "region": "Lower Silesian Voivodeship"
+            },
+            {
+                "percentage": "0.999767",
+                "region": "Liberec Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.0219",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.063582",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.071588",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.065819",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.102908",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.112092",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.194984",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.043448",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.275639",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.043919",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001648",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000589",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000471",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000824",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000589",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "8000",
+            "upper_bound": "8999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "369791923154637",
+        "page_name": "Jablonecká energetická a.s.",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Jablonec nad Nisou, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "33",
+            "65"
+        ],
+        "eu_total_reach": 8581,
+        "beneficiary_payers": [
+            {
+                "payer": "Jablonecká energetická a.s.",
+                "beneficiary": "Jablonecká energetická a.s.",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "PL",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "55-64",
+                        "male": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "female": 1
+                    }
+                ]
+            },
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "male": 1656,
+                        "female": 874,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 373,
+                        "female": 369,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 607,
+                        "female": 540,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 2341,
+                        "female": 951,
+                        "unknown": 14
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 559,
+                        "female": 186,
+                        "unknown": 4
+                    }
+                ]
+            }
+        ],
+        "_id": "1411057259814219"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=640968484814807&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-09-07",
+        "ad_creative_bodies": [
+            "Dnes nás navštívili europoslanci Veronika Vrecionová a Alexandr Vondra. Rádi jsme se pochlubili vším, co Jablonecká energetická a.s. za 10 let dokázala 💪  Průvodce návštěvě dělali Miloš Vele a Petr Roubíček - náměstek primátora"
+        ],
+        "ad_delivery_start_time": "2023-09-07",
+        "ad_delivery_stop_time": "2023-10-13",
+        "bylines": "Jablonecká energetická a. s. ",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.003147",
+                "region": "Lower Silesian Voivodeship"
+            },
+            {
+                "percentage": "0.097943",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.762931",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.135252",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.000728",
+                "region": "Sachsen"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000385",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.056324",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.0005",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001173",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000808",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001346",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.03269",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.063362",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.06215",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.028748",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.183259",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.055401",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.185124",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.054574",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.095533",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.132742",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.042824",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.003058",
+                "age": "18-24",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "90000",
+            "upper_bound": "99999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "369791923154637",
+        "page_name": "Jablonecká energetická a.s.",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "target_locations": [
+            {
+                "name": "Jablonec nad Nisou, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 50935,
+        "beneficiary_payers": [
+            {
+                "payer": "Jablonecká energetická a.s.",
+                "beneficiary": "Jablonecká energetická a.s.",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "DE",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "65+",
+                        "male": 1,
+                        "female": 1
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 4,
+                        "female": 3
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 9,
+                        "female": 2
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 5,
+                        "female": 2
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 5,
+                        "female": 5
+                    }
+                ]
+            },
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "35-44",
+                        "male": 9483,
+                        "female": 3230,
+                        "unknown": 70
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 9617,
+                        "female": 2828,
+                        "unknown": 61
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 4960,
+                        "female": 2917,
+                        "unknown": 159
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 6860,
+                        "female": 3286,
+                        "unknown": 42
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 2878,
+                        "female": 2224,
+                        "unknown": 19
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 1691,
+                        "female": 1493,
+                        "unknown": 26
+                    }
+                ]
+            },
+            {
+                "country": "PL",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "35-44",
+                        "male": 45,
+                        "female": 4
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 26,
+                        "female": 5
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 9,
+                        "female": 1
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 9,
+                        "female": 7,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 15,
+                        "female": 6
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 19,
+                        "female": 13
+                    }
+                ]
+            }
+        ],
+        "_id": "640968484814807"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=192489290370783&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-08-23",
+        "ad_creative_bodies": [
+            "Jablonec nad Nisou se může městskou teplárnou chlubit. \nJablonecká energetická má energii, vizi a ambici se dál rozvíjet. \nAle bylo tomu tak vždycky?"
+        ],
+        "ad_creative_link_titles": [
+            "10 let vám dodáváme energie s jistotou"
+        ],
+        "ad_delivery_start_time": "2023-08-25",
+        "ad_delivery_stop_time": "2023-08-29",
+        "bylines": "Jablonecká energetická a. s. ",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.003171",
+                "region": "Lower Silesian Voivodeship"
+            },
+            {
+                "percentage": "0.074564",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.854043",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.067457",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.000765",
+                "region": "Sachsen"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001843",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.226658",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000726",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001396",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000503",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.095544",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.052658",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002457",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.045175",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000558",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.005193",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.060364",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.127317",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.013402",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.111068",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.180534",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.074157",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000447",
+                "age": "18-24",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "40000",
+            "upper_bound": "44999"
+        },
+        "page_id": "369791923154637",
+        "page_name": "Jablonecká energetická a.s.",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "target_locations": [
+            {
+                "name": "Jablonec nad Nisou, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 18469,
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "PL",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 1
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 3,
+                        "female": 2
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 5,
+                        "female": 2
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 19,
+                        "female": 12
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 13,
+                        "female": 1
+                    }
+                ]
+            },
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "male": 4047,
+                        "female": 2266,
+                        "unknown": 33
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 940,
+                        "female": 1326,
+                        "unknown": 10
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 1986,
+                        "female": 1711,
+                        "unknown": 13
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 3225,
+                        "female": 1079,
+                        "unknown": 25
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 806,
+                        "female": 240,
+                        "unknown": 9
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 93,
+                        "female": 44,
+                        "unknown": 8
+                    }
+                ]
+            },
+            {
+                "country": "DE",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "55-64",
+                        "female": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 5,
+                        "female": 1
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 4
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 2
+                    }
+                ]
+            }
+        ],
+        "_id": "192489290370783"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1097910514942108&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-02-03",
+        "ad_creative_bodies": [
+            "Víte, co je komunitní energetika? \n➡️ Jednoduše řečeno systém výroby a sdílení elektrické energie za využití obnovitelných zdrojů - slunce, větru, odpadního tepla…\n➡️ Cílem je nezávislost na plynu, úspory, ochrana životního prostředí.\n\n✅ V Jablonci už máme našlápnuto - máme decentralizovanou soustavu, využíváme kogenerace i fotovoltaiku. Teď už jen čekáme na zákony a dotační tituly, abychom se do toho mohli pustit. \n\n✅ Právě na téma komunitní energeticky byl seminář, jehož jsme se v minulém týdnu účastnili. Jsme u toho a děláme vše pro to, aby vám bylo doma dobře!"
+        ],
+        "ad_delivery_start_time": "2023-02-03",
+        "ad_delivery_stop_time": "2023-02-05",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Liberec Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000922",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000922",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000461",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.010138",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.05023",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.170046",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.112903",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.113364",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.109217",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.163594",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.032258",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.057143",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.099539",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.067742",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000461",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.01106",
+                "age": "18-24",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "2000",
+            "upper_bound": "2999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "369791923154637",
+        "page_name": "Jablonecká energetická a.s.",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "_id": "1097910514942108"
+    }
+]

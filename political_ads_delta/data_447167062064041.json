@@ -1,0 +1,1434 @@
+[
+    {
+        "id": "6888464821266337",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=6888464821266337&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-31",
+        "ad_creative_bodies": [
+            "Pojďme se složit na novou kuchyň. Ta je zoufale potřeba v domově, kde se starají o mladé lidi s autismem. \n\nZ celkové částky 150 000 Kč je pohromadě třetina. \n\nDěkuji za Nautis! \n\nČíslo účtu: 2003420034/5500\nVariabilní symbol: 111\nPoznámka: KUCHYNĚ\n\nwww.nautis.cz"
+        ],
+        "ad_delivery_start_time": "2024-02-01",
+        "bylines": "CORP Production s.r.o.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.51746",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.001693",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.001905",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.402116",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.076825",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.00065",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.07719",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001518",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.04098",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.153296",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000867",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.051171",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.078708",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.146357",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00065",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.173244",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.111015",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.104944",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.032741",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.016479",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.008023",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00065",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001518",
+                "age": "18-24",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "5000",
+            "upper_bound": "5999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "447167062064041",
+        "page_name": "Vladimíra Ludková",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 4708,
+        "beneficiary_payers": [
+            {
+                "payer": "Vladimíra Ludková",
+                "beneficiary": "Vladimíra Ludková",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 189,
+                        "female": 37,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 801,
+                        "female": 151,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 356,
+                        "female": 512,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 484,
+                        "female": 363,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 676,
+                        "female": 236,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 708,
+                        "female": 76,
+                        "unknown": 3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "2221210314883539",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=2221210314883539&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-31",
+        "ad_creative_bodies": [
+            "Ministerstvo práce a sociálních věcí plánuje v únoru zveřejnit návrh pružnějšího zákoníku práce. Je to totéž MPSV, které ho nedávno znepružnilo novými podmínkami pro dohodáře. Mimochodem tak poslalo na dlažbu mnoho studentů, seniorů, osob se zdravotním postižením. \n\nMPSV v přímém přenosu zmateně pobíhá ode zdi ke zdi ... občas i do zdi. Příkladem může být dlouho očekávaná velká novela zákona o sociálních službách, která se do konce volebního období již nestihne a místo které se ministerstvo snaží procpat alespoň nějaké změny cestou nesystémových návrhů. O nespočetných novelách zákona o sociálně právní ochraně dětí nemluvě. \n\nMPSV buď nemá lidi na přípravu potřebných systémových změn nebo je má a ti raději pracují na nejrůznějších projektech, za které jim neplne žádná zodpovědnost. Prostě další metodika a složky s mašličkou v šuplíku."
+        ],
+        "ad_delivery_start_time": "2024-01-31",
+        "bylines": "CORP Production s.r.o.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.050879",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.099907",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.123651",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.04502",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.042862",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.042553",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.038853",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.069997",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.142152",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.041936",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.051804",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.095591",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.110083",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.044403",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.000308",
+                "region": "Unknown"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000617",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.207896",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000925",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.003085",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001542",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.018816",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.111351",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.15546",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.119988",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000617",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.107033",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.203578",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.011721",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.050278",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000308",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.003085",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.003701",
+                "age": "18-24",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "4000",
+            "upper_bound": "4999"
+        },
+        "page_id": "447167062064041",
+        "page_name": "Vladimíra Ludková",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 3195,
+        "beneficiary_payers": [
+            {
+                "payer": "Vladimíra Ludková",
+                "beneficiary": "Vladimíra Ludková",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 10,
+                        "female": 12,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 163,
+                        "female": 61,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 347,
+                        "female": 660
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 504,
+                        "female": 674,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 389,
+                        "female": 361,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 38,
+                        "female": 10,
+                        "unknown": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "914035717050470",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=914035717050470&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-25",
+        "ad_creative_bodies": [
+            "Istanbulská úmluva nebude ratifikována. A já mám radost, že se v Senátu našlo dost odvážných, kteří řekli ne.\n\nNe politickému dokumentu.\nNe nátlakovému nástroji, kterým by se stala.\nNe neprůhlednosti, která se skrývala pod hesly o lidských právech.\n\nIstanbulskou úmluvu nepotřebujeme, máme jasný právní i podpůrný sociální systém a v případě potřeby je možnost na nich pracovat bez tlaků různých skupin.\n\nPřipojuji své dřívější příspěvky o IU.\n\nhttps://www.vladimiraludkova.cz/istanbulizace-skolstvi/\nhttps://www.vladimiraludkova.cz/istanbulska-umluva-a-jeji-zbytecna-ratifikace/"
+        ],
+        "ad_delivery_start_time": "2024-01-26",
+        "bylines": "CORP Production s.r.o.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "9.9E-5",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.046661",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.148999",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.122548",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.050624",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.041906",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.029721",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.045274",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.068655",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.125619",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.048147",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.055875",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.089162",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.081732",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.044977",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001083",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.027961",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.004234",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.053953",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.009649",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.097371",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.100916",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.095796",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.117456",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001378",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.141873",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.107807",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.090184",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.128581",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.018608",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000985",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000985",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001181",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "447167062064041",
+        "page_name": "Vladimíra Ludková",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "800",
+            "upper_bound": "899"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 10082,
+        "beneficiary_payers": [
+            {
+                "payer": "Vladimíra Ludková",
+                "beneficiary": "Vladimíra Ludková",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 974,
+                        "female": 284,
+                        "unknown": 43
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 1441,
+                        "female": 548,
+                        "unknown": 12
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 1095,
+                        "female": 1193,
+                        "unknown": 10
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 1306,
+                        "female": 916,
+                        "unknown": 11
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 1025,
+                        "female": 189,
+                        "unknown": 10
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 989,
+                        "female": 98,
+                        "unknown": 14
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1121099118839931",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1121099118839931&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-18",
+        "ad_creative_bodies": [
+            "Dlouhodobě se ukazuje, že posuzování trestných činů páchaných na dětech a sexuální násilí na ženách není dobře nastaveno. Ještě víc to vynikne, když s tím srovnáme výši trestu za pěstování konopí a \"blbé kecy\" na sítích. A rovnou dodávám, že přijetí jakékoliv \"úmluvy\", ani té Istanbulské, v praxi nic nezmění, jak ukazují příklady ze zahraničí."
+        ],
+        "ad_delivery_start_time": "2024-01-18",
+        "ad_delivery_stop_time": "2024-01-29",
+        "bylines": "CORP Production s.r.o.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.052882",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.120882",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.107536",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.052605",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.037931",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.03472",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.043579",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.064954",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.128966",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.046293",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.050446",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.092862",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.124481",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.041863",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000503",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.083618",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001007",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002405",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.037306",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.026232",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.037083",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.035517",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.055876",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.01924",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.274624",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.093182",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.251636",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.031266",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.049332",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000727",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000447",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "25000",
+            "upper_bound": "29999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "447167062064041",
+        "page_name": "Vladimíra Ludková",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 17376,
+        "beneficiary_payers": [
+            {
+                "payer": "Vladimíra Ludková",
+                "beneficiary": "Vladimíra Ludková",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "65+",
+                        "male": 663,
+                        "female": 559,
+                        "unknown": 8
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 1495,
+                        "female": 344,
+                        "unknown": 13
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 667,
+                        "female": 635
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 999,
+                        "female": 469,
+                        "unknown": 9
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 4499,
+                        "female": 882,
+                        "unknown": 18
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 4910,
+                        "female": 1666,
+                        "unknown": 43
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "205676415964497",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=205676415964497&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-15",
+        "ad_creative_bodies": [
+            "Podvečery pokračují aktuálním tématem a pozvání přijala paní docentka Iva Holmerová, primářka Gerontologického centra Prahy 8. \n\nA protože popularita Podvečerů pro rodinu o rodině roste, poprvé si vyzkoušíme nádherný prostorný sál Velkého mlýna v Libni. \n\nZáznamy přednášek na webu Prahy 8."
+        ],
+        "ad_delivery_start_time": "2024-01-15",
+        "ad_delivery_stop_time": "2024-01-25",
+        "bylines": "CORP Production s.r.o.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.050045",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.18782",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.110341",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.047332",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.034971",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.032861",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.040398",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.059692",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.116672",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.043111",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.045523",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.091046",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.092855",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.046126",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.001206",
+                "region": "Unknown"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000303",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.050878",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001211",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001514",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.026045",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.391884",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.014537",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.161114",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.071775",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002423",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.109631",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.029679",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.072078",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.016354",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.019079",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.030285",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001211",
+                "age": "18-24",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "5000",
+            "upper_bound": "5999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "447167062064041",
+        "page_name": "Vladimíra Ludková",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 3328,
+        "beneficiary_payers": [
+            {
+                "payer": "Vladimíra Ludková",
+                "beneficiary": "Vladimíra Ludková",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 86,
+                        "female": 63,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 168,
+                        "female": 237,
+                        "unknown": 8
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 362,
+                        "female": 1294,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 238,
+                        "female": 532,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 98,
+                        "female": 100
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 48,
+                        "female": 54,
+                        "unknown": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "7424831330883236",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=7424831330883236&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-15",
+        "ad_creative_bodies": [
+            "Právní systém má být přehledný a pokud možno, co nejméně obsáhlý. Proč? Protože jinak se v něm nikdo nevyzná. Současná situace je však taková, že bez odborníka na tu či onu část práva, ve které se zrovna musíte pohybovat, se neobejdete. Bohužel, sami právníci zaměrení na určitou oblast bědují nad čím dál nepřehlednější džunglí paragrafů. Jak se v nich má vyznat člověk, který do té které oblasti „spadne“ vlivem událostí? Jak má být úřednická práce kvalitní, když ani úředníci mnohdy nestíhají sledovat, co se v jejich oblasti práva děje? Jeden příklad z oblasti sociální.\n\nTéměř 50. To je počet novel zákona o sociálně právní ochraně dětí. Novela stíhá novelu. Paragrafy si ještě nesedly a už se budou opět měnit. Sami ospoďáci volají po zpomalení a zdravém rozumu. \n\nV současnosti se legislativní smršť projevuje zejména v souvislosti s náhradní rodinnou péčí. Nikdo nechce, aby děti byly v ústavní péči. Zběsilá snaha dohnat promarněný čas úpravy náhradní rodinné péče, jen protože od roku 2025 zaniknou \"kojeňáky\", může být ve finále na úkor těch, které chceme chránit  - dětí. Během krátkého času byla například opakovaně upravena maximální délka, po kterou mohou být dnes děti do tří let ve ZDVOPu, 14 dní, pak 3 měsíce, 3 + 3, úvahy o 1 měsíci. Stranou jde tak celá řada jiných, dost možná i potřebnejších úprav zákona o SPOD, jako je například úprava zvláštního spisu při kolizním opatrovnictví. \n\nNechci vynášet unáhlené soudy, ale obávám se, že nikdy nebude dostatečný počet pěstounů. Ti jsou pro mě hrdiny. Nicméně obávám se, že ospoďáci budou dál na pohotovostech trnout, zda se jim v roce 2025 podáří \"tady a teď\" najít přechodného pěstouna pro dítě v krizi. Například pro 7 dětí z P8 nelze dlouhodobě přechodné pěstouny najít."
+        ],
+        "ad_delivery_start_time": "2024-01-15",
+        "ad_delivery_stop_time": "2024-01-25",
+        "bylines": "CORP Production s.r.o.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.006007",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.049509",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.160721",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.11194",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.051147",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.038952",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.033855",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.045686",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.061886",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.121223",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.04423",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.053695",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.086822",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.099199",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.035129",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001291",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.049253",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000738",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001107",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00535",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.037447",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.092603",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.023612",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.163807",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001107",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.032651",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.047777",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.153662",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.012175",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.12636",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.234828",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.014757",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001476",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "447167062064041",
+        "page_name": "Vladimíra Ludková",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 5317,
+        "beneficiary_payers": [
+            {
+                "payer": "Vladimíra Ludková",
+                "beneficiary": "Vladimíra Ludková",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 128,
+                        "female": 66,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 502,
+                        "female": 267,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 888,
+                        "female": 1273,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 833,
+                        "female": 685,
+                        "unknown": 8
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 203,
+                        "female": 80,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 177,
+                        "female": 259,
+                        "unknown": 29
+                    }
+                ]
+            }
+        ]
+    }
+]

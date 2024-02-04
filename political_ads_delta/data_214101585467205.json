@@ -1,0 +1,190 @@
+[
+    {
+        "id": "364048816232815",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=364048816232815&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-17",
+        "ad_creative_bodies": [
+            "Když se ocitnete v bytové nouzi, většinou je to náhlé a člověk v takových chvílích neví co dřív. Jak vůbec situaci začít řešit? Je možné zajít někam pro spolehlivou radu? Nebo někde sehnat pomoc?\n\n👉 Na spoustu otázek je často jen málo odpovědí. Tomu jsme však chtěli v Olomouci předejít! Naší kolegyni Kateřině Dobrozemské z ProOlomouc se to podařilo a společně jsme otevřeli nové Kontaktní Místo pro Bydlení na Dolním náměstí. Proškolení pracovníci vám tu poskytnou kompletní poradenství od žádosti o sociální dávky, přes sehnání dostupného bydlení ve městě, až po řešení dluhů na nájemném. \n\n👉 Na problémy tak už nemusíte být sami. Od 15. ledna můžete zajít každou středu a pondělí na Dolní náměstí 8 a probrat vše, co vás trápí. Řešit problémy s bydlením jsou jednou z našich velkých priorit a věříme, že tohle přinese posun k lepšímu. 🙏"
+        ],
+        "ad_delivery_start_time": "2024-01-17",
+        "ad_delivery_stop_time": "2024-01-24",
+        "bylines": "Česká pirátská strana",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Olomouc Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000381",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.087966",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000762",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.011043",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.050647",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.110815",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.120335",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.077685",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.083778",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001904",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.090251",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.152323",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.082635",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.099772",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.027037",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000762",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001904",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "5000",
+            "upper_bound": "5999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "214101585467205",
+        "page_name": "Piráti Olomouc",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "500",
+            "upper_bound": "599"
+        },
+        "target_locations": [
+            {
+                "name": "Olomouc, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 2660,
+        "beneficiary_payers": [
+            {
+                "payer": "Česká pirátská strana",
+                "beneficiary": "Česká pirátská strana",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "55-64",
+                        "male": 231,
+                        "female": 262,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 291,
+                        "female": 204
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 217,
+                        "female": 400,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 316,
+                        "female": 220,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 237,
+                        "female": 133,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 71,
+                        "female": 29,
+                        "unknown": 1
+                    }
+                ]
+            }
+        ]
+    }
+]

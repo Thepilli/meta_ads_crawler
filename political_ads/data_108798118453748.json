@@ -1,0 +1,5300 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=386407980522559&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-30",
+        "ad_creative_bodies": [
+            "Marek Vašut: Díky propagandě vyrůstá generace, která bude hrdá na to, že se má hůř než její rodiče.\nCelý stream zde: https://www.youtube.com/live/1WenM6stca4?si=6Q33nLBIED2qyFei"
+        ],
+        "ad_creative_link_captions": [
+            "fb.com"
+        ],
+        "ad_delivery_start_time": "2023-12-30",
+        "ad_delivery_stop_time": "2024-01-03",
+        "bylines": "Berenika Peštová-poslankyně",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "2.2E-5",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.05277",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.086779",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.114608",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.057638",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.04519",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.033609",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.044367",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.069374",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.136903",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.048857",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.050236",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.101383",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.100093",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.058171",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001612",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000873",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001254",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.01144",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.100475",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.126019",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.05767",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.140705",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.091296",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.18192",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.286312",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000425",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "60000",
+            "upper_bound": "69999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "108798118453748",
+        "page_name": "Berenika Peštová-poslankyně",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "42",
+            "65"
+        ],
+        "eu_total_reach": 44329,
+        "beneficiary_payers": [
+            {
+                "payer": "Radim F. Holeček",
+                "beneficiary": "Radim F. Holeček",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "35-44",
+                        "male": 4488,
+                        "female": 511,
+                        "unknown": 19
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 12789,
+                        "female": 2576,
+                        "unknown": 72
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 8126,
+                        "female": 4078,
+                        "unknown": 39
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 6285,
+                        "female": 5629,
+                        "unknown": 56
+                    }
+                ]
+            }
+        ],
+        "_id": "386407980522559"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=876268603744751&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-05",
+        "ad_creative_bodies": [
+            "Nedělní chvilka hudby a poezie :D 🐆🦓🦛🐘🦒"
+        ],
+        "ad_delivery_start_time": "2023-11-05",
+        "ad_delivery_stop_time": "2023-11-09",
+        "bylines": "Berenika Peštová-poslankyně",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.056484",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.047323",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.066717",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.148003",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.11051",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.05273",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.000134",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.06426",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.11194",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.058227",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.035124",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.04853",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.049692",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.054026",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.0963",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "4.5E-5",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.266997",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.176182",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000675",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.007384",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.177217",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.040162",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.042458",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.123368",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001036",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.156551",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000135",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.005538",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001756",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000495",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "25000",
+            "upper_bound": "29999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "108798118453748",
+        "page_name": "Berenika Peštová-poslankyně",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "29",
+            "65"
+        ],
+        "eu_total_reach": 22308,
+        "beneficiary_payers": [
+            {
+                "payer": "Radim F. Holeček",
+                "beneficiary": "Radim F. Holeček",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 123,
+                        "female": 39,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 892,
+                        "female": 164,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 2740,
+                        "female": 943,
+                        "unknown": 11
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 3936,
+                        "female": 3477,
+                        "unknown": 15
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 3913,
+                        "female": 5930,
+                        "unknown": 23
+                    }
+                ]
+            }
+        ],
+        "_id": "876268603744751"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1028787804929089&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-10-22",
+        "ad_creative_bodies": [
+            "Fialova vláda se dostala k moci lží! Celý pořad si můžete pustit na: https://www.youtube.com/watch?v=Rqv61UUPJjs  #xaver #xtv #XaverLive"
+        ],
+        "ad_delivery_start_time": "2023-10-22",
+        "ad_delivery_stop_time": "2023-10-26",
+        "bylines": "Berenika Peštová-poslankyně",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.049083",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.07527",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.110052",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.055059",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.04257",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.03646",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.047136",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.066877",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.153293",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.049016",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.052575",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.097227",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.110925",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.054455",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000337",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000876",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00155",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.031734",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.027422",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.167835",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.211225",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.089206",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.140817",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.206643",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.113597",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00795",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000674",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000135",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "15000",
+            "upper_bound": "19999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "108798118453748",
+        "page_name": "Berenika Peštová-poslankyně",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "29",
+            "65"
+        ],
+        "eu_total_reach": 14635,
+        "beneficiary_payers": [
+            {
+                "payer": "Radim F. Holeček",
+                "beneficiary": "Radim F. Holeček",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 407,
+                        "female": 23
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 1686,
+                        "female": 118,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 3067,
+                        "female": 471,
+                        "unknown": 10
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 3135,
+                        "female": 1324,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 2491,
+                        "female": 2090,
+                        "unknown": 13
+                    }
+                ]
+            }
+        ],
+        "_id": "1028787804929089"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=871700140681548&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-10-10",
+        "ad_creative_bodies": [
+            "40.000 sledujících. Jste moji superhrdinové. :*"
+        ],
+        "ad_creative_link_titles": [
+            "40000"
+        ],
+        "ad_delivery_start_time": "2023-10-10",
+        "ad_delivery_stop_time": "2023-10-14",
+        "bylines": "Berenika Peštová-poslankyně",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.045494",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.070999",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.117106",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.051993",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.038872",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.037646",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.046597",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.070509",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.170693",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.041324",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.055303",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.090497",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.109503",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.053464",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.034576",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.232558",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.098068",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.111972",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.139412",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.176203",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.195398",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.009844",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000738",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000369",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000615",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000246",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "108798118453748",
+        "page_name": "Berenika Peštová-poslankyně",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "500",
+            "upper_bound": "599"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "36",
+            "65"
+        ],
+        "eu_total_reach": 8099,
+        "beneficiary_payers": [
+            {
+                "payer": "Radim F. Holeček",
+                "beneficiary": "Radim F. Holeček",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "55-64",
+                        "male": 1432,
+                        "female": 910,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 797,
+                        "female": 80,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 1133,
+                        "female": 281,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 1588,
+                        "female": 1890,
+                        "unknown": 6
+                    }
+                ]
+            }
+        ],
+        "_id": "871700140681548"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=168208933007292&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-10-06",
+        "ad_creative_bodies": [
+            "Je dobré si poslechnout i našimi politiky nazývané \"dezinfo\". Já osobně tam slyším mnoho pravd."
+        ],
+        "ad_delivery_start_time": "2023-10-06",
+        "ad_delivery_stop_time": "2023-10-09",
+        "bylines": "Berenika Peštová-poslankyně",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.051648",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.083265",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.112667",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.057415",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.041092",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.035067",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.04413",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.065757",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.152523",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.048816",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.05345",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.097168",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.105355",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.051648",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000103",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.061888",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000258",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000825",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001083",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.006859",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00294",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.069056",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.212017",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000361",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.146828",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.121351",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.187726",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.155957",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.025529",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.006395",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000103",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000722",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "25000",
+            "upper_bound": "29999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "108798118453748",
+        "page_name": "Berenika Peštová-poslankyně",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "500",
+            "upper_bound": "599"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 18827,
+        "beneficiary_payers": [
+            {
+                "payer": "Radim F. Holeček",
+                "beneficiary": "Radim F. Holeček",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 124,
+                        "female": 16,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 4111,
+                        "female": 495,
+                        "unknown": 14
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 2847,
+                        "female": 2353,
+                        "unknown": 21
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 3640,
+                        "female": 1339,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 3024,
+                        "female": 133,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 1200,
+                        "female": 57,
+                        "unknown": 2
+                    }
+                ]
+            }
+        ],
+        "_id": "168208933007292"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1586993095162282&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-09-20",
+        "ad_creative_bodies": [
+            "☝️Tomu se říká obrat o 180 stupňů.\n\n,,Velký vliv na mé pozdější názory mělo léto roku 1968. Tehdy byli u nás na návštěvě přátelé ze Sovětského svazu. Právě na kontrastu mezi nimi na jedné straně a protisovětskými náladami na druhé mi otec srozumitelně k věku vysvětlil podstatu situace. Bylo účinnější než cokoli jiného a také trvalejší. A posměch ve škole ze strany spolužáků pro mou oblibu našich přátel mě v názoru tenkrát pouze utvrdil.”"
+        ],
+        "ad_delivery_start_time": "2023-09-21",
+        "ad_delivery_stop_time": "2023-09-24",
+        "bylines": "Berenika Peštová-poslankyně",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.050892",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.069018",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.109221",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.053309",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.042155",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.038622",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.049452",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.066834",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.145427",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.05145",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.056191",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.099507",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.115263",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.052658",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000888",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00028",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.034172",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.089005",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.207274",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.178057",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.176842",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.105834",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.200168",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.006965",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000374",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00014",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "25000",
+            "upper_bound": "29999"
+        },
+        "page_id": "108798118453748",
+        "page_name": "Berenika Peštová-poslankyně",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "500",
+            "upper_bound": "599"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "40",
+            "65"
+        ],
+        "eu_total_reach": 21315,
+        "beneficiary_payers": [
+            {
+                "payer": "Radim F. Holeček",
+                "beneficiary": "Radim F. Holeček",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "male": 4434,
+                        "female": 731,
+                        "unknown": 8
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 1904,
+                        "female": 149,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 4282,
+                        "female": 2264,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 3809,
+                        "female": 3783,
+                        "unknown": 19
+                    }
+                ]
+            }
+        ],
+        "_id": "1586993095162282"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=817326143205494&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-09-05",
+        "ad_creative_bodies": [
+            "☝️Babiš má přednostní právo, tak muže mluvit jak dlouho chce a k čemu chce. \n☝️MPA s tím má problém."
+        ],
+        "ad_delivery_start_time": "2023-09-05",
+        "ad_delivery_stop_time": "2023-09-09",
+        "bylines": "Berenika Peštová-poslankyně",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.05468",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.091387",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.104524",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.060963",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.048054",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.036821",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.04299",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.061229",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.138299",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.049197",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.05685",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.099079",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.105971",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.049958",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "7.6E-5",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.111971",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000531",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000834",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000797",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.003034",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.058944",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.086064",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.153125",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000493",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.152443",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.022569",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.193332",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.184115",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.007245",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.024124",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000114",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00019",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "30000",
+            "upper_bound": "34999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "108798118453748",
+        "page_name": "Berenika Peštová-poslankyně",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "500",
+            "upper_bound": "599"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 26459,
+        "beneficiary_payers": [
+            {
+                "payer": "Radim F. Holeček",
+                "beneficiary": "Radim F. Holeček",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 636,
+                        "female": 21,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 4854,
+                        "female": 595,
+                        "unknown": 13
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 2952,
+                        "female": 2269,
+                        "unknown": 22
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 4037,
+                        "female": 1554,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 5097,
+                        "female": 191,
+                        "unknown": 14
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 4019,
+                        "female": 80,
+                        "unknown": 3
+                    }
+                ]
+            }
+        ],
+        "_id": "817326143205494"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1309733846299908&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-07-26",
+        "ad_creative_bodies": [
+            "Jak demokracie dostává ve sněmovně \"na řiť\". Přivítejme fialovou totalitu!!! 😖😣😖😣\nTo si poslechněte ‼️‼️"
+        ],
+        "ad_delivery_start_time": "2023-07-26",
+        "ad_delivery_stop_time": "2023-07-29",
+        "bylines": "Berenika Peštová-poslankyně",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.052981",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.073868",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.113196",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.062561",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.046139",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.036103",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.046204",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.066243",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.140241",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.042946",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.052525",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.102802",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.111665",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.052525",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000579",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.033595",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000611",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.012325",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.005599",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001094",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.119385",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.149762",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.2026",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000451",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.07472",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.106642",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.183807",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.096827",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000193",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.011617",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000193",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "35000",
+            "upper_bound": "39999"
+        },
+        "page_id": "108798118453748",
+        "page_name": "Berenika Peštová-poslankyně",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "500",
+            "upper_bound": "599"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 30277,
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 3710,
+                        "female": 174,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 6296,
+                        "female": 1044,
+                        "unknown": 18
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 3314,
+                        "female": 3009,
+                        "unknown": 19
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 4654,
+                        "female": 2322,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 361,
+                        "female": 34
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 5712,
+                        "female": 383,
+                        "unknown": 14
+                    }
+                ]
+            }
+        ],
+        "_id": "1309733846299908"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=297894489262453&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-06-28",
+        "ad_creative_bodies": [
+            "😤 Nechci tady gangy nelegálních imigrantů, pane Fialo! 👍"
+        ],
+        "ad_delivery_start_time": "2023-06-28",
+        "ad_delivery_stop_time": "2023-07-01",
+        "bylines": "Berenika Peštová-poslankyně",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.053445",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.086319",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.106622",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.052639",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.040874",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.04195",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.051361",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.058487",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.138824",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.04484",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.057479",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.095059",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.128941",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.04316",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000269",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001144",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.003162",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.01063",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00444",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.103539",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.2206",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.030274",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.04003",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "6.7E-5",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.12944",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.127893",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.134351",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.193017",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000404",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000269",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000471",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "15000",
+            "upper_bound": "19999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "108798118453748",
+        "page_name": "Berenika Peštová-poslankyně",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "300",
+            "upper_bound": "399"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 14690,
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 450,
+                        "female": 47,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 3279,
+                        "female": 595,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 1997,
+                        "female": 1901,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 2869,
+                        "female": 1539,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 1924,
+                        "female": 158,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 66,
+                        "female": 17
+                    }
+                ]
+            }
+        ],
+        "_id": "297894489262453"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=796348522089863&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-06-18",
+        "ad_creative_bodies": [
+            "Já toho odpracovala v praxi víc než Vy, Piráte Michálku."
+        ],
+        "ad_delivery_start_time": "2023-06-18",
+        "ad_delivery_stop_time": "2023-06-22",
+        "bylines": "Berenika Peštová-poslankyně",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.048824",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.082195",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.105935",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.053751",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.034043",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.039866",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.04972",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.06271",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.117581",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.045241",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.051736",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.107503",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.150504",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.050392",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000676",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002706",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000451",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.011048",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.006088",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.134611",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.160992",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.153777",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.078692",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.107103",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.043968",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.17655",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.086359",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.034949",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001804",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000225",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "9000",
+            "upper_bound": "9999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "108798118453748",
+        "page_name": "Berenika Peštová-poslankyně",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "300",
+            "upper_bound": "399"
+        },
+        "_id": "796348522089863"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=165676506490928&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-06-18",
+        "ad_creative_bodies": [
+            "Přidejte si prosím do oblíbených stránku \"bojovnice\" poslankyně Peštové."
+        ],
+        "ad_creative_link_captions": [
+            "facebook.com"
+        ],
+        "ad_creative_link_titles": [
+            "Berenika Peštová-poslankyně"
+        ],
+        "ad_delivery_start_time": "2023-06-18",
+        "ad_delivery_stop_time": "2023-06-21",
+        "bylines": "Berenika Peštová-poslankyně",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.053496",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.087987",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.110277",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.062177",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.04458",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.03848",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.052557",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.059127",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.125528",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.055842",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.052557",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.090333",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.115908",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.05115",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000237",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000711",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.004738",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.011609",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.023454",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.057332",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.113954",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.100924",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.276712",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000474",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.188818",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.099029",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.110163",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.003554",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.007344",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000711",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000237",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "6000",
+            "upper_bound": "6999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "108798118453748",
+        "page_name": "Berenika Peštová-poslankyně",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "_id": "165676506490928"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=436105027944584&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-06-10",
+        "ad_creative_bodies": [
+            "Jasné poučení, označujte mou stránku \"To se mi líbí\" i bez pozvánky, než mi i toto zakážou 🙂 🙂 :)"
+        ],
+        "ad_delivery_start_time": "2022-06-11",
+        "ad_delivery_stop_time": "2022-06-12",
+        "bylines": "Berenika Peštová",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.048894",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.079162",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.096624",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.038417",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.045402",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.03376",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.045402",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.065192",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.146682",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.050058",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.04773",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.096624",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.155995",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.050058",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001164",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001164",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.046566",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.171129",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.010477",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.19674",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.173458",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.160652",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.19674",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.041909",
+                "age": "35-44",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "108798118453748",
+        "page_name": "Berenika Peštová-poslankyně",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "_id": "436105027944584"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=352191900179308&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-06-09",
+        "ad_creative_bodies": [
+            "Tato paní popsala energetickou krizi velmi dobře."
+        ],
+        "ad_delivery_start_time": "2022-06-09",
+        "ad_delivery_stop_time": "2022-06-10",
+        "bylines": "Berenika Peštová",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.051724",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.041379",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.108867",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.061084",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.044335",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.042857",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.044828",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.073399",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.140887",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.056158",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.050739",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.069458",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.153695",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.060591",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.007364",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.042219",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.025528",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.173785",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.113893",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.268041",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.207167",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.161512",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000491",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "2000",
+            "upper_bound": "2999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "108798118453748",
+        "page_name": "Berenika Peštová-poslankyně",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "_id": "352191900179308"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=740907937101031&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-06-06",
+        "ad_creative_bodies": [
+            "‼️ Podklad pro vznik komiksu a materiál pro 168. 😉\n👉 NESESTŘÍHANÉ a NEVYTRŽENÉ z kontextu"
+        ],
+        "ad_delivery_start_time": "2022-06-06",
+        "ad_delivery_stop_time": "2022-06-08",
+        "bylines": "Berenika Peštová",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.050177",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.059364",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.117786",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.060071",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.039105",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.047114",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.050648",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.065489",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.140636",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.050177",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.051119",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.075383",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.141107",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.051826",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.18364",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.177746",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.229844",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.030882",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.12777",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.190948",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.054455",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.003536",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000236",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000471",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000236",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000236",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "4000",
+            "upper_bound": "4999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "108798118453748",
+        "page_name": "Berenika Peštová-poslankyně",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "_id": "740907937101031"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=392342996282753&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-06-03",
+        "ad_creative_bodies": [
+            "Lidi toho mají dost a kde jsou média?🤷‍♀️"
+        ],
+        "ad_delivery_start_time": "2022-06-03",
+        "ad_delivery_stop_time": "2022-06-05",
+        "bylines": "Berenika Peštová",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.052546",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.097196",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.097468",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.060713",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.037934",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.043198",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.052909",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.05545",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.115165",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.049188",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.065432",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.098103",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.13268",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.042018",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000364",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000182",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.106321",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.127331",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.085493",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.240837",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.086494",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.17226",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.163165",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.017099",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000364",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "9.1E-5",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "108798118453748",
+        "page_name": "Berenika Peštová-poslankyně",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "_id": "392342996282753"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1043703929851997&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-06-02",
+        "ad_creative_bodies": [
+            "Pirát Michálek říkal, že se nemají dělat \"legislativní prasárny\". Tak proč je teď dělá? :)"
+        ],
+        "ad_delivery_start_time": "2022-06-02",
+        "ad_delivery_stop_time": "2022-06-04",
+        "bylines": "Berenika Peštová",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.055844",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.061428",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.116274",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.051855",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.042082",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.040487",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.047268",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.062226",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.143797",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.052453",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.051655",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.084164",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.136219",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.054248",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000404",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.010902",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000404",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000202",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.082374",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.16919",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.189784",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.191803",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.143953",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.159701",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.051282",
+                "age": "45-54",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "5000",
+            "upper_bound": "5999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "108798118453748",
+        "page_name": "Berenika Peštová-poslankyně",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "_id": "1043703929851997"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1378453185993387&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-06-01",
+        "ad_creative_bodies": [
+            "Piráti chtějí mistrovat, legislativní proces však nezvládají. Ministři navíc stále nechodí do sněmovny."
+        ],
+        "ad_delivery_start_time": "2022-06-02",
+        "ad_delivery_stop_time": "2022-06-04",
+        "bylines": "Berenika Peštová",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.053387",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.065645",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.102419",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.055806",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.038548",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.044355",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.051129",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.059839",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.14629",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.05629",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.052742",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.084677",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.13129",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.057581",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000328",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000328",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.006889",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.172872",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.190586",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.045596",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.215516",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.130884",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.182713",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.054289",
+                "age": "35-44",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "6000",
+            "upper_bound": "6999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "108798118453748",
+        "page_name": "Berenika Peštová-poslankyně",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "_id": "1378453185993387"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=426678648869125&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-05-25",
+        "ad_creative_bodies": [
+            "Němci od příštího týdne změní posuzování dávek pro uprchlíky."
+        ],
+        "ad_delivery_start_time": "2022-05-25",
+        "ad_delivery_stop_time": "2022-05-26",
+        "bylines": "Berenika Peštová",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.054645",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.080146",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.080146",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.04918",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.032787",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.040073",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.07286",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.074681",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.120219",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.027322",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.060109",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.094718",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.160291",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.052823",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.014572",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.182149",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.205829",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.069217",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.176685",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.047359",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.154827",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.147541",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001821",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "108798118453748",
+        "page_name": "Berenika Peštová-poslankyně",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "_id": "426678648869125"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=563225771992786&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-05-23",
+        "ad_creative_bodies": [
+            "Markéta Pekarová Adamová dnes \nversus\nPetr Fiala rok 2016 \n\n‼️ I Petr Fiala v roce 2016 dokázal dělit obstrukce na ty správné, kterými zdržovali EET celých 236 dní, a ty špatné, které vůči nim použila ČSSD, když byla ODS u vlády."
+        ],
+        "ad_delivery_start_time": "2022-05-24",
+        "ad_delivery_stop_time": "2022-05-25",
+        "bylines": "Berenika Peštová",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.051177",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.073695",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.105425",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.051177",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.045036",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.046059",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.050154",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.060389",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.128966",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.047083",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.060389",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.102354",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.131013",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.047083",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001024",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001024",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.170931",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.077789",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.183214",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.142272",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.187308",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.152508",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.069601",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.01433",
+                "age": "35-44",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "108798118453748",
+        "page_name": "Berenika Peštová-poslankyně",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "_id": "563225771992786"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=5152698791481944&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-05-22",
+        "ad_creative_bodies": [
+            "Hejtman Ústeckého kraje Jan Schiller k uprchlické krizi. Potřebujeme informace o tom, kdo v kraji zůstává, a kdo se vrátil či posunul jinam."
+        ],
+        "ad_delivery_start_time": "2022-05-22",
+        "ad_delivery_stop_time": "2022-05-25",
+        "bylines": "Berenika Peštová",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000456",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001826",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.01141",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.20356",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.162483",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.077134",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.052487",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.196257",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.16157",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.13236",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000456",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "3000",
+            "upper_bound": "3999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "108798118453748",
+        "page_name": "Berenika Peštová-poslankyně",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "_id": "5152698791481944"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1957262184661444&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-05-21",
+        "ad_creative_bodies": [
+            "Ilona Švihlíková krásně o gestech Fialovy vlády, které ale ničemu nepomáhají. Zdroj: https://www.youtube.com/watch?v=pQ9XSgULmjc"
+        ],
+        "ad_delivery_start_time": "2022-05-21",
+        "ad_delivery_stop_time": "2022-05-24",
+        "bylines": "Berenika Peštová",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.0625",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.058787",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.112933",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.05229",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.047339",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.047649",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.052599",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.073948",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.154703",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.060025",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.051671",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.077351",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.092203",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.056002",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.00031",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.053594",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.266729",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.158302",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.180607",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.122367",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.024164",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.185874",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.007745",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00031",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "3000",
+            "upper_bound": "3999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "108798118453748",
+        "page_name": "Berenika Peštová-poslankyně",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "_id": "1957262184661444"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=435509321330206&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-05-20",
+        "ad_creative_bodies": [
+            "Tak jestli paní Markéta Pekarová Adamová hledala Andreje Babiše na mimořádné schůzi, kterou si svolala pětikolka. Tak já, na stejné schůzi, hledala celou vládu.🙈🙈"
+        ],
+        "ad_delivery_start_time": "2022-05-20",
+        "ad_delivery_stop_time": "2022-05-22",
+        "bylines": "Berenika Peštová",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.061831",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.061237",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.102854",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.048751",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.040428",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.038644",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.046968",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.068371",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.127229",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.047562",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.073722",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.092747",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.140904",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.048751",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.00119",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001785",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000595",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.12909",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.244497",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.017847",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.063653",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.123736",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.112433",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.199881",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.105294",
+                "age": "45-54",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "108798118453748",
+        "page_name": "Berenika Peštová-poslankyně",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "_id": "435509321330206"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=379047564176409&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-05-19",
+        "ad_creative_bodies": [
+            "Tak ta koalice je fakt posedlá Babišem. Žádají o prodloužení nouzového stavu a připravují zákon ,, lex Babiš”. Viz vyjádření ministra Kupky."
+        ],
+        "ad_creative_link_captions": [
+            "www.psp.cz"
+        ],
+        "ad_delivery_start_time": "2022-05-20",
+        "ad_delivery_stop_time": "2022-05-21",
+        "bylines": "Berenika Peštová",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.040863",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.070375",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.12202",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.053348",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.03916",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.055619",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.048241",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.061294",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.135074",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.053916",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.065267",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.062429",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.146992",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.045403",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.004619",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.038106",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.04157",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.143764",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.226328",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.207275",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.188222",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.150115",
+                "age": "55-64",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "108798118453748",
+        "page_name": "Berenika Peštová-poslankyně",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "_id": "379047564176409"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=678038973280473&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-05-12",
+        "ad_creative_bodies": [
+            "Dnes jsem ve faktické poznámce musela vysvětlit poslanci Benešíkovi, že opravdu 80tiletá paní nekomunikuje tak často prostřednictvím moderních aplikací. A také jsem mu připomněla tlaky politiků na úředníky."
+        ],
+        "ad_creative_link_captions": [
+            "fb.com"
+        ],
+        "ad_delivery_start_time": "2022-05-12",
+        "ad_delivery_stop_time": "2022-05-15",
+        "bylines": "Berenika Peštová",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.05852",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.061532",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.107143",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.056799",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.04346",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.048193",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.056368",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.056799",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.141997",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.053356",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.047762",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.094234",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.124785",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.049053",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000429",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.003003",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.264264",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.148863",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.033033",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.120549",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.212355",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.182325",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.03432",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000429",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000429",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "2000",
+            "upper_bound": "2999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "108798118453748",
+        "page_name": "Berenika Peštová-poslankyně",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "_id": "678038973280473"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=418016513100152&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-05-12",
+        "ad_creative_bodies": [
+            "Když ministr fialového slepence nemá k**le odpovídat, je potřeba mu to razantně říci. Je tolik jiných pěkných zaměstnání, než být ministr. :)"
+        ],
+        "ad_delivery_start_time": "2022-05-12",
+        "ad_delivery_stop_time": "2022-05-17",
+        "bylines": "Berenika Peštová",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.057613",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.074368",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.1092",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.059671",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.045855",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.04321",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.051881",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.054233",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.136831",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.056731",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.052763",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.083333",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.120517",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.053792",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000149",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000149",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000446",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000297",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.004455",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.048708",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.111821",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.032967",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.162014",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.220226",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.22973",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.189041",
+                "age": "65+",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "8000",
+            "upper_bound": "8999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "108798118453748",
+        "page_name": "Berenika Peštová-poslankyně",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "_id": "418016513100152"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=473639797848273&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-05-12",
+        "ad_creative_bodies": [
+            "Dnes jsem ve faktické poznámce musela vysvětlit poslanci Benešíkovi, že opravdu 80tiletá paní nekomunikuje tak často prostřednictvím moderních aplikací. A také jsem mu připomněla tlaky politiků na úředníky."
+        ],
+        "ad_creative_link_captions": [
+            "fb.com"
+        ],
+        "ad_delivery_start_time": "2022-05-12",
+        "ad_delivery_stop_time": "2022-05-12",
+        "bylines": "Berenika Peštová",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.021277",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.042553",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.202128",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.095745",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.031915",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.010638",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.074468",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.212766",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.06383",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.042553",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.021277",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.085106",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.095745",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.138298",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.085106",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.148936",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.159574",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.170213",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.170213",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.085106",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.042553",
+                "age": "35-44",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "108798118453748",
+        "page_name": "Berenika Peštová-poslankyně",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "_id": "473639797848273"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1712290625785252&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-05-11",
+        "ad_creative_bodies": [
+            "Přesně tak, pane Fialo."
+        ],
+        "ad_delivery_start_time": "2022-05-12",
+        "ad_delivery_stop_time": "2022-05-16",
+        "bylines": "Berenika Peštová",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.116004",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.025568",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.856061",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.002367",
+                "region": "Sachsen"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000477",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000953",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.138227",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.138704",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.175882",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.07531",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.153003",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.051001",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.250238",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.016206",
+                "age": "35-44",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "2000",
+            "upper_bound": "2999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "108798118453748",
+        "page_name": "Berenika Peštová-poslankyně",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "_id": "1712290625785252"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1090054408210332&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-05-05",
+        "ad_creative_bodies": [
+            "Předevčírem jsem si zavěštila, jak asi dopadne hlasování k pořadu NAŠÍ mimořádné schůze. \nJak nám řekl pan Benda :,, Už jste mluvili dost!” . 🙂 😞\nŽádná schůze o našich návrzích NEBUDE!"
+        ],
+        "ad_delivery_start_time": "2022-05-05",
+        "ad_delivery_stop_time": "2022-05-09",
+        "bylines": "Berenika Peštová",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.056959",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.073348",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.114992",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.058033",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.045674",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.040838",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.047286",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.060451",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.138904",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.049973",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.05266",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.084363",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.117947",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.058571",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000271",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.255157",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.112106",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.027687",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.139251",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.200869",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.200869",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.057003",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000543",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.0057",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000543",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "4000",
+            "upper_bound": "4999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "108798118453748",
+        "page_name": "Berenika Peštová-poslankyně",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "_id": "1090054408210332"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=331706322228398&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-05-05",
+        "ad_creative_bodies": [
+            "Demonstrativně jsme seděli a čekali. Přidala se k nám celá opozice."
+        ],
+        "ad_delivery_start_time": "2022-05-05",
+        "ad_delivery_stop_time": "2022-05-09",
+        "bylines": "Berenika Peštová",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.058929",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.066099",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.107775",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.052207",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.041676",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.040108",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.042348",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.073269",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.151019",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.048174",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.054",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.079767",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.126372",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.058257",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.103579",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.138031",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.198434",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.177181",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.124385",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.133333",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.094631",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.029083",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000447",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000447",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000224",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000224",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "4000",
+            "upper_bound": "4999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "108798118453748",
+        "page_name": "Berenika Peštová-poslankyně",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "_id": "331706322228398"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=412284883741435&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-05-05",
+        "ad_creative_bodies": [
+            "Demonstrativně jsme seděli a čekali. Přidala se k nám celá opozice."
+        ],
+        "ad_delivery_start_time": "2022-05-05",
+        "ad_delivery_stop_time": "2022-05-08",
+        "bylines": "Berenika Peštová",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.051334",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.058812",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.117421",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.054568",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.045675",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.039208",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.048504",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.074171",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.144099",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.048707",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.055578",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.082053",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.125505",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.054365",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000402",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000201",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001207",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.098169",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.142828",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.193321",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.183062",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.150272",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.114866",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.092738",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.022531",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000402",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "5000",
+            "upper_bound": "5999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "108798118453748",
+        "page_name": "Berenika Peštová-poslankyně",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "_id": "412284883741435"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=475730987676538&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-05-05",
+        "ad_creative_bodies": [
+            "Předevčírem jsem si zavěštila, jak asi dopadne hlasování k pořadu NAŠÍ mimořádné schůze. \nJak nám řekl pan Benda :,, Už jste mluvili dost!” . 🙂 😞\nŽádná schůze o našich návrzích NEBUDE!"
+        ],
+        "ad_delivery_start_time": "2022-05-05",
+        "ad_delivery_stop_time": "2022-05-09",
+        "bylines": "Berenika Peštová",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.058074",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.07992",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.104133",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.058256",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.041871",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.039687",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.046241",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.058802",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.148735",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.053887",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.047333",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.088112",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.119061",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.055889",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000183",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.006589",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.207357",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.059114",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.200403",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.191984",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.163433",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.038433",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.131772",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000183",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000549",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "6000",
+            "upper_bound": "6999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "108798118453748",
+        "page_name": "Berenika Peštová-poslankyně",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "_id": "475730987676538"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=324009559861997&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-05-04",
+        "ad_creative_bodies": [
+            "Pirát Michálek mě dopálil s jeho nesplnitelnými vizemi, bylo potřeba mu k tomu \"pokřivenému trhu\" něco od plic říci :)"
+        ],
+        "ad_creative_link_captions": [
+            "fb.com"
+        ],
+        "ad_delivery_start_time": "2022-05-04",
+        "ad_delivery_stop_time": "2022-05-07",
+        "bylines": "Berenika Peštová",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.056125",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.070629",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.09002",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.061643",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.043513",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.047612",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.057071",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.062273",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.13511",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.055021",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.054233",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.086867",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.130222",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.049661",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000317",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.048298",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.157561",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.14521",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.123357",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.218844",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.220744",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.077593",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.007759",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000317",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "7000",
+            "upper_bound": "7999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "108798118453748",
+        "page_name": "Berenika Peštová-poslankyně",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "_id": "324009559861997"
+    }
+]

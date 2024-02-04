@@ -1,0 +1,152 @@
+[
+    {
+        "id": "932894865087385",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=932894865087385&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-24",
+        "ad_creative_bodies": [
+            "V Česku máme tisíce případů sexuálního a domácího násilí ročně. Oběti potřebují pomoc a podporu. Potřebují vědět, na koho se obrátit, komu mohou důvěřovat, jak svou situaci řešit. A především je potřeba, abychom násilným případům dokázali co nejvíce předcházet. Přijetí Úmluvy o potírání a prevenci násilí (tzv. Istanbulské úmluvy) je jedním z kroků, které tomu pomohou. Proto má ratifikace Úmluvy naši plnou podporu! Dnes se o ratifikaci hlasuje v Senátu 🤞🏼 Víc ve videu 👀"
+        ],
+        "ad_creative_link_titles": [
+            "Pomozme obětem sexuálního a domácího násilí!"
+        ],
+        "ad_delivery_start_time": "2024-01-24",
+        "ad_delivery_stop_time": "2024-01-25",
+        "bylines": "Česká pirátská strana",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.050781",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.21875",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.082031",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.046875",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.027344",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.039063",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.050781",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.042969",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.078125",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.070313",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.066406",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.078125",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.082031",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.066406",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.15625",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.378906",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.464844",
+                "age": "25-34",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "101722985492419",
+        "page_name": "Klára Kocmanová",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "Women",
+        "target_ages": [
+            "18",
+            "40"
+        ],
+        "eu_total_reach": 256,
+        "beneficiary_payers": [
+            {
+                "payer": "Piráti - Středočeský kraj",
+                "beneficiary": "Piráti - Středočeský kraj",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "female": 40
+                    },
+                    {
+                        "age_range": "25-34",
+                        "female": 119
+                    },
+                    {
+                        "age_range": "35-44",
+                        "female": 97
+                    }
+                ]
+            }
+        ]
+    }
+]

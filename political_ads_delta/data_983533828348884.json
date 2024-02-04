@@ -1,0 +1,158 @@
+[
+    {
+        "id": "1868740950307912",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1868740950307912&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-16",
+        "ad_creative_bodies": [
+            "🙌 Už nehledejte kontejner na Tetrapack! 🧃Nápojové kartony a plasty teď patří k sobě. \nA proč? Umíme tím ušetřit 22 milionů ročně! Nově lze na jedné třídící lince třídit více druhů odpadu, a to znamená taky o jeden kontejner méně. Díky tomu nám zůstane víc veřejného prostoru a v pražských ulicích potkáme míň popelářských vozů. 👏♻️"
+        ],
+        "ad_creative_link_titles": [
+            "Multikomoditní sběr v Praze!"
+        ],
+        "ad_delivery_start_time": "2024-01-16",
+        "ad_delivery_stop_time": "2024-01-23",
+        "bylines": "Česká pirátská strana - Praha",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Prague"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001686",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.029358",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.30847",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.086459",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.07775",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.226577",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.214988",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.020228",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.020157",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.007726",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00604",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000562",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "500001",
+            "upper_bound": "1000000"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "983533828348884",
+        "page_name": "Jana Komrsková - náměstkyně pro životní prostředí",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "500",
+            "upper_bound": "599"
+        },
+        "target_locations": [
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "50"
+        ],
+        "eu_total_reach": 14416,
+        "beneficiary_payers": [
+            {
+                "payer": "Česká pirátská strana",
+                "beneficiary": "Česká pirátská strana",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 4392,
+                        "female": 3061,
+                        "unknown": 288
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 3226,
+                        "female": 1107,
+                        "unknown": 86
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 1231,
+                        "female": 287,
+                        "unknown": 24
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 418,
+                        "female": 110,
+                        "unknown": 8
+                    }
+                ]
+            }
+        ]
+    }
+]

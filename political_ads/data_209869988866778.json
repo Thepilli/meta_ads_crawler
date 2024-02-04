@@ -1,0 +1,190 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1030887361477531&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-14",
+        "ad_creative_bodies": [
+            "🚀 \"Jediná chytrá investice může změnit vše!\n✅ Zajištěná budoucnost za 5 minut - je to reálné!\n👉 Tato nová platforma je kompletně založena na umělé inteligenci, která vám umožní provádět pouze ziskové transakce. \n\nNabízíme:\n🎯 Personalizovaný mentor.\n🎯 Garantované výsledky hned první den.\n🎯 Výběr peněz do jakéhokoli platebního systému.\nNezapomeňte odpovědět na výzvu k potvrzení registrace📲"
+        ],
+        "ad_creative_link_captions": [
+            "wdiao.com"
+        ],
+        "ad_creative_link_titles": [
+            "Zanechte přihlášku 👉"
+        ],
+        "ad_delivery_start_time": "2023-12-15",
+        "ad_delivery_stop_time": "2023-12-15",
+        "currency": "USD",
+        "delivery_by_region": [
+            {
+                "percentage": "0.044118",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.106618",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.099265",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.066176",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.040441",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.025735",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.0625",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.069853",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.113971",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.036765",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.077206",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.099265",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.110294",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.047794",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.0625",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.044118",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.25",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.125",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.080882",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.25",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.136029",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.007353",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.044118",
+                "age": "65+",
+                "gender": "female"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "209869988866778",
+        "page_name": "Pouze pro místní",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "35",
+            "65"
+        ],
+        "eu_total_reach": 279,
+        "beneficiary_payers": [
+            {
+                "payer": "Comptoir car",
+                "beneficiary": "Comptoir car",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "35-44",
+                        "male": 68,
+                        "female": 34,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 68,
+                        "female": 22
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 37,
+                        "female": 12
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 17,
+                        "female": 12
+                    }
+                ]
+            }
+        ],
+        "_id": "1030887361477531"
+    }
+]

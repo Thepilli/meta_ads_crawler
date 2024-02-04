@@ -1,0 +1,172 @@
+[
+    {
+        "id": "1153785785586544",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1153785785586544&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-23",
+        "ad_creative_bodies": [
+            "Praha v posledních letech zažívá tramvajových boom, postavilo se nejvíc nových tramvajových tratí za poslední roky. A je dobře, že tento boom neskončí ani v příštích letech. 🚋 Za pár týdnů se začnou vracet tramvajové koleje do horní části Václavského náměstí a v projekční přípravě jsou i tratě u nás na osmičce - od Vozovny Kobylisy do Zdib a z Kobylis do Bohnic k obchodnímu centru Krakov. Připravují se také tratě v Počernické ulici do Sídliště Malešice, přes bývalé Nákladové nádraží Žižkov, na Pankráci a z Malovanky na Strahov a několik dalších. \n\nNa posledním jednání komise pro veřejnou dopravu Rady hlavního města Prahy, které jsem předsedou, jsme vyzvali Radu hlavního v čele s Bohuslav Svoboda, primátor hl. m. Prahy a Zdeněk Hřib - náměstek pro dopravu, aby se prioritně věnovala také přípravě tramvajových tratí, které nabídnou přímé kolejové spojení tam, kde aktuálně úplně chybí nebo kde je veřejná doprava zcela závislá na autobusech. Řeč je konkrétně o tramvajových tratích Podbaba–Bohnice–Kobylisy, Dvorce–Budějovická–Michle a Podbaba–Suchdol. 🚉"
+        ],
+        "ad_delivery_start_time": "2024-01-23",
+        "ad_delivery_stop_time": "2024-01-30",
+        "bylines": "Česká pirátská strana - Praha",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Prague"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001139",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001789",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.025216",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.020823",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.358549",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.168049",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.205141",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.037417",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.023589",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.107532",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.036603",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.012852",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000488",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000813",
+                "age": "18-24",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "9000",
+            "upper_bound": "9999"
+        },
+        "page_id": "100740555869822",
+        "page_name": "Martin Štěrba - zastupitel Prahy 8",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "target_locations": [
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 7,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Bohnice, Hlavní Město Praha, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "NEIGHBORHOOD",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "60"
+        ],
+        "eu_total_reach": 6145,
+        "beneficiary_payers": [
+            {
+                "payer": "Piráti Praha 8",
+                "beneficiary": "Piráti Praha 8",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 1261,
+                        "female": 128,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 2204,
+                        "female": 225,
+                        "unknown": 11
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 1033,
+                        "female": 155,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 661,
+                        "female": 145,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 230,
+                        "female": 79
+                    }
+                ]
+            }
+        ]
+    }
+]

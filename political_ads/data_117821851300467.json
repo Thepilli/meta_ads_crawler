@@ -1,0 +1,164 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1067730751094943&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-07",
+        "ad_creative_bodies": [
+            "Setkání s jubilanty z Bosonoh pro mě byla skutečná radost👍\n\nDěti ze ZŠ a MŠ Brno, Bosonožské nám. 44 si připravily nádherný program včetně hudebních vystoupení a společného tance.\n\nLepší atmosféru jsme si nemohli přát, a tak pevně věřím, že se všem zúčastněným odpoledne moc líbilo.\n\nMoc se těším na další setkání! 🥰"
+        ],
+        "ad_delivery_start_time": "2023-11-07",
+        "ad_delivery_stop_time": "2023-11-15",
+        "bylines": "Martin Černý • starosta Bosonoh",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.050347",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.118587",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.102609",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.057282",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.043986",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.043527",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.048776",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.056554",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.110656",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.046745",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.062876",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.105406",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.105483",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.047167",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.134846",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.20198",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.286176",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.129376",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.247622",
+                "age": "35-44",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "25000",
+            "upper_bound": "29999"
+        },
+        "page_id": "117821851300467",
+        "page_name": "Martin Černý • starosta Bosonoh",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "500",
+            "upper_bound": "599"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "Women",
+        "target_ages": [
+            "30",
+            "65"
+        ],
+        "eu_total_reach": 26644,
+        "beneficiary_payers": [
+            {
+                "payer": "KDU-ČSL Brno",
+                "beneficiary": "KDU-ČSL Brno",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "female": 3359
+                    },
+                    {
+                        "age_range": "35-44",
+                        "female": 6429
+                    },
+                    {
+                        "age_range": "45-54",
+                        "female": 7430
+                    },
+                    {
+                        "age_range": "55-64",
+                        "female": 5244
+                    },
+                    {
+                        "age_range": "65+",
+                        "female": 3501
+                    }
+                ]
+            }
+        ],
+        "_id": "1067730751094943"
+    }
+]

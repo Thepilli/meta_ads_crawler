@@ -1,0 +1,186 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1409305272951788&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-10-15",
+        "ad_creative_bodies": [
+            "𝘕𝘦𝘶𝘷ě𝘥𝘰𝘮𝘪𝘭 𝘴𝘪, ž𝘦 𝘮á 𝘻𝘢𝘱𝘯𝘶𝘵ý 𝘮𝘪𝘬𝘳𝘰𝘧𝘰𝘯. 𝘛𝘦ď 𝘫𝘦 𝘫𝘦𝘩𝘰 𝘬𝘢𝘳𝘪é𝘳𝘢 𝘷 𝘰𝘩𝘳𝘰ž𝘦𝘯í"
+        ],
+        "ad_creative_link_captions": [
+            "monkwhocodes.com"
+        ],
+        "ad_delivery_start_time": "2023-10-16",
+        "ad_delivery_stop_time": "2023-10-17",
+        "currency": "EUR",
+        "delivery_by_region": [
+            {
+                "percentage": "0.051995",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.144947",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.091223",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.060505",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.034441",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.038298",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.041888",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.054787",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.12234",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.044415",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.053989",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.108112",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.110904",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.042154",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.003047",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002384",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00159",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.092198",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.155385",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.117896",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.243079",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.258975",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.125447",
+                "age": "45-54",
+                "gender": "female"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "8000",
+            "upper_bound": "8999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "121180890974320",
+        "page_name": "Info Online",
+        "publisher_platforms": [
+            "facebook",
+            "instagram",
+            "audience_network",
+            "messenger"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "36",
+            "64"
+        ],
+        "eu_total_reach": 7631,
+        "beneficiary_payers": [
+            {
+                "payer": "Leo Effe",
+                "beneficiary": "Leo Effe",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "35-44",
+                        "male": 1955,
+                        "female": 890,
+                        "unknown": 18
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 1835,
+                        "female": 947,
+                        "unknown": 23
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 1173,
+                        "female": 696,
+                        "unknown": 12
+                    }
+                ]
+            }
+        ],
+        "_id": "1409305272951788"
+    }
+]

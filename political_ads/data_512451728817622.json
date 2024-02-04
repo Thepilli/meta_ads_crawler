@@ -1,0 +1,434 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1051503016001227&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-07",
+        "ad_creative_bodies": [
+            "Tepelné čerpadlo aroTHERM plus 💚\n\n👉🏼 Průlomová technologie budoucnosti s přírodním chladivem pro snížení vaší uhlíkové stopy\n👉🏼Vysoká třída energetické účinnosti a úspora provozních nákladů\n👉🏼Ideální řešení zejména pro modernizace a snadný přechod na udržitelné zdroje\n👉🏼Velmi tichý provoz, který vám i vašim sousedům umožní klidný spánek\n👉🏼Důraz na kvalitu - vyvinuto v Německu a vyrobeno v EU\n👉🏼Možnost čerpání státních dotací"
+        ],
+        "ad_delivery_start_time": "2023-11-07",
+        "ad_delivery_stop_time": "2023-11-14",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.074517",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.107636",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.099356",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.068997",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.044158",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.035879",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.042318",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.063477",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.109476",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.034039",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.060718",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.119595",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.079117",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.060718",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000922",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.018433",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.011982",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.185253",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.239631",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.148387",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.111521",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.197235",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.036866",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.024885",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.024885",
+                "age": "55-64",
+                "gender": "female"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "2000",
+            "upper_bound": "2999"
+        },
+        "page_id": "512451728817622",
+        "page_name": "Vaillant",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "300",
+            "upper_bound": "399"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "25",
+            "65"
+        ],
+        "eu_total_reach": 1076,
+        "beneficiary_payers": [
+            {
+                "payer": "Vaillant Group Czech s.r.o.",
+                "beneficiary": "Vaillant Group Czech s.r.o.",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 201,
+                        "female": 20
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 260,
+                        "female": 13,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 214,
+                        "female": 27
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 121,
+                        "female": 27
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 161,
+                        "female": 40
+                    }
+                ]
+            }
+        ],
+        "_id": "1051503016001227"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1502785576927637&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-09-18",
+        "ad_creative_bodies": [
+            "Dnes slavíme mezinárodní den ochrany ozónové vrstvy. Znečišťování planety přispívá k jejímu slábnutí, připojte se k nám a šetřete naši planetu s námi! 🌳 Například pořízením nového výkonnějšího a úspornějšího plynového kotle z řady ecoTEC!👍\n#vaillantcz #plynovekotle #setrnevytapeni"
+        ],
+        "ad_creative_link_captions": [
+            "fb.com"
+        ],
+        "ad_delivery_start_time": "2023-09-18",
+        "ad_delivery_stop_time": "2023-09-19",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000583",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.055394",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.230904",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.112536",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.062391",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.04723",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.034402",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.03207",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.044898",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.085131",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.043149",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.057143",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.085714",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.06414",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.044315",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001746",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.047148",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.042491",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000582",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.09546",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.233411",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.042491",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.068102",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.110594",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.043655",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.105355",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00291",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.064028",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.06752",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.008731",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.065192",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000582",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "page_id": "512451728817622",
+        "page_name": "Vaillant",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 1651,
+        "beneficiary_payers": [
+            {
+                "payer": "Vaillant Group Czech s.r.o.",
+                "beneficiary": "Vaillant Group Czech s.r.o.",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 401,
+                        "female": 164,
+                        "unknown": 15
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 112,
+                        "female": 110,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 75,
+                        "female": 190,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 73,
+                        "female": 117
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 116,
+                        "female": 81,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 181,
+                        "female": 73,
+                        "unknown": 5
+                    }
+                ]
+            }
+        ],
+        "_id": "1502785576927637"
+    }
+]

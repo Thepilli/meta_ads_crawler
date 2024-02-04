@@ -1,0 +1,393 @@
+[
+    {
+        "id": "396382132900473",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=396382132900473&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-02-01",
+        "ad_creative_bodies": [
+            "🩸 Přesídlení transfuzního oddělení do areálu nemocnice bylo naším dlouhodobým záměrem. Mnoho let bylo izolováno, což jsme vnímali jako nevhodné. Původní budova ve Vítězné ulici už byla zastaralá a kapacitně také nebyla úplně vyhovující. Personál i dárci se dočkali prostředí, které odpovídá trendům současné doby, a já doufám, že právě dárci se tam budou rádi vracet.\n\n👉 Transfuzní oddělení zahájilo provoz ve zrekonstruovaných prostorech pavilonu L Nemocnice Karlovy Vary, přemístilo se tam z Vítězné ulice. Rekonstrukce pavilonu L je součástí Generelu KKN."
+        ],
+        "ad_delivery_start_time": "2024-02-01",
+        "ad_delivery_stop_time": "2024-02-02",
+        "bylines": "Petr Kulhánek",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.912189",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.013576",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.001444",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.071924",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.000867",
+                "region": "Sachsen"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001153",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.077278",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001442",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.028258",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.123702",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.029123",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.064014",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.129181",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.175029",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000577",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.092272",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.176759",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.057093",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.015859",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.025663",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002307",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000288",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "3000",
+            "upper_bound": "3999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1017575764980188",
+        "page_name": "Petr Kulhánek",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Karlovy Vary, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 3456,
+        "beneficiary_payers": [
+            {
+                "payer": "Petr Kulhánek",
+                "beneficiary": "Petr Kulhánek",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "DE",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "female": 1
+                    },
+                    {
+                        "age_range": "65+",
+                        "female": 2
+                    }
+                ]
+            },
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "male": 222,
+                        "female": 613,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 101,
+                        "female": 446,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 98,
+                        "female": 429,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 268,
+                        "female": 607,
+                        "unknown": 8
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 198,
+                        "female": 319,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 55,
+                        "female": 89
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "751786433531000",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=751786433531000&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-02-01",
+        "ad_creative_bodies": [
+            "🩸 Přesídlení transfuzního oddělení do areálu nemocnice bylo naším dlouhodobým záměrem. Mnoho let bylo izolováno, což jsme vnímali jako nevhodné. Původní budova ve Vítězné ulici už byla zastaralá a kapacitně také nebyla úplně vyhovující. Personál i dárci se dočkali prostředí, které odpovídá trendům současné doby, a já doufám, že právě dárci se tam budou rádi vracet.\n\n👉 Transfuzní oddělení zahájilo provoz ve zrekonstruovaných prostorech pavilonu L Nemocnice Karlovy Vary, přemístilo se tam z Vítězné ulice. Rekonstrukce pavilonu L je součástí Generelu KKN."
+        ],
+        "ad_delivery_start_time": "2024-02-01",
+        "ad_delivery_stop_time": "2024-02-01",
+        "bylines": "Petr Kulhánek",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.952267",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.00716",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.040573",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.047619",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.097619",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.078571",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.021429",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.064286",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.033333",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.164286",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.045238",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.07381",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.128571",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.114286",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.12619",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.004762",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1017575764980188",
+        "page_name": "Petr Kulhánek",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Karlovy Vary, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 422,
+        "beneficiary_payers": [
+            {
+                "payer": "Petr Kulhánek",
+                "beneficiary": "Petr Kulhánek",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 20,
+                        "female": 14
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 31,
+                        "female": 27
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 48,
+                        "female": 54
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 33,
+                        "female": 69,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 19,
+                        "female": 53
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 9,
+                        "female": 41
+                    }
+                ]
+            }
+        ]
+    }
+]

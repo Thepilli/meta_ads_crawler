@@ -1,0 +1,425 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1422686084949354&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-28",
+        "ad_creative_bodies": [
+            "Erlebe das Europäische Parlament in 360°, sei ein MdEP, begib dich auf einen virtuellen Rundgang durch das Haus der Europäischen Geschichte oder mach mit beim neuen virtuellen Rollenspiel!",
+            "Zažij Parlament ve 360°, staň se poslancem, vydej se na virtuální prohlídku Domu evropských dějin nebo si zahraj naši virtuální hru na poslance!"
+        ],
+        "ad_creative_link_captions": [
+            "virtual-role-play-game.digital-journey.europarl.europa.eu"
+        ],
+        "ad_creative_link_titles": [
+            "Auf zu einem Besuch im Europäische Parlament, wo auch immer du gerade bist!",
+            "Navštivte Evropský parlament odkudkoli!"
+        ],
+        "ad_delivery_start_time": "2023-11-28",
+        "ad_delivery_stop_time": "2023-11-29",
+        "currency": "EUR",
+        "delivery_by_region": [
+            {
+                "percentage": "7.8E-5",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.049279",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.170682",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.0977",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.054815",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.041715",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.033762",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.04577",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.048967",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.099415",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.047797",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.064327",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.107135",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.098402",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.040156",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000464",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.081547",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000696",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.09648",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.039536",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.118917",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.129903",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.038221",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.10971",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000928",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.088975",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.107079",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.105687",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.056789",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.022747",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000619",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001238",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000464",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "page_id": "190826941005885",
+        "page_name": "Visit European Parliament",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "21",
+            "65"
+        ],
+        "eu_total_reach": 12871,
+        "beneficiary_payers": [
+            {
+                "payer": "Visit European Parliament",
+                "beneficiary": "Visit European Parliament",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 494,
+                        "female": 294,
+                        "unknown": 9
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 1054,
+                        "female": 1384,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 511,
+                        "female": 1247,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 734,
+                        "female": 1366,
+                        "unknown": 8
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 1537,
+                        "female": 1418,
+                        "unknown": 16
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 1679,
+                        "female": 1150,
+                        "unknown": 12
+                    }
+                ]
+            }
+        ],
+        "_id": "1422686084949354"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1462847067791787&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-05-17",
+        "ad_creative_bodies": [
+            "Vypravte se do Evropského parlamentu na digitální prohlídku. Vyrazit můžete odkudkoli. Kdykoli se Vám to bude hodit. Třeba ještě dnes!",
+            "Vypravte se do Evropského parlamentu na digitální prohlídku. Vyrazit můžete odkudkoli. Kdykoli se Vám to bude hodit. Třeba ještě dnes!"
+        ],
+        "ad_creative_link_captions": [
+            "digital-journey.europarl.europa.eu"
+        ],
+        "ad_creative_link_titles": [
+            "Digitální prohlídka Evropského parlamentu - Demokracie v akci",
+            "Digitální prohlídka Evropského parlamentu - Demokracie v akci"
+        ],
+        "ad_delivery_start_time": "2023-05-19",
+        "ad_delivery_stop_time": "2023-05-25",
+        "currency": "EUR",
+        "delivery_by_region": [
+            {
+                "percentage": "3.0E-6",
+                "region": "Lower Silesian Voivodeship"
+            },
+            {
+                "percentage": "0.041864",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.069377",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.105324",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.055086",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.04477",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.094463",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.050888",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.037591",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.023287",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.056227",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "3.0E-6",
+                "region": "Sachsen"
+            },
+            {
+                "percentage": "0.121219",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.20413",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.048712",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "2.0E-6",
+                "region": "Odessa Oblast"
+            },
+            {
+                "percentage": "9.0E-6",
+                "region": "Silesian Voivodeship"
+            },
+            {
+                "percentage": "2.0E-6",
+                "region": "Opole Voivodeship"
+            },
+            {
+                "percentage": "0.000463",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "2.0E-6",
+                "region": "Žilina Region"
+            },
+            {
+                "percentage": "2.0E-6",
+                "region": "Lower Austria"
+            },
+            {
+                "percentage": "0.046576",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001303",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.011398",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.236591",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.203618",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.054653",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.125161",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.265251",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.099153",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002872",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "1000000"
+        },
+        "page_id": "190826941005885",
+        "page_name": "Visit European Parliament",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "900",
+            "upper_bound": "999"
+        },
+        "_id": "1462847067791787"
+    }
+]

@@ -1,0 +1,3663 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=388873463815274&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-11",
+        "ad_creative_bodies": [
+            "Než jsem vyrazil večerním vlakem do Prahy, zaskočil jsem do mikulovského Kinoklubu na představení projektu REVITALIZACE NÁVRŠÍ KOZÍHO HRÁDKU V MIKULOVĚ. Děkuji vedení města, že tento krásný projekt, na kterém jsme začali z podnětu pana Martina Vohánky pracovat již v roce 2018, dotáhlo až do fáze podání žádosti o dotaci. Velké díky patří panu Vohánkovi za finanční podporu a všem kreativním architektkám a architektům za vynikající práci. V neposlední řadě si zaslouží uznání projektový manažer Ing. Kramář a jeho tým. Věřím, že projekt bude úspěšně zrealizován a nám mikulovským občanům dobře sloužit."
+        ],
+        "ad_delivery_start_time": "2024-01-11",
+        "bylines": "Pavel Mikulenka",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000236",
+                "region": "Lower Austria"
+            },
+            {
+                "percentage": "0.999764",
+                "region": "South Moravian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001856",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.079814",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000464",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000464",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00116",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.051508",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.04942",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.050348",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.107425",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000928",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.116009",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.116705",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.081903",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.094896",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.093503",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.067517",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.082831",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.003248",
+                "age": "18-24",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "6000",
+            "upper_bound": "6999"
+        },
+        "page_id": "1458139890966328",
+        "page_name": "Rostislav Koštial",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "target_locations": [
+            {
+                "name": "Rakvice, Jihomoravký Kraj, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Pasohlávky, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Hustopece, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 4243,
+        "beneficiary_payers": [
+            {
+                "payer": "Rostislav Koštial",
+                "beneficiary": "Rostislav Koštial",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 357,
+                        "female": 222,
+                        "unknown": 14
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 344,
+                        "female": 502,
+                        "unknown": 8
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 216,
+                        "female": 461,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 212,
+                        "female": 403,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 406,
+                        "female": 353,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 500,
+                        "female": 290,
+                        "unknown": 5
+                    }
+                ]
+            },
+            {
+                "country": "AT",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "female": 1
+                    }
+                ]
+            }
+        ],
+        "_id": "388873463815274"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=765642272074869&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-05",
+        "ad_creative_bodies": [
+            "Zachraňme společně harmonium v Milovicích. Na pozvání starostky obce Milovice, Veroniky Blanářové jsem byl u zrodu záchrany starobylého harmonia v jejich krásném kostelíčku. Než jsem vyrazil z Mikulova, dostal jsem od p. starostky úkol. Zakoupit zámeček k pokladničce, do níž se budou sbírat potřebné peníze na opravu. Úkol jsem splnil, zajistil pokladničku zámkem a klíče předal paní starostce. Využil jsem práva prvního daru a vhodil do kasičky první bankovku. Prosím všechny milovníky historie a krásných věcí, které nám zanechali naši předci o finanční podporu. Děkuji paní redaktorce Ivě Haghofer za fotografie a připojuji odkaz na článek v Břeclavském deníku.\n\nhttps://breclavsky.denik.cz/zpravy_region/milovice-harmonium-cervotoc-koncerty-kostel-svateho-osvalda-kristalovy-lustr.html"
+        ],
+        "ad_delivery_start_time": "2024-01-05",
+        "ad_delivery_stop_time": "2024-01-09",
+        "bylines": "Pavel Mikulenka",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "South Moravian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000634",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.09551",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000352",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001762",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.020089",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001198",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.099951",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.056249",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.054064",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001551",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.150137",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.17657",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.015507",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.044689",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.059703",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.140974",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.080073",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000987",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "25000",
+            "upper_bound": "29999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1458139890966328",
+        "page_name": "Rostislav Koštial",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "2000",
+            "upper_bound": "2499"
+        },
+        "target_locations": [
+            {
+                "name": "Rakvice, Jihomoravký Kraj, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Pasohlávky, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Hustopece, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 14007,
+        "beneficiary_payers": [
+            {
+                "payer": "Rostislav Koštial",
+                "beneficiary": "Rostislav Koštial",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 285,
+                        "female": 220,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 1355,
+                        "female": 2505,
+                        "unknown": 25
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 767,
+                        "female": 2000,
+                        "unknown": 17
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 847,
+                        "female": 2130,
+                        "unknown": 22
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 1136,
+                        "female": 1418,
+                        "unknown": 14
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 798,
+                        "female": 634,
+                        "unknown": 9
+                    }
+                ]
+            }
+        ],
+        "_id": "765642272074869"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1093230105194969&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-04",
+        "ad_creative_bodies": [
+            "Dnes se naplnila část moje vize o integrovaném záchranném systému v Mikulově. Již v roce 2013 jsem přišel s myšlenkou soustředit složky IZS do jednoho místa. V té době HZS i ZZS sídlily v nevyhovujících budovách v centru města. Vozidla těchto složek vyjížděla do přeplněných ulic a velmi komplikovaně se proplétala na hlavní tahy. O sociálních a nedůstojných podmínkách pro výkon tak náročných povolání nemluvě. Nejprve se mi podařili iniciovat a sehnat zdroje na novou hasičskou zbrojnici a následně jsem s bývalým ředitelem ZZS inicioval a prosadil vybudování nové výjezdové základny v Mikulově. Děkuji touto cestou všem, kteří se na tomto náročném, ale velmi zdařilém projektu podíleli. Zvláštní poděkování patří bývalému řediteli panu Klusákovi, se kterým jsem projekt nové výjezdové stanice zahajoval."
+        ],
+        "ad_delivery_start_time": "2024-01-04",
+        "bylines": "Pavel Mikulenka",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "South Moravian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000462",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.123954",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000981",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00127",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000924",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000751",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.08533",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.028809",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.04584",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.096068",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.0377",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.139773",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.035044",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.080134",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.120432",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.105652",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.095664",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001212",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "35000",
+            "upper_bound": "39999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1458139890966328",
+        "page_name": "Rostislav Koštial",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "2000",
+            "upper_bound": "2499"
+        },
+        "target_locations": [
+            {
+                "name": "Rakvice, Jihomoravký Kraj, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Pasohlávky, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Hustopece, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 17152,
+        "beneficiary_payers": [
+            {
+                "payer": "Rostislav Koštial",
+                "beneficiary": "Rostislav Koštial",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 607,
+                        "female": 499,
+                        "unknown": 8
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 1657,
+                        "female": 2421,
+                        "unknown": 22
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 653,
+                        "female": 1478,
+                        "unknown": 16
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 794,
+                        "female": 1664,
+                        "unknown": 17
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 2086,
+                        "female": 2147,
+                        "unknown": 21
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 1830,
+                        "female": 1388,
+                        "unknown": 13
+                    }
+                ]
+            }
+        ],
+        "_id": "1093230105194969"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1429992774593661&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-30",
+        "ad_creative_bodies": [
+            "Hezké počasí mne dnes vytáhlo na projížďku se svým veteránem YAMAHA XS 1100. Po lehkém vyvětrání jsem se šťastně vrátil domů. Přeji vám všem, nejen motorkářům, aby jste se v novém  roce 2024, ale i těch následujících, vždy vrátili ke svým blízkým."
+        ],
+        "ad_delivery_start_time": "2023-12-30",
+        "ad_delivery_stop_time": "2024-01-02",
+        "bylines": "Pavel Mikulenka",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "South Moravian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001271",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.170775",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000762",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001652",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.074206",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.009403",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.146252",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.023253",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.096188",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001779",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.102414",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.074079",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.054003",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.132402",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.07662",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.03418",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000762",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1458139890966328",
+        "page_name": "Rostislav Koštial",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "500",
+            "upper_bound": "599"
+        },
+        "target_locations": [
+            {
+                "name": "Rakvice, Jihomoravký Kraj, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Pasohlávky, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Hustopece, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 7851,
+        "beneficiary_payers": [
+            {
+                "payer": "Rostislav Koštial",
+                "beneficiary": "Rostislav Koštial",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 806,
+                        "female": 269,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 1344,
+                        "female": 1042,
+                        "unknown": 14
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 425,
+                        "female": 584,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 603,
+                        "female": 757,
+                        "unknown": 13
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 1151,
+                        "female": 583,
+                        "unknown": 10
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 183,
+                        "female": 74
+                    }
+                ]
+            }
+        ],
+        "_id": "1429992774593661"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1470160903545817&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-27",
+        "ad_creative_bodies": [
+            "Dnešní první jízdu po prodělaném Covid 19, jsem věnoval mému zesnulému kamarádu Víťovi Bělohlávkovi. Než nás v tomto roce opustil, našlapali jsme spolu na této trase tisíce kilometrů."
+        ],
+        "ad_delivery_start_time": "2023-12-27",
+        "ad_delivery_stop_time": "2023-12-31",
+        "bylines": "Pavel Mikulenka",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "9.6E-5",
+                "region": "Lower Austria"
+            },
+            {
+                "percentage": "0.999904",
+                "region": "South Moravian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000986",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.050015",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001776",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.097366",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.028904",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.118378",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.037388",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.100917",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.016376",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000296",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.119463",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.115024",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.173819",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.05258",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.084246",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000296",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001085",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001085",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1458139890966328",
+        "page_name": "Rostislav Koštial",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "target_locations": [
+            {
+                "name": "Rakvice, Jihomoravký Kraj, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Pasohlávky, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Hustopece, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 10378,
+        "beneficiary_payers": [
+            {
+                "payer": "Rostislav Koštial",
+                "beneficiary": "Rostislav Koštial",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 293,
+                        "female": 166,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 1211,
+                        "female": 1762,
+                        "unknown": 18
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 379,
+                        "female": 854,
+                        "unknown": 11
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 533,
+                        "female": 1166,
+                        "unknown": 11
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 1200,
+                        "female": 987,
+                        "unknown": 10
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 1021,
+                        "female": 507,
+                        "unknown": 3
+                    }
+                ]
+            },
+            {
+                "country": "AT",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 1
+                    }
+                ]
+            }
+        ],
+        "_id": "1470160903545817"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1624286728106311&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-26",
+        "ad_creative_bodies": [
+            "Biliculum, z.ú., pan ředitel Malásek, spolek úžasných lidí, kteří věnují svůj život lidem s mentální nebo zdravotním postižením. Hluboce před nimi smekám a zároveň moc děkuji za vstřícná slova ❤️ Právě ve spolku Biliculum, kam se rád pravidelně vracím pomáhat, čerpám informace na jednání v Senátu, anebo výboru pro zdravotnictví a sociální politiku, jehož jsem byl členem. Zároveň jsou tito úžasní lidé i pro mě zdrojem energie, inspirace a odhodlání měnit svět k lepšímu. Přeji vám krásné svátky 🎄☃️"
+        ],
+        "ad_delivery_start_time": "2023-12-26",
+        "ad_delivery_stop_time": "2023-12-30",
+        "bylines": "Pavel Mikulenka",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "South Moravian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001933",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.128922",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000892",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.108104",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.054424",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.109442",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.124461",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001933",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.045948",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00119",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.068401",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.129368",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.110186",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.070632",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.022454",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.019926",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000892",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000892",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "9000",
+            "upper_bound": "9999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1458139890966328",
+        "page_name": "Rostislav Koštial",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "900",
+            "upper_bound": "999"
+        },
+        "target_locations": [
+            {
+                "name": "Rakvice, Jihomoravký Kraj, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Pasohlávky, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Hustopece, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 6684,
+        "beneficiary_payers": [
+            {
+                "payer": "Rostislav Koštial",
+                "beneficiary": "Rostislav Koštial",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "male": 736,
+                        "female": 870,
+                        "unknown": 13
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 867,
+                        "female": 727,
+                        "unknown": 13
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 366,
+                        "female": 741,
+                        "unknown": 8
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 475,
+                        "female": 837,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 460,
+                        "female": 309,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 151,
+                        "female": 134,
+                        "unknown": 6
+                    }
+                ]
+            }
+        ],
+        "_id": "1624286728106311"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=351882027456508&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-24",
+        "ad_creative_bodies": [
+            "S mojí Wendy (na klíně) a manželkou (za foťákem), Vám všem přejeme krásné a pohodové Vánoce a hlavně všechno nejlepší do nového roku 2024 ❤️ ať k sobě máme zase trochu blíže, více tolerance a porozumění a snad zase návrat lepších časů po krizových letech. 🇨🇿"
+        ],
+        "ad_delivery_start_time": "2023-12-24",
+        "ad_delivery_stop_time": "2024-01-01",
+        "bylines": "Pavel Mikulenka",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000298",
+                "region": "Lower Austria"
+            },
+            {
+                "percentage": "0.999702",
+                "region": "South Moravian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000992",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.146913",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002718",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.046939",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.130716",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.064201",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.083887",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.052264",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.181988",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001469",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.050354",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.056562",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.052852",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.033974",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000992",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.090572",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001763",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000845",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "50000",
+            "upper_bound": "59999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1458139890966328",
+        "page_name": "Rostislav Koštial",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "5000",
+            "upper_bound": "5999"
+        },
+        "target_locations": [
+            {
+                "name": "Rakvice, Jihomoravký Kraj, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Pasohlávky, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Hustopece, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 26839,
+        "beneficiary_payers": [
+            {
+                "payer": "Pavel Mikulenka",
+                "beneficiary": "Pavel Mikulenka",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "AT",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "65+",
+                        "female": 1
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 4,
+                        "female": 2
+                    },
+                    {
+                        "age_range": "45-54",
+                        "female": 1
+                    }
+                ]
+            },
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "35-44",
+                        "male": 1540,
+                        "female": 2284,
+                        "unknown": 23
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 1371,
+                        "female": 3559,
+                        "unknown": 27
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 1748,
+                        "female": 4000,
+                        "unknown": 40
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 2466,
+                        "female": 4955,
+                        "unknown": 48
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 1278,
+                        "female": 1423,
+                        "unknown": 27
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 923,
+                        "female": 1439,
+                        "unknown": 74
+                    }
+                ]
+            }
+        ],
+        "_id": "351882027456508"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=325514600391802&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-24",
+        "ad_creative_bodies": [
+            "Biliculum, z.ú., pan ředitel Malásek, spolek úžasných lidí, kteří věnují svůj život lidem s mentální nebo zdravotním postižením. Hluboce před nimi smekám a zároveň moc děkuji za vstřícná slova ❤️ Právě ve spolku Biliculum, kam se rád pravidelně vracím pomáhat, čerpám informace na jednání v Senátu, anebo výboru pro zdravotnictví a sociální politiku, jehož jsem byl členem. Zároveň jsou tito úžasní lidé i pro mě zdrojem energie, inspirace a odhodlání měnit svět k lepšímu. Přeji vám krásné svátky 🎄☃️"
+        ],
+        "ad_delivery_start_time": "2023-12-24",
+        "ad_delivery_stop_time": "2023-12-28",
+        "bylines": "Pavel Mikulenka",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000291",
+                "region": "Lower Austria"
+            },
+            {
+                "percentage": "0.999709",
+                "region": "South Moravian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.0007",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.068917",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.124107",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.067376",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.015128",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.122706",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.133212",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.087827",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.113321",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001541",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.12901",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.038101",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.0007",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001401",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001821",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002101",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.012607",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.079423",
+                "age": "35-44",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1458139890966328",
+        "page_name": "Rostislav Koštial",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "target_locations": [
+            {
+                "name": "Rakvice, Jihomoravký Kraj, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Pasohlávky, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Hustopece, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 6863,
+        "beneficiary_payers": [
+            {
+                "payer": "Rostislav Koštial",
+                "beneficiary": "Rostislav Koštial",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "AT",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "female": 1
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 1
+                    }
+                ]
+            },
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "male": 886,
+                        "female": 809,
+                        "unknown": 10
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 481,
+                        "female": 951,
+                        "unknown": 11
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 625,
+                        "female": 921,
+                        "unknown": 15
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 876,
+                        "female": 567,
+                        "unknown": 13
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 492,
+                        "female": 271,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 108,
+                        "female": 90,
+                        "unknown": 5
+                    }
+                ]
+            }
+        ],
+        "_id": "325514600391802"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1042785663628787&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-15",
+        "ad_creative_bodies": [
+            "𝗭𝗮𝗰𝗵𝗿𝗮𝗻̌𝗺𝗲 𝗻𝗮́𝗱𝗿𝗮𝘇̌𝗻𝗶́ 𝗯𝘂𝗱𝗼𝘃𝘂 𝘃 𝗠𝗶𝗸𝘂𝗹𝗼𝘃𝗲̌!\n\nOrganizuji petici za záchranu nádražní budovy 🚂🏘v Mikulově. V následujících dnech a týdnech potkáte náš petiční stánek na různých místech Mikulovska a můžete tak záchranu historické nádražní budovy v Mikulově podpořit svým podpisem i vy. Více informací bude brzy následovat ✌️Budu rád za vaše názory a komentáře pod příspěvkem - děkuji ❤️"
+        ],
+        "ad_creative_link_titles": [
+            "Zachraňme nádražní budovu v Mikulově"
+        ],
+        "ad_delivery_start_time": "2023-12-15",
+        "ad_delivery_stop_time": "2023-12-20",
+        "bylines": "Pavel Mikulenka",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "South Moravian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000836",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.068259",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001451",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.044685",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.168888",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.084488",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.063773",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.062805",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.042178",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00088",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.089634",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.159256",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.127853",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.060606",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.021903",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001319",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00066",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000528",
+                "age": "18-24",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "40000",
+            "upper_bound": "44999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1458139890966328",
+        "page_name": "Rostislav Koštial",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "5000",
+            "upper_bound": "5999"
+        },
+        "target_locations": [
+            {
+                "name": "Rakvice, Jihomoravký Kraj, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Pasohlávky, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Hustopece, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 22758,
+        "beneficiary_payers": [
+            {
+                "payer": "Rostislav Koštial",
+                "beneficiary": "Rostislav Koštial",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 959,
+                        "female": 498,
+                        "unknown": 12
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 2907,
+                        "female": 2038,
+                        "unknown": 33
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 1016,
+                        "female": 1378,
+                        "unknown": 15
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 1450,
+                        "female": 1552,
+                        "unknown": 20
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 3840,
+                        "female": 1921,
+                        "unknown": 30
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 3621,
+                        "female": 1428,
+                        "unknown": 19
+                    }
+                ]
+            }
+        ],
+        "_id": "1042785663628787"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1312637320137599&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-13",
+        "ad_creative_bodies": [
+            "Dnes se postavím za rybáře: právě probíhá zasedání Výboru pro hospodářství zemědělství a dopravu Senátu. Dnes předkládám zákon o poskytování náhrad škod způsobených kormoránem velkým. Navrhuji plénu Senátu tyto náhrady rybářům pro roky 2024 - 2026 schválit."
+        ],
+        "ad_creative_link_descriptions": [
+            "Rostislav Koštial, senátor za Břeclavsko a část Brno-Venkov. Sledujte mě pro novinky ze Senátu PČR."
+        ],
+        "ad_creative_link_titles": [
+            "Rostislav Koštial"
+        ],
+        "ad_delivery_start_time": "2023-12-13",
+        "ad_delivery_stop_time": "2023-12-17",
+        "bylines": "Pavel Mikulenka",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "South Moravian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000219",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.079414",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.004813",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000219",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.022533",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.094728",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.123605",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.08904",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.033253",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000219",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.138044",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.169547",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.015533",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.106322",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.120324",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001094",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000656",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000438",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "page_id": "1458139890966328",
+        "page_name": "Rostislav Koštial",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "2000",
+            "upper_bound": "2499"
+        },
+        "target_locations": [
+            {
+                "name": "Zaječí, Jihomoravký Kraj, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Pasohlávky, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 4669,
+        "beneficiary_payers": [
+            {
+                "payer": "Rostislav Koštial",
+                "beneficiary": "Rostislav Koštial",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "male": 775,
+                        "female": 363,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 433,
+                        "female": 565,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 550,
+                        "female": 486,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 631,
+                        "female": 152,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 103,
+                        "female": 22,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 407,
+                        "female": 71,
+                        "unknown": 1
+                    }
+                ]
+            }
+        ],
+        "_id": "1312637320137599"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1725465237973609&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-12",
+        "ad_creative_bodies": [
+            "Ještě před Vánoci budeme v Senátu projednávat spoustu návrhů. Mezi ty zajímavější věci patří například změna zákonů v souvislosti s rozvojem finančního trhu a s podporou zajištění na stáří (součást penzijní reformy), žádost Prezidenta republiky o jmenování ústavních soudců JUDr. Lucie Dolanské Bányaiové, Ph.D. a Prof. JUDr. Zdeňka Kühna, Ph.D., LL.M., S.J.D. a 𝘃 𝗻𝗲𝗽𝗼𝘀𝗹𝗲𝗱𝗻𝗶́ 𝗿̌𝗮𝗱𝗲̌ 𝗻𝗮́𝘃𝗿𝗵 𝗻𝗮 𝘇𝗺𝗲̌𝗻𝘆 𝘃 𝗟𝗶𝘀𝘁𝗶𝗻𝗲̌ 𝘇𝗮́𝗸𝗹𝗮𝗱𝗻𝗶́𝗰𝗵 𝗽𝗿𝗮́𝘃 𝗮 𝘀𝘃𝗼𝗯𝗼𝗱, 𝗸𝘁𝗲𝗿𝗲́ 𝗯𝘆 𝗺𝗲̌𝗹𝘆 𝘇𝗮𝗸𝗼𝘁𝘃𝗶𝘁 𝗽𝗼𝘂𝘇̌𝗶́𝘃𝗮́𝗻𝗶́ 𝗵𝗼𝘁𝗼𝘃𝗼𝘀𝘁𝗶 𝗼𝗯𝗰̌𝗮𝗻𝘆 𝘃 𝗻𝗮𝘀̌𝗲𝗺 𝘂́𝘀𝘁𝗮𝘃𝗻𝗶́𝗺 𝗽𝗼𝗿̌𝗮́𝗱𝗸𝘂.💰💲Pod tímto návrhem jsem s kolegy podepsán i já. Co si o takové změně myslíte vy? Napište mi do komentářů! 📨"
+        ],
+        "ad_delivery_start_time": "2023-12-12",
+        "ad_delivery_stop_time": "2023-12-17",
+        "bylines": "Pavel Mikulenka",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.00061",
+                "region": "Lower Austria"
+            },
+            {
+                "percentage": "0.99939",
+                "region": "South Moravian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001859",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.079116",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001446",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.054121",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.034704",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.025615",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.104937",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.058046",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.090684",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001446",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.117125",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.160297",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.060318",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.097087",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.106796",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.004751",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000826",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000826",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "8000",
+            "upper_bound": "8999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1458139890966328",
+        "page_name": "Rostislav Koštial",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "2000",
+            "upper_bound": "2499"
+        },
+        "target_locations": [
+            {
+                "name": "Rakvice, Jihomoravký Kraj, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Pasohlávky, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Hustopece, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 4919,
+        "beneficiary_payers": [
+            {
+                "payer": "Rostislav Koštial",
+                "beneficiary": "Rostislav Koštial",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "AT",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 1,
+                        "female": 1
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 1
+                    }
+                ]
+            },
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "35-44",
+                        "male": 439,
+                        "female": 168,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 517,
+                        "female": 776,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 470,
+                        "female": 508,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 567,
+                        "female": 383,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 292,
+                        "female": 124,
+                        "unknown": 9
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 281,
+                        "female": 262,
+                        "unknown": 23
+                    }
+                ]
+            }
+        ],
+        "_id": "1725465237973609"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=854960432778932&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-12",
+        "ad_creative_bodies": [
+            "U nás na Mikulovsku velmi dobře víme jaké to je, když nám denně projíždí 18.000 kamionů pod našimi okny. 🚛 V Senátu jsem i přes některé výhrady podpořil rozšíření zákona o liniových stavbách, díky čemuž by se měla významně urychlit výstavba silnic, dálnic, železnic a energetické infrastruktury. Mé vystoupení k návrhu si můžete poslechnout ve videu. 🎥⤵️"
+        ],
+        "ad_delivery_start_time": "2023-12-12",
+        "ad_delivery_stop_time": "2023-12-16",
+        "bylines": "Pavel Mikulenka",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000133",
+                "region": "Lower Austria"
+            },
+            {
+                "percentage": "0.999867",
+                "region": "South Moravian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000978",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.066077",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.083213",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.093248",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.007356",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.125436",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.028574",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.076792",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.028361",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001531",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.055319",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.173399",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.08266",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.173101",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001743",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000553",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000723",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000935",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "40000",
+            "upper_bound": "44999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1458139890966328",
+        "page_name": "Rostislav Koštial",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "4000",
+            "upper_bound": "4499"
+        },
+        "target_locations": [
+            {
+                "name": "Rakvice, Jihomoravký Kraj, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Pasohlávky, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Hustopece, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 22535,
+        "beneficiary_payers": [
+            {
+                "payer": "Pavel Mikulenka",
+                "beneficiary": "Pavel Mikulenka",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "AT",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "male": 1
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 1
+                    }
+                ]
+            },
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "35-44",
+                        "male": 4077,
+                        "female": 1301,
+                        "unknown": 36
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 1554,
+                        "female": 1957,
+                        "unknown": 23
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 2193,
+                        "female": 1806,
+                        "unknown": 22
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 4071,
+                        "female": 1944,
+                        "unknown": 41
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 2950,
+                        "female": 667,
+                        "unknown": 17
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 671,
+                        "female": 173,
+                        "unknown": 13
+                    }
+                ]
+            }
+        ],
+        "_id": "854960432778932"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=739524211360964&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-30",
+        "ad_creative_bodies": [
+            "Nad zasněženým Senátem vykouklo sluníčko a nás čeká 22 bodů, zákonů k projednání. Tentokrát body velmi složité a významné. Nad všemi předloženými zákony vyčnívá jeden velmi důležitý a také komplikovaný zákon o liniových stavbách. důležitá norma, která může naši zemi posunout v přípravě a realizaci strategické infrastruktury  po mnoha letech vpřed. V obědové pauze jsme ještě stihli projednat v hospodářském výboru snížení DPH na tzv. zdravé nápoje."
+        ],
+        "ad_delivery_start_time": "2023-11-30",
+        "ad_delivery_stop_time": "2023-12-05",
+        "bylines": "Pavel Mikulenka",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "South Moravian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000725",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.130835",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.04513",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.072663",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.115827",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.110341",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.066867",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.104544",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.124728",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001656",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.089949",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.069455",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.04544",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001449",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000311",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001242",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001035",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.017804",
+                "age": "18-24",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "15000",
+            "upper_bound": "19999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1458139890966328",
+        "page_name": "Rostislav Koštial",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "2000",
+            "upper_bound": "2499"
+        },
+        "target_locations": [
+            {
+                "name": "Rakvice, Jihomoravký Kraj, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Pasohlávky, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Hustopece, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 9729,
+        "beneficiary_payers": [
+            {
+                "payer": "Rostislav Koštial",
+                "beneficiary": "Rostislav Koštial",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 1119,
+                        "female": 439,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 1264,
+                        "female": 646,
+                        "unknown": 16
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 671,
+                        "female": 1066,
+                        "unknown": 10
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 702,
+                        "female": 869,
+                        "unknown": 12
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 1205,
+                        "female": 1010,
+                        "unknown": 14
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 436,
+                        "female": 172,
+                        "unknown": 3
+                    }
+                ]
+            }
+        ],
+        "_id": "739524211360964"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1580743589397468&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-28",
+        "ad_creative_bodies": [
+            "Mrazy dorazily definitivně i k nám na jih. A tak jsem musel svoji subtropickou skalku jako každý rok sklidit. Prostě  na jaře ven a na podzim do skleníku. Jak takový příběh vypadá, je lehce patrno z fotek. Je to fakt dřina😀"
+        ],
+        "ad_delivery_start_time": "2023-11-28",
+        "ad_delivery_stop_time": "2023-12-02",
+        "bylines": "Pavel Mikulenka",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "South Moravian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.020462",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.214507",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.165191",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.204391",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.286585",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.108863",
+                "age": "25-34",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "15000",
+            "upper_bound": "19999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1458139890966328",
+        "page_name": "Rostislav Koštial",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "2000",
+            "upper_bound": "2499"
+        },
+        "target_locations": [
+            {
+                "name": "Rakvice, Jihomoravký Kraj, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Pasohlávky, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Hustopece, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "Women",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 8471,
+        "beneficiary_payers": [
+            {
+                "payer": "Rostislav Koštial",
+                "beneficiary": "Rostislav Koštial",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "female": 178
+                    },
+                    {
+                        "age_range": "25-34",
+                        "female": 947
+                    },
+                    {
+                        "age_range": "35-44",
+                        "female": 1866
+                    },
+                    {
+                        "age_range": "45-54",
+                        "female": 2493
+                    },
+                    {
+                        "age_range": "55-64",
+                        "female": 1778
+                    },
+                    {
+                        "age_range": "65+",
+                        "female": 1437
+                    }
+                ]
+            }
+        ],
+        "_id": "1580743589397468"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1092943498736799&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-26",
+        "ad_creative_bodies": [
+            "Již po desáté jsem se u památníku obětem železné opony -  Brána ke svobodě - setkal s mnoha přáteli a spolu jsme si připomněli, že za touhu po svobodě v době komunistické zvůle zaplatili mnozí cenu nejvyšší. Každá ocelová stéla symbolizuje jedno jméno, jeden zmařený život. NA TYTO VRAŽDY NESMÍME NIKDY ZAPOMENOUT. \n\nLetos mi však na setkání chyběl veliký přítel, iniciátor Stezky svobody, památníku a mnoha jiných vzpomínkových aktivit spojených s obdobím totality, neúnavný bojovník za pravdu Miroslav Kasáček, jenž se pro nemoc nemohl letošního pietního aktu zúčastnit. Bez jeho obrovského nasazení a nezlomné vůle, se kterou připravuje všechny vzpomínkové akce, bychom byli ochuzeni o mnoho projektů, do kterých bylo naše město zapojeno. Jsem velmi rád, že jsem s panem Kasáčkem mohl být u vzniku tohoto jedinečného památníku a že jsem pro něj, za jeho nezměrné úsilí mohl jako Senátor PČR iniciovat udělení Stříbrné medaile. Přeji mu brzké uzdravení a hodně energie do dalších projektů."
+        ],
+        "ad_delivery_start_time": "2023-11-26",
+        "ad_delivery_stop_time": "2023-12-01",
+        "bylines": "Pavel Mikulenka",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.999317",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.000228",
+                "region": "Lower Austria"
+            },
+            {
+                "percentage": "0.000455",
+                "region": "Trnava Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001813",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.07002",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001813",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.087469",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.033537",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.101065",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.077498",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.064809",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.092228",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.01201",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.069794",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.100612",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.189893",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.058464",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.03535",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00068",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001813",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001133",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "6000",
+            "upper_bound": "6999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1458139890966328",
+        "page_name": "Rostislav Koštial",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "target_locations": [
+            {
+                "name": "Moravsky Zizkov, Jihomoravký Kraj, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Perná, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Hustopece, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 4401,
+        "beneficiary_payers": [
+            {
+                "payer": "Rostislav Koštial",
+                "beneficiary": "Rostislav Koštial",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "AT",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "unknown": 1
+                    }
+                ]
+            },
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "male": 386,
+                        "female": 308,
+                        "unknown": 8
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 407,
+                        "female": 837,
+                        "unknown": 8
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 342,
+                        "female": 446,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 309,
+                        "female": 444,
+                        "unknown": 53
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 258,
+                        "female": 148,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 286,
+                        "female": 156,
+                        "unknown": 8
+                    }
+                ]
+            },
+            {
+                "country": "SK",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "65+",
+                        "female": 2
+                    }
+                ]
+            }
+        ],
+        "_id": "1092943498736799"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=362756742890039&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-24",
+        "ad_creative_bodies": [
+            "Já už jsem teda sezónu pro letošek uzavřel. A co vy ostatní co jezdíte? Přeji všem spoustu bezpečných kilometrů! 🏍❤️"
+        ],
+        "ad_delivery_start_time": "2023-11-24",
+        "ad_delivery_stop_time": "2023-12-02",
+        "bylines": "Pavel Mikulenka",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.999665",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.000335",
+                "region": "Lower Austria"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.088202",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.13809",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.195393",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.258427",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.140899",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.178989",
+                "age": "25-34",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "20000",
+            "upper_bound": "24999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1458139890966328",
+        "page_name": "Rostislav Koštial",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "3000",
+            "upper_bound": "3499"
+        },
+        "target_locations": [
+            {
+                "name": "Zaječí, Jihomoravký Kraj, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Strachotín, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "Men",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 8953,
+        "beneficiary_payers": [
+            {
+                "payer": "Rostislav Koštial",
+                "beneficiary": "Rostislav Koštial",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "AT",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 1
+                    }
+                ]
+            },
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 1254
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 1593
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 1737
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 2300
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 1229
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 785
+                    }
+                ]
+            }
+        ],
+        "_id": "362756742890039"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1387162291878879&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-24",
+        "ad_creative_bodies": [
+            "Já už jsem teda sezónu pro letošek uzavřel. A co vy ostatní co jezdíte? Přeji všem spoustu bezpečných kilometrů! 🏍❤️"
+        ],
+        "ad_delivery_start_time": "2023-11-24",
+        "ad_delivery_stop_time": "2023-11-24",
+        "bylines": "Pavel Mikulenka",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "South Moravian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.106918",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.31761",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.172956",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.248428",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.091195",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.062893",
+                "age": "18-24",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "page_id": "1458139890966328",
+        "page_name": "Rostislav Koštial",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Zaječí, Jihomoravký Kraj, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Strachotín, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "Men",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 326,
+        "beneficiary_payers": [
+            {
+                "payer": "Rostislav Koštial",
+                "beneficiary": "Rostislav Koštial",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 20
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 34
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 79
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 101
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 55
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 29
+                    }
+                ]
+            }
+        ],
+        "_id": "1387162291878879"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1632428237165494&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-20",
+        "ad_creative_bodies": [
+            "Rostislav Koštial, senátor za Břeclavsko a část Brno-Venkov. Sledujte mě pro novinky ze Senátu PČR."
+        ],
+        "ad_creative_link_captions": [
+            "facebook.com"
+        ],
+        "ad_creative_link_titles": [
+            "Rostislav Koštial"
+        ],
+        "ad_delivery_start_time": "2023-11-20",
+        "ad_delivery_stop_time": "2023-12-30",
+        "bylines": "Pavel Mikulenka",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000218",
+                "region": "Lower Austria"
+            },
+            {
+                "percentage": "0.999564",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.000218",
+                "region": "Trnava Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000219",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.140827",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000437",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.050951",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.094905",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.087251",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.112836",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.115898",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.008966",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001093",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.164881",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.05117",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.068664",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.080254",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.017057",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001312",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001531",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001749",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "page_id": "1458139890966328",
+        "page_name": "Rostislav Koštial",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "1500",
+            "upper_bound": "1999"
+        },
+        "target_locations": [
+            {
+                "name": "Moravsky Zizkov, Jihomoravký Kraj, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Perná, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Hustopece, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 4582,
+        "beneficiary_payers": [
+            {
+                "payer": "Rostislav Koštial",
+                "beneficiary": "Rostislav Koštial",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "AT",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "55-64",
+                        "female": 1
+                    }
+                ]
+            },
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 233,
+                        "female": 234,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 367,
+                        "female": 754,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 314,
+                        "female": 514,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 434,
+                        "female": 644,
+                        "unknown": 8
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 399,
+                        "female": 530,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 78,
+                        "female": 41,
+                        "unknown": 1
+                    }
+                ]
+            },
+            {
+                "country": "SK",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "male": 1
+                    }
+                ]
+            }
+        ],
+        "_id": "1632428237165494"
+    }
+]

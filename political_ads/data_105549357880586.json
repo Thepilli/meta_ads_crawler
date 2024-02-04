@@ -1,0 +1,1568 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=327833253177244&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-10-22",
+        "ad_creative_bodies": [
+            "Jurečkova digitalizace? :D"
+        ],
+        "ad_delivery_start_time": "2023-10-22",
+        "ad_delivery_stop_time": "2023-10-26",
+        "bylines": "Romana Fischerová",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.057539",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.07492",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.10736",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.067077",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.060425",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.030307",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.045178",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.059108",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.12951",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.05597",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.058292",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.114827",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.091987",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.0475",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000891",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.207641",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000509",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000191",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000255",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001719",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000382",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000509",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.007705",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.044062",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.205794",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.262401",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.126711",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.079656",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.036931",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.003693",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.020376",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000573",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "15000",
+            "upper_bound": "19999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "105549357880586",
+        "page_name": "Romana Fischerová",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 15837,
+        "beneficiary_payers": [
+            {
+                "payer": "Radim F. Holeček",
+                "beneficiary": "Radim F. Holeček",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "55-64",
+                        "male": 1990,
+                        "female": 320,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 4121,
+                        "female": 58,
+                        "unknown": 14
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 1251,
+                        "female": 580,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 3232,
+                        "female": 121,
+                        "unknown": 8
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 3261,
+                        "female": 27,
+                        "unknown": 9
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 692,
+                        "female": 8,
+                        "unknown": 3
+                    }
+                ]
+            }
+        ],
+        "_id": "327833253177244"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=836075934573663&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-09-01",
+        "ad_creative_bodies": [
+            "Zpráva o tom, že se učitel opil spolu se žáky deváté třídy, je zcela nepřijatelná a velmi znepokojující. Dušan Kováčik, učitel ZŠ Juventa, radní města pro školství, předseda komise pro sport a školství třídní učitel třídy 9.C a politik za STAN v pracovni době požil alkohol! Toto chovaní vytváří nejen nebezpečnou situaci pro žáky, ale také poškozuje pověst školy a vzdělávacího systému jako celku. Učitelé mají zásadní vliv na formování charakteru a hodnot žáků. \n\nŠkola Juventa v Milovicích je největší škola v ČR, kapacita této školy je přes 1500 žáků. Stížnost ředitele školy nemá v podstatě velký význam, neboť putuje k nadřízenému, výše zmíněnému p. Kováčikovi. Což je absurdní! \n\nNavíc, trest žákům 9 třídy, kteří po vzoru svého učitele požili alkohol se s nimi bude táhnout až na střední školu. Zatím co trestem pro pana učitele je odebrání nenárokové složky za měsíce červen-červenec-srpen. A jak všichni víme, přes prázdniny, jsou tyto nenárokové složky né příliš vysoké- žádné!\nNedokážu si představit, že by mé dítě popíjelo s třídním učitelem! Neboť právě oni mají obrovskou zodpovědnost za žáky a takové chování je nepřijatelné!\nANO Petr Fiala Andrej Babiš Alena Schillerová Ivan Bartoš"
+        ],
+        "ad_creative_link_captions": [
+            "blesk.cz"
+        ],
+        "ad_creative_link_descriptions": [
+            "Místo aby jako učitel žáky vzdělával, tak se s nimi na školním výletě opil! Od ředitele, který případ popsal České školní inspekci, dostal vytýkací dopis."
+        ],
+        "ad_creative_link_titles": [
+            "Skandál na základní škole v Milovicích. Na školním výletě se opil žák i jeho učitel"
+        ],
+        "ad_delivery_start_time": "2023-09-01",
+        "ad_delivery_stop_time": "2023-09-01",
+        "currency": "CZK",
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "105549357880586",
+        "page_name": "Romana Fischerová",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 3,
+        "beneficiary_payers": [
+            {
+                "payer": "Romana Fischerová",
+                "beneficiary": "Romana Fischerová",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "55-64",
+                        "female": 1
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 1,
+                        "female": 1
+                    }
+                ]
+            }
+        ],
+        "_id": "836075934573663"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1063699294514328&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-07-01",
+        "ad_creative_bodies": [
+            "První den v týdnu začínám vždy kontrolami stavebních projektů v Lysé. \nV nové MŠ Dráček v Litoli jsme zrovna se zástupci HZS Nymburk probírali náležitosti kolaudace když udeřil blesk do jednoho ze stromů v zahradě. 😮 Naštěstí pohotoví hasiči problém vyřešili a já věřím, že kolaudace proběhne hladce. 👍\n\nJe konec školního roku k tomu patří předávání vysvědčení žákům a studentům. Byla jsem pozvána k slavnostnímu předávání vysvědčení deváťákům ze ZŠ praktické z Lysé, ano těm, kteří za mnou byli nedávno v Poslanecké sněmovně. Zážitky z prohlídky ztvárnili do obrázků a jsou neskutečně krásné. Moc děkuji, jste úžasní. ❤️\n\nOdpoledne mě čekalo křeslo pro hosta v Kavárničce dříve narozených pod vedením pana doktora Kořínka. Naše seniory zajímala moje cesta do politiky a práce poslankyně. Mě naopak zajímalo, jak se seniorům v Lysé žije. Narazili jsme na dlouhodobý problém - absenci bezbariérových chodníků. To, co může být pro někoho malý schůdek, může být pro někoho zásadní překážkou. Toto je rozhodně potřeba zmapovat a postupně začít pracovat na nápravě. 😉\n\nNa jednání rady města jsme probrali více jak 20 návrhů a hned z kraje jsem se já a další radní vyjádřili proti prosazovanému projektu bazének. Tento projekt jsme tedy předali k projednání zastupitelstvu. \n\nMoc ráda jsem naopak podpořila návrh na oceňování našich dobrovolných dárců krve. Je to záslužná činnost, která zachraňuje životy a dle vzoru jiných měst jsme schválili finanční odměny za počty bezpříspěvkových odběrů. 🩸\n\nV milovické školce jsem se, tentokrát spíše v roli babičky, připojila k pasování dětí na školáky. Moji vnučku už od září čeká lavice první třídy. \n\nStředeční zastupitelstvo bylo velmi vášnivé. Odmítla jsem podpořit nesmyslný projekt bazénku na úkor tělocvičny ZŠ J. A. Komenského. Ráda ale podpořím návrh na rekonstrukci zázemí tělocvičen pro žáky této školy. Rekonstrukce už mohla být popravě dávno hotová, kdyby si ji po vzoru zákonodárců nevzali někteří jako rukojmí právě pro schválení zmiňované výstavby bazénku. Tohle bezohledné přílepkování, které odnaší neviní mě vždy na politice mrzelo. Ve slušné politice nemá dle mého názoru místo. Děkuji tímto všem zastupitelům, kteří dali jasné NE bazénku a tedy i tomuto přístupu.\n\nTaké jsme schválili prodej pozemku Na Mlíčníku. Jeho novým majitelem bude společnost Kaufland. Stačí tak už jen relativně hladký průběh stavebního řízení, abychom na základní kámen mohi poklepat ještě v tomto roce. Nové OC Kaufland bude další možností plnohodnotného nákupu pro naše Lysáky. 🛒\n\nSložili jsme také svým způsobem poctu hraběnce Rohanové, která byla držitelkou panství Lysá a zasloužila se o jeho rozvoj a pomoc všem potřebným. Na její počest jsme přejmenovali park z neoficiálního názvu Burda park na park Štěpánky Rohanové. 👍\n\nSportoviště se v Lysé rozrůstají, což je dobře. Je ale také důležité je spravovat a starat se o ně. Proto jsme schválili založení společnosti Sportoviště a kulturní zařízení města Lysá nad Labem s.r.o. Tato společnost bude mít na starosti správu a údržbu kulturních a sportovních zařízení v majetku města, jako jsou dětská hřiště, a také nová sportovní hala, která ještě v tomto roce přivítá první sportovce. Inspirovali jsme se v řadě dalších měst, kde se samostatná správa sportovišť a sportovních zařízení osvědčila.\n\nV sobotu se v Lysé konal městský Street Food Festival. Návštěvníky dokonce neodradilo ani deštivé počasí a všichni příchozí měli možnost dopřát svým mlsným jazýčkům neobvyklé chutě, barvy a vůně z různých koutů světa. Bylo to vlastně takové milé sousedské setkání v centru města a těším se s vámi na další ročník. ❤️"
+        ],
+        "ad_delivery_start_time": "2022-07-01",
+        "ad_delivery_stop_time": "2022-07-06",
+        "bylines": "Romana Fischerová",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000635",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.007619",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00127",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00127",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.064762",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.15619",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.064762",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.07619",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.061587",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.153651",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.175238",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.148571",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.050794",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.027937",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.009524",
+                "age": "18-24",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "3000",
+            "upper_bound": "3999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "105549357880586",
+        "page_name": "Romana Fischerová",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "_id": "1063699294514328"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=341251198088435&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-06-09",
+        "ad_creative_bodies": [
+            "Ano, ani v předešlém týdnu jsem se nenudila. V pondělí mě čekal kontrolní den a na MŠ Dráček se blížíme do finiše. Brzy uvidíte z hotové Bondyho vily víc.  😉 \n\nBylo mi nesmírnou ctí přivítat v Poslanecké sněmovně velvyslance Filipín J.E. Ombru T. JAINALA.  🇵🇭  Jeho Excelence koncem června opouští ČR a vrací se zpět do své krásné země. Představena nám byla i jeho dočasná nástupkyně ministryně a generální konzulka Indhira C. BAÑARES. Zajímavé podněty jsme si předali zejména k možnostem podpory v oblastech školství, průmyslu a obchodu. \n\nVe čtvrtek slavila svůj vznik republika Itálie.  🇮🇹  A tak jsem se setkala na jeho pozvání s italským velvyslancem J.E. Francesca Saveria Nisia v Italském kulturním institutu. Děkuji velice za vřelé přijetí.\n\nSobotu jsem měla opět tu úžasnou možnost oddávat na Městském Úřadě v Lysé nad Labem nádherný pár, který vstoupil do svazku manželského a navíc se stejným příjmením jako mám já.  ❤️ Ještě jednou přeji novomanželům pohádkový život plný láskyplných prožitků.\n\nZávěr týdne jsem věnovala své rodině, dcerám a vnoučatům. Jsou mi v řadě situcí oporou a já jim ne vždycky dávám najevo, jak moc jsem ráda, že je mám. Se zmrzlinou v ruce jsme strávili velkou část dne v nádherně rozkvetlé zámecké zahradě v Lysé. Tento malebný kout našeho města je otevřen všem. Přijměte mé pozvání a ochutnejte Baroko našeho města.  🌸 \n\nPo víkendu už jsem se jen těšila na milou povinnost, o kterou mne bohužel připravil Covid. Ten už ale není a tak se zase můžeme potkávat u příležitosti významných životních jubileí s těmi nejmoudřejšími z nás. V pondělí mě jich čekalo hned devět a musím upřímně říct, že každé setkání a životní příběh vás neskutečně obohatí.   🤗"
+        ],
+        "ad_delivery_start_time": "2022-06-09",
+        "ad_delivery_stop_time": "2022-06-14",
+        "bylines": "Romana Fischerová",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000681",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001361",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000681",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.138189",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.077604",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.12049",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.074881",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001361",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.117086",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.08305",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.071477",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.067393",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.065351",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.106195",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.03676",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.03744",
+                "age": "65+",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "2000",
+            "upper_bound": "2999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "105549357880586",
+        "page_name": "Romana Fischerová",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "_id": "341251198088435"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1206858086796796&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-06-02",
+        "ad_creative_bodies": [
+            "Uplynulý týden byl opět pestrý a plný zajímavých setkání.\n         \n✅ Pondělní dopoledne mám pokaždé rezervované pto místní kontrolu projektů. Naši Lysáci se již brzy můžou těšit na rozšíření MŠ Dráček, novou sportovní halu, nebo rekonstrukci rodného domu Prof. Rudolfa Jedličky. Dům bude sloužit nejen potřebám ZŠ Bedřicha Hrozného, ale i jako pedagogicko psychologická poradna.\n\n✅ Další z projektů je plánovaná výstavba OC Kaufland, kde jsme jako město obdrželi SOUHLASNÉ závazné stanovisko od Odboru životního prostředí a zemědělství Krajského úřadu Středočeského kraje k posouzení vlivů provedení výstavby na životní prostředí. Je to skvělá zpráva. Město úzce spolupracuje se Kauflandem k získání všech povolení a tak dovedeme projekt k zahájení výstavby ještě v tomto roce. Odpoledne patřilo návštěvám a dotazům občanů z Lysé nad Labem a okolí. \n\n✅ V úterý zasedala Rada města. Projednali jsme více jak 30 bodů žádostí občanů a záležitostí týkající se našeho města např. umístění žadatele do Domu s pečovatelskou službou, schvalování dotací z Charitativního programu města Lysá nad Labem, nebo návrh na rozdělení dotací z Programu na podporu volnočasových aktivit ve školských zařízeních v Lysé nad Labem.\n\n✅ Ve středu dopoledne jsem si odskočila do poslanecké sněmovny, kde jsem přivítala třídu ze ZŠ Praktické z Lysé nad Labem a dvě třídy ze ZŠ T. G. Masaryka ze sousedních Milovic. Děti byly nadšené z historických paláců Sněmovny. Proběhla i malá beseda s dotazy žáků na mojí práci poslankyně, jak jsem se dostala do politiky a čemu se v legislativě věnuji. \n\n✅ Výstaviště v Lysé opět jako každý rok, zahájilo ve čtvrtek mezinárodní výstavu Natura Viva. Výstava pokračovala s bohatým programem až do neděle. Jsem ráda, že jsem byla pozvána na zahájení této ojedinělé výstavy v ČR. Také jsem měla tu jedinečnou příležitost předat vysvědčení všem studentům Obchodní akademie v Lysé, kteří letos složili zkoušku dospělosti - maturitu.\n\n✅ V pátek mi bylo ctí na Výstavišti v Lysé přivítat Andrej Babiš. \n\n✅ Sobotní dopoledne jsem trávila na dětských rybářských závodech. \nPro mě to byl víc než relax pozorovat vodní hladinu a děti z Rybářského klubu Lysá nad Labem, jak umí chytit tu správnou rybu.  🐟 Sobotní odpoledne pak vyvrcholilo 5. ročníkem městských slavností LYSÁ ŽIJE v krásné scenérii lyského zámeckého parku. Bohatý program přilákal spoustu návštěvníků, kteří vytvořili účinkujícím neopakovatelnou atmosféru. \n\nI pro mě toto odpoledne patřilo nejen k zábavě, ale i k milému setkání s občany z Lysé nad Labem."
+        ],
+        "ad_delivery_start_time": "2022-06-02",
+        "ad_delivery_stop_time": "2022-06-07",
+        "bylines": "Romana Fischerová",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000726",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000726",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000726",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001451",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.095791",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.12627",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.057329",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.066038",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.082003",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.12119",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.127721",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.103048",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.105951",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.031205",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.016691",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.063135",
+                "age": "55-64",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "2000",
+            "upper_bound": "2999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "105549357880586",
+        "page_name": "Romana Fischerová",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "_id": "1206858086796796"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=950935365579924&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-05-04",
+        "ad_creative_bodies": [
+            "Dnes začalo mimořádné jednání sněmovny, ale ještě mi dovolte krátce se vrátit k tomu uplynulému. Ráda bych ho pro vás shrnula, protože se jednalo o věcech, které se dotknou opravdu každého z nás.\n\n👉 Fialova vláda stále blokuje náš návrh stavebního zákona, který by usnadnil cestu k vlastnímu bydlení řadě českých rodin. \n\n👉 Podařilo se schválil snížená daně u benzínu a nafty o 1,50Kč za litr. Není to sice mnoho ale částečně to pomůže brzdit růst cen a výdaje domácností. Co je podstatné. ☝️ Toto opravdu nestačí k tomu, aby české domácnosti přestaly závratným tempem chudnout.\n\n👉 Inflace se vyšplhala na závratných 13%. Na to upozorňovala moje kolegyně ze sněmovny Alena Schillerová ale Fialův kabinet stále nenavrhuje žádné dostatečně razantní a účinné řešení. \n\n👉 Požadovali jsme pevné zařazení bodu, který by pomohl krajům zvládnout uprchlickou vlnu a udržet přehled o tom, kolik uprchlíků vůbec na svém území mají - systémů teď běží několik a situace je značně nepřehledná. To je třeba změnit. \n\n👉 Podařilo se udělt další krok v digitalizaci státní správy a tentokrát šlo o maximální digitalizaci legislativního procesu. \n\nO víkendu jsem jak vidíte ani neodletěla, ani mne neupálili ale díky pozváni rodiny Palyzových jsem měla možnost strávit úžasné odpoledne na Závodiště Lysá nad Labem při tradičním Prvomájovém Steeplechase. \n\nBylo neuvěřitelně uvolňující vidět, jak se lidé opět baví, potkávají se a Covid, jako by ani nikdy nebyl. Víkend byl jednoduše super ale teď zase vzhůru do práce.  😉"
+        ],
+        "ad_delivery_start_time": "2022-05-04",
+        "ad_delivery_stop_time": "2022-05-10",
+        "bylines": "Romana Fischerová",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.003189",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001276",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000638",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001276",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.038265",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.076531",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.086097",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.096939",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.151148",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.075255",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.101403",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.147321",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.114158",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.101403",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.005102",
+                "age": "18-24",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "2000",
+            "upper_bound": "2999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "105549357880586",
+        "page_name": "Romana Fischerová",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "300",
+            "upper_bound": "399"
+        },
+        "_id": "950935365579924"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=410706383799602&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-04-26",
+        "ad_creative_bodies": [
+            "Minulý týden byl sice o jeden pracovní den kratší, ale o to vydatnější co do práce v mém regionu.  🥰 \n\nNa stavbě sportovní haly v Lysé nad Labem i na rozšíření MŠ Dráček v Litoli se blížíme do finále.  🏗️  V hale se aktuálně montuje výtah, dělají se obklady v budoucím zázemí a dokončují se rozvody elektřiny. Ve školce se pracuje na venkovní omítce, parkovišti, chodnících a vnitřní prostory už se také rýsují. Chceme, aby se dětem v nových třídách opravdu líbilo. \n\nDo poradny, která bude součástí domu čp. 13 na náměstí Bedřicha Hrozného, ve kterém postupně vznikají také nové prostory ZŠ Bedřicha Hrozného, hledáme psychologa. Pokud o někom víte, budeme rádi za doporučení. \n\nMáme za sebou zápisy do prvních tříd základních škol, kam se podařilo umístit všechny žádající děti z Lysé. Všechny paní ředitelky mají za sebou velký kus práce, ale z výsledku mám upřímnou radost a patří jim za to velký dík.🙏  \n\nStále pokračujeme ve sbírce potřebných věcí pro uprchlé rodiny z Ukrajiny.  🇺🇦  Situace se nám už podařila stabilizovat, a tak v Kovoně vydáváme a přijímáme pravidelně v pondělky a čtvrtky. \n\n 🏇 Závěrem mi ještě dovolte, abych vás pozvala na dostihy, které se uskuteční v neděli 1. května na Závodiště Lysá nad Labem a kam jsme pro děti z Ukrajiny zajistili vstup zdarma a drobné občerstvení. Přijďte si s námi užít jeden z nejvýznamnějších dostihů v roce. \n\nPřeji vám všem hezký zbytek týdne.  ❤️"
+        ],
+        "ad_delivery_start_time": "2022-04-26",
+        "ad_delivery_stop_time": "2022-05-01",
+        "bylines": "Romana Fischerová",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000687",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000687",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001375",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.089347",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.011684",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.08866",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.076289",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.123711",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.087285",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.123024",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.13677",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.101718",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.112027",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.042612",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.004124",
+                "age": "18-24",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "2000",
+            "upper_bound": "2999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "105549357880586",
+        "page_name": "Romana Fischerová",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "_id": "410706383799602"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=5279766605408525&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-03-29",
+        "ad_creative_bodies": [
+            "Dnes v Poslanecké sněmovně vedeme bouřlivou diskusi o novele stavebního zákona. \n\nJeho aktuální znění připravovala vláda ANO několik let s hlavním cílem zkrátit stavební řízení a umožnit tak stavět všem těm, kdo konečně chtějí dosáhnout na vlastní bydlení nebo potřebují rekonstruovat svou nemovitost. 🏡 \n\n ☝️ Aktuální vláda se proti tomu postavila a chce velkou část námi připraveného zákona odložit. Návrh, aby k tomu došlo během jednoho dne, jsme zvládili odmítnout - bude se proto projednávat běžným způsobem ve výborech, abychom k tomu my i veřejnost mohli říct své. 👍\n\nPředpokládám, že dnes budeme zákon projednávat opravdu dlouho a to i kvůli zmatečnému řízení schůze paní místopředsedkyně Richterové. Nepodezírám ji z toho, že by neznala jednací řád. Spíš to vypadá, že si plete protinávrhy s žádostí o přestávku a odůvodňování návrhu se samostatným vystoupením zcela záměrně, aby poslanci pětikoalice stihli doběhnout ze schůzek v kuloárech.\n\nOno, když jste za školou, jedno zazvonění občas nestačí. 🤷‍♀️"
+        ],
+        "ad_delivery_start_time": "2022-03-30",
+        "ad_delivery_stop_time": "2022-04-03",
+        "bylines": "Romana Fischerová",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.055104",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.120805",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.113034",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.05793",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.039915",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.031084",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.056164",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.059696",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.118686",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.048393",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.060049",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.081597",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.104203",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.053338",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001413",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.084069",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000706",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000706",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002473",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.024726",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.004592",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.036736",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.108089",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.018368",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.116213",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.144472",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.167785",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.125397",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.12787",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.035323",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000706",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000353",
+                "age": "18-24",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "3000",
+            "upper_bound": "3999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "105549357880586",
+        "page_name": "Romana Fischerová",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "_id": "5279766605408525"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=608457596491417&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2020-09-15",
+        "ad_creative_bodies": [
+            "Milí sousedé z Lysé, \nléto se blíží ke konci a po dovolených je čas vrátit se do práce, do školy... prostě k běžnému životu. Doufám, že jste si aspoň trochu odpočali - byli jste na výletech po Čechách nebo v zahraničí? Já jsem část léta strávila na Karlštejnsku se svými vnoučaty. Bohužel ale toho společného času nebylo tolik, kolik bych si přála, protože i přes léto jsme měli na radnici napilno. Povedl se nám tak opravdu velký kus práce. \n\nMyslím, že je důležité zapojovat dnešní mládež do kulturních a sportovních aktivit a odtáhnout je aspoň na chvíli od počítačů, tabletů a chytrých telefonů. Proto mám radost, že se nám podařilo přenastavit přidělování dotací spolkovým organizacím, které se starají o děti a mládež do 18 let. Díky novému, spravedlivějšímu systému teď spolky budou moci čerpat finance na to, co skutečně potřebují, ať už jde o rekonstrukci klubovny nebo nové vybavení. \n\nJak už někteří víte, podařilo se nám taky připravit projekt rekonstrukce historické vily v Litoli, která bude nově sloužit Mateřské škole Dráček. Na rekonstrukci už jsme dokonce získali stavební povolení! Díky ní dojde k navýší kapacity školky téměř o 50 míst pro místní děti a navíc zachráníme nádherný objekt léta chátrající vily. Už tuhle sobotu 12. září zde proběhne Den otevřených dveří MŠ Dráček s doprovodným programem pro děti, na který vás srdečně zvu.\n\nDny otevřených dveří pro vás plánujeme i v dalších objektech, které budou sloužit občanům Lysé, abyste se s nimi mohli seznámit na vlastní kůži a věděli, kam radnice investuje veřejné prostředky. \n\nDalším z takových projektů je právě probíhající rekonstrukce \"Knébláku\" (toho krásného modrého domu v ulici Na Františku). Vzniknou tu nové byty pro osamělé maminky s dětmi a další občany Lysé, kteří dočasně levné bydlení vzhledem ke své těžké životní situaci skutečně potřebují. I na Knébláku pro vás proběhne den otevřených dveří, tentokrát 24. října. O detailech vás budu už brzy informovat.\n\nZapomenout nesmím ani na rekonstrukci domu na Náměstí Bedřicha Hrozného č.p. 13. Víte, který to je? Takový dlouho neudržovaný dům vedle růžové budovy základní školy. K rekonstrukci zde právě probíhá stavební řízení, vydání stavebního povolení předpokládáme během letošního října. Po rekonstrukci bude budova sloužit Základní škole Bedřicha Hrozného, v přízemí bude psychologická poradna pro děti a mládež. I sem se budete mít možnost ještě před zahájením prací podívat.\n\nAbych vás ale úplně neunudila, tak už jen telegraficky. Připravili jsme smlouvu o prodeji pozemku, kde vznikne nový supermarket, abyste měli víc možností nakoupit si přímo v Lysé a nemuseli jezdit nikam daleko. Zpracovali jsme také podklady pro soutěž na zhotovitele stavby nové sportovní haly, která přes léto získala stavební povolení.\n\nPráce je tedy stále dost, i když kvůli všem možným povolením často trvá dlouho, než se nám ji podaří dotáhnout. Proto jsem se rozhodla, že vás o ní budu informovat i v rámci pravidelných, “zhuštěných” reportů tady na Facebooku. Je totiž úplně normální, že se potřebujete věnovat rodině, práci, zkrátka svým povinnostem a nemáte tak už čas sledovat zasedání zastupitelstva. U mě na Facebooku tedy vždy najdete aspoň to nejdůležitější. Zároveň budu ráda za vaše podněty, nápady a názory.\n\nUžijte si poslední letní dny a třeba se potkáme na některém ze dní otevřených dveří - nebo 28. 11. na rozsvěcení vánočního stromečku. 🎄\n\nTěším se na vás! ❤️"
+        ],
+        "ad_delivery_start_time": "2020-09-15",
+        "ad_delivery_stop_time": "2020-09-19",
+        "bylines": "Romana Fischerová",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.119987",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.880013",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.063144",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.015287",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001994",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000665",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000665",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000665",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.059156",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.097375",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.140246",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.034895",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.132935",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.141575",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.037886",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00997",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.07544",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.187105",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000997",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "4000",
+            "upper_bound": "4999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "105549357880586",
+        "page_name": "Romana Fischerová",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "_id": "608457596491417"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=613954855934629&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2020-08-27",
+        "ad_creative_bodies": [
+            "Dnes mám pro vás fotky z kontrolního dne na \"Knébláku\" ❤️ V tomhle krásném domě v ulici Na Františku právě dokončujeme rekonstrukci, díky které zde vznikne bydlení pro obyvatele Lysé v těžké životní situaci. \n\nPřechodné útočiště zde najdou hlavně osamělé maminky a tátové s malými dětmi 👩‍👧‍👦, ale taky senioři nebo oběti domácího násilí... Myslím, že se jim tu bude líbit, co říkáte?"
+        ],
+        "ad_delivery_start_time": "2020-08-27",
+        "ad_delivery_stop_time": "2020-09-01",
+        "bylines": "Romana Fischerová",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000156",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.102241",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.897603",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000473",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.01546",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.240416",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.37498",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.182521",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.038176",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.051743",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.090077",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002997",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002366",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000789",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "8000",
+            "upper_bound": "8999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "105549357880586",
+        "page_name": "Romana Fischerová",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "_id": "613954855934629"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=2557093881269165&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2020-08-22",
+        "ad_creative_bodies": [
+            "Srdečně vás zvu na den otevřených dveří Mateřské školy Dráček 👨‍👩‍👧‍👦 spojený s prohlídkou historické vily 🏡 v Litoli, který proběhne 12. září od 10.00 hodin v areálu školky. Vedle samotné vily, která se po rekonstrukci stane součástí školky, pro vás budou otevřené přilehlé zahrady. Na děti čeká doprovodný program plný soutěží 👭\n\nPřijďte se svými ratolestmi nebo třeba jen sami posedět, zavzpomínat a prohlédnout si plány na proměnu další části Lysé nad Labem v příjemné místo k životu!\n\nPro zájemce budu více informací k projektu i něco z historie vily a mateřinky přidávat přímo do události:\nDen otevřených dveří MŠ Dráček\n\nVěřím, že nám počasí pomůže a užijeme si společně prima odpoledne🌤\n\nTěším se na vás 😊"
+        ],
+        "ad_delivery_start_time": "2020-08-22",
+        "ad_delivery_stop_time": "2020-08-29",
+        "bylines": "Romana Fischerová",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.001807",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.034335",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.963858",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000697",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000465",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.2",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.17259",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.150755",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.108711",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.26806",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.077816",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.01324",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.004878",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002787",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "6000",
+            "upper_bound": "6999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "105549357880586",
+        "page_name": "Romana Fischerová",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "600",
+            "upper_bound": "699"
+        },
+        "_id": "2557093881269165"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=332405941263419&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2020-08-06",
+        "ad_creative_bodies": [
+            "Chodí vaše děti do skauta? Nebo třeba na keramiku, fotbal, zpěv? Možnost dopřát dětem, co je baví, a zároveň mít čas si trochu odpočinout jsem jako máma vždycky vítala, zvlášť když byly jejich kroužky kousek od domova 🏡\n\nAby měli takovou možnost i ostatní rodiče v Lysé, připravili jsme v radě nový dotační titul na podporu místních spolků, které pracují s dětmi do 18 let 👩‍👧‍👦Investiční dotace z něj budou poskytovány na konkrétní akci a projekty i nákupy dlouhodobého majetku. Spolky, které už nějaký majetek vlastní, pak budou moci dotaci využít na jeho modernizaci nebo rekonstrukci. \n\n✅Dotační titul ještě musí schválit zastupitelstvo - pokud projde, budou podmínky pro přidělení dotace stanoveny ve statutu, který včetně všech potřebných formulářů najdete na portálu občana https://obcan.mestolysa.cz. Na úřední desce města bude zároveň zveřejněna výzva k podání žádostí, a to minimálně 30 dní předem 👍"
+        ],
+        "ad_delivery_start_time": "2020-08-06",
+        "ad_delivery_stop_time": "2020-08-10",
+        "bylines": "Romana Fischerová",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.110547",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.889453",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000452",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000904",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.093764",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.003841",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.005874",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.013104",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.321283",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.139178",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.136692",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.072526",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.212381",
+                "age": "45-54",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "7000",
+            "upper_bound": "7999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "105549357880586",
+        "page_name": "Romana Fischerová",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "500",
+            "upper_bound": "599"
+        },
+        "_id": "332405941263419"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1110849182648957&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2020-07-31",
+        "ad_creative_bodies": [
+            "Jsem místostarostkou krásného města Lysá nad Labem. Máte nápad, co u nás změnit a s čím pohnout? Napište mi, společně to zvládneme."
+        ],
+        "ad_creative_link_captions": [
+            "facebook.com"
+        ],
+        "ad_creative_link_descriptions": [
+            "Jsem místostarostkou krásného města Lysá nad Labem. Máte nápad, co u nás změnit a s čím pohnout? Napište mi, společně to zvládneme. "
+        ],
+        "ad_creative_link_titles": [
+            "Romana Fischerová"
+        ],
+        "ad_delivery_start_time": "2020-07-31",
+        "ad_delivery_stop_time": "2020-07-31",
+        "bylines": "Romana Fischerová",
+        "currency": "CZK",
+        "estimated_audience_size": {
+            "lower_bound": "500001",
+            "upper_bound": "1000000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "105549357880586",
+        "page_name": "Romana Fischerová",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "_id": "1110849182648957"
+    }
+]

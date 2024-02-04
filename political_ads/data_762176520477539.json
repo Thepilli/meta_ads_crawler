@@ -1,0 +1,207 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1010040250282872&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-01",
+        "ad_creative_bodies": [
+            "Již potřetí letos MND snižují obchodní ceny za MWh u základních ceníků plynu a elektřiny. 📉 Plyn oproti začátku roku zlevňují celkem o 45 % a elektřinu o 50 %. 💸 Více se dozvíte v článku."
+        ],
+        "ad_creative_link_captions": [
+            "mnd.cz"
+        ],
+        "ad_creative_link_descriptions": [
+            "MND, Moravské naftové doly, snižují od 1. 11. 2023 obchodní ceny za MWh u základních ceníků, a to letos již potřetí. Od začátku roku tak zlevňují plyn celkem o 45 % a elektřinu o 50 %."
+        ],
+        "ad_creative_link_titles": [
+            "Již potřetí letos MND snižují základní ceny plynu a elektřiny - MND"
+        ],
+        "ad_delivery_start_time": "2023-11-01",
+        "ad_delivery_stop_time": "2023-11-02",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.060994",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.089507",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.053767",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.057578",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.053609",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.029091",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.043781",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.073608",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.129188",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.057289",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.058051",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.126692",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.081465",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.085381",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.206467",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.083177",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.264694",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.106013",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.099149",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001357",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.061097",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.08824",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.085891",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00201",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00094",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000966",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "40000",
+            "upper_bound": "44999"
+        },
+        "page_id": "762176520477539",
+        "page_name": "MND",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "4000",
+            "upper_bound": "4499"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "35",
+            "65"
+        ],
+        "eu_total_reach": 38018,
+        "beneficiary_payers": [
+            {
+                "payer": "MND",
+                "beneficiary": "MND",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "35-44",
+                        "male": 10142,
+                        "female": 2341,
+                        "unknown": 77
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 7911,
+                        "female": 3291,
+                        "unknown": 52
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 3799,
+                        "female": 3381,
+                        "unknown": 37
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 3187,
+                        "female": 4062,
+                        "unknown": 36
+                    }
+                ]
+            }
+        ],
+        "_id": "1010040250282872"
+    }
+]

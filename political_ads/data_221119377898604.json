@@ -1,0 +1,232 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=725358019438776&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-14",
+        "ad_creative_bodies": [
+            "Ještě to pojištění! A pak už šťastnou cestu."
+        ],
+        "ad_creative_link_captions": [
+            "koop.cz"
+        ],
+        "ad_creative_link_descriptions": [
+            "Cena zdravotní péče v zahraničí většinou mnohonásobně převyšuje náklady na léčbu v České republice. Pokud si zlomíte nohu nebo jen šlápnete v moři na ježka, uhradíme za vás všechny výdaje spojené s ošetřením, hospitalizací, nákupem léků nebo převozem zpět do Česk...."
+        ],
+        "ad_creative_link_titles": [
+            "Sjednat cestovní pojištění"
+        ],
+        "ad_delivery_start_time": "2023-11-14",
+        "ad_delivery_stop_time": "2023-11-28",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.051471",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.148602",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.121793",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.050476",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.04257",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.024296",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.040947",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.055817",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.115405",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.052414",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.057964",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.106503",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.075401",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.056341",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "5.2E-5",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001984",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000679",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002662",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.166632",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.160106",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.114899",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.182763",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.125496",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.028555",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.154834",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.045208",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.005951",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.009083",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001096",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "35000",
+            "upper_bound": "39999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "221119377898604",
+        "page_name": "Kooperativa",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "6000",
+            "upper_bound": "6999"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "55"
+        ],
+        "eu_total_reach": 19631,
+        "beneficiary_payers": [
+            {
+                "payer": "Socialsharks s.r.o.",
+                "beneficiary": "Kooperativa pojišťovna, a.s.,",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "55-64",
+                        "male": 174,
+                        "female": 114,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 3067,
+                        "female": 2201,
+                        "unknown": 21
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 866,
+                        "female": 547,
+                        "unknown": 13
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 3501,
+                        "female": 2966,
+                        "unknown": 51
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 3192,
+                        "female": 2404,
+                        "unknown": 38
+                    }
+                ]
+            }
+        ],
+        "_id": "725358019438776"
+    }
+]

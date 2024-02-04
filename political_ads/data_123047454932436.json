@@ -1,0 +1,761 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1381995369111665&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-06",
+        "ad_creative_bodies": [
+            "Ondřej Kvarda, Specialista sponzoringu hovořil v pořadu Nový den na CNN Prima News 📺👇 nejen o společných plánech s nadačním fondem Twisten Foundation. 💛 Jedním z nich je charitativní turnaj SAZKA No Rivals. 🕹️ Ten se koná už 15. prosince a výtěžek dobročinné sbírky, který v Sazce po skončení turnaje zdvojnásobíme, poputuje právě do Twisten Foundation.\n\n#twistenfoundation #jsmesazka #sazkaesport"
+        ],
+        "ad_creative_link_captions": [
+            "cnn.iprima.cz"
+        ],
+        "ad_creative_link_descriptions": [
+            "Všechny informace pro úspěšný start vašeho dne na jednom místě. Exkluzivní hosté, zprávy, počasí i sport"
+        ],
+        "ad_creative_link_titles": [
+            "NOVÝ DEN 6.12.2023 07:00"
+        ],
+        "ad_delivery_start_time": "2023-12-06",
+        "ad_delivery_stop_time": "2023-12-07",
+        "currency": "EUR",
+        "delivery_by_region": [
+            {
+                "percentage": "0.0383",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.202274",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.093357",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.047277",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.026332",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.031119",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.052663",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.050269",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.144823",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.039497",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.043088",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.111311",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.08079",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.038899",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.0006",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.028177",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001799",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001799",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001199",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.003597",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.009592",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.077338",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.1247",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.0006",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.034772",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.023381",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.130096",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.089329",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.18705",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.170264",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.114508",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001199",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "123047454932436",
+        "page_name": "Jsme SAZKA",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 1661,
+        "beneficiary_payers": [
+            {
+                "payer": "Jsme SAZKA",
+                "beneficiary": "Jsme SAZKA",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "male": 208,
+                        "female": 47,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 284,
+                        "female": 312,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 191,
+                        "female": 129,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 217,
+                        "female": 39,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 58,
+                        "female": 6,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 149,
+                        "female": 16,
+                        "unknown": 3
+                    }
+                ]
+            }
+        ],
+        "_id": "1381995369111665"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=2766765813479794&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-24",
+        "ad_creative_bodies": [
+            "Centrum Bořislavka se stalo nejprospěšnější stavbou 🥳 MČ Praha 6 a obdrželo v rámci Cen #OperaPragensia ocenění od starosty Jakuba Stárka. 🤗\n\nCenu přebrali architekti Jan Aulík, Jakub Fišer a David Zalabák, kterým moc gratulujeme za skvělou práci. 👏👏👏\n\nP. S. V těhlech snových kancelářích můžeš pracovat i ty. 😎👉 https://sazka.jobs.cz",
+            "Centrum Bořislavka se stalo nejprospěšnější stavbou 🥳 MČ Praha 6 a obdrželo v rámci Cen #OperaPragensia ocenění od starosty Jakuba Stárka. 🤗\n\nCenu přebrali architekti Jan Aulík, Jakub Fišer a David Zalabák, kterým moc gratulujeme za skvělou práci. 👏👏👏\n\nP. S. V těhlech snových kancelářích můžeš pracovat i ty. 😎👉 https://sazka.jobs.cz"
+        ],
+        "ad_delivery_start_time": "2023-11-24",
+        "ad_delivery_stop_time": "2023-11-24",
+        "currency": "EUR",
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "123047454932436",
+        "page_name": "Jsme SAZKA",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 76,
+        "beneficiary_payers": [
+            {
+                "payer": "Jsme SAZKA",
+                "beneficiary": "Jsme SAZKA",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 3,
+                        "female": 6,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 12,
+                        "female": 8,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 7,
+                        "female": 6
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 6,
+                        "female": 5
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 6,
+                        "female": 4,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 4,
+                        "female": 6
+                    }
+                ]
+            }
+        ],
+        "_id": "2766765813479794"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=216025038111347&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-24",
+        "ad_creative_bodies": [
+            "Náš Jan Chudoba, ředitel právní a regulatorní divize🧑‍⚖️ součástí 2. ročníku Národní konference k hazardnímu hraní. 🕹️ \n\nSpolečně s klíčovými zástupci státní a veřejné správy, odborníky na problematiku hazardních her a také zákonodárci diskutoval nad tématy z oblasti hazardu.  🙌  A to zejména o praktických dopadech nové regulace, financování obcí ze zdanění hazardu, programech na snižování rizik hazardního hraní nebo konkurenceschopnosti vůči nelegálnímu hazardu."
+        ],
+        "ad_delivery_start_time": "2023-11-24",
+        "ad_delivery_stop_time": "2023-11-24",
+        "currency": "EUR",
+        "delivery_by_region": [
+            {
+                "percentage": "0.047393",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.402844",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.113744",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.052133",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.014218",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.004739",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.033175",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.018957",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.099526",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.033175",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.014218",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.056872",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.052133",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.056872",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.004739",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.014218",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.009479",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.056872",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.028436",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.090047",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.042654",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.023697",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.251185",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.421801",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.014218",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.042654",
+                "age": "25-34",
+                "gender": "female"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "123047454932436",
+        "page_name": "Jsme SAZKA",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 211,
+        "beneficiary_payers": [
+            {
+                "payer": "Jsme SAZKA",
+                "beneficiary": "Jsme SAZKA",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 19,
+                        "female": 3
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 89,
+                        "female": 9
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 53,
+                        "female": 6
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 12,
+                        "female": 9
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 5,
+                        "female": 2
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 3,
+                        "female": 1
+                    }
+                ]
+            }
+        ],
+        "_id": "216025038111347"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=718389570179586&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-20",
+        "ad_creative_bodies": [
+            "Náš Jan Chudoba, ředitel právní a regulatorní divize🧑‍⚖️ součástí 2. ročníku Národní konference k hazardnímu hraní. 🕹️ \n\nSpolečně s klíčovými zástupci státní a veřejné správy, odborníky na problematiku hazardních her a také zákonodárci diskutoval nad tématy z oblasti hazardu.  🙌  A to zejména o praktických dopadech nové regulace, financování obcí ze zdanění hazardu, programech na snižování rizik hazardního hraní nebo konkurenceschopnosti vůči nelegálnímu hazardu."
+        ],
+        "ad_delivery_start_time": "2023-11-20",
+        "ad_delivery_stop_time": "2023-11-20",
+        "currency": "EUR",
+        "delivery_by_region": [
+            {
+                "percentage": "0.043478",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.486957",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.084058",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.026087",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.028986",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.011594",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.026087",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.037681",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.069565",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.026087",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.026087",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.066667",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.026087",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.04058",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.052174",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.014493",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.014493",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.063768",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.031884",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.037681",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.081159",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.284058",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.081159",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.324638",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002899",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.008696",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002899",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "123047454932436",
+        "page_name": "Jsme SAZKA",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 337,
+        "beneficiary_payers": [
+            {
+                "payer": "Jsme SAZKA",
+                "beneficiary": "Jsme SAZKA",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 28,
+                        "female": 1
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 112,
+                        "female": 18,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 98,
+                        "female": 22
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 28,
+                        "female": 11
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 5,
+                        "female": 5
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 13,
+                        "female": 3
+                    }
+                ]
+            }
+        ],
+        "_id": "718389570179586"
+    }
+]

@@ -1,0 +1,959 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=245539765189648&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-07",
+        "ad_creative_bodies": [
+            "Mám radost, že se podařilo tramvajovou trať na Dědinu prodloužit. Vzniklo 5 nových zastávek, které nabízí pohodlné přiblížení k metru, úřadům nebo zdravotnickým zařízením na Šestce. Důležité také je, jak se celé území postupně proměňuje.\n\nV Drnovské plánujeme vybudovat novou LDN, zprovoznit u trati pobočku Pošta Partner a pokud půjde lépe spolupráce i s dalšími partnery, tak se brzy můžeme těšit na parkovací dům. A nezapomínáme ani na kapacity ve školách a školkách. \n\nCo na to říkáte? Už jste se byli tramvají 20 nebo 26 projet až na konečnou?"
+        ],
+        "ad_delivery_start_time": "2023-11-07",
+        "ad_delivery_stop_time": "2023-11-11",
+        "bylines": "ODS - Občanská demokratická strana",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Prague"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001618",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000809",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000809",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.055016",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.06877",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.033172",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.158576",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.084951",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.046926",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.178803",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.115696",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.106796",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.078479",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.039644",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.029935",
+                "age": "25-34",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "100174253112291",
+        "page_name": "Václav Kožený, místostarosta Prahy 6",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Praha 6, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "NEIGHBORHOOD",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 1254,
+        "beneficiary_payers": [
+            {
+                "payer": "Iva Vojtková",
+                "beneficiary": "Iva Vojtková",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "65+",
+                        "male": 97,
+                        "female": 132,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 221,
+                        "female": 37,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 196,
+                        "female": 49,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 143,
+                        "female": 41
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 105,
+                        "female": 58
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 85,
+                        "female": 68
+                    }
+                ]
+            }
+        ],
+        "_id": "245539765189648"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1777298232722044&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-09-26",
+        "ad_creative_bodies": [
+            "Hrozba, že lidstvo vymře kvůli umělé inteligenci, je mizivá. Dnes nulová. Přesto tím straší i předsedkyně EK von der Leyen. Současné algoritmy, které AI užívá, to zkrátka neumožňují. Neumí se sama programovat, zadávat si funkce, měnit se… Ve skutečnosti to je dnes \"jen“ statistický model, který z ohromných databází vyhodnocuje výsledky v rámci pravděpodobnosti. Proto fakt nedává smysl, abychom plýtvali prostředky na omezování vývoje a další a další regulaci. Monitorujme, co se v této oblasti děje, kam směřuje byznys, podpořme dobrá řešení, ale nedávejme tomu stopku hned v počátku. Byla by to škoda, která by se Evropě nemusela vyplatit."
+        ],
+        "ad_delivery_start_time": "2023-09-26",
+        "ad_delivery_stop_time": "2023-09-30",
+        "bylines": "ODS - Občanská demokratická strana",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Prague"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.002028",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002028",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001014",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.015213",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.129817",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.121704",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.053753",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.210953",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.119675",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.028398",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.095335",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.015213",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.093306",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.057809",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.047667",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.006085",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "page_id": "100174253112291",
+        "page_name": "Václav Kožený, místostarosta Prahy 6",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Praha 6, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "NEIGHBORHOOD",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 977,
+        "beneficiary_payers": [
+            {
+                "payer": "Iva Vojtková",
+                "beneficiary": "Iva Vojtková",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 47,
+                        "female": 28,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 118,
+                        "female": 53,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 94,
+                        "female": 15,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 57,
+                        "female": 15
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 120,
+                        "female": 92
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 128,
+                        "female": 208,
+                        "unknown": 6
+                    }
+                ]
+            }
+        ],
+        "_id": "1777298232722044"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=309883691586420&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-09-02",
+        "ad_creative_bodies": [
+            "Se Slávkem se potkáváme na Šestce poměrně pravidelně. Tentokrát ale přijel na radnici Praha 6 v roli primátora, a tak jsme měli s kolegy možnost probrat priority městské části. Myslím, že všichni vnímáme nutnost Prahu modernizovat, digitalizovat, zprůjezdnit a celkově posunout o kousek dál. Věřím, že jsme s naší koalicí na správné cestě. Díky za setkání! 👍"
+        ],
+        "ad_delivery_start_time": "2023-09-02",
+        "ad_delivery_stop_time": "2023-09-04",
+        "bylines": "ODS - Občanská demokratická strana",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.999065",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.000935",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000934",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.092437",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000934",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.020542",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001867",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.021475",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.128852",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.112045",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.091503",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.013072",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.169935",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.064426",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.118581",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.072829",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.086835",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000934",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001867",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000934",
+                "age": "18-24",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "100174253112291",
+        "page_name": "Václav Kožený, místostarosta Prahy 6",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Praha 6, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "NEIGHBORHOOD",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 1069,
+        "beneficiary_payers": [
+            {
+                "payer": "Iva Vojtková",
+                "beneficiary": "Iva Vojtková",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 138,
+                        "female": 23,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 127,
+                        "female": 22,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 99,
+                        "female": 120,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 98,
+                        "female": 93,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 182,
+                        "female": 78,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 69,
+                        "female": 14,
+                        "unknown": 1
+                    }
+                ]
+            }
+        ],
+        "_id": "309883691586420"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=598327085538014&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-07-31",
+        "ad_creative_bodies": [
+            "Máte strach z umělé inteligence? 🤖 Měla by se zakázat? Myslím, že to není na místě. Sami na Šestce zavádíme do procesů ChatGPT, který úředníkům, politikům i občanům usnadní mnoho hodin práce. 👍\n\nUmělá inteligence a ChatGPT, o kterém se hojně mluví a diskutuje, není samostatně myslící systém, který rozumí veškerému zadání. Je to v podstatě „jen“ vytrénovaný statistický model využívající strojové učení podle pravděpodobnosti. Dokonce neumí ani počítat. \n\nFunguje to tak, že si systém nastudoval obrovské množství dat o matematice, ale neví, že 1+1=2. Zato má natrénováno, že s největší pravděpodobností po zadání 1+1 následuje 2. Podobné je to se slovy. Skákal pes, přes oves, přes zelenou, následuje nejčastěji slovo louku. A na tomto principu dokáže tvořit i delší texty. Je to systém, který dokáže z natrénovaných dat najít nejpravděpodobnější pokračování zadání. Proto nejsou přílišné obavy na místě.\n\nProblém samozřejmě může být s využíváním Deepfake videí a dalších nešvarů dnešní doby. O tom se ale rozepíšu později. \n\nPřátelé, jak to vidíte vy? Je na místě se strachovat nebo AI přináší nové příležitosti? 😉"
+        ],
+        "ad_delivery_start_time": "2023-07-31",
+        "ad_delivery_stop_time": "2023-08-04",
+        "bylines": "ODS - Občanská demokratická strana",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.998177",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.001823",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001818",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.165455",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001212",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001212",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002424",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.04",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.059394",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.067273",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.098788",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.008485",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.069697",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.129697",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.226667",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.021212",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.032121",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.029697",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.043636",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001212",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "2000",
+            "upper_bound": "2999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "100174253112291",
+        "page_name": "Václav Kožený, místostarosta Prahy 6",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Praha 6, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "NEIGHBORHOOD",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 1648,
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 273,
+                        "female": 53,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 163,
+                        "female": 49,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 98,
+                        "female": 72,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 115,
+                        "female": 66,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 374,
+                        "female": 111,
+                        "unknown": 14
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 214,
+                        "female": 35,
+                        "unknown": 2
+                    }
+                ]
+            }
+        ],
+        "_id": "598327085538014"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=621003256651824&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-06-20",
+        "ad_creative_bodies": [
+            "Přátelé, chvíli mi to trvalo, ale nakonec jsem se nechal přesvědčit a zakládám si Facebook. 😅\n\nNa radnici se mi od voleb podařilo pár věcí dotáhnout úspěšně do cíle. O něco více jich mám rozpracovaných. Rád bych vás tady začal informovat o průběhu různých projektů od územního rozvoje, přes evropské fondy až po zavádění umělé inteligence do chodu úřadu. Zkrátka bych tu s vámi chtěl být více v kontaktu.\n\n🤖 Se zaváděním AI na Šestce začnu. \n\nSlyšeli jste už o ChatGPT? Tak ten teď zavádíme do chodu městské části. Věřím, že to ušetří mnoho času všem. Jako příklad rád uvádím územní rozvoj, kde máte roky trvající povolování a k tomu několik usnesení, každé přijaté v jinou dobu. Často se stane, že se celý projekt v průběhu let několikrát změní (včetně majitele). ➡️ Nově by celý ten příběh měla od A do Z poskládat umělá inteligence a nechat úředníky věnovat se něčemu smysluplnějšímu, než je pátrání v databázích nebo šanonech.\n\nProstě si slibujeme jednodušší vyhledávání v dokumentech, ale počítáme i s tím, že náš chatbot bude brzy schopen pomoci napsat návrh důvodové zprávy, usnesení či odůvodnění. Cílem je do budoucna dát občanům zcela transparentní přístup k tomu, co se na úřadě děje. K tomu ale musíme prvně vyřešit veškeré otázky týkající se nově vznikající legislativy.\n\nJsme první městskou částí, která do toho jde, tak nám držte palce.😎 Co si o tom myslíte? V čem by mohla umělá inteligence ještě pomáhat?"
+        ],
+        "ad_delivery_start_time": "2023-06-20",
+        "ad_delivery_stop_time": "2023-06-24",
+        "bylines": "ODS - Občanská demokratická strana",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Prague"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.003007",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.003007",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.003007",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.020445",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.03187",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.073361",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.212267",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.156344",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.085989",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.134095",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.157547",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.075767",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.042093",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000601",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000601",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "2000",
+            "upper_bound": "2999"
+        },
+        "page_id": "100174253112291",
+        "page_name": "Václav Kožený, místostarosta Prahy 6",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "300",
+            "upper_bound": "399"
+        },
+        "_id": "621003256651824"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=122723367512181&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-06-19",
+        "ad_creative_bodies": [
+            "Přátelé, chvíli mi to trvalo, ale nakonec jsem se nechal přesvědčit a zakládám si Facebook. 😅\n\nNa radnici se mi od voleb podařilo pár věcí dotáhnout úspěšně do cíle. O něco více jich mám rozpracovaných. Rád bych vás tady začal informovat o průběhu různých projektů od územního rozvoje, přes evropské fondy až po zavádění umělé inteligence do chodu úřadu. Zkrátka bych tu s vámi chtěl být více v kontaktu.\n\n🤖 Se zaváděním AI na Šestce začnu. \n\nSlyšeli jste už o ChatGPT? Tak ten teď zavádíme do chodu městské části. Věřím, že to ušetří mnoho času všem. Jako příklad rád uvádím územní rozvoj, kde máte roky trvající povolování a k tomu několik usnesení, každé přijaté v jinou dobu. Často se stane, že se celý projekt v průběhu let několikrát změní (včetně majitele). ➡️ Nově by celý ten příběh měla od A do Z poskládat umělá inteligence a nechat úředníky věnovat se něčemu smysluplnějšímu, než je pátrání v databázích nebo šanonech.\n\nProstě si slibujeme jednodušší vyhledávání v dokumentech, ale počítáme i s tím, že náš chatbot bude brzy schopen pomoci napsat návrh důvodové zprávy, usnesení či odůvodnění. Cílem je do budoucna dát občanům zcela transparentní přístup k tomu, co se na úřadě děje. K tomu ale musíme prvně vyřešit veškeré otázky týkající se nově vznikající legislativy.\n\nJsme první městskou částí, která do toho jde, tak nám držte palce.😎 Co si o tom myslíte? V čem by mohla umělá inteligence ještě pomáhat?"
+        ],
+        "ad_delivery_start_time": "2023-06-20",
+        "ad_delivery_stop_time": "2023-06-20",
+        "bylines": "ODS - Občanská demokratická strana",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Prague"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.007692",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.230769",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.061538",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.030769",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.015385",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.176923",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.1",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.230769",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.030769",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.053846",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.053846",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.007692",
+                "age": "18-24",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "page_id": "100174253112291",
+        "page_name": "Václav Kožený, místostarosta Prahy 6",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "_id": "122723367512181"
+    }
+]

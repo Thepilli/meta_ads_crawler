@@ -1,0 +1,731 @@
+[
+    {
+        "id": "1814101332405418",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1814101332405418&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-02-02",
+        "ad_creative_bodies": [
+            "Pravda o Libeňském mostě ve dvou minutách. ‼️"
+        ],
+        "ad_delivery_start_time": "2024-02-02",
+        "bylines": "SPOLU Praha",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.955786",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.044214",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.005131",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000489",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.003909",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.33765",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.052529",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.180796",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.161495",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.201808",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.056194",
+                "age": "55-64",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "500001",
+            "upper_bound": "1000000"
+        },
+        "impressions": {
+            "lower_bound": "4000",
+            "upper_bound": "4999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "101279652413889",
+        "page_name": "SPOLU pro Prahu",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "target_locations": [
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "35",
+            "60"
+        ],
+        "eu_total_reach": 4130,
+        "beneficiary_payers": [
+            {
+                "payer": "SPOLU pro Prahu",
+                "beneficiary": "SPOLU pro Prahu",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "55-64",
+                        "male": 215,
+                        "female": 230,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 1382,
+                        "female": 740,
+                        "unknown": 21
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 826,
+                        "female": 661,
+                        "unknown": 16
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "7044492538977566",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=7044492538977566&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-25",
+        "ad_creative_bodies": [
+            "Hnutí Praha Sobě v čele s Adam Scheinherr a Jan Čižinský dlouhodobě tahá Pražany ohledně Libeňského mostu za nos ❗️\n\nJak to bylo doopravdy? Přehledně v grafice 👇"
+        ],
+        "ad_delivery_start_time": "2024-01-25",
+        "ad_delivery_stop_time": "2024-01-28",
+        "bylines": "SPOLU Praha",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.983436",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.016564",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001727",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.446364",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.143548",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.31508",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.015547",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.032303",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.007428",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.034894",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.003109",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "500001",
+            "upper_bound": "1000000"
+        },
+        "impressions": {
+            "lower_bound": "7000",
+            "upper_bound": "7999"
+        },
+        "page_id": "101279652413889",
+        "page_name": "SPOLU pro Prahu",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "500",
+            "upper_bound": "599"
+        },
+        "target_locations": [
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "30",
+            "50"
+        ],
+        "eu_total_reach": 5659,
+        "beneficiary_payers": [
+            {
+                "payer": "SPOLU pro Prahu",
+                "beneficiary": "SPOLU pro Prahu",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 1824,
+                        "female": 187,
+                        "unknown": 18
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 2584,
+                        "female": 202,
+                        "unknown": 43
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 831,
+                        "female": 90,
+                        "unknown": 10
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "341741675500310",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=341741675500310&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-25",
+        "ad_creative_bodies": [
+            "Hnutí Praha Sobě v čele s Adam Scheinherr a Jan Čižinský dlouhodobě tahá Pražany ohledně Libeňského mostu za nos ❗️\n\nJak to bylo doopravdy? Přehledně v grafice 👇"
+        ],
+        "ad_delivery_start_time": "2024-01-25",
+        "ad_delivery_stop_time": "2024-01-29",
+        "bylines": "SPOLU Praha",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.97797",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.02203",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "2.0E-5",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00741",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.242436",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.081474",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.122789",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.059803",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.14225",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.333823",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002068",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.004298",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002554",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001074",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "500001",
+            "upper_bound": "1000000"
+        },
+        "impressions": {
+            "lower_bound": "100000",
+            "upper_bound": "124999"
+        },
+        "page_id": "101279652413889",
+        "page_name": "SPOLU pro Prahu",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "2000",
+            "upper_bound": "2499"
+        },
+        "target_locations": [
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "25",
+            "55"
+        ],
+        "eu_total_reach": 100460,
+        "beneficiary_payers": [
+            {
+                "payer": "SPOLU pro Prahu",
+                "beneficiary": "SPOLU pro Prahu",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "male": 14034,
+                        "female": 5900,
+                        "unknown": 106
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 731,
+                        "female": 424,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 32934,
+                        "female": 12114,
+                        "unknown": 252
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 23918,
+                        "female": 8038,
+                        "unknown": 204
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1120842162603458",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1120842162603458&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-23",
+        "ad_creative_bodies": [
+            "Novinky ze 3. pražské Rady v roce 2024 přehledně 👇"
+        ],
+        "ad_delivery_start_time": "2024-01-23",
+        "ad_delivery_stop_time": "2024-01-26",
+        "bylines": "SPOLU Praha",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.961868",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.038132",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000448",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001663",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.004125",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.103057",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.073064",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.135384",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.099827",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.039745",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.078244",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.233836",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.229168",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001439",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "30000",
+            "upper_bound": "34999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "101279652413889",
+        "page_name": "SPOLU pro Prahu",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "800",
+            "upper_bound": "899"
+        },
+        "target_locations": [
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "50"
+        ],
+        "eu_total_reach": 32088,
+        "beneficiary_payers": [
+            {
+                "payer": "SPOLU pro Prahu",
+                "beneficiary": "SPOLU pro Prahu",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 4234,
+                        "female": 3122,
+                        "unknown": 129
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 7313,
+                        "female": 2447,
+                        "unknown": 45
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 7167,
+                        "female": 2285,
+                        "unknown": 52
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 3223,
+                        "female": 1243,
+                        "unknown": 14
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1529599247608314",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1529599247608314&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-23",
+        "ad_creative_bodies": [
+            "Pražské investice díl 1️⃣1️⃣\n\nLepší podmínky pro seniory 👵👴\n\n👉 Tou poslední z letošních nejvýznamnějších investic v Praze, kterou končíme naši sérii, je rozšíření Domova pro seniory v Dobřichovicích. \n\n👉 Praha myslí i na své nejstarší spoluobčany, a proto v roce 2024 investuje do rozšiřování péče o seniory. Máme radost, že letos budou dokončeny práce na rekonstrukci Domova pro seniory Dobřichovice. Navíc zde vzniká i nová budova s dalšími prostory, které navýší celkové kapacity areálu.\n\n👉 Po dokončení stavby otevře domov pro seniory své dveře s celkovou kapacitou 74 lůžek. V nově vybudované přístavbě bude 18 dvojlůžkových domácností s vlastním hygienickým zázemím. Zároveň v rekonstruované stávající budově vznikne 19 dvojlůžkových pokojů. \n\n👉 Realizace přinese kvalitní bydlení a zlepšení podmínek pro naše klienty. Zachová si vlastnost malého komunitního zařízení, které odpovídá standardům a trendům v 21. století.\nTěšíme se, že našim seniorům nabídneme ještě lepší podmínky. Jak říká Alexandra Udženija: \"Každé lůžko se počítá!\". 👵👴"
+        ],
+        "ad_delivery_start_time": "2024-01-23",
+        "ad_delivery_stop_time": "2024-01-29",
+        "bylines": "SPOLU Praha",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.99496",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.00504",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.002451",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.024613",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.012159",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.106982",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.189841",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.118847",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.179839",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.357423",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002157",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00255",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.003138",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "500001",
+            "upper_bound": "1000000"
+        },
+        "impressions": {
+            "lower_bound": "15000",
+            "upper_bound": "19999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "101279652413889",
+        "page_name": "SPOLU pro Prahu",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "target_locations": [
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "45"
+        ],
+        "eu_total_reach": 10285,
+        "beneficiary_payers": [
+            {
+                "payer": "SPOLU pro Prahu",
+                "beneficiary": "SPOLU pro Prahu",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 1834,
+                        "female": 1091,
+                        "unknown": 22
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 3645,
+                        "female": 1212,
+                        "unknown": 32
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 1936,
+                        "female": 251,
+                        "unknown": 25
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 124,
+                        "female": 26
+                    }
+                ]
+            }
+        ]
+    }
+]

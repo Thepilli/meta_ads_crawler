@@ -1,0 +1,530 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1023611375561658&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-11",
+        "ad_creative_link_captions": [
+            "instagram.com",
+            "instagram.com",
+            "instagram.com"
+        ],
+        "ad_delivery_start_time": "2023-12-11",
+        "ad_delivery_stop_time": "2023-12-16",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.008253",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.712059",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.093994",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.011463",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.005044",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.004585",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.011921",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.016506",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.025218",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.010546",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.01834",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.048143",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.021091",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.01238",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.000459",
+                "region": "Unknown"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001846",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.057683",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.019382",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.006922",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.005076",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.003692",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.016151",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.145824",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.238117",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.013844",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.161052",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.07245",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.209045",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.016151",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.016151",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.01569",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000923",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "2000",
+            "upper_bound": "2999"
+        },
+        "languages": [
+            "en"
+        ],
+        "page_id": "1339509966074626",
+        "page_name": "Hope Recycling Station",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 2157,
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "male": 35,
+                        "female": 35,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 125,
+                        "female": 157,
+                        "unknown": 8
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 30,
+                        "female": 35,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 11,
+                        "female": 15
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 349,
+                        "female": 516,
+                        "unknown": 34
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 316,
+                        "female": 453,
+                        "unknown": 42
+                    }
+                ]
+            }
+        ],
+        "_id": "1023611375561658"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=879777973587723&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-11",
+        "ad_creative_bodies": [
+            "Please join us for a lecture by Alexander Etkind at the symposium \"MAKE VOICES HEARD - Decolonial reflections on power and racism in Central and Eastern Europe and Central Asia,\" taking place on the 15th-16th of December, 2023, in Prague.\n.\n.\n�Alexander Etkind: Russian colonialism, Russian racism: What is special about it, and what isn’t?\n.\nSaturday Dec 16 at 10:00�.\nAcademy of Art, Architecture and Design\nTechnology Center, Mikulandská 134/5�110 00 Praha 1\n.\n.\nRussian colonialism, Russian racism: What is special about it, and what isn’t?’ In this talk, Alexander Etkind will discuss Russia’s imperial experiences and the ways they were expressed, reflected, and criticized in the Russian visual art. Developing his concept of internal colonization, Etkind will demonstrate its value for understanding contemporary events, and also its limits. Talking mostly about the imperial times but making connections to the current problems of the Russian Federation, Etkind will show the role of Russian visual art as an ambivalent tool that both affirmed the imperial drives of the Russian state, and deconstructed them.� .\nAlexander Etkind joined the Department of International Relations in 2022. He previously taught at the European University Institute at Florence (2013-2022), the University of Cambridge (2004-2013), and the European University at St Petersburg (1999-2004). Alexander defended his PhD in cultural history in Helsinki (1998), and since then supervised more 30 PhD students. His current interests are the political aspects of the Anthropocene, global decarbonization and security in Eastern Europe. In the past, he was involved in memory studies, European intellectual history, empires and decolonization, and various aspects of Russian history. A Fellow of King’s College Cambridge, Etkind was the Leader of Memory at War: Cultural Dynamics in Poland, Russia and Ukraine, a European research project (2010-13). He is the author of Eros of the Impossible. The History of Psychoanalysis in Russia (Westview Press 1996); Internal Colonization: Russia’s Imperial Experience (Polity Press 2011); and many others."
+        ],
+        "ad_creative_link_captions": [
+            "instagram.com"
+        ],
+        "ad_creative_link_titles": [
+            "instagram.com"
+        ],
+        "ad_delivery_start_time": "2023-12-11",
+        "ad_delivery_stop_time": "2023-12-11",
+        "currency": "CZK",
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "en"
+        ],
+        "page_id": "1339509966074626",
+        "page_name": "Hope Recycling Station",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 10,
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 4,
+                        "female": 1
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 2,
+                        "female": 2
+                    },
+                    {
+                        "age_range": "65+",
+                        "female": 1
+                    }
+                ]
+            }
+        ],
+        "_id": "879777973587723"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=515669002956151&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2021-05-30",
+        "ad_creative_bodies": [
+            "HRS\n\nJeremy Deller (* 1966 v Londýně; žije a pracuje v Londýně) vystudoval dějiny umění na Courtauldově institutu a na univerzitě v Sussexu. Deller získal Turnerovu cenu v roce 2004 za práci „Memory Bucket“ a v roce 2013 reprezentoval Británii na 55. bienále v Benátkách. V posledních dvou desetiletích produkuje projekty, které ovlivnily konvenční mapu současného umění. Umělecká díla začal vytvářet na počátku 90. let, často je prezentoval mimo běžné galerie.\n\nDeller rozsáhle vystavoval po celém světě s vybranými samostatnými výstavami:\n„Wir haben die Schnauze voll“, Bonner Kunstverein, Bonn (2020); Skulptur Projekte Münster (2017); „Nekonečně proměnlivý ideál populárního“, „English Magic“, Britský pavilon na 55. Benátské bienále, Benátky (2013), turné v galerii Williama Morrisa v Londýně; „Joy in People“, Hayward Gallery, Londýn (2012), „It Is What It Is: New Museum, New York (2009),„ Procession “, Cornerhouse, Manchester (2009); ; „Folk Archive“ s Alanem Kane v Palais de Tokyo, Paříž a Barbican Art Gallery, Londýn (2004) a „Unconvention“, Centrum pro vizuální umění, Cardiff (1999).\n\nDeller byl kurátorem řady projektů, včetně: „Iggy Pop Life Class“, Brooklyn Museum (2016); „Love is Enough: William Morris a Andy Warhol“, Modern Art Oxford (2014); a „All That is Solid Melts Into Air“, Manchester Art Gallery, Manchester (2014),\n\nFilmová díla zahrnují:\n2019 Šťastný Putin\n2018 Všichni na místě (neúplná historie Británie 1984-92)\n2010 Tolik způsobů, jak vám ublížit\n2006 Náš koníček je Depeche Mode\n\nJeremy Deller (b. 1966 in London; lives and works in London) studied Art History at the Courtauld Institute and at Sussex University. Deller won the Turner Prize in 2004 for his work ‘Memory Bucket’ and represented Britain in the 55th Venice Biennale in 2013. He has been producing projects over the past two decades which have influenced the conventional map of contemporary art. He began making artworks in the early 1990s, often showing them outside conventional galleries.\n\nDeller has exhibited extensively worldwide with selected solo exhibitions including: \n‘Wir haben die Schnauze voll’, Bonner Kunstverein, Bonn (2020); Skulptur Projekte Münster (2017); ‘The Infinitely Variable Ideal of the Popular’,  ‘English Magic’, British Pavilion, 55th Venice Biennale, Venice (2013), touring to William Morris Gallery, London, ; ‘Joy in People’, Hayward Gallery, London (2012),  ‘It Is What It Is:  New Museum, New York (2009),  ‘Procession’, Cornerhouse, Manchester (2009); ‘Folk Archive’ with Alan Kane Palais de Tokyo, Paris and Barbican Art Gallery, London (2004); and ‘Unconvention’, Centre for Visual Arts, Cardiff (1999).\n\nDeller has curated numerous projects including: ‘Iggy Pop Life Class’, Brooklyn Museum (2016); ‘Love is Enough: William Morris and Andy Warhol’, Modern Art Oxford (2014); and ‘All That is Solid Melts Into Air’, Manchester Art Gallery, Manchester (2014),\n\nFilmwork includes \n2019 Putins Happy\n2018 Everybody in the Place (an incomplete history of Britain 1984-92)\n2010 So Many ways to Hurt you' \n2006  Our Hobby is Depeche Mode"
+        ],
+        "ad_creative_link_captions": [
+            "HRS Lecture n.33: Jeremy Deller"
+        ],
+        "ad_creative_link_descriptions": [
+            "HRS\n\nJeremy Deller (* 1966 v Londýně; žije a pracuje v Londýně) vystudoval dějiny umění na Courtauldově institutu a na univerzitě v Sussexu. Deller získal Turnerovu cenu v roce 2004 za práci „Memory Bucket“ a v roce 2013 reprezentoval Británii na 55. bienále v Benátkách. V posledních dvou desetiletích produkuje projekty, které ovlivnily konvenční mapu současného umění. Umělecká díla začal vytvářet na počátku 90. let, často je prezentoval mimo běžné galerie.\n\nDeller rozsáhle vystavoval po celém světě s vybranými samostatnými výstavami:\n„Wir haben die Schnauze voll“, Bonner Kunstverein, Bonn (2020); Skulptur Projekte Münster (2017); „Nekonečně proměnlivý ideál populárního“, „English Magic“, Britský pavilon na 55. Benátské bienále, Benátky (2013), turné v galerii Williama Morrisa v Londýně; „Joy in People“, Hayward Gallery, Londýn (2012), „It Is What It Is: New Museum, New York (2009),„ Procession “, Cornerhouse, Manchester (2009); ; „Folk Archive“ s Alanem Kane v Palais de Tokyo, Paříž a Barbican Art Gallery, Londýn (2004) a „Unconvention“, Centrum pro vizuální umění, Cardiff (1999).\n\nDeller byl kurátorem řady projektů, včetně: „Iggy Pop Life Class“, Brooklyn Museum (2016); „Love is Enough: William Morris a Andy Warhol“, Modern Art Oxford (2014); a „All That is Solid Melts Into Air“, Manchester Art Gallery, Manchester (2014),\n\nFilmová díla zahrnují:\n2019 Šťastný Putin\n2018 Všichni na místě (neúplná historie Británie 1984-92)\n2010 Tolik způsobů, jak vám ublížit\n2006 Náš koníček je Depeche Mode\n\nJeremy Deller (b. 1966 in London; lives and works in London) studied Art History at the Courtauld Institute and at Sussex University. Deller won the Turner Prize in 2004 for his work ‘Memory Bucket’ and represented Britain in the 55th Venice Biennale in 2013. He has been producing projects over the past two decades which have influenced the conventional map of contemporary art. He began making artworks in the early 1990s, often showing them outside conventional galleries.\n\nDeller has exhibited extensively worldwide with selected solo exhibitions including: \n‘Wir haben die Schnauze voll’, Bonner Kunstverein, Bonn (2020); Skulptur Projekte Münster (2017); ‘The Infinitely Variable Ideal of the Popular’,  ‘English Magic’, British Pavilion, 55th Venice Biennale, Venice (2013), touring to William Morris Gallery, London, ; ‘Joy in People’, Hayward Gallery, London (2012),  ‘It Is What It Is:  New Museum, New York (2009),  ‘Procession’, Cornerhouse, Manchester (2009); ‘Folk Archive’ with Alan Kane Palais de Tokyo, Paris and Barbican Art Gallery, London (2004); and ‘Unconvention’, Centre for Visual Arts, Cardiff (1999).\n\nDeller has curated numerous projects including: ‘Iggy Pop Life Class’, Brooklyn Museum (2016); ‘Love is Enough: William Morris and Andy Warhol’, Modern Art Oxford (2014); and ‘All That is Solid Melts Into Air’, Manchester Art Gallery, Manchester (2014),\n\nFilmwork includes \n2019 Putins Happy\n2018 Everybody in the Place (an incomplete history of Britain 1984-92)\n2010 So Many ways to Hurt you' \n2006  Our Hobby is Depeche Mode"
+        ],
+        "ad_creative_link_titles": [
+            "HRS Lecture n.33: Jeremy Deller"
+        ],
+        "ad_delivery_start_time": "2021-05-30",
+        "ad_delivery_stop_time": "2021-05-31",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.037415",
+                "region": "England"
+            },
+            {
+                "percentage": "0.005669",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.001134",
+                "region": "Rheinland-Pfalz"
+            },
+            {
+                "percentage": "0.001134",
+                "region": "Bayern"
+            },
+            {
+                "percentage": "0.001134",
+                "region": "Wales"
+            },
+            {
+                "percentage": "0.015873",
+                "region": "Berlin"
+            },
+            {
+                "percentage": "0.003401",
+                "region": "Nordrhein-Westfalen"
+            },
+            {
+                "percentage": "0.001134",
+                "region": "Niedersachsen"
+            },
+            {
+                "percentage": "0.030612",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.007937",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.015873",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.006803",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.002268",
+                "region": "Scotland"
+            },
+            {
+                "percentage": "0.072562",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.054422",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.003401",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.005669",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.007937",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.020408",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.230159",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.465986",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.006803",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.002268",
+                "region": "Brandenburg"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.016037",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.264605",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001145",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.009164",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.019473",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001145",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.049255",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.016037",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.20504",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.017182",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.119129",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.09622",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.056128",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.046964",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.075601",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.004582",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001145",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001145",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1339509966074626",
+        "page_name": "Hope Recycling Station",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "300",
+            "upper_bound": "399"
+        },
+        "_id": "515669002956151"
+    }
+]

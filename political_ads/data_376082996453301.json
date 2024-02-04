@@ -1,0 +1,283 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=674601101553640&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-09",
+        "ad_creative_bodies": [
+            "Tento projekt všechny ohromil❗\nDíky nové vládní iniciativě mohou nyní všichni Češi dostávat stabilní platby prostřednictvím investic do obchodních společností, jako je Immediate Matrix. \nAndrej Babiš osobně podporuje transparentnost a startovací potenciál pro každého občana!\nZjistěte více informací na webových stránkách, pospěšte si s žádostí a využijte správných státních řešení. 👇📈"
+        ],
+        "ad_creative_link_captions": [
+            "zebra.prawnkz.icu"
+        ],
+        "ad_creative_link_descriptions": [
+            "Konzultace zdarma!"
+        ],
+        "ad_creative_link_titles": [
+            "Více informací najdete zde ➡"
+        ],
+        "ad_delivery_start_time": "2024-01-10",
+        "ad_delivery_stop_time": "2024-01-10",
+        "currency": "USD",
+        "delivery_by_region": [
+            {
+                "percentage": "0.00075",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.056441",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.114757",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.094506",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.061504",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.03769",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.031689",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.045565",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.064879",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.123008",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.04669",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.058879",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.114195",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.110819",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.038627",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.002403",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001294",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.236186",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.283866",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.074478",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.05766",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.167991",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.065977",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.072075",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.035114",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002033",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000924",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "5000",
+            "upper_bound": "5999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "376082996453301",
+        "page_name": "Mainte trielle",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "29",
+            "64"
+        ],
+        "eu_total_reach": 5598,
+        "beneficiary_payers": [
+            {
+                "payer": "Forio Gores",
+                "beneficiary": "Gores Forio",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 1536,
+                        "female": 403,
+                        "unknown": 13
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 1278,
+                        "female": 357,
+                        "unknown": 11
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 909,
+                        "female": 312,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 390,
+                        "female": 190,
+                        "unknown": 5
+                    }
+                ]
+            }
+        ],
+        "_id": "674601101553640"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=269508419222618&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-09",
+        "ad_creative_bodies": [
+            "𝙏𝙚𝙣𝙩𝙤 𝙥𝙧𝙤𝙟𝙚𝙠𝙩 𝙫𝙨̌𝙚𝙘𝙝𝙣𝙮 𝙤𝙝𝙧𝙤𝙢𝙞𝙡❗\n𝘿𝙞́𝙠𝙮 𝙣𝙤𝙫𝙚́ 𝙫𝙡𝙖́𝙙𝙣𝙞́ 𝙞𝙣𝙞𝙘𝙞𝙖𝙩𝙞𝙫𝙚̌ 𝙢𝙤𝙝𝙤𝙪 𝙣𝙮𝙣𝙞́ 𝙫𝙨̌𝙞𝙘𝙝𝙣𝙞 𝘾̌𝙚𝙨̌𝙞 𝙙𝙤𝙨𝙩𝙖́𝙫𝙖𝙩 𝙨𝙩𝙖𝙗𝙞𝙡𝙣𝙞́ 𝙥𝙡𝙖𝙩𝙗𝙮 𝙥𝙧𝙤𝙨𝙩𝙧̌𝙚𝙙𝙣𝙞𝙘𝙩𝙫𝙞́𝙢 𝙞𝙣𝙫𝙚𝙨𝙩𝙞𝙘 𝙙𝙤 𝙤𝙗𝙘𝙝𝙤𝙙𝙣𝙞́𝙘𝙝 𝙨𝙥𝙤𝙡𝙚𝙘̌𝙣𝙤𝙨𝙩𝙞́, 𝙟𝙖𝙠𝙤 𝙟𝙚 𝙄𝙢𝙢𝙚𝙙𝙞𝙖𝙩𝙚 𝙈𝙖𝙩𝙧𝙞𝙭. \n𝘼𝙣𝙙𝙧𝙚𝙟 𝘽𝙖𝙗𝙞𝙨̌ 𝙤𝙨𝙤𝙗𝙣𝙚̌ 𝙥𝙤𝙙𝙥𝙤𝙧𝙪𝙟𝙚 𝙩𝙧𝙖𝙣𝙨𝙥𝙖𝙧𝙚𝙣𝙩𝙣𝙤𝙨𝙩 𝙖 𝙨𝙩𝙖𝙧𝙩𝙤𝙫𝙖𝙘𝙞́ 𝙥𝙤𝙩𝙚𝙣𝙘𝙞𝙖́𝙡 𝙥𝙧𝙤 𝙠𝙖𝙯̌𝙙𝙚́𝙝𝙤 𝙤𝙗𝙘̌𝙖𝙣𝙖!\n𝙕𝙟𝙞𝙨𝙩𝙚̌𝙩𝙚 𝙫𝙞́𝙘𝙚 𝙞𝙣𝙛𝙤𝙧𝙢𝙖𝙘𝙞́ 𝙣𝙖 𝙬𝙚𝙗𝙤𝙫𝙮́𝙘𝙝 𝙨𝙩𝙧𝙖́𝙣𝙠𝙖́𝙘𝙝, 𝙥𝙤𝙨𝙥𝙚̌𝙨̌𝙩𝙚 𝙨𝙞 𝙨 𝙯̌𝙖́𝙙𝙤𝙨𝙩𝙞́ 𝙖 𝙫𝙮𝙪𝙯̌𝙞𝙟𝙩𝙚 𝙨𝙥𝙧𝙖́𝙫𝙣𝙮́𝙘𝙝 𝙨𝙩𝙖́𝙩𝙣𝙞́𝙘𝙝 𝙧̌𝙚𝙨̌𝙚𝙣𝙞́. 👇📈"
+        ],
+        "ad_creative_link_captions": [
+            "frost.barkzvn.life"
+        ],
+        "ad_creative_link_descriptions": [
+            "Konzultace zdarma!"
+        ],
+        "ad_creative_link_titles": [
+            "Více informací najdete zde ➡"
+        ],
+        "ad_delivery_start_time": "2024-01-10",
+        "ad_delivery_stop_time": "2024-01-10",
+        "currency": "EUR",
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "376082996453301",
+        "page_name": "Mainte trielle",
+        "publisher_platforms": [
+            "facebook",
+            "audience_network"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "38",
+            "65"
+        ],
+        "eu_total_reach": 1,
+        "beneficiary_payers": [
+            {
+                "payer": "DER STEIGER AWARD",
+                "beneficiary": "DER STEIGER AWARD",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "male": 1
+                    }
+                ]
+            }
+        ],
+        "_id": "269508419222618"
+    }
+]

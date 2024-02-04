@@ -1,0 +1,182 @@
+[
+    {
+        "id": "1129508575081885",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1129508575081885&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-25",
+        "ad_creative_bodies": [
+            "Pokud jde o snazší vyhazovy ministrů, pak souhlasím - pěkně zgruntu začít Stanjurou, pokračovat Jurečkou, Blažkem, Černochovou a skončit někde u no name ministrů.\n\nPokud však myslí snazší vyhazovy ostatních, pak jde o naprosto nehorázný útok na práva pracujících, který mu nesmí projít!"
+        ],
+        "ad_delivery_start_time": "2024-01-25",
+        "ad_delivery_stop_time": "2024-01-26",
+        "bylines": "Tadeáš Bača",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.055422",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.009639",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.554217",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.13494",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.245783",
+                "region": "Pardubice Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.004819",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.045783",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.137349",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.026506",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.2",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.195181",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.004819",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.216867",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.168675",
+                "age": "65+",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "152180357976361",
+        "page_name": "Tadeáš Bača",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Jindřichov, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Hanusovice, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Javorník, Olomoucký Kraj, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Jeseník, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Stity, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Sumperk, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "40",
+            "65"
+        ],
+        "eu_total_reach": 419,
+        "beneficiary_payers": [
+            {
+                "payer": "Za naši Mohelnici a přidružené obce",
+                "beneficiary": "Za naši Mohelnici a přidružené obce",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "male": 57,
+                        "female": 19,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 70,
+                        "female": 90,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 11
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 83,
+                        "female": 81
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,1480 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=377147571361983&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-31",
+        "ad_creative_bodies": [
+            "‼️ NERUŠME TRADICE ‼️\n🎇 OSLAVME NOVÝ ROK OHŇOSTROJEM 🎇\n\n💪 1.1.2024 v 17:30 💙\nNa nábřeží řeky Olše v Město Český Těšín \n\nVaše  ANO, tohle je Český Těšín"
+        ],
+        "ad_delivery_start_time": "2023-12-31",
+        "ad_delivery_stop_time": "2024-01-01",
+        "bylines": "ANO, tohle je Český Těšín",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.067831",
+                "region": "Silesian Voivodeship"
+            },
+            {
+                "percentage": "0.932169",
+                "region": "Moravian-Silesian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000972",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.082912",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001814",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000842",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00136",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.103511",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.048776",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.058298",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.103511",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000259",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.134862",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.082459",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.10798",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.077277",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.08369",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.035173",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.075657",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000648",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "20000",
+            "upper_bound": "24999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "728042047306282",
+        "page_name": "ANO, tohle je Český Těšín",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "1500",
+            "upper_bound": "1999"
+        },
+        "target_locations": [
+            {
+                "name": "Cesky Tesin, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 15774,
+        "beneficiary_payers": [
+            {
+                "payer": "ANO, tohle je Český Těšín",
+                "beneficiary": "ANO, tohle je Český Těšín",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "PL",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 39,
+                        "female": 74,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 80,
+                        "female": 154,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 38,
+                        "female": 108
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 58,
+                        "female": 121,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 60,
+                        "female": 129
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 85,
+                        "female": 134,
+                        "unknown": 2
+                    }
+                ]
+            },
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "65+",
+                        "male": 507,
+                        "female": 1173,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 840,
+                        "female": 1492,
+                        "unknown": 9
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 1196,
+                        "female": 1955,
+                        "unknown": 19
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 1136,
+                        "female": 1486,
+                        "unknown": 13
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 719,
+                        "female": 1103,
+                        "unknown": 27
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 1211,
+                        "female": 1555,
+                        "unknown": 13
+                    }
+                ]
+            }
+        ],
+        "_id": "377147571361983"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1343613393196208&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-09-14",
+        "ad_creative_bodies": [
+            "ANO Český Těšín stále bojuje za občany i z opozice 💙"
+        ],
+        "ad_creative_link_captions": [
+            "facebook.com"
+        ],
+        "ad_creative_link_titles": [
+            "ANO, tohle je Český Těšín"
+        ],
+        "ad_delivery_start_time": "2023-09-14",
+        "ad_delivery_stop_time": "2023-09-20",
+        "bylines": "ANO, tohle je Český Těšín",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.494505",
+                "region": "Silesian Voivodeship"
+            },
+            {
+                "percentage": "0.505495",
+                "region": "Moravian-Silesian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.067073",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.097561",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.109756",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.067073",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.085366",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.097561",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.079268",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.121951",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.140244",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.085366",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.018293",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.030488",
+                "age": "18-24",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "page_id": "728042047306282",
+        "page_name": "ANO, tohle je Český Těšín",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Cesky Tesin, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 164,
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "35-44",
+                        "male": 8,
+                        "female": 5
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 8,
+                        "female": 12
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 9,
+                        "female": 12
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 7,
+                        "female": 12
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 8,
+                        "female": 7
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 4
+                    }
+                ]
+            },
+            {
+                "country": "PL",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "65+",
+                        "male": 7,
+                        "female": 13
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 7,
+                        "female": 11
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 11,
+                        "female": 8
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 9,
+                        "female": 10
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 2,
+                        "female": 3
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 4,
+                        "female": 5
+                    }
+                ]
+            }
+        ],
+        "_id": "1343613393196208"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=622674166684519&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-09-12",
+        "ad_creative_bodies": [
+            "🤫Opravdu \"otevřená\" radnice…. 🚫\nDISKUZE NE 🚫\nPARTICIPATIVNÍ ROZPOČET NE 🚫\n\nDne 11.9. 2023 proběhlo jednání zastupitelstva. \n\nByli jsme svědky potlačení zastupitelské demokracie, což už nám předvedla první koalice po volbách v roce 2022. A ta současná na ni zvesela navazuje. \n\n🗣️ Jedním z bodů zastupitelstva je i diskuze. Vydáním nového jednacího řádu zajistila koalice to, že zastupitelé se do diskuze již nemohou přihlásit pouhým zvednutím ruky, ale musí zaslat dotaz elektronicky nebo se písemnou přihláškou přihlásit před jednáním zastupitelstva.\n\n‼️ Do diskuze bylo evidováno třináct dotazů. ‼️\n\nAčkoliv měla diskuze započít kolem šestnácté hodiny, laxním přístupem starosty k projednání bodu diskuze došlo až kolem půl páté. Během půl hodiny byly projednány pouze tři dotazy. Po uplynutí stanovené doby starosta města zavelel k pokračování jednání dle stanoveného programu. Naštěstí zareagoval jeden z našich opozičních zastupitelů Mirek Kudláček  a navrhl prodloužit bod diskuze o další půlhodinu. Starosta vyslovil protinávrh, aby po projednání všech zbylých bodů proběhla ona diskuze.\n\n🚫To však zastupitelstvo neschválilo. Ale co se stalo následovně? Koalice v čele se starostou Kulou a místostarosty Slováčkem a Pekařem odhlasovala nepokračování v bodu diskuze. 🤫\n\nZřejmě bylo potřeba získat časový prostor pro schválení koaličních bodů, protože pár chvil na to koalice ztratila většinu odchodem některých svých  zastupitelů. 👎\n\n🤬DEMOKRACIE v našem městě dnes v podání Nestraníků, ODS, KDU a NEZ dostala dvakrát na frak.\n\n Nejprve nebylo schváleno zařazení bodu k jednání zastupitelstva týkajícího se ‼️ participativního rozpočtu ‼️ a následně byla zatrhnuta diskuze občanů.\n\nZdá se, ze nová koalice se rozhodla občany zcela pohrdat a vše válcovat svoji chabou jednohlasou většinou 🤮\n\nTahle fraška je o to úsměvnější, že diskusi ani participativní rozpočet nepodpořili Nezávislí, kteří vždy vystupovali pro zapojení občanů. No ukázalo se, že pro teplá místečka v Radě jsou ochotni pružně rezignovat na své zásady. 🎰🎰🎰"
+        ],
+        "ad_delivery_start_time": "2023-09-12",
+        "ad_delivery_stop_time": "2023-09-15",
+        "bylines": "ANO, tohle je Český Těšín",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.454611",
+                "region": "Silesian Voivodeship"
+            },
+            {
+                "percentage": "0.545389",
+                "region": "Moravian-Silesian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000826",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000826",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.059504",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.086777",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.036364",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.064463",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.101653",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.110744",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.147107",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.120661",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.080992",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.139669",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.028926",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.017355",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002479",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001653",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "3000",
+            "upper_bound": "3999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "728042047306282",
+        "page_name": "ANO, tohle je Český Těšín",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "target_locations": [
+            {
+                "name": "Cesky Tesin, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 1173,
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "PL",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "male": 61,
+                        "female": 77,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 43,
+                        "female": 109,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 61,
+                        "female": 98
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 21,
+                        "female": 7
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 47,
+                        "female": 55,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 38,
+                        "female": 19,
+                        "unknown": 1
+                    }
+                ]
+            },
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "65+",
+                        "male": 46,
+                        "female": 97
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 82,
+                        "female": 105
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 101,
+                        "female": 95,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 73,
+                        "female": 58
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 51,
+                        "female": 31
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 22,
+                        "female": 15
+                    }
+                ]
+            }
+        ],
+        "_id": "622674166684519"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1602378596856362&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-03-12",
+        "ad_creative_bodies": [
+            "VÍTĚZ VOLEB = opozice\nSledujte stránky nejsilnější opoziční strany a hlídejte město s námi 💙"
+        ],
+        "ad_creative_link_captions": [
+            "facebook.com"
+        ],
+        "ad_creative_link_titles": [
+            "ANO, tohle je Český Těšín"
+        ],
+        "ad_delivery_start_time": "2023-03-12",
+        "ad_delivery_stop_time": "2023-03-17",
+        "bylines": "ANO, tohle je Český Těšín",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.137219",
+                "region": "Silesian Voivodeship"
+            },
+            {
+                "percentage": "0.860846",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.001934",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000385",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.079661",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001413",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000514",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001028",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001028",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.039445",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.098548",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.090454",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.01696",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.147372",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.067069",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.084415",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.100475",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.068611",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.09585",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.105615",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001156",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "728042047306282",
+        "page_name": "ANO, tohle je Český Těšín",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "1500",
+            "upper_bound": "1999"
+        },
+        "_id": "1602378596856362"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=158066160514780&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-03-09",
+        "ad_creative_bodies": [
+            "☕ FAKTA O ULICI NÁDRAŽNÍ 🫣\nStále je nechcete někteří vědět? 🤬\n \n📝 Podali jsme oficiální dotaz (interpelaci) na vedení Město Český Těšín ohledně ulice Nádražní, abychom mohli vyvrátit mystifikaci, která se mezi občany našeho města neustále šíří a má za cíl rozeštvat lidi a poškodit minulé vedení. 👍\n\n❓Kdy byl podán tento projekt dotačnímu orgánu k posouzení a kdo podepsal tuto žádost za vedení města. \nPozn.: Posouzením se zejména rozumí to, jak je projekt popsán, co tam bude. \n❗Odpověď: \n21. 9. 2018  - Ing. Vít Slováček\n\n❓Kdy bylo vyhlášeno zadávací řízení na projekční činnost této stavby? (Vítěz BENEPRO)\n❗Odpověď:\nVýběrové řízení bylo vyhlášeno dne 4.11.2016\n\n❓Bylo vyvěšeno na profilu zadavatele? Kolik se přihlásilo účastníků? (Vítěz BENEPRO)\n❗Odpověď:\nNebylo uveřejněno na profilu zadavatele a byli oslovení TŘI účastníci \n\n❓Co bylo rozhodujícím kritériem při výběru? (Vítěz BENEPRO)\n❗odpověď: nabídková cena 💸\n\n❓Kdo a kdy podepisoval smlouvu za město Český Těšín s firmou BENEPRO?\n❗Odpověď: Dne 25. 11. 2016 - Ing. Vít Slováček \n\n❓Kdy bylo vydáno stavební povolení?\n❗Odpověď:\nStavební povolení by vydáno dne 25. 11. 2019\nStavební povolení bylo doručováno účastníkům řízení veřejnou vyhláškou (bylo více jak 30 účastníků).\n\n💪 Zde chceme ukázat, kdo stál za tímto projektem, kdo řídil jeho parametry od velkoformátové dlažby, pásů zeleně, nesmyslných stojanů na kola a že nebyl navržen žádný jiný mobiliář.\n\n🤔 Jsme z nepovedené stavby na ulici Nádražní velmi nešťastní, stejně jako občané našeho města, kterým za toto dlužíme omluvu. \n\n🙏Přejeme si, aby se ulice Nádražní řádně dokončila a stala ulicí, za kterou se nebudou Těšíňané, stejně jako my, stydět. \n\n💪💪💪"
+        ],
+        "ad_delivery_start_time": "2023-03-09",
+        "ad_delivery_stop_time": "2023-03-11",
+        "bylines": "ANO, tohle je Český Těšín",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Moravian-Silesian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000449",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.108666",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000449",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.063763",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.056129",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.124383",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.108666",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.099686",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.099237",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001347",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.042658",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.088909",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.077683",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.099686",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.026044",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001347",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000898",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "5001",
+            "upper_bound": "10000"
+        },
+        "impressions": {
+            "lower_bound": "4000",
+            "upper_bound": "4999"
+        },
+        "page_id": "728042047306282",
+        "page_name": "ANO, tohle je Český Těšín",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "700",
+            "upper_bound": "799"
+        },
+        "_id": "158066160514780"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=591755532560368&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-03-09",
+        "ad_creative_bodies": [
+            "☕ FAKTA O ULICI NÁDRAŽNÍ 🫣\nStále je nechcete někteří vědět? 🤬\n \n📝 Podali jsme oficiální dotaz (interpelaci) na vedení Město Český Těšín ohledně ulice Nádražní, abychom mohli vyvrátit mystifikaci, která se mezi občany našeho města neustále šíří a má za cíl rozeštvat lidi a poškodit minulé vedení. 👍\n\n❓Kdy byl podán tento projekt dotačnímu orgánu k posouzení a kdo podepsal tuto žádost za vedení města. \nPozn.: Posouzením se zejména rozumí to, jak je projekt popsán, co tam bude. \n❗Odpověď: \n21. 9. 2018  - Ing. Vít Slováček\n\n❓Kdy bylo vyhlášeno zadávací řízení na projekční činnost této stavby? (Vítěz BENEPRO)\n❗Odpověď:\nVýběrové řízení bylo vyhlášeno dne 4.11.2016\n\n❓Bylo vyvěšeno na profilu zadavatele? Kolik se přihlásilo účastníků? (Vítěz BENEPRO)\n❗Odpověď:\nNebylo uveřejněno na profilu zadavatele a byli oslovení TŘI účastníci \n\n❓Co bylo rozhodujícím kritériem při výběru? (Vítěz BENEPRO)\n❗odpověď: nabídková cena 💸\n\n❓Kdo a kdy podepisoval smlouvu za město Český Těšín s firmou BENEPRO?\n❗Odpověď: Dne 25. 11. 2016 - Ing. Vít Slováček \n\n❓Kdy bylo vydáno stavební povolení?\n❗Odpověď:\nStavební povolení by vydáno dne 25. 11. 2019\nStavební povolení bylo doručováno účastníkům řízení veřejnou vyhláškou (bylo více jak 30 účastníků).\n\n💪 Zde chceme ukázat, kdo stál za tímto projektem, kdo řídil jeho parametry od velkoformátové dlažby, pásů zeleně, nesmyslných stojanů na kola a že nebyl navržen žádný jiný mobiliář.\n\n🤔 Jsme z nepovedené stavby na ulici Nádražní velmi nešťastní, stejně jako občané našeho města, kterým za toto dlužíme omluvu. \n\n🙏Přejeme si, aby se ulice Nádražní řádně dokončila a stala ulicí, za kterou se nebudou Těšíňané, stejně jako my, stydět. \n\n💪💪💪"
+        ],
+        "ad_delivery_start_time": "2023-03-09",
+        "ad_delivery_stop_time": "2023-03-10",
+        "bylines": "ANO, tohle je Český Těšín",
+        "currency": "CZK",
+        "estimated_audience_size": {
+            "lower_bound": "100",
+            "upper_bound": "1000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "page_id": "728042047306282",
+        "page_name": "ANO, tohle je Český Těšín",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "_id": "591755532560368"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=590954862552299&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-02-21",
+        "ad_creative_bodies": [
+            "👎POŠLETE TO DÁL ⛔\n‼️VEDENÍ MĚSTA ČESKÉHO TĚŠÍNA ZNECHUTILO ZASTUPITELSTVO - NĚKDO MANIPULUJE ZÁZNAMY \n\n🔇Zasedání zastupitelstva Město Český Těšín  konané dne 20.2.2023, skončilo velmi netradičně. \nPočtem hlasů: 11x (ano), 5x (ne), 11x (se zdrželo), nebyl schválen program jednání zastupitelstva, které bylo následně předčasně a neočekávaně UKONČENO.\n\n⛔ Zastupitelé dali najevo tímto hlasováním svou nechuť z neetického a zřejmě i protiprávního jednání, za nějž samozřejmě zodpovídá starosta a místostarostka.\n\n📝 Stalo se tak po zhruba dvouhodinovém bouřlivém jednání o zápise z minulého jednání zastupitelstva a souvisejícím videozáznamu, který obdrželi s předstihem oficiální cestou na vyžádání zástupci ANO, tohle je Český Těšín  a Nestraníci Český Těšín, a který byl, jak se ukázalo později, prokazatelně cenzurován a manipulován. \n\n🤫Na opakovaný apel a žádost opozice, byla předána oddělením IT zastupitelům originální nahrávka záznamu minulé schůze zastupitelstva a byl prokázán rozdíl mezi původní nahrávkou a záznamem poskytnutým zástupcům opozice. \n\n🔚 Starosta se snažil situaci bagatelizovat a místostarostka Kateřina Krainová Byrtusová raději z jednání odešla. \n\nNejprve však opakovaně poukazovala na jakési blíže neurčené technické problémy při kopírování záznamového disku. Tyto výmluvy však v zastupitelstvu vyvolaly značné pobouření, tím spíše, že zejména někteří Nezávislí pro Těšín jsou známí svou útočnou rétorikou a oblíbenou aktivitou poukazovat a nevybíravě kritizovat sebemenší pochybení minulého vedení města.\n\nTaktéž od křesťansky orientovaného starosty bychom spíše očekávali odsouzení takového nemorálního jednání. \n\n‼️Kdo záznam zmanipuloval, bude předmětem dalšího šetření, avšak vedoucí IT oddělení města sdělil na přímý dotaz zastupitelů, že v minulých týdnech byl software na úpravu audiovizuálních záznamů instalován na počítač paní místostarostky. \n\nZdá se, že se vedení Města Český Těšín bohužel řídí heslem „vyžeň čerta ďáblem“ a podezření z věkové diskriminace vyslovené na minulém zastupitelstvu se snažilo „léčit“ pozměňováním úředních záznamů.\n\n👎👎👎"
+        ],
+        "ad_delivery_start_time": "2023-02-21",
+        "ad_delivery_stop_time": "2023-02-23",
+        "bylines": "ANO, tohle je Český Těšín",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Moravian-Silesian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.00091",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.072187",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000607",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00091",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.037003",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.061874",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.087049",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.084016",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.109493",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.003336",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.11101",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.092812",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.127389",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.105551",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.043069",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.061874",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00091",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "5000",
+            "upper_bound": "5999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "728042047306282",
+        "page_name": "ANO, tohle je Český Těšín",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "500",
+            "upper_bound": "599"
+        },
+        "_id": "590954862552299"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=2732895773462063&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2020-02-06",
+        "ad_creative_bodies": [
+            "PRVNÍ ROK NA RADNICI, DĚKUJEME!\nV říjnu jsme zhodnotili naše roční působení na radnici."
+        ],
+        "ad_creative_link_captions": [
+            "www.facebook.com"
+        ],
+        "ad_creative_link_descriptions": [
+            "Stránka místní organizace Hnutí ANO 2011 Český Těšín\nCelostátní stránka zde: www.facebook.com/anobudelip"
+        ],
+        "ad_creative_link_titles": [
+            "ANO, tohle je Český Těšín"
+        ],
+        "ad_delivery_start_time": "2020-02-07",
+        "ad_delivery_stop_time": "2020-02-11",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Moravian-Silesian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000386",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.137459",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001735",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001542",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.046848",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.064392",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.101986",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.028533",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.073838",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000193",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.041257",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.140929",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.067862",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.111625",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.103528",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.077309",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000193",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000386",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "15000",
+            "upper_bound": "19999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "728042047306282",
+        "page_name": "ANO, tohle je Český Těšín",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "1500",
+            "upper_bound": "1999"
+        },
+        "_id": "2732895773462063"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=485716602285484&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2019-10-16",
+        "ad_creative_bodies": [
+            "Podílejte se s námi na fungování města a NEVÁHEJTE NÁS KONTAKTOVAT. \nJsme tu pro Vás."
+        ],
+        "ad_creative_link_captions": [
+            "www.facebook.com"
+        ],
+        "ad_creative_link_descriptions": [
+            "Stránka místní organizace Hnutí ANO 2011 Český Těšín\nCelostátní stránka zde: www.facebook.com/anobudelip"
+        ],
+        "ad_creative_link_titles": [
+            "ANO, tohle je Český Těšín"
+        ],
+        "ad_delivery_start_time": "2019-10-17",
+        "ad_delivery_stop_time": "2019-10-24",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Moravian-Silesian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.066205",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.035134",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000239",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000478",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001195",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000239",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000478",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.016252",
+                "age": "13-17",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.016013",
+                "age": "13-17",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.02414",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.097275",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.078872",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.118786",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.060946",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.07457",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.036807",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.09369",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.143403",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.135038",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000239",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "15000",
+            "upper_bound": "19999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "728042047306282",
+        "page_name": "ANO, tohle je Český Těšín",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "1500",
+            "upper_bound": "1999"
+        },
+        "_id": "485716602285484"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=407303486833317&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2019-09-19",
+        "ad_creative_bodies": [
+            "Aktuality z našeho města\nStránka místní organizace Hnutí ANO 2011 Český Těšín"
+        ],
+        "ad_creative_link_captions": [
+            "www.facebook.com"
+        ],
+        "ad_creative_link_descriptions": [
+            "Stránka místní organizace Hnutí ANO 2011 Český Těšín\nCelostátní stránka zde: www.facebook.com/anobudelip"
+        ],
+        "ad_creative_link_titles": [
+            "ANO, tohle je Český Těšín"
+        ],
+        "ad_delivery_start_time": "2019-09-19",
+        "ad_delivery_stop_time": "2019-10-02",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Moravian-Silesian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.00018",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.061646",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000719",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.014198",
+                "age": "13-17",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.023904",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.060388",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.123113",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.035406",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.015996",
+                "age": "13-17",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000359",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.095794",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.080518",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.132638",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.087707",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.134975",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.093458",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.037743",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001258",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "35000",
+            "upper_bound": "39999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "728042047306282",
+        "page_name": "ANO, tohle je Český Těšín",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "3000",
+            "upper_bound": "3499"
+        },
+        "_id": "407303486833317"
+    }
+]

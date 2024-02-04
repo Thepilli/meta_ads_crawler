@@ -1,0 +1,2889 @@
+[
+    {
+        "id": "830867172179751",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=830867172179751&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-29",
+        "ad_creative_bodies": [
+            "Kdo chce, ať dojde na úřad odevzdat hlasovací lístek, kdo chce ať volí elektronicky skrz aplikaci! To říká k tématu voleb a digitalizace státní správy úspěšný podnikatel Pavel Sehnal. \n\nMěli bychom jako občané tlačit místo tématu korespondenční volby ty elektronické? A jak jste spokojení se stavem digitalizace v Česku? \n\nNapište nám do komentářů a děkujeme, že nás sledujete!"
+        ],
+        "ad_delivery_start_time": "2024-01-29",
+        "ad_delivery_stop_time": "2024-01-31",
+        "bylines": "Aliance pro budoucnost",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.055709",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.085394",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.11211",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.054774",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.04721",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.036597",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.042615",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.063842",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.144315",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.050057",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.056197",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.098162",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.097633",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.055384",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "4.1E-5",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001013",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000527",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00077",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.016691",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.153298",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.149733",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.051045",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.262478",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.004011",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.151515",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.048088",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.153905",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.006563",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000324",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "35000",
+            "upper_bound": "39999"
+        },
+        "page_id": "1956144064659620",
+        "page_name": "BlueTV",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "3000",
+            "upper_bound": "3499"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "20",
+            "60"
+        ],
+        "eu_total_reach": 24438,
+        "beneficiary_payers": [
+            {
+                "payer": "Aliance pro budoucnost",
+                "beneficiary": "Aliance pro budoucnost",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 162,
+                        "female": 99,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 1187,
+                        "female": 412,
+                        "unknown": 8
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 3799,
+                        "female": 1260,
+                        "unknown": 13
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 6479,
+                        "female": 3740,
+                        "unknown": 25
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 3784,
+                        "female": 3696,
+                        "unknown": 19
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "7272957026100036",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=7272957026100036&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-25",
+        "ad_creative_bodies": [
+            "Nezačínejte se soudit po padesátce, nedožijete se výsledku! Soudy v Česku jsou drahé a pomalé. To říká náš pravidelný host, úspěšný podnikatel Pavel Sehnal. \n\nMá smysl se soudit se státem nebo veřejnými institucemi? A je potřeba reforma justice? \n\nJakou zkušenost se soudy máte vy? Napište nám do komentářů! \n\nDěkujeme, že nás sledujete a přejeme příjemný týden!"
+        ],
+        "ad_delivery_start_time": "2024-01-25",
+        "ad_delivery_stop_time": "2024-01-31",
+        "bylines": "Aliance pro budoucnost",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.05346",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.083636",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.106408",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.054857",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.043588",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.040654",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.046847",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.066406",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.145525",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.046382",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.05332",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.092391",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.117165",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.049083",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.000279",
+                "region": "Unknown"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000284",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.012808",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00449",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.048868",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.241221",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.197977",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.179262",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.131386",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.0095",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000425",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.126046",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.037856",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000898",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.004726",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001276",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002316",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000662",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "500001",
+            "upper_bound": "1000000"
+        },
+        "impressions": {
+            "lower_bound": "30000",
+            "upper_bound": "34999"
+        },
+        "page_id": "1956144064659620",
+        "page_name": "BlueTV",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 21667,
+        "beneficiary_payers": [
+            {
+                "payer": "BlueTV",
+                "beneficiary": "BlueTV",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 95,
+                        "female": 49,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 2667,
+                        "female": 801,
+                        "unknown": 19
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 4189,
+                        "female": 5104,
+                        "unknown": 27
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 3793,
+                        "female": 2780,
+                        "unknown": 14
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 1034,
+                        "female": 201,
+                        "unknown": 9
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 271,
+                        "female": 100
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1586153101928029",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1586153101928029&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-25",
+        "ad_creative_bodies": [
+            "Nezačínejte se soudit po padesátce, nedožijete se výsledku! Soudy v Česku jsou drahé a pomalé. To říká náš pravidelný host, úspěšný podnikatel Pavel Sehnal. \n\nMá smysl se soudit se státem nebo veřejnými institucemi? A je potřeba reforma justice? \n\nJakou zkušenost se soudy máte vy? Napište nám do komentářů! \n\nDěkujeme, že nás sledujete a přejeme příjemný týden!"
+        ],
+        "ad_delivery_start_time": "2024-01-25",
+        "ad_delivery_stop_time": "2024-01-31",
+        "bylines": "Aliance pro budoucnost",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000348",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.051174",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.082749",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.105353",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.053438",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.044336",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.041636",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.048561",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.064762",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.145508",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.043813",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.053351",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.095815",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.116197",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.052959",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001058",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.171934",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.005069",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.066993",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.005642",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.044912",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.018687",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.131694",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.132752",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000264",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.175327",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.225396",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.004451",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.012914",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000926",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001058",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000617",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000309",
+                "age": "18-24",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "30000",
+            "upper_bound": "34999"
+        },
+        "page_id": "1956144064659620",
+        "page_name": "BlueTV",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 22645,
+        "beneficiary_payers": [
+            {
+                "payer": "BlueTV",
+                "beneficiary": "BlueTV",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 115,
+                        "female": 101,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 2988,
+                        "female": 1019,
+                        "unknown": 21
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 3901,
+                        "female": 5114,
+                        "unknown": 24
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 3978,
+                        "female": 3012,
+                        "unknown": 24
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 1520,
+                        "female": 293,
+                        "unknown": 14
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 424,
+                        "female": 128,
+                        "unknown": 6
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1322754555104878",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1322754555104878&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-24",
+        "ad_creative_bodies": [
+            "🇺🇸 **Situace ve Spojených státech po pandemii – Skutečnost za Hollywoodskou Kulisou** 🇺🇸\n\nPolitik a podnikatel Pavel Sehnal sdílí pohled na USA po pandemii. Skutečnost není jen hollywoodským snem. Země čelí výzvám s odhodláním. Pavel Sehnal v @Bluetv.cz interview upřímně popisuje, jak USA zažívá po pandemii reálné zkoušky. Není to jen o slávě, je to o odolnosti a soudržnosti. Cesta k normálu nebyla snadná, ale USA se nevzdává. Země hledá nové cesty a pracuje tvrdě na budoucnosti, která je mnohem více než jen filmové kulisy. Už nejde jen o Hollywood, ale o společné úsilí. Sledujte Sehnalovo zjištění na @Bluetv.cz a objevte novou realitu USA.\n\nDěkujeme vám za vaši podporu! Vaše přízeň nám dodává sílu pokračovat.\n\n🔗 Celé interview naleznete v BIO popisku.\n\n#USApoPandemii #Skutečnost #PavelSehnal #Bluetv #NováRealita #BudoucnostUSA"
+        ],
+        "ad_creative_link_captions": [
+            "instagram.com"
+        ],
+        "ad_delivery_start_time": "2024-01-24",
+        "bylines": "Aliance pro budoucnost",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.023624",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.046615",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.248682",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.100823",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.048724",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.029741",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.024678",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.035857",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.048724",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.086058",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.041974",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.053153",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.103776",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.067496",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.040076",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000858",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.51994",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000214",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.003216",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002787",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.008148",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.173671",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.068611",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.156089",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.003431",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.017581",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.009005",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.008791",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.023799",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000643",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002573",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000429",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000214",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1956144064659620",
+        "page_name": "BlueTV",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "800",
+            "upper_bound": "899"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 4577,
+        "beneficiary_payers": [
+            {
+                "payer": "BlueTV",
+                "beneficiary": "BlueTV",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "male": 12,
+                        "female": 42,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 320,
+                        "female": 728,
+                        "unknown": 15
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 16,
+                        "female": 38,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 41,
+                        "female": 111,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 810,
+                        "female": 2425,
+                        "unknown": 82
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 4,
+                        "female": 13,
+                        "unknown": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "301339232495024",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=301339232495024&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-24",
+        "ad_creative_bodies": [
+            "Páni úředníci, ukončete tohle vykrádání peněženek občanů, hledejte jiný způsob, jak ufinancovat vaše úřady! To říká Pavel Sehnal k chystanému zavádění mýtného v Praze.\n\nCo říkáte vy, měl by se vjezd na Prahu 1 zpoplatnit? A byli byste také pro větší svobodu občanů bez zásahu státu?\n\nhttps://www.bluetv.cz/"
+        ],
+        "ad_creative_link_captions": [
+            "instagram.com"
+        ],
+        "ad_delivery_start_time": "2024-01-24",
+        "bylines": "Aliance pro budoucnost",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.030055",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.038251",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.226776",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.094262",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.065574",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.035519",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.035519",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.028689",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.043716",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.09153",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.047814",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.047814",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.099727",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.07377",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.040984",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.005533",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002766",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.004149",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.008299",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002766",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001383",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.004149",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.164592",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.499308",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.016598",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.027663",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.020747",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.185339",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.056708",
+                "age": "25-34",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1956144064659620",
+        "page_name": "BlueTV",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 721,
+        "beneficiary_payers": [
+            {
+                "payer": "BlueTV",
+                "beneficiary": "BlueTV",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "male": 2,
+                        "female": 6
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 4,
+                        "female": 20,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 41,
+                        "female": 134,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "55-64",
+                        "female": 3
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 2,
+                        "female": 12
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 119,
+                        "female": 361,
+                        "unknown": 15
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1513370839451869",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1513370839451869&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-24",
+        "ad_creative_bodies": [
+            "Vládo, dost! Hledej úspory ve svých agendách. To vzkazuje vládě podnikatel a politik Pavel Sehnal, který k nám dorazil na pravidelné interview.\nCo si myslíte o současné výši minimální mzdy, je dostatečná pro důstojný život?\nDěkujeme, že nás sledujete!\nhttps://www.bluetv.cz/"
+        ],
+        "ad_creative_link_captions": [
+            "instagram.com"
+        ],
+        "ad_delivery_start_time": "2024-01-24",
+        "bylines": "Aliance pro budoucnost",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.016787",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.045152",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.265268",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.103184",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.050362",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.029957",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.024602",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.032706",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.043271",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.085239",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.038784",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.055572",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.106802",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.062952",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.039363",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000601",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001652",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.010362",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.064274",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.519898",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.206938",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.148371",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.021925",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.006758",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.005406",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.007659",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002102",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002253",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001051",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000451",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.0003",
+                "age": "55-64",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "25000",
+            "upper_bound": "29999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1956144064659620",
+        "page_name": "BlueTV",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "2000",
+            "upper_bound": "2499"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 6846,
+        "beneficiary_payers": [
+            {
+                "payer": "BlueTV",
+                "beneficiary": "BlueTV",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "55-64",
+                        "male": 2,
+                        "female": 14
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 11,
+                        "female": 51,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 988,
+                        "female": 3462,
+                        "unknown": 69
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 428,
+                        "female": 1378,
+                        "unknown": 15
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 45,
+                        "female": 146,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 7,
+                        "female": 36
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "417791534006144",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=417791534006144&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-22",
+        "ad_creative_bodies": [
+            "Nezačínejte se soudit po padesátce, nedožijete se výsledku! Soudy v Česku jsou drahé a pomalé. To říká náš pravidelný host, úspěšný podnikatel Pavel Sehnal. \n\nMá smysl se soudit se státem nebo veřejnými institucemi? A je potřeba reforma justice? \n\nJakou zkušenost se soudy máte vy? Napište nám do komentářů! \n\nDěkujeme, že nás sledujete a přejeme příjemný týden!"
+        ],
+        "ad_delivery_start_time": "2024-01-22",
+        "ad_delivery_stop_time": "2024-01-24",
+        "bylines": "Aliance pro budoucnost",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.053786",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.09347",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.103747",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.054612",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.04576",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.034395",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.050373",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.061025",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.140655",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.051311",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.053486",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.100784",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.101384",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.055212",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000375",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00015",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "3.8E-5",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000901",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.006568",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.018352",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.135593",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.251858",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.149891",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.146814",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.168806",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.055656",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.060459",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000713",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.003828",
+                "age": "18-24",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "40000",
+            "upper_bound": "44999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1956144064659620",
+        "page_name": "BlueTV",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "3000",
+            "upper_bound": "3499"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "20",
+            "60"
+        ],
+        "eu_total_reach": 27015,
+        "beneficiary_payers": [
+            {
+                "payer": "Aliance pro budoucnost",
+                "beneficiary": "Aliance pro budoucnost",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 175,
+                        "female": 102,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 1611,
+                        "female": 489,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 4498,
+                        "female": 1483,
+                        "unknown": 10
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 6711,
+                        "female": 3994,
+                        "unknown": 24
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 3613,
+                        "female": 3912,
+                        "unknown": 19
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "409456358187069",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=409456358187069&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-20",
+        "ad_creative_bodies": [
+            "Máte peníze? Kupte pozemky - brzy nebudou! To říká úspěšný podnikatel Pavel Sehnal, který se u nás v pravidelném interview rozpovídal mimo jiné i o investicích. „Základ je jít v investování proti proudu,\" dodává.\n\nMimo jiné se Sehnal rozpovídal o neporazitelnosti amerického hospodářství nebo o tom, co znamená být chudý. \n\nDo čeho investujete vy? Preferujete spíše akcie, fondy nebo nemovitosti? Nebo něco jiného? \n\nDěkujeme, že nás sledujete a přejeme příjemný týden!"
+        ],
+        "ad_delivery_start_time": "2024-01-20",
+        "ad_delivery_stop_time": "2024-01-24",
+        "bylines": "Aliance pro budoucnost",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.051647",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.112548",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.112743",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.060267",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.045365",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.032971",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.042443",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.063287",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.13271",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.047873",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.054837",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.099082",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.087077",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.057151",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000347",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.003152",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000869",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.120498",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.156437",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.128019",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.252811",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.063017",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.182001",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.018937",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "5.0E-5",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.065623",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.006329",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001241",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00067",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "60000",
+            "upper_bound": "69999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1956144064659620",
+        "page_name": "BlueTV",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "3000",
+            "upper_bound": "3499"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "20",
+            "60"
+        ],
+        "eu_total_reach": 40202,
+        "beneficiary_payers": [
+            {
+                "payer": "Aliance pro budoucnost",
+                "beneficiary": "Aliance pro budoucnost",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 255,
+                        "female": 127,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 2539,
+                        "female": 763,
+                        "unknown": 14
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 7333,
+                        "female": 2644,
+                        "unknown": 35
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 10186,
+                        "female": 6303,
+                        "unknown": 50
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 4855,
+                        "female": 5158,
+                        "unknown": 27
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "703106798456110",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=703106798456110&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-11",
+        "ad_creative_bodies": [
+            "Byl jsem v šoku z toho, co jsem viděl, USA je v pr...Takto nekompromisně se vyjadřuje politik a podnikatel Pavel Sehnal o situaci ve Spojených státech, které nedávno navštívil. \nJaká je situace USA po covidu? A je stále rájem, který známe z hollywoodských filmů? \nTo vše se dozvíte v pravidelném interview! \nDěkujeme za vaši přízeň!\n\nhttps://www.bluetv.cz/"
+        ],
+        "ad_creative_link_captions": [
+            "www.bluetv.cz"
+        ],
+        "ad_creative_link_descriptions": [
+            "BlueTV"
+        ],
+        "ad_creative_link_titles": [
+            "Amerika je v pr***"
+        ],
+        "ad_delivery_start_time": "2023-12-11",
+        "bylines": "Aliance pro budoucnost",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000173",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.051721",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.098933",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.110986",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.051244",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.044438",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.033643",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.041967",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.074135",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.147793",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.048079",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.052241",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.092127",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.089569",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.06295",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001053",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.051542",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002456",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000439",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001623",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.037329",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.14923",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.097951",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.118349",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000307",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.173839",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.202483",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.006448",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.135807",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.005966",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.012853",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001272",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001053",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "45000",
+            "upper_bound": "49999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1956144064659620",
+        "page_name": "BlueTV",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "1500",
+            "upper_bound": "1999"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 22490,
+        "beneficiary_payers": [
+            {
+                "payer": "Aliance pro budoucnost",
+                "beneficiary": "Aliance pro budoucnost",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 851,
+                        "female": 136,
+                        "unknown": 10
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 4616,
+                        "female": 1175,
+                        "unknown": 37
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 147,
+                        "female": 56,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 3096,
+                        "female": 3402,
+                        "unknown": 29
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 3963,
+                        "female": 2233,
+                        "unknown": 24
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 2698,
+                        "female": 293,
+                        "unknown": 24
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "6378788482221223",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=6378788482221223&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-11",
+        "ad_creative_bodies": [
+            "Byl jsem v šoku z toho, co jsem viděl, USA je v pr...Takto nekompromisně se vyjadřuje politik a podnikatel Pavel Sehnal o situaci ve Spojených státech, které nedávno navštívil. \nJaká je situace USA po covidu? A je stále rájem, který známe z hollywoodských filmů? \nTo vše se dozvíte v pravidelném interview! \nDěkujeme za vaši přízeň!\n\nhttps://www.bluetv.cz/"
+        ],
+        "ad_delivery_start_time": "2023-12-11",
+        "bylines": "Aliance pro budoucnost",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.045298",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.049015",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.05189",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.100694",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.107917",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.037725",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.041161",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.064582",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.142767",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.097749",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.053432",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.000351",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.05189",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.053993",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.101536",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000492",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.229936",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001969",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001196",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.031371",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.155166",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.026729",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.13097",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.131322",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000844",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.119223",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.073011",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.012872",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.070901",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000774",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.007526",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000492",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.005205",
+                "age": "18-24",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "25000",
+            "upper_bound": "29999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1956144064659620",
+        "page_name": "BlueTV",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "2000",
+            "upper_bound": "2499"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 14036,
+        "beneficiary_payers": [
+            {
+                "payer": "BlueTV",
+                "beneficiary": "BlueTV",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 107,
+                        "female": 74,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 1695,
+                        "female": 1008,
+                        "unknown": 12
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 2206,
+                        "female": 3269,
+                        "unknown": 28
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 1862,
+                        "female": 1867,
+                        "unknown": 17
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 1038,
+                        "female": 380,
+                        "unknown": 11
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 446,
+                        "female": 183,
+                        "unknown": 7
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "998285241266692",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=998285241266692&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-01",
+        "ad_creative_bodies": [
+            "Souhlasíte s tímto výrokem od Ing. Pavla Sehnala (APB)?\n„Už bychom, my občané měli říct, a vládo dost! Teď už sis nabrala z našich peněženek dost, a hledej ty úspory někde jinde. Hledej je na svých ministerstev, hledej je ve svých agendách!“\nhttps://www.bluetv.cz/"
+        ],
+        "ad_delivery_start_time": "2023-12-01",
+        "bylines": "Aliance pro budoucnost",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.052384",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.084687",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.102572",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.055186",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.038919",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.039757",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.051084",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.069171",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.141115",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.046316",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.052037",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.100433",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.115631",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.050332",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.000376",
+                "region": "Unknown"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "5.8E-5",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.170387",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00159",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.025126",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.152576",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.074973",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.30894",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.079975",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.114295",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000231",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.037038",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.014399",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00081",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00347",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.010871",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000925",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.004019",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000318",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "70000",
+            "upper_bound": "79999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1956144064659620",
+        "page_name": "BlueTV",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "9000",
+            "upper_bound": "9999"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 36353,
+        "beneficiary_payers": [
+            {
+                "payer": "BlueTV",
+                "beneficiary": "BlueTV",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "35-44",
+                        "male": 1281,
+                        "female": 869,
+                        "unknown": 11
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 2766,
+                        "female": 2593,
+                        "unknown": 32
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 5893,
+                        "female": 10685,
+                        "unknown": 55
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 3953,
+                        "female": 5277,
+                        "unknown": 28
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 498,
+                        "female": 376,
+                        "unknown": 8
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 139,
+                        "female": 120,
+                        "unknown": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1126019135228767",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1126019135228767&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-29",
+        "ad_creative_bodies": [
+            "Souhlasíte s tímto výrokem od Ing. Pavla Sehnala (APB)?\n„Už bychom, my občané měli říct, a vládo dost! Teď už sis nabrala z našich peněženek dost, a hledej ty úspory někde jinde. Hledej je na svých ministerstev, hledej je ve svých agendách!“\nhttps://www.bluetv.cz/"
+        ],
+        "ad_creative_link_captions": [
+            "www.bluetv.cz"
+        ],
+        "ad_creative_link_descriptions": [
+            "Souhlasíte s tímto výrokem?"
+        ],
+        "ad_creative_link_titles": [
+            "A vládo dost!"
+        ],
+        "ad_delivery_start_time": "2023-11-29",
+        "bylines": "Aliance pro budoucnost",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000303",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.061308",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.146382",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.047684",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.102785",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.050106",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.118226",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.055101",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.047381",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.040115",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.041932",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.072056",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.092492",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.080533",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.043597",
+                "region": "Pardubice Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000153",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.040361",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.044947",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.193396",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.142945",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.112521",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.305764",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.124446",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.010549",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000306",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.003058",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.007033",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002599",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001682",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001835",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000306",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00107",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.007033",
+                "age": "25-34",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1956144064659620",
+        "page_name": "BlueTV",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "900",
+            "upper_bound": "999"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 6627,
+        "beneficiary_payers": [
+            {
+                "payer": "Aliance pro budoucnost",
+                "beneficiary": "Aliance pro budoucnost",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 69,
+                        "female": 46,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 294,
+                        "female": 46,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 1265,
+                        "female": 2000,
+                        "unknown": 11
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 935,
+                        "female": 814,
+                        "unknown": 12
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 736,
+                        "female": 264,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 20,
+                        "female": 17,
+                        "unknown": 2
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,1586 @@
+[
+    {
+        "id": "374831311947998",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=374831311947998&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-02-01",
+        "ad_creative_bodies": [
+            "Tchaj-wan své zázemí v Praze bude využívat pro spanilé jízdy zejména do Evropského parlamentu, kde se přes české piráty a pravicové liberály ještě dá leccos zařídit, píše ve svém komentáři k nedávným volbám politolog Rudolf Fürst."
+        ],
+        "ad_creative_link_captions": [
+            "asiaskop.cz"
+        ],
+        "ad_creative_link_descriptions": [
+            "Prezidentské volby na Tchaj-wanu skončily vítězstvím kandidáta Demokratické pokrokové strany (DPP) Williama Laie. Souběžné parlamentní volby však prokázaly trvale silnou pozici národně konzervativní strany Kuomintang (KMT), která tentokrát získala v Legislativním dvoře těsnou ..."
+        ],
+        "ad_creative_link_titles": [
+            "Volby na Tchaj-wanu skončily, co to znamená pro Čechy?"
+        ],
+        "ad_delivery_start_time": "2024-02-01",
+        "bylines": "Sinoskop – Institut pro současnou Čínu, z.s.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.048531",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.113665",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.108557",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.051511",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.035334",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.037888",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.046828",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.063431",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.136654",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.045977",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.056194",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.094934",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.102597",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.057897",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000425",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.004673",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.008496",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.075191",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.370433",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.182668",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.024639",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.233645",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.072642",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.014019",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.006797",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.004248",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002124",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "2000",
+            "upper_bound": "2999"
+        },
+        "page_id": "415013742606508",
+        "page_name": "Asiaskop",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "25",
+            "65"
+        ],
+        "eu_total_reach": 2274,
+        "beneficiary_payers": [
+            {
+                "payer": "Asiaskop",
+                "beneficiary": "Asiaskop",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "male": 177,
+                        "female": 33,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 20,
+                        "female": 11
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 58,
+                        "female": 16
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 430,
+                        "female": 171,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 872,
+                        "female": 550,
+                        "unknown": 10
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "287857563945689",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=287857563945689&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-24",
+        "ad_creative_bodies": [
+            "Raketová přestřelka mezi Íránem a Pákistánem vyvolala obavy ze vzniku dalšího konfliktu. Střely ale dopadaly na území Balúčistánu, prastarého centra lidské civilizace, které si státy rozdělily po pádu britského impéria. Podívali jsme se na toto území zblízka 👇"
+        ],
+        "ad_creative_link_captions": [
+            "asiaskop.cz"
+        ],
+        "ad_creative_link_descriptions": [
+            "Írán minulý týden prohlásil, že „nepřátelům nedovolí poškodit jeho vztahy s Pákistánem"
+        ],
+        "ad_creative_link_titles": [
+            "Nešťastný Balúčistán ve stínu pakistánsko-íránského konfliktu"
+        ],
+        "ad_delivery_start_time": "2024-01-24",
+        "bylines": "Sinoskop – Institut pro současnou Čínu, z.s.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.046395",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.220063",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.125392",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.04326",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.030094",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.021317",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.034169",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.063009",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.111599",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.042633",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.061442",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.085266",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.074295",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.041066",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000315",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000315",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002203",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.013531",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.003147",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.216803",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.149465",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.060415",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.004405",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.063562",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.210824",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.228446",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.010384",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.033984",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002203",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "4000",
+            "upper_bound": "4999"
+        },
+        "page_id": "415013742606508",
+        "page_name": "Asiaskop",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "25",
+            "65"
+        ],
+        "eu_total_reach": 3116,
+        "beneficiary_payers": [
+            {
+                "payer": "Asiaskop",
+                "beneficiary": "Asiaskop",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "35-44",
+                        "male": 475,
+                        "female": 33,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 202,
+                        "female": 14,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 689,
+                        "female": 108,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 726,
+                        "female": 43,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 670,
+                        "female": 192,
+                        "unknown": 10
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "2320618681458575",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=2320618681458575&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-23",
+        "ad_creative_bodies": [
+            "Raketová přestřelka mezi Íránem a Pákistánem vyvolala obavy ze vzniku dalšího konfliktu. Střely ale dopadaly na území Balúčtistánu, prastarého centra lidské civilizace, které si státy rozdělily po pádu britského impéria. Podívali jsme se na toto území zblízka 👇"
+        ],
+        "ad_creative_link_captions": [
+            "asiaskop.cz"
+        ],
+        "ad_creative_link_descriptions": [
+            "Írán minulý týden prohlásil, že „nepřátelům nedovolí poškodit jeho vztahy s Pákistánem"
+        ],
+        "ad_creative_link_titles": [
+            "Nešťastný Balúčistán ve stínu pakistánsko-íránského konfliktu"
+        ],
+        "ad_delivery_start_time": "2024-01-23",
+        "ad_delivery_stop_time": "2024-01-24",
+        "bylines": "Sinoskop – Institut pro současnou Čínu, z.s.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.04065",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.203252",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.115176",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.042005",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.03252",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.025745",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.03794",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.063686",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.138211",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.044715",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.054201",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.082656",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.082656",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.036585",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001357",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.008141",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.033921",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.097693",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.169607",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.301221",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.233379",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.084125",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.043419",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.004071",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.018996",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001357",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002714",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "page_id": "415013742606508",
+        "page_name": "Asiaskop",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "25",
+            "65"
+        ],
+        "eu_total_reach": 738,
+        "beneficiary_payers": [
+            {
+                "payer": "Asiaskop",
+                "beneficiary": "Asiaskop",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 25,
+                        "female": 1,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 62,
+                        "female": 6
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 125,
+                        "female": 14
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 172,
+                        "female": 32,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 222,
+                        "female": 72,
+                        "unknown": 3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "3586963608287774",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=3586963608287774&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-16",
+        "ad_creative_bodies": [
+            "Čínský premiér se mimo jiné snažil přesvědčit investory, že ekonomika jeho země je v dobré kondici. Co všechno obsahoval jeho klíčový projev na World Economic Forum?"
+        ],
+        "ad_creative_link_captions": [
+            "asiaskop.cz"
+        ],
+        "ad_creative_link_descriptions": [
+            "Čínský premiér Li Qiang ve svém projevu na Světovém ekonomickém fóru v Davosu řekl, že čínská ekonomika je otevřená podnikání a stále s velkým potenciálem pro zahraniční investice, protože čínská střední třída podle prognóz rychle poroste. Výročního setkání se m...."
+        ],
+        "ad_creative_link_titles": [
+            "Globální dodavatelské řetězce je potřeba udržet v provozu, řekl v Davosu čínský premiér"
+        ],
+        "ad_delivery_start_time": "2024-01-16",
+        "ad_delivery_stop_time": "2024-02-01",
+        "bylines": "Sinoskop – Institut pro současnou Čínu, z.s.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000211",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.049794",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.130035",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.101491",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.047362",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.040702",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.037213",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.043028",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.067978",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.143144",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.042711",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.050745",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.097262",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.095993",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.052331",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000848",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000954",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000636",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.007953",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.006045",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000212",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.205408",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.101273",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.12333",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.216013",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.194274",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.038494",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.026087",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.077413",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00106",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "20000",
+            "upper_bound": "24999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "415013742606508",
+        "page_name": "Asiaskop",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "25",
+            "65"
+        ],
+        "eu_total_reach": 9229,
+        "beneficiary_payers": [
+            {
+                "payer": "Asiaskop",
+                "beneficiary": "Asiaskop",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 363,
+                        "female": 57,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 2037,
+                        "female": 730,
+                        "unknown": 9
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 955,
+                        "female": 75,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 1937,
+                        "female": 246,
+                        "unknown": 8
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 1832,
+                        "female": 1163,
+                        "unknown": 10
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1702651817148043",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1702651817148043&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-15",
+        "ad_creative_bodies": [
+            "Tchaj-wanci si zvolili nový parlament i nového prezidenta. Jak a kam se posouvá identita obyvatel ostrova? Píšeme v nové analýze voleb 👇"
+        ],
+        "ad_creative_link_captions": [
+            "asiaskop.cz"
+        ],
+        "ad_creative_link_descriptions": [
+            "Do české domácí politiky se v posledních letech překvapivě vklínil vzdálený Tchaj-wan. Kromě americko-čínského soupeření a tchajwanských veřejných fondů, štědrých k některým českým názorovým proudům, naplňuje tento strategický ostrov pod tlakem pevninské Číny i če..."
+        ],
+        "ad_creative_link_titles": [
+            "Volby na Tchaj-wanu: jak číst jejich výsledky?"
+        ],
+        "ad_delivery_start_time": "2024-01-15",
+        "ad_delivery_stop_time": "2024-01-23",
+        "bylines": "Sinoskop – Institut pro současnou Čínu, z.s.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.044925",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.165058",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.106156",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.056905",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.033278",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.034276",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.033611",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.066556",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.127454",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.041597",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.049251",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.091847",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.09584",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.053245",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001012",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.004725",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.0054",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.013837",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.049612",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.144448",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.22376",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.155248",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.057037",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.317921",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.0027",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000675",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.021937",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001687",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "4000",
+            "upper_bound": "4999"
+        },
+        "page_id": "415013742606508",
+        "page_name": "Asiaskop",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "25",
+            "65"
+        ],
+        "eu_total_reach": 2876,
+        "beneficiary_payers": [
+            {
+                "payer": "Asiaskop",
+                "beneficiary": "Asiaskop",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "male": 428,
+                        "female": 41,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 169,
+                        "female": 14,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 663,
+                        "female": 147,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 65,
+                        "female": 16
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 942,
+                        "female": 460,
+                        "unknown": 8
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "406065042082601",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=406065042082601&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-09",
+        "ad_creative_bodies": [
+            "Narůstající problémy s jemenskými teroristy znovu ohrožují hlavní dopravní tepnu mezi Asií a Evropou. Kdo to asi zaplatí? 🧐"
+        ],
+        "ad_creative_link_captions": [
+            "asiaskop.cz"
+        ],
+        "ad_creative_link_descriptions": [
+            "V posledních dnech a týdnech jsme byli svědky nejméně dvaceti raketových a dronových útoků jemenských hútíjských povstalců zejména na obchodní lodě. Napadeny byly i kontejnerové lodě proplouvající Rudým mořem a Adenským zálivem směrem k Suezu. Zatím nedošlo ke ztrátám n..."
+        ],
+        "ad_creative_link_titles": [
+            "Vzdálené jemenské útoky na obchodní lodě zasáhnou i naše peněženky"
+        ],
+        "ad_delivery_start_time": "2024-01-09",
+        "bylines": "Sinoskop – Institut pro současnou Čínu, z.s.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.047009",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.123177",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.109351",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.050025",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.034691",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.032428",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.045752",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.063348",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.124434",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.043741",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.059578",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.102564",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.111865",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.052036",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000253",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.008338",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.018191",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.130622",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.127337",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.366599",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.259727",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.039161",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.04093",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001516",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000253",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002274",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00379",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001011",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "5000",
+            "upper_bound": "5999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "415013742606508",
+        "page_name": "Asiaskop",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "300",
+            "upper_bound": "399"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "25",
+            "65"
+        ],
+        "eu_total_reach": 3968,
+        "beneficiary_payers": [
+            {
+                "payer": "Asiaskop",
+                "beneficiary": "Asiaskop",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 72,
+                        "female": 15,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 1028,
+                        "female": 155,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 517,
+                        "female": 33,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 162,
+                        "female": 9
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 1451,
+                        "female": 504,
+                        "unknown": 6
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "2304020699794288",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=2304020699794288&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-09",
+        "ad_creative_bodies": [
+            "Nezachránil nakonec svým činem světoznámou památku? A co by se stalo, kdyby ho nechytli při činu? Posuďte sami 👇"
+        ],
+        "ad_creative_link_captions": [
+            "asiaskop.cz"
+        ],
+        "ad_creative_link_descriptions": [
+            "Ve své době byl uznávaným literátem, který se pravidelně setkával s osobnostmi jako byl André Gide nebo Jean-Paul Sartre. Respekt si získal v odboji za druhé světové války. V roce 1958 ho dokonce francouzský prezident Charles de Gaulle jmenoval ministrem kultury. Vánoce před sto let..."
+        ],
+        "ad_creative_link_titles": [
+            "André Malraux: Vykradač chrámu, který se stal francouzským ministrem kultury"
+        ],
+        "ad_delivery_start_time": "2024-01-09",
+        "bylines": "Sinoskop – Institut pro současnou Čínu, z.s.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.033443",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.028197",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.033443",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.108852",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.049836",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.18623",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.108197",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.055082",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.043279",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.068197",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.104262",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.077377",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.05377",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.049836",
+                "region": "Hradec Králové Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000662",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000662",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.009265",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.157512",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.136334",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.081403",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001324",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000662",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.032429",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.006618",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.188617",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.119788",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.19325",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.071476",
+                "age": "55-64",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "415013742606508",
+        "page_name": "Asiaskop",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "25",
+            "65"
+        ],
+        "eu_total_reach": 1518,
+        "beneficiary_payers": [
+            {
+                "payer": "Asiaskop",
+                "beneficiary": "Asiaskop",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "35-44",
+                        "male": 206,
+                        "female": 14,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 285,
+                        "female": 108,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 238,
+                        "female": 181,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 123,
+                        "female": 10,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 292,
+                        "female": 49
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,734 @@
+[
+    {
+        "id": "1052136019339040",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1052136019339040&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-23",
+        "ad_creative_bodies": [
+            "Asi jsem ministra pro EU nepotěšil, ale někdo mu to říct musí. Od přijetí eura jsme dál než před pár lety. Proč? Protože EU ztrácí konkurenceschopnost, soběstačnost a je méně bezpečná. Vše v důsledku chybných politických rozhodnutí v oblasti klimatické, energetické a migrační politiky. Posílit dnes naši závislost a stát se součástí pevného jádra proto nedává smysl."
+        ],
+        "ad_delivery_start_time": "2024-01-23",
+        "ad_delivery_stop_time": "2024-01-30",
+        "bylines": "ANO",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.00012",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.053762",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.073709",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.111118",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.053043",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.04292",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.037918",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.049988",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.065233",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.148347",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.050347",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.052055",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.096741",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.111507",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.053193",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000478",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000627",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00012",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.004601",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.013116",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.175316",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.197036",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.130232",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.135909",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.166114",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.090526",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.055302",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.029249",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000986",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000388",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "60000",
+            "upper_bound": "69999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "113322746709049",
+        "page_name": "Karel Havlíček",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "1500",
+            "upper_bound": "1999"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "25",
+            "65"
+        ],
+        "eu_total_reach": 34237,
+        "beneficiary_payers": [
+            {
+                "payer": "ANO",
+                "beneficiary": "ANO",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 979,
+                        "female": 154,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 3030,
+                        "female": 439,
+                        "unknown": 13
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 5868,
+                        "female": 1851,
+                        "unknown": 21
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 5560,
+                        "female": 4549,
+                        "unknown": 16
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 4359,
+                        "female": 6595,
+                        "unknown": 33
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "2056982634700415",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=2056982634700415&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-23",
+        "ad_creative_bodies": [
+            "Žádné obstrukce. Ve 20 minutách jsem věcně a slušně vysvětlil plusy a minusy korespondenční volby. Na právních, etických a legislativně-procesnich argumentech jsem ukázal, v čem spočívá riziko tohoto způsobu hlasování. Využil jsem zahraničních průzkumů a hlavně jsem navrhnul řešení. Alternativu i důstojnou cestu pro pětikoalici. Myslíte, že někdo reagoval, že to rozporoval, že nabídnul jiné řešení? Ne. Jde jim jen o voličské hlasy. Tvrzení, že to je o principu, je lež. Udělají cokoliv, aby zachránili potápějící se loď pětikoalice...\nPoslechněte si můj projev ve Sněmovně a napište prosím svůj názor. Díky."
+        ],
+        "ad_delivery_start_time": "2024-01-23",
+        "ad_delivery_stop_time": "2024-01-30",
+        "bylines": "ANO",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000256",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.052878",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.08122",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.109335",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.052566",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.046091",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.037117",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.048874",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.066396",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.148496",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.049669",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.052225",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.093772",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.108255",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.05285",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001328",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00065",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000282",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00065",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000452",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.008644",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001977",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.006526",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.004153",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.028023",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.142659",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.116726",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.079466",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.176898",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.166106",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.227464",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.037769",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000226",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "50000",
+            "upper_bound": "59999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "113322746709049",
+        "page_name": "Karel Havlíček",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "1500",
+            "upper_bound": "1999"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 35765,
+        "beneficiary_payers": [
+            {
+                "payer": "ANO",
+                "beneficiary": "ANO",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 231,
+                        "female": 70,
+                        "unknown": 10
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 5050,
+                        "female": 1337,
+                        "unknown": 23
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 6262,
+                        "female": 8052,
+                        "unknown": 47
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 5880,
+                        "female": 4132,
+                        "unknown": 23
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 2813,
+                        "female": 306,
+                        "unknown": 16
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 992,
+                        "female": 147,
+                        "unknown": 8
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1380454182575159",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1380454182575159&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-16",
+        "ad_creative_bodies": [
+            "Šiška za šiškou. Začíná být problém najít nějaký mezinárodní hospodářský žebříček, kde nejsme poslední. Tragikomicky proto vyznívá nejaktuálnější vzkaz ODS o lepších zítřcích a zářné budoucnosti. Více v živém vysílání pořadu NA ROVINU. Moc děkuji za velké množství dotazů, vážím si toho."
+        ],
+        "ad_creative_link_titles": [
+            "NA ROVINU s Karlem Havlíčkem. Kupředu, zpátky ni krok!"
+        ],
+        "ad_delivery_start_time": "2024-01-16",
+        "ad_delivery_stop_time": "2024-01-22",
+        "bylines": "ANO",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000122",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.05366",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.080781",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.10839",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.050973",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.044193",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.038329",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.049476",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.064502",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.144245",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.05195",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.051248",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.098739",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.11178",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.051614",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000153",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.250229",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000611",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000153",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.003087",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00159",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.133093",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.176713",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.049917",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000489",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.178853",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.13618",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.043009",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.013022",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.003852",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.007611",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001131",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000306",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "60000",
+            "upper_bound": "69999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "113322746709049",
+        "page_name": "Karel Havlíček",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "1500",
+            "upper_bound": "1999"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 34260,
+        "beneficiary_payers": [
+            {
+                "payer": "ANO",
+                "beneficiary": "ANO",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 426,
+                        "female": 126,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 4455,
+                        "female": 1407,
+                        "unknown": 20
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 5851,
+                        "female": 8186,
+                        "unknown": 37
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 5781,
+                        "female": 4354,
+                        "unknown": 16
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 101,
+                        "female": 52,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 1633,
+                        "female": 249,
+                        "unknown": 10
+                    }
+                ]
+            }
+        ]
+    }
+]

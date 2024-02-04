@@ -1,0 +1,196 @@
+[
+    {
+        "id": "1061573018426585",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1061573018426585&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-26",
+        "ad_creative_bodies": [
+            "Václav Láska představí svoji knihu o houbách Láska je na houby. Zajímavé povídání o houbách a jejich zpracování doplní mykoložka Tereza Tejklová.  \nTěšíme se na setkání s Vámi!\n\nVstup je zdarma."
+        ],
+        "ad_creative_link_captions": [
+            "Hradecké hovory senátora Holáska"
+        ],
+        "ad_creative_link_descriptions": [
+            "Václav Láska představí svoji knihu o houbách Láska je na houby. Zajímavé povídání o houbách a jejich zpracování doplní mykoložka Tereza Tejklová. \nTěšíme se na setkání s Vámi!\n\nVstup je zdarma."
+        ],
+        "ad_creative_link_titles": [
+            "Hradecké hovory senátora Holáska"
+        ],
+        "ad_delivery_start_time": "2024-01-26",
+        "bylines": "Jan Holásek - senátor za Hradecko",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.952528",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.047472",
+                "region": "Pardubice Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.020747",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002075",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.05083",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.13278",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.16805",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.082988",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.01971",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.091286",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.077801",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.103734",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.091286",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.057054",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.098548",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001037",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002075",
+                "age": "18-24",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "2000",
+            "upper_bound": "2999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1095114177216463",
+        "page_name": "Jan Holásek - senátor za Hradecko",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Hradec Králové Region, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "regions",
+                "excluded": false
+            },
+            {
+                "name": "Hradec Králové, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 975,
+        "beneficiary_payers": [
+            {
+                "payer": "Jan Holásek - senátor za Hradecko",
+                "beneficiary": "Jan Holásek - senátor za Hradecko",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 19,
+                        "female": 20,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 49,
+                        "female": 88
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 75,
+                        "female": 95,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 88,
+                        "female": 128,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 55,
+                        "female": 100
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 80,
+                        "female": 162
+                    }
+                ]
+            }
+        ]
+    }
+]

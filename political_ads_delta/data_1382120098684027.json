@@ -1,0 +1,439 @@
+[
+    {
+        "id": "1023456945421669",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1023456945421669&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-30",
+        "ad_creative_bodies": [
+            "Předseda krajské ODS - Občanská demokratická strana prosadil a nechal schválit na superlídra do Evropského parlamentu Sašu Vondru ze své litoměřické stáje. Jedna parta - jeden cíl :)"
+        ],
+        "ad_delivery_start_time": "2024-01-30",
+        "ad_delivery_stop_time": "2024-02-02",
+        "bylines": "Radim F. Holeček",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "7.4E-5",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.055175",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.075437",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.110005",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.054212",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.045613",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.039164",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.046404",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.066418",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.146846",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.050975",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.055225",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.094833",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.102419",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.057201",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000492",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00246",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000763",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001181",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.006838",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.024991",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.0321",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.106681",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.004526",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000197",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.168864",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.093644",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.192822",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.18168",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.180991",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001156",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000615",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "50000",
+            "upper_bound": "59999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1382120098684027",
+        "page_name": "Radim F. Holeček",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "2000",
+            "upper_bound": "2499"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 39736,
+        "beneficiary_payers": [
+            {
+                "payer": "Radim F. Holeček",
+                "beneficiary": "Radim F. Holeček",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 184,
+                        "female": 48,
+                        "unknown": 8
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 7358,
+                        "female": 1305,
+                        "unknown": 25
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 6865,
+                        "female": 7386,
+                        "unknown": 47
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 7839,
+                        "female": 4337,
+                        "unknown": 31
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 3807,
+                        "female": 278,
+                        "unknown": 20
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 1016,
+                        "female": 100
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "844486360780899",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=844486360780899&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-29",
+        "ad_creative_bodies": [
+            "Předseda krajské ODS - Občanská demokratická strana prosadil a nechal schválit na superlídra do Evropského parlamentu Sašu Vondru ze své litoměřické stáje. Jedna parta - jeden cíl :)"
+        ],
+        "ad_delivery_start_time": "2024-01-29",
+        "ad_delivery_stop_time": "2024-02-02",
+        "bylines": "Radim F. Holeček",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000419",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.093745",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.055928",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.022388",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.174157",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.092319",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.105232",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.159232",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.072363",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "8.4E-5",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.08754",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.019369",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.005534",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000922",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00109",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000335",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000335",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.109006",
+                "age": "25-34",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "25000",
+            "upper_bound": "29999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1382120098684027",
+        "page_name": "Radim F. Holeček",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "2000",
+            "upper_bound": "2499"
+        },
+        "target_locations": [
+            {
+                "name": "Litomerice, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 11353,
+        "beneficiary_payers": [
+            {
+                "payer": "Radim F. Holeček",
+                "beneficiary": "Radim F. Holeček",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 1300,
+                        "female": 231,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 1899,
+                        "female": 1044,
+                        "unknown": 11
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 863,
+                        "female": 1255,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 1118,
+                        "female": 1101,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 2077,
+                        "female": 667,
+                        "unknown": 13
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 267,
+                        "female": 66,
+                        "unknown": 1
+                    }
+                ]
+            }
+        ]
+    }
+]

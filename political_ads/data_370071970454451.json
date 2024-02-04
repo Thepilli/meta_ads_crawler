@@ -1,0 +1,215 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=603864331876986&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-07-12",
+        "ad_creative_bodies": [
+            "Nedostatek pracovních sil, zvyšování nákladů, klimatické výzvy... To je jen část změn, na které je třeba flexibilně reagovat. Chcete zůstat konkurenceschopní? Začněte včas s automatizací."
+        ],
+        "ad_creative_link_captions": [
+            "universal-robots.com"
+        ],
+        "ad_creative_link_descriptions": [
+            "We have detected that this isn’t your country’s origin language. Do you wish to change the language to x? Yes, change language No, keep it"
+        ],
+        "ad_creative_link_titles": [
+            "Objevte #SMARTWORK. Pracujte s koboty."
+        ],
+        "ad_delivery_start_time": "2023-07-12",
+        "ad_delivery_stop_time": "2023-11-11",
+        "currency": "USD",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000354",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.049125",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.113156",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.123101",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.051739",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.039668",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.026578",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.047154",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.059646",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.139934",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.044518",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.081683",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.097542",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.075327",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.050476",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000841",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001864",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002046",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.059112",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.055588",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.100105",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.112291",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.288332",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.181543",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.121862",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.075573",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000841",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "100000",
+            "upper_bound": "124999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "370071970454451",
+        "page_name": "Universal Robots",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "500",
+            "upper_bound": "599"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "25",
+            "64"
+        ],
+        "eu_total_reach": 41883,
+        "beneficiary_payers": [
+            {
+                "payer": "MediaGroup WorldWide AG",
+                "beneficiary": "Universal Robots A/S",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 3324,
+                        "female": 2600,
+                        "unknown": 37
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 4939,
+                        "female": 7985,
+                        "unknown": 82
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 5360,
+                        "female": 12682,
+                        "unknown": 90
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 2445,
+                        "female": 4403,
+                        "unknown": 37
+                    }
+                ]
+            }
+        ],
+        "_id": "603864331876986"
+    }
+]

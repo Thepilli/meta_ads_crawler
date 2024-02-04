@@ -1,0 +1,177 @@
+[
+    {
+        "id": "806842594604314",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=806842594604314&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-02-02",
+        "ad_creative_bodies": [
+            "Tento týden navštívil naši městskou část Bohuslav Svoboda, primátor hl. m. Prahy. Řešili jsme samozřejmě to, co nás v Letňanech trápí nejvíc. Tedy to, že jsme nárazníkem pro satelity ve Středních Čechách. Ať už v oblasti školství, infrastruktury, služeb, nebo dopravy.\n\n👉Prodloužení metra C do sídliště je skutečně dlouhodobá záležitost a je třeba hledat řešení, jak dopravě ulevit už nyní. \n👉Tramvajová trať do Letňan je přitom realizovatelná už řádově za 3-5let.\n👉 Prioritou je také stavba, kterou řeší ČR - dostavba části okruhu 520 u Letňan.\n \n🚑 Potěšilo nás, že v místě dříve uvažované vládní čtvrti by mohla vyrůst v brzké době úplně nová moderní nemocnice, do které by se přesunul provoz Nemocnice Na Bulovce. Podle vyjádření primátora by chtěl připravit projekt ještě do konce tohoto volebního období."
+        ],
+        "ad_delivery_start_time": "2024-02-02",
+        "bylines": "Stanislav Nekolný, MBA",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Prague"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.11955",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001406",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.042194",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.135021",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002813",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.2391",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.132208",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.102672",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.082982",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.04782",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.026723",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.030942",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002813",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.019691",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.014065",
+                "age": "65+",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1001",
+            "upper_bound": "5000"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "107473258147235",
+        "page_name": "Stanislav Nekolný, MBA",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 705,
+        "beneficiary_payers": [
+            {
+                "payer": "Stanislav Nekolný, MBA",
+                "beneficiary": "Stanislav Nekolný, MBA",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "male": 59,
+                        "female": 96,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 19,
+                        "female": 22
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 94,
+                        "female": 73
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 85,
+                        "female": 170,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 14,
+                        "female": 34,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 10,
+                        "female": 30
+                    }
+                ]
+            }
+        ]
+    }
+]

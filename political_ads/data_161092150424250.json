@@ -1,0 +1,428 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=390510887075960&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-07",
+        "ad_creative_link_captions": [
+            "glamupbymona.com"
+        ],
+        "ad_creative_link_descriptions": [
+            "Novinka"
+        ],
+        "ad_creative_link_titles": [
+            "S námi víte víc"
+        ],
+        "ad_delivery_start_time": "2023-12-07",
+        "ad_delivery_stop_time": "2023-12-08",
+        "currency": "BRL",
+        "delivery_by_region": [
+            {
+                "percentage": "0.001179",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.058962",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.132075",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.101415",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.067217",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.03184",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.034198",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.057783",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.051887",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.113208",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.045991",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.063679",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.096698",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.10967",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.034198",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001179",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002358",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.101415",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.09434",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.108491",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.070755",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.113208",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.09316",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.082547",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.116745",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.104953",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.10967",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001179",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "161092150424250",
+        "page_name": "Mimořádné zprávy ",
+        "publisher_platforms": [
+            "facebook",
+            "instagram",
+            "audience_network",
+            "messenger"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "25",
+            "65"
+        ],
+        "eu_total_reach": 837,
+        "beneficiary_payers": [
+            {
+                "payer": "Person",
+                "beneficiary": "Person",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 93,
+                        "female": 79,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 70,
+                        "female": 60
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 80,
+                        "female": 89,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 92,
+                        "female": 86,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 96,
+                        "female": 99
+                    }
+                ]
+            }
+        ],
+        "_id": "390510887075960"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=622561906568584&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-05",
+        "ad_creative_link_captions": [
+            "new.media-world.bio"
+        ],
+        "ad_creative_link_descriptions": [
+            "Novinka"
+        ],
+        "ad_creative_link_titles": [
+            "S námi víte víc"
+        ],
+        "ad_delivery_start_time": "2023-12-05",
+        "ad_delivery_stop_time": "2023-12-06",
+        "currency": "HUF",
+        "delivery_by_region": [
+            {
+                "percentage": "0.063679",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.091981",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.058962",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.063679",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.040094",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.040094",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.049528",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.058962",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.117925",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.033019",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.068396",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.136792",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.136792",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.040094",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.00939",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.051643",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.030516",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.239437",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.314554",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002347",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.143192",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.014085",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.086854",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.023474",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.084507",
+                "age": "35-44",
+                "gender": "male"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "161092150424250",
+        "page_name": "Mimořádné zprávy ",
+        "publisher_platforms": [
+            "facebook",
+            "instagram",
+            "audience_network",
+            "messenger"
+        ],
+        "spend": {
+            "lower_bound": "1500",
+            "upper_bound": "1999"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "25",
+            "65"
+        ],
+        "eu_total_reach": 435,
+        "beneficiary_payers": [
+            {
+                "payer": "Hetényi Renáta Beauty Salon",
+                "beneficiary": "Hetényi Renáta Beauty Salon",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 102,
+                        "female": 134,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 36,
+                        "female": 61
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 22,
+                        "female": 37
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 6,
+                        "female": 10
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 4,
+                        "female": 13
+                    }
+                ]
+            }
+        ],
+        "_id": "622561906568584"
+    }
+]

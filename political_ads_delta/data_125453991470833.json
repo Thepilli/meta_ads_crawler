@@ -1,0 +1,2782 @@
+[
+    {
+        "id": "1366097350933991",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1366097350933991&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-02-02",
+        "ad_creative_bodies": [
+            "Kandidujeme v evropských volbách! 🇪🇺 \n\nMáme skvělé kandidátky a kandidáty a hlavně, nebojíme se toho. A jak to celé vzniklo? Takhle!😄\n\nSleduj naší cestu!"
+        ],
+        "ad_creative_link_titles": [
+            "Kandidujeme v evropských volbách! 🇪🇺"
+        ],
+        "ad_delivery_start_time": "2024-02-02",
+        "bylines": "SEN 21",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.054457",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.077186",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.122954",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.05306",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.042588",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.039562",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.043984",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.066015",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.145916",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.047397",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.052517",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.093088",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.104026",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.057172",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "7.8E-5",
+                "region": "Unknown"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001007",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.198172",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000775",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000155",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00031",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.003254",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.119926",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.031143",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.057484",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001704",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.193988",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.246979",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.115897",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000852",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.016966",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.007205",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.004106",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "7.7E-5",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "500001",
+            "upper_bound": "1000000"
+        },
+        "impressions": {
+            "lower_bound": "15000",
+            "upper_bound": "19999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "125453991470833",
+        "page_name": "SEN 21 - politické hnutí",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "800",
+            "upper_bound": "899"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 12926,
+        "beneficiary_payers": [
+            {
+                "payer": "SEN 21",
+                "beneficiary": "SEN 21",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 53,
+                        "female": 13,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 1548,
+                        "female": 402,
+                        "unknown": 10
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 2558,
+                        "female": 3188,
+                        "unknown": 22
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 2504,
+                        "female": 1496,
+                        "unknown": 11
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 219,
+                        "female": 42,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 742,
+                        "female": 93,
+                        "unknown": 4
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "908859307463004",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=908859307463004&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-02-02",
+        "ad_creative_bodies": [
+            "Evropa, n̵e̵ ̵s̵t̵ř̵e̵d̵o̵v̵ě̵k̵❗️\n\nProč tohle heslo❓\n\nProtože už delší dobu cítíme, že velká část naší politické reprezentace žije ve středověku. Žádná dlouhodobá politická vize, pouze přešlapování na místě. Reprezentují nás pořád ty stejné tváře a když jsou už pro svoji stranu nepohodlné, pošlou je do Evropského parlamentu. Pak se po nich slehne zem. 😕\n\nNemáme Euro, nemáme manželství pro všechny, zaostáváme ve zrovnoprávnění žen ve společnosti a kvůli zpátečnickým předsudkům nemáme ani Istanbulskou úmluvu. \n\nUž bylo dost středověku. Patříme do civilizované Evropy. 🇪🇺"
+        ],
+        "ad_delivery_start_time": "2024-02-02",
+        "ad_delivery_stop_time": "2024-02-02",
+        "bylines": "SEN 21",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.058355",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.16313",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.090186",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.046419",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.04244",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.038462",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.043767",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.046419",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.098143",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.035809",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.071618",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.100796",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.122016",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.04244",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001326",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001326",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.046419",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.119363",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.135279",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.277188",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.100796",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.15252",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.082228",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.029178",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.01061",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.014589",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.022546",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.006631",
+                "age": "25-34",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1001",
+            "upper_bound": "5000"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "125453991470833",
+        "page_name": "SEN 21 - politické hnutí",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 719,
+        "beneficiary_payers": [
+            {
+                "payer": "SEN 21",
+                "beneficiary": "SEN 21",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 17,
+                        "female": 8
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 35,
+                        "female": 5
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 62,
+                        "female": 11
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 90,
+                        "female": 22
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 102,
+                        "female": 76,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 115,
+                        "female": 209,
+                        "unknown": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "927681408739265",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=927681408739265&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-02-02",
+        "ad_creative_bodies": [
+            "Vzniká post koordinátora pro přijetí Eura, ale nebude mít co na práci. ODS nakonec podržela “silně“ proevropská TOP 09 i KDU-ČSL. Náš 20 let starý slib se místo toho zase jen odkládá na neurčito.\n\nProč bychom Euro měli přijmout❓\n✅️ jsme exportní ekonomika do Eurozóny a tratíme na směně \n✅️ soukromý sektor na účty v Eurech stejně přechází \n✅️ inflace v Eurozóně je mnohem nižší\n✅️ pohodlí při cestování\n✅️pokud někomu dáme své slovo, musí platit❗️"
+        ],
+        "ad_delivery_start_time": "2024-02-02",
+        "bylines": "SEN 21",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.049029",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.168363",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.108696",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.044866",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.037465",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.033765",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.048566",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.055042",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.112396",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.042553",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.054579",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.10037",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.09667",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.047641",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.00046",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.060313",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000921",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001381",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.013812",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.017956",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.016114",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.09116",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.12477",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002762",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.032689",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.042818",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.083333",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.259208",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.19291",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.058932",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00046",
+                "age": "18-24",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1001",
+            "upper_bound": "5000"
+        },
+        "impressions": {
+            "lower_bound": "5000",
+            "upper_bound": "5999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "125453991470833",
+        "page_name": "SEN 21 - politické hnutí",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "700",
+            "upper_bound": "799"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 2155,
+        "beneficiary_payers": [
+            {
+                "payer": "SEN 21",
+                "beneficiary": "SEN 21",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "male": 198,
+                        "female": 93,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 128,
+                        "female": 35
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 419,
+                        "female": 563,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 271,
+                        "female": 181,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 131,
+                        "female": 30,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 71,
+                        "female": 39,
+                        "unknown": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1361781151145393",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1361781151145393&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-02-01",
+        "ad_creative_bodies": [
+            "Evropa, n̵e̵ ̵s̵t̵ř̵e̵d̵o̵v̵ě̵k̵❗️\n\nProč tohle heslo❓\n\nProtože už delší dobu cítíme, že velká část naší politické reprezentace žije ve středověku. Žádná dlouhodobá politická vize, pouze přešlapování na místě. Reprezentují nás pořád ty stejné tváře a když jsou už pro svoji stranu nepohodlné, pošlou je do Evropského parlamentu. Pak se po nich slehne zem. 😕\n\nNemáme Euro, nemáme manželství pro všechny, zaostáváme ve zrovnoprávnění žen ve společnosti a kvůli zpátečnickým předsudkům nemáme ani Istanbulskou úmluvu. \n\nUž bylo dost středověku. Patříme do civilizované Evropy. 🇪🇺"
+        ],
+        "ad_delivery_start_time": "2024-02-01",
+        "ad_delivery_stop_time": "2024-02-03",
+        "bylines": "SEN 21",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.990611",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.009389",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.363191",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.482155",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.082225",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.064264",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.004432",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.003732",
+                "age": "18-24",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "125453991470833",
+        "page_name": "SEN 21 - politické hnutí",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "800",
+            "upper_bound": "899"
+        },
+        "target_locations": [
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "30"
+        ],
+        "eu_total_reach": 8728,
+        "beneficiary_payers": [
+            {
+                "payer": "SEN 21",
+                "beneficiary": "SEN 21",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 3114,
+                        "female": 551,
+                        "unknown": 32
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 4134,
+                        "female": 705,
+                        "unknown": 38
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "2938187562995247",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=2938187562995247&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-02-01",
+        "ad_creative_link_captions": [
+            "instagram.com",
+            "instagram.com",
+            "instagram.com",
+            "instagram.com",
+            "instagram.com",
+            "instagram.com",
+            "instagram.com",
+            "instagram.com",
+            "instagram.com",
+            "instagram.com"
+        ],
+        "ad_delivery_start_time": "2024-02-01",
+        "bylines": "SEN 21",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000205",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.042708",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.307222",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.103537",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.048406",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.029105",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.023818",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.032853",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.040142",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.083261",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.03814",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.051127",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.100816",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.062214",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.036446",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000357",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.0675",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000459",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00102",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002143",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002296",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.007347",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.012296",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.511582",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002857",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.199643",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.022755",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.15301",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.008571",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.004541",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.003367",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "5.1E-5",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000204",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "50000",
+            "upper_bound": "59999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "125453991470833",
+        "page_name": "SEN 21 - politické hnutí",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "4500",
+            "upper_bound": "4999"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 19536,
+        "beneficiary_payers": [
+            {
+                "payer": "SEN 21",
+                "beneficiary": "SEN 21",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "55-64",
+                        "male": 20,
+                        "female": 42,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 56,
+                        "female": 144,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 45,
+                        "female": 89,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 168,
+                        "female": 446,
+                        "unknown": 9
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 2999,
+                        "female": 10029,
+                        "unknown": 241
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 1325,
+                        "female": 3913,
+                        "unknown": 66
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1047222876386895",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1047222876386895&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-02-01",
+        "ad_creative_bodies": [
+            "Evropa, n̵e̵ ̵s̵t̵ř̵e̵d̵o̵v̵ě̵k̵❗️\n\nProč tohle heslo❓\n\nProtože už delší dobu cítíme, že velká část naší politické reprezentace žije ve středověku. Žádná dlouhodobá politická vize, pouze přešlapování na místě. Reprezentují nás pořád ty stejné tváře a když jsou už pro svoji stranu nepohodlné, pošlou je do Evropského parlamentu. Pak se po nich slehne zem. 😕\n\nNemáme Euro, nemáme manželství pro všechny, zaostáváme ve zrovnoprávnění žen ve společnosti a kvůli zpátečnickým předsudkům nemáme ani Istanbulskou úmluvu. \n\nUž bylo dost středověku. Patříme do civilizované Evropy. 🇪🇺"
+        ],
+        "ad_delivery_start_time": "2024-02-01",
+        "ad_delivery_stop_time": "2024-02-02",
+        "bylines": "SEN 21",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000247",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.049112",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.127591",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.130059",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.050346",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.04689",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.03307",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.041461",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.058736",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.114265",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.046397",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.053307",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.097483",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.095508",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.055528",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.042895",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.111869",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.065318",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.256398",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.523519",
+                "age": "45-54",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "500001",
+            "upper_bound": "1000000"
+        },
+        "impressions": {
+            "lower_bound": "4000",
+            "upper_bound": "4999"
+        },
+        "page_id": "125453991470833",
+        "page_name": "SEN 21 - politické hnutí",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "300",
+            "upper_bound": "399"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "Women",
+        "target_ages": [
+            "18",
+            "55"
+        ],
+        "eu_total_reach": 4026,
+        "beneficiary_payers": [
+            {
+                "payer": "SEN 21",
+                "beneficiary": "SEN 21",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "female": 176
+                    },
+                    {
+                        "age_range": "25-34",
+                        "female": 459
+                    },
+                    {
+                        "age_range": "35-44",
+                        "female": 1052
+                    },
+                    {
+                        "age_range": "45-54",
+                        "female": 2148
+                    },
+                    {
+                        "age_range": "55-64",
+                        "female": 268
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "270703362534677",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=270703362534677&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-02-01",
+        "ad_creative_bodies": [
+            "Kandidujeme v evropských volbách! 🇪🇺 \n\nMáme skvělé kandidátky a kandidáty a hlavně, nebojíme se toho. A jak to celé vzniklo? Takhle!😄\n\nSleduj naší cestu!"
+        ],
+        "ad_creative_link_titles": [
+            "Kandidujeme v evropských volbách! 🇪🇺"
+        ],
+        "ad_delivery_start_time": "2024-02-01",
+        "ad_delivery_stop_time": "2024-02-03",
+        "bylines": "SEN 21",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.046743",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.200701",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.138086",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.062226",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.047911",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.019671",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.033888",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.054825",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.099425",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.045574",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.051612",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.083747",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.065634",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.049956",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.002454",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.182764",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.192383",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.267079",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.347271",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.008049",
+                "age": "18-24",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "15000",
+            "upper_bound": "19999"
+        },
+        "page_id": "125453991470833",
+        "page_name": "SEN 21 - politické hnutí",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "2000",
+            "upper_bound": "2499"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "30"
+        ],
+        "eu_total_reach": 10227,
+        "beneficiary_payers": [
+            {
+                "payer": "SEN 21",
+                "beneficiary": "SEN 21",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 2721,
+                        "female": 1862,
+                        "unknown": 82
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 3538,
+                        "female": 1960,
+                        "unknown": 25
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "929652778769398",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=929652778769398&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-30",
+        "ad_creative_bodies": [
+            "Istanbluská úmluva dostala v Senátu červenou. Bohužel. Je nám to moc líto, ale bojovali jsme. Díky našim senátorům za 100% podporu a nasazení. Naši politici se musí problémům stavět čelem a ne je ignorovat. Snad se to brzy změní. 😊 💪"
+        ],
+        "ad_creative_link_captions": [
+            "instagram.com"
+        ],
+        "ad_creative_link_descriptions": [
+            "315 Followers, 57 Following, 135 Posts - See Instagram photos and videos from SEN21 (@sen21.cz)"
+        ],
+        "ad_creative_link_titles": [
+            "SEN21 (@sen21.cz) • Instagram photos and videos"
+        ],
+        "ad_delivery_start_time": "2024-01-30",
+        "ad_delivery_stop_time": "2024-02-01",
+        "bylines": "SEN 21",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.039122",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.355893",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.107296",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.042258",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.024596",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.024431",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.027237",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.036811",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.081545",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.031694",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.04754",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.09376",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.051667",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.03582",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.00033",
+                "region": "Unknown"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001498",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.111185",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000832",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000499",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.006991",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.123835",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.3001",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.366511",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001498",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.008822",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.017477",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.006658",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.017477",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.022969",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.006824",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00233",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.003828",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000666",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "9000",
+            "upper_bound": "9999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "125453991470833",
+        "page_name": "SEN 21 - politické hnutí",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "900",
+            "upper_bound": "999"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 6056,
+        "beneficiary_payers": [
+            {
+                "payer": "SEN 21",
+                "beneficiary": "SEN 21",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "55-64",
+                        "male": 14,
+                        "female": 9,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 40,
+                        "female": 41,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 53,
+                        "female": 23,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 105,
+                        "female": 105,
+                        "unknown": 9
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 1803,
+                        "female": 2202,
+                        "unknown": 138
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 668,
+                        "female": 744,
+                        "unknown": 42
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "7563307797067316",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=7563307797067316&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-30",
+        "ad_creative_bodies": [
+            "Někteří senátoři prý nevěděli, co znamená pojem ekonomické násilí. Tak teď už vědí.👌"
+        ],
+        "ad_creative_link_captions": [
+            "www.instagram.com"
+        ],
+        "ad_delivery_start_time": "2024-01-30",
+        "ad_delivery_stop_time": "2024-02-01",
+        "bylines": "SEN 21",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.042726",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.304309",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.101677",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.050117",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.030106",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.02578",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.031909",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.039661",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.077159",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.036416",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.055886",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.10402",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.061475",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.038219",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.000541",
+                "region": "Unknown"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.002355",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.077536",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000181",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000181",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.008877",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.480072",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.160507",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.026449",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.174638",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.014493",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001449",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.012681",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.020652",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.005435",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.008152",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.005072",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000906",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000362",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "9000",
+            "upper_bound": "9999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "125453991470833",
+        "page_name": "SEN 21 - politické hnutí",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "900",
+            "upper_bound": "999"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 5497,
+        "beneficiary_payers": [
+            {
+                "payer": "SEN 21",
+                "beneficiary": "SEN 21",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "55-64",
+                        "male": 8,
+                        "female": 28,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 45,
+                        "female": 80,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 30,
+                        "female": 49,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 114,
+                        "female": 146,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 964,
+                        "female": 2650,
+                        "unknown": 70
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 428,
+                        "female": 886,
+                        "unknown": 13
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "393089616545632",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=393089616545632&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-29",
+        "ad_creative_bodies": [
+            "Modernizaci naší armády vřele vítáme! Šlo by to ale ještě lépe. 👇\n\n💬 Lukáš Kostínek, místopředseda SEN 21: „Jsem rád, že modernizujeme naši armádu. A jsem rád, že nám naši spojenci v USA ochotně prodají své nejmodernější stíhačky F-35. Neubráním se ale povzdechu, že bych ještě radši viděl budování společného evropského obranného průmyslu, skrz který bychom nákupy pro společnou armády EU investovali peníze do vlastní ekonomiky a sami si zajišťovali svoji bezpečnost a emancipovali se konečně od USA. Nakonec i jim pomůže, pokud budeme schopni se o sebe konečně postarat sami a nebudou nás muset zachraňovat.“\n\nOdkaz na Lukášovy Threads: https://www.threads.net/@lukaskostinek"
+        ],
+        "ad_delivery_start_time": "2024-01-29",
+        "ad_delivery_stop_time": "2024-01-31",
+        "bylines": "SEN 21",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.035619",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.388246",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.096171",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.048976",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.029386",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.016028",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.029386",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.029386",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.050757",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.033838",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.033838",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.108638",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.066785",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.032947",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.002681",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.077748",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.018767",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.164433",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.13941",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.071492",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.081323",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.051832",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.133155",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001787",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.093834",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002681",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.048257",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.07328",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000894",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001787",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.03664",
+                "age": "25-34",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1001",
+            "upper_bound": "5000"
+        },
+        "impressions": {
+            "lower_bound": "4000",
+            "upper_bound": "4999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "125453991470833",
+        "page_name": "SEN 21 - politické hnutí",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "800",
+            "upper_bound": "899"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 1089,
+        "beneficiary_payers": [
+            {
+                "payer": "SEN 21",
+                "beneficiary": "SEN 21",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "35-44",
+                        "male": 184,
+                        "female": 58,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 87,
+                        "female": 105,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 82,
+                        "female": 80,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 149,
+                        "female": 91,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 156,
+                        "female": 41,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 54,
+                        "female": 21
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1152152115796653",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1152152115796653&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-26",
+        "ad_creative_bodies": [
+            "Prý ať nekomentujeme rozsudky, které ještě nebyly vydány. Tak se podívejme, které již vydány byly. 😠"
+        ],
+        "ad_creative_link_titles": [
+            "Projednávání Istanbulské úmluvy"
+        ],
+        "ad_delivery_start_time": "2024-01-26",
+        "ad_delivery_stop_time": "2024-01-30",
+        "bylines": "SEN 21",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000152",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.050769",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.099868",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.113687",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.05492",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.048087",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.035534",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.044037",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.068486",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.135048",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.046619",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.0492",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.09511",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.106196",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.052288",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000507",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.142321",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000609",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001674",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.028758",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.050619",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.009383",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.091702",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.162051",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000203",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.204403",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.179093",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.120105",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.006543",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000761",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000812",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000254",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000203",
+                "age": "18-24",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "500001",
+            "upper_bound": "1000000"
+        },
+        "impressions": {
+            "lower_bound": "20000",
+            "upper_bound": "24999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "125453991470833",
+        "page_name": "SEN 21 - politické hnutí",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "800",
+            "upper_bound": "899"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 19460,
+        "beneficiary_payers": [
+            {
+                "payer": "SEN 21",
+                "beneficiary": "SEN 21",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 185,
+                        "female": 4,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 4030,
+                        "female": 567,
+                        "unknown": 12
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 3195,
+                        "female": 2806,
+                        "unknown": 15
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 3531,
+                        "female": 1808,
+                        "unknown": 16
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 2368,
+                        "female": 129,
+                        "unknown": 10
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 998,
+                        "female": 33,
+                        "unknown": 5
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1055673878976489",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1055673878976489&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-25",
+        "ad_creative_bodies": [
+            "Istanbulská úmluva dostala v Senátu červenou. Bohužel. Je nám to líto, ale bojovali jsme. Díky našim senátorům za 100% podporu a nasazení. Naši politici se musí problémům stavět čelem a ne je ignorovat. Snad se to brzy změní. 😊💪"
+        ],
+        "ad_delivery_start_time": "2024-01-25",
+        "ad_delivery_stop_time": "2024-01-30",
+        "bylines": "SEN 21",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.040915",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.203769",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.148856",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.044953",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.037954",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.018573",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.031763",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.064334",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.118708",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.042261",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.043069",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.070256",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.085868",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.047914",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.000808",
+                "region": "Unknown"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.130201",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.869799",
+                "age": "18-24",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "7000",
+            "upper_bound": "7999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "125453991470833",
+        "page_name": "SEN 21 - politické hnutí",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "Women",
+        "target_ages": [
+            "18",
+            "25"
+        ],
+        "eu_total_reach": 3757,
+        "beneficiary_payers": [
+            {
+                "payer": "SEN 21",
+                "beneficiary": "SEN 21",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "female": 3240
+                    },
+                    {
+                        "age_range": "25-34",
+                        "female": 485
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1086277235990479",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1086277235990479&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-25",
+        "ad_creative_bodies": [
+            "Istanbluská úmluva dostala v Senátu červenou. Bohužel. Je nám to líto, ale bojovali jsme. Díky našim senátorům za 100% podporu a nasazení. Naši politici se musí problémům stavět čelem a ne je ignorovat. Snad se to brzy změní. 😊💪"
+        ],
+        "ad_delivery_start_time": "2024-01-25",
+        "ad_delivery_stop_time": "2024-01-25",
+        "bylines": "SEN 21",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.047619",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.375",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.127976",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.053571",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.02381",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.011905",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.017857",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.026786",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.080357",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.029762",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.026786",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.116071",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.03869",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.02381",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.005952",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.065476",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.157738",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.151786",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002976",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.047619",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.095238",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.056548",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.092262",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.077381",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.041667",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.151786",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.047619",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.005952",
+                "age": "18-24",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1001",
+            "upper_bound": "5000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "125453991470833",
+        "page_name": "SEN 21 - politické hnutí",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 338,
+        "beneficiary_payers": [
+            {
+                "payer": "SEN 21",
+                "beneficiary": "SEN 21",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 22,
+                        "female": 2
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 51,
+                        "female": 16
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 53,
+                        "female": 14
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 51,
+                        "female": 31
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 19,
+                        "female": 16,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 26,
+                        "female": 32,
+                        "unknown": 1
+                    }
+                ]
+            }
+        ]
+    }
+]

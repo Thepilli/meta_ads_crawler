@@ -1,0 +1,222 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=896078975213930&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-20",
+        "ad_creative_bodies": [
+            "Bez ní nic nedává smysl.\n\nNový HBO Original seriál Režim bude mít premiéru 4. března na #HBOMax #TheRegime #HBOMaxCZ #streaming"
+        ],
+        "ad_creative_link_titles": [
+            "Režim | Teaser | HBO Max"
+        ],
+        "ad_delivery_start_time": "2023-12-20",
+        "ad_delivery_stop_time": "2023-12-21",
+        "currency": "USD",
+        "delivery_by_region": [
+            {
+                "percentage": "0.042438",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.183665",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.139125",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.057252",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.035732",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.02232",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.037133",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.061756",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.117806",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.040036",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.049745",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.09989",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.060354",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.052747",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001311",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000202",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.007564",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.016741",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.007664",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.072912",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.137757",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.168213",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.167305",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.25121",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.153489",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.004841",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002017",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.008572",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000202",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "page_id": "104909345054614",
+        "page_name": "HBO Max",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "55"
+        ],
+        "eu_total_reach": 9939,
+        "beneficiary_payers": [
+            {
+                "payer": "HBO CE",
+                "beneficiary": "HBO Max",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "55-64",
+                        "male": 75,
+                        "female": 76,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 85,
+                        "female": 166,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 723,
+                        "female": 1668,
+                        "unknown": 13
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 1522,
+                        "female": 2491,
+                        "unknown": 48
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 1366,
+                        "female": 1659,
+                        "unknown": 20
+                    }
+                ]
+            }
+        ],
+        "_id": "896078975213930"
+    }
+]

@@ -1,0 +1,4565 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=2249003368623373&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-13",
+        "ad_creative_bodies": [
+            "Ochrana vládního stropu končí, což může před hlavní topnou sezónou nejednu domácnost topící plynem znepokojit. 🤨 My v bezDodavatele věříme ve výhodnost tržních cen, což dokazuje i náš produkt Naše energie na měsíc, který se už víc než 10 měsíců drží přes 30 % pod stropovými cenami. Protože ale chápeme možné obavy, připravili jsme pro stávající i nové zákazníky produkt Naše energie na zimu ❄️, který vám podrží až do konce března 2024 pevnou cenu za plyn 1 996,50 Kč/MWh s DPH, což je 34 % pod vládním stropem. Chcete prožít zimní období nejen v teple, ale i v klidu? Buďte bezDodavatele! Více najdete zde: bit.ly/bezDodavatele_Blog"
+        ],
+        "ad_delivery_start_time": "2023-11-13",
+        "ad_delivery_stop_time": "2023-12-01",
+        "bylines": "bezDodavatele a.s.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000421",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.045709",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.252804",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.102776",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.049776",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.102496",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.047392",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.048093",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.042064",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.020611",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.035614",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.045149",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.042344",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.107403",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.057347",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.080746",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.144403",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.1135",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.061948",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.061806",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000285",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002848",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002136",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.127172",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.254059",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.14896",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002136",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "2324431914442679",
+        "page_name": "bez Dodavatele",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "1500",
+            "upper_bound": "1999"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "25",
+            "60"
+        ],
+        "eu_total_reach": 7147,
+        "beneficiary_payers": [
+            {
+                "payer": "bez Dodavatele",
+                "beneficiary": "bez Dodavatele",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "55-64",
+                        "male": 435,
+                        "female": 567,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 1014,
+                        "female": 434,
+                        "unknown": 15
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 1784,
+                        "female": 893,
+                        "unknown": 20
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 1046,
+                        "female": 797,
+                        "unknown": 15
+                    }
+                ]
+            }
+        ],
+        "_id": "2249003368623373"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=25108516588739175&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-13",
+        "ad_creative_bodies": [
+            "To, že je něco ekologické, nemusí nutně znamenat, že si za to připlatíte.💰 Zelená elektřina a plyn vás dlouhodobě vyjdou výrazně levněji, stačí se odhodlat a být bezDodavatele. V listopadu s námi ušetříte oproti vládnímu stropu 35 % u elektřiny a 23 % u plynu. Ceny pro vás každý měsíc aktualizujeme podle vývoje na trhu tak, abyste vždy platili co nejméně to jde. Dáte zelené zelenou? 💚"
+        ],
+        "ad_delivery_start_time": "2023-11-13",
+        "ad_delivery_stop_time": "2023-11-30",
+        "bylines": "bezDodavatele a.s.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.044103",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.237831",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.111402",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.058804",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.039856",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.021888",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.036589",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.04835",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.0967",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.040183",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.049004",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.104214",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.062071",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.049004",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000331",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.003646",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001326",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.253895",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.064634",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.301293",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.038449",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.221743",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.030162",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00232",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.066622",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.015578",
+                "age": "55-64",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "4000",
+            "upper_bound": "4999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "2324431914442679",
+        "page_name": "bez Dodavatele",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "700",
+            "upper_bound": "799"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "25",
+            "60"
+        ],
+        "eu_total_reach": 2977,
+        "beneficiary_payers": [
+            {
+                "payer": "bez Dodavatele",
+                "beneficiary": "bez Dodavatele",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 909,
+                        "female": 195,
+                        "unknown": 11
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 766,
+                        "female": 91,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 669,
+                        "female": 116,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 201,
+                        "female": 47,
+                        "unknown": 1
+                    }
+                ]
+            }
+        ],
+        "_id": "25108516588739175"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=872225054250208&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-10-11",
+        "ad_creative_bodies": [
+            "Produkt Naše energie na měsíc vám už desátý měsíc v řadě šetří peníze. 💰 Místo toho, abychom se dívali, jak platíte maximální stropové zafixované ceny, zatímco ty tržní vesele klesají, nabízíme vám každý měsíc vždy tu aktuálně nejlepší možnou cenu za elektřinu i plyn. Ani v říjnu tomu není jinak. Za elektřinu u nás zaplatíte 3771 Kč a za plyn 1966 Kč, ceny jsou včetně DPH. Čas na změnu může být i pro vás třeba právě teď. Zkusíte to bezDodavatele? 💚"
+        ],
+        "ad_delivery_start_time": "2023-10-11",
+        "ad_delivery_stop_time": "2023-10-31",
+        "bylines": "bezDodavatele a.s.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000159",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.044086",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.22384",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.108655",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.054662",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.0402",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.022298",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.034052",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.048769",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.106266",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.041251",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.051699",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.112031",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.064728",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.047304",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001603",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001898",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002094",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.078914",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.042336",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.213414",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.065827",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.033339",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.255488",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.26285",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.041845",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000393",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "50000",
+            "upper_bound": "59999"
+        },
+        "page_id": "2324431914442679",
+        "page_name": "bez Dodavatele",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "4500",
+            "upper_bound": "4999"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "25",
+            "60"
+        ],
+        "eu_total_reach": 31620,
+        "beneficiary_payers": [
+            {
+                "payer": "bez Dodavatele",
+                "beneficiary": "bez Dodavatele",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 6523,
+                        "female": 1294,
+                        "unknown": 49
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 8034,
+                        "female": 1279,
+                        "unknown": 58
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 7809,
+                        "female": 2412,
+                        "unknown": 64
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 2012,
+                        "female": 1019,
+                        "unknown": 12
+                    }
+                ]
+            }
+        ],
+        "_id": "872225054250208"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=672478868026963&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-06-12",
+        "ad_creative_bodies": [
+            "S produktem Naše energie na měsíc se nemusíte jen dívat na to, jak reálné ceny energií klesají, zatímco vy musíte platit zafixovaný maximální strop. 📉 Každý měsíc vám totiž nabídneme aktuální cenu. Ta v červnu na strop nedosáhne ani z půlky. Zafixovali jsme pro vás cenu elektřiny na 2 993 Kč za MWh, což je o 51 % nižší částka, než státem zastropované maximum a zemní plyn za 1 383 kč za MWh, což je dokonce nižší částka o 55 %. To už je úspora, pro kterou se vyplatí být bezDodavatele, co říkáte? 💚 \n\n#bezdodavatele #zelenaenergie #energienamesic"
+        ],
+        "ad_creative_link_captions": [
+            "bezdodavatele.cz"
+        ],
+        "ad_creative_link_descriptions": [
+            "Zelená energie za velkoobchodních podmínek pro nás všechny. Bez prostředníků, bez závazků, bez chytáků, bez byrokracie... bez dodavatele."
+        ],
+        "ad_creative_link_titles": [
+            "Zelená energie bez prostředníků a závazků – bezDodavatele"
+        ],
+        "ad_delivery_start_time": "2023-06-12",
+        "ad_delivery_stop_time": "2023-06-26",
+        "bylines": "bezDodavatele a.s.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000523",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.041564",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.20782",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.118319",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.051755",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.040702",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.024076",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.037808",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.047352",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.108344",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.039501",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.052709",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.112254",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.067642",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.049631",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.0013",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001053",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001176",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.052786",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.02743",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.023034",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.241548",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.291981",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.27195",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.065418",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000341",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.021981",
+                "age": "55-64",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "50000",
+            "upper_bound": "59999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "2324431914442679",
+        "page_name": "bez Dodavatele",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "4500",
+            "upper_bound": "4999"
+        },
+        "_id": "672478868026963"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=635702807958929&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-05-12",
+        "ad_creative_bodies": [
+            "Na květen jsme pro vás zafixovali cenu elektřiny na 3 596 Kč za MWh (včetně DPH). 👌 To je o 41 % méně, než státem zastropované maximum 6 050 Kč, které mnoho domácností odebírajících elektřinu od tradičních dodavatelů bohužel stále platí. 📉 Zemní plyn dodáváme v květnu za 1 827 kč za MWh, což je 40% pod vládním stropem 3 025 Kč. \n\nDíky produktu Naše energie na měsíc zůstáváme flexibilní a reagujeme na příznivý vývoj trhu. Vyzkoušejte nás bez závazků a užijte si pokles cen energií i vy. Více najdete na webu. 💚\n\n#bezdodavatele #zelenaenergie #energienamesic"
+        ],
+        "ad_creative_link_captions": [
+            "bezdodavatele.cz"
+        ],
+        "ad_creative_link_descriptions": [
+            "Zelená energie za velkoobchodních podmínek pro nás všechny. Bez prostředníků, bez závazků, bez chytáků, bez byrokracie... bez dodavatele."
+        ],
+        "ad_creative_link_titles": [
+            "Zelená energie bez prostředníků a závazků – bezDodavatele"
+        ],
+        "ad_delivery_start_time": "2023-05-12",
+        "ad_delivery_stop_time": "2023-05-28",
+        "bylines": "bezDodavatele a.s.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "4.1E-5",
+                "region": "Opole Voivodeship"
+            },
+            {
+                "percentage": "0.036721",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.062541",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.117992",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.05127",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.035902",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.108443",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.04541",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.023279",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "4.1E-5",
+                "region": "Silesian Voivodeship"
+            },
+            {
+                "percentage": "0.040902",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.05332",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.120205",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.205984",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.039713",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.001926",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.056311",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001452",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002033",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.267704",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.221448",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.066999",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.025845",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.280564",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.070442",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.026758",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002448",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.033727",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000581",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "40000",
+            "upper_bound": "44999"
+        },
+        "page_id": "2324431914442679",
+        "page_name": "bez Dodavatele",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "4500",
+            "upper_bound": "4999"
+        },
+        "_id": "635702807958929"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1881269935571696&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-03-24",
+        "ad_creative_bodies": [
+            "V dnešní nejisté době, kdy je situace na trhu velmi turbulentní, je snadné odsouvat otázky udržitelnosti na vedlejší kolej. Mnohem palčivější zcela pochopitelně je, z čeho zaplatíte drahé energie. S námi ale šetříte jak přírodu, tak svůj rozpočet. 🌱💰 Dodáváme vám pouze energii z obnovitelných zdrojů a s produktem Naše energie na měsíc vždy víte, na čem jste. Cenu vám dokážeme výhodně zafixovat vždy pro daný měsíc a data z posledních měsíců jasně ukazují, že s námi se na cenový strop nedostanete. Více zjistíte v biu! 💚\n\n#bezdodavatele #zelenaenergie"
+        ],
+        "ad_creative_link_captions": [
+            "bezdodavatele.cz"
+        ],
+        "ad_creative_link_descriptions": [
+            "Šetřete peníze, přírodu i svůj čas. U nás nehledejte stohy papírů a složité ceníky. Náš ceník i obchodní podmínky se vejdou na jednu stránku."
+        ],
+        "ad_creative_link_titles": [
+            "Ceník zelené elektřiny a zeleného plynu – bezDodavatele"
+        ],
+        "ad_delivery_start_time": "2023-03-24",
+        "ad_delivery_stop_time": "2023-04-02",
+        "bylines": "bezDodavatele a.s.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000662",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.051656",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.233113",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.106954",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.057285",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.040397",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.029801",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.033775",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.053311",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.102649",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.030464",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.051325",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.094371",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.069205",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.044702",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.000331",
+                "region": "Antalya Province"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.002341",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.083612",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.038796",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.004348",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.093645",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.212709",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.444147",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.036789",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.040803",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.041472",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001338",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "6000",
+            "upper_bound": "6999"
+        },
+        "page_id": "2324431914442679",
+        "page_name": "bez Dodavatele",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "300",
+            "upper_bound": "399"
+        },
+        "_id": "1881269935571696"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1619468001864630&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-03-10",
+        "ad_creative_bodies": [
+            "Náš nový produkt Naše energie na měsíc vám šetří peníze i v březnu. Zatímco vládou zastropovaná cena pro 1 MWh je u elektřiny 6050 Kč a u plynu 3025 Kč, naše cena pro daný měsíc je 4590,24 Kč/MWh za elektřinu a 2139,04 Kč/MWh za plyn. Využíváme totiž aktuálních poklesů cen na trhu flexibilně ve váš prospěch. Vy tak každý měsíc dopředu víte, kolik s námi zaplatíte. 💚 Více o vývoji cen najdete v biu. \n\n#bzedodavatele #zelenaenergie #energienamesic"
+        ],
+        "ad_creative_link_captions": [
+            "bezdodavatele.cz"
+        ],
+        "ad_creative_link_descriptions": [
+            "Šetřete peníze, přírodu i svůj čas. U nás nehledejte stohy papírů a složité ceníky. Náš ceník i obchodní podmínky se vejdou na jednu stránku."
+        ],
+        "ad_creative_link_titles": [
+            "Ceník zelené elektřiny a zeleného plynu – bezDodavatele"
+        ],
+        "ad_delivery_start_time": "2023-03-10",
+        "ad_delivery_stop_time": "2023-03-12",
+        "bylines": "bezDodavatele a.s.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.001043",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.046318",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.229667",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.111514",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.053781",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.034903",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.026671",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.033531",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.045604",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.094556",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.043903",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.058665",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.110471",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.06772",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.041653",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000277",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001605",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.015055",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.175901",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.458183",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.140809",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.04832",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.006476",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.065921",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.07367",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002325",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.011457",
+                "age": "55-64",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "20000",
+            "upper_bound": "24999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "2324431914442679",
+        "page_name": "bez Dodavatele",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "300",
+            "upper_bound": "399"
+        },
+        "_id": "1619468001864630"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=932783234512562&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-02-14",
+        "ad_creative_link_captions": [
+            "bezdodavatele.cz"
+        ],
+        "ad_creative_link_descriptions": [
+            "Zelená energie za velkoobchodních podmínek pro nás všechny. Bez prostředníků, bez závazků, bez chytáků, bez byrokracie... bez dodavatele."
+        ],
+        "ad_creative_link_titles": [
+            "Zelená energie bez prostředníků a závazků – bezDodavatele"
+        ],
+        "ad_delivery_start_time": "2023-02-14",
+        "ad_delivery_stop_time": "2023-02-17",
+        "bylines": "bezDodavatele a.s.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "4.7E-5",
+                "region": "Istanbul Province"
+            },
+            {
+                "percentage": "0.035696",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.074272",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.161764",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.062137",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.041692",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.093394",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.049011",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.028755",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.000331",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.03782",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.056046",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.113131",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.148166",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.049625",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.000142",
+                "region": "Lower Silesian Voivodeship"
+            },
+            {
+                "percentage": "0.047972",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001569",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.008273",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.018019",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.008701",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.003994",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.036989",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.04065",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.024961",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.352494",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.33205",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.097894",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.074407",
+                "age": "35-44",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "35000",
+            "upper_bound": "39999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "2324431914442679",
+        "page_name": "bez Dodavatele",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "_id": "932783234512562"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1543319042814424&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-01-10",
+        "ad_creative_bodies": [
+            "Před 2 lety to bylo 12 fotbalových hřišť, loni 392. O čem to mluvíme? Stromům o této rozloze lesa jsme spolu s vámi ušetřili práci v roce 2022. Na počet jich bylo téměř půl milionu 🌳 a předešli jsme tak vzniku 10 200 tun CO2. To nám dává jistotu, že jít cestou udržitelných zelených energií má smysl! Děkujeme, že jste v tom s námi. 💚 Tak vykročme společně pravou nohou do roku 2023 vstříc zdravé planetě. 🌍\n\n#bezdodavatele #zelenaenergie"
+        ],
+        "ad_delivery_start_time": "2023-01-10",
+        "ad_delivery_stop_time": "2023-01-27",
+        "bylines": "bezDodavatele a.s.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "4.4E-5",
+                "region": "Žilina Region"
+            },
+            {
+                "percentage": "0.083473",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.000397",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.046992",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.06881",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.106484",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.055825",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.041383",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.04739",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "4.4E-5",
+                "region": "Gomel Region"
+            },
+            {
+                "percentage": "0.037143",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.027559",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.038998",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.057901",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.128787",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.21226",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.046418",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "8.8E-5",
+                "region": "Lower Silesian Voivodeship"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000487",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.003186",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.176432",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.453801",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.01509",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.068679",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.140632",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.064784",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.049872",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.017479",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002168",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00739",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "30000",
+            "upper_bound": "34999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "2324431914442679",
+        "page_name": "bez Dodavatele",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "300",
+            "upper_bound": "399"
+        },
+        "_id": "1543319042814424"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=871896390813430&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-01-10",
+        "ad_creative_bodies": [
+            "Před 2 lety to bylo 12 fotbalových hřišť, loni 392. O čem to mluvíme? Stromům o této rozloze lesa jsme spolu s vámi ušetřili práci v roce 2022. Na počet jich bylo téměř půl milionu 🌳 a předešli jsme tak vzniku 10 200 tun CO2. To nám dává jistotu, že jít cestou udržitelných zelených energií má smysl! Děkujeme, že jste v tom s námi. 💚 Tak vykročme společně pravou nohou do roku 2023 vstříc zdravé planetě. 🌍"
+        ],
+        "ad_delivery_start_time": "2023-01-10",
+        "ad_delivery_stop_time": "2023-01-30",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.058444",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.102163",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.099008",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.071965",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.049654",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.041016",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.04695",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.05311",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.094802",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.05326",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.065129",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.101337",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.114633",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.048528",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001131",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001282",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000452",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.071105",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.071105",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.056628",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.192429",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.22244",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.182552",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.105263",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.093651",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00196",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "2324431914442679",
+        "page_name": "bez Dodavatele",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "_id": "871896390813430"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=515941767230513&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-12-06",
+        "ad_creative_bodies": [
+            "Vláda svým nařízením stanovila maximální ceny za elektřinu a zemní plyn. ✅ Zastropování se týká i spotových tarifů, proto vás maximální stanovená cena 6 050 Kč/MWh za elektřinu a 3 025 Kč/MWh za zemní plyn ochrání před výkyvy na trhu. Pokud bude situace příznivá a ceny začnou klesat, máte alespoň jistotu, že u nás automaticky zaplatíte méně. 💚\n\n#bzedodavatele #zelenaenergie"
+        ],
+        "ad_creative_link_captions": [
+            "bezdodavatele.cz"
+        ],
+        "ad_creative_link_descriptions": [
+            "Zelená energie za velkoobchodních podmínek pro nás všechny. Bez prostředníků, bez závazků, bez chytáků, bez byrokracie... bez dodavatele."
+        ],
+        "ad_creative_link_titles": [
+            "Zelená energie bez prostředníků a závazků – bezDodavatele"
+        ],
+        "ad_delivery_start_time": "2022-12-06",
+        "ad_delivery_stop_time": "2023-01-03",
+        "bylines": "bezDodavatele a.s.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000571",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.042638",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.242622",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.118458",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.050709",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.034567",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.03261",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.034323",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.048182",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.087722",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.038073",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.057802",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.106636",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.062368",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.04272",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.01416",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.003011",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.052165",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.019124",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.125326",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.137695",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.535482",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.06779",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.008545",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.034424",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00179",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000488",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "20000",
+            "upper_bound": "24999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "2324431914442679",
+        "page_name": "bez Dodavatele",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "_id": "515941767230513"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=811693403279760&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-11-11",
+        "ad_creative_bodies": [
+            "Ne z 0 na 100 (bohudík), ale z 10 na 50! O čem je řeč? 50 kw je nová hodnota limitu výkonu pro menší solární elektrárny, do které nemusíte žádat o licenci na výrobu elektřiny. ☀️ A pokud vygenerujete energie více, můžete ji nabídnout nám – koukněte na web do sekce Výkup. 💚 Při stavebních úpravách, jejichž součástí bude instalace obnovitelného zdroje energie, nebude posuzován vzhled stavby. 👍🏻 #bezdodavatele #zelenaenergie"
+        ],
+        "ad_creative_link_captions": [
+            "bezdodavatele.cz"
+        ],
+        "ad_creative_link_descriptions": [
+            "Prodávat vyrobenou elektřinu za tržní cenu? Ano, jde to. Prodejte vyrobenou elektřinu komunitě spotřebitelů za tržní ceny."
+        ],
+        "ad_creative_link_titles": [
+            "Výkup zelené elektřiny za tržní cenu – bezDodavatele"
+        ],
+        "ad_delivery_start_time": "2022-11-11",
+        "ad_delivery_stop_time": "2022-12-02",
+        "bylines": "bezDodavatele a.s.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000182",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.045046",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.172097",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.110091",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.057751",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.041884",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.026505",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.036657",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.052705",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.085471",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.043769",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.057812",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.149058",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.07228",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.048693",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.002155",
+                "age": "13-17",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.040998",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.013826",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.069248",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.128621",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.053627",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.490005",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.138197",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.015023",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.022923",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001975",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.012748",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.009995",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000539",
+                "age": "13-17",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00012",
+                "age": "13-17",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "20000",
+            "upper_bound": "24999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "2324431914442679",
+        "page_name": "bez Dodavatele",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "_id": "811693403279760"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=649754743192173&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-10-06",
+        "ad_creative_bodies": [
+            "Říjnové sluníčko nabízí nejspíš poslední šanci si před zimou nastřádat trochu energie do zásoby. ☀️🔋 To platí pro nás lidi, ale taky pro domácí fotovoltaiky. Čím více přebytků v době hojnosti vytvoříte, tím levněji můžete topit a svítit přes zimu. Prodejte nám svou elektřinu za tržní cenu a buďte součástí komunity lidí, kterým není lhostejné blaho planety ani jejich vlastní. Více u nás na webu v sekci Výkup. 💚\n\n#bezdodavatele #zelenaenergie #fotovoltaica"
+        ],
+        "ad_creative_link_captions": [
+            "bezdodavatele.cz"
+        ],
+        "ad_creative_link_descriptions": [
+            "Prodávat vyrobenou elektřinu za tržní cenu? Ano, jde to. Prodejte vyrobenou elektřinu komunitě spotřebitelů za tržní ceny."
+        ],
+        "ad_creative_link_titles": [
+            "Výkup zelené elektřiny za tržní cenu – bezDodavatele"
+        ],
+        "ad_delivery_start_time": "2022-10-06",
+        "ad_delivery_stop_time": "2022-10-30",
+        "bylines": "bezDodavatele a.s.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.04972",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.20137",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.106757",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.058958",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.04043",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.031347",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.037368",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.051017",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.076967",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.044218",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.061709",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.116566",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.076811",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.04671",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "5.2E-5",
+                "region": "Unknown"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000206",
+                "age": "13-17",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001083",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002423",
+                "age": "13-17",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00598",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.074234",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.01629",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.156253",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.151407",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.041087",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.472626",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.06279",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.013816",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000258",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001495",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "5.2E-5",
+                "age": "13-17",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "25000",
+            "upper_bound": "29999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "2324431914442679",
+        "page_name": "bez Dodavatele",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "_id": "649754743192173"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1683355658706272&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-09-21",
+        "ad_creative_bodies": [
+            "Pojďme si to pěkně shrnout. 📝Proč se vyplatí investovat do fotovoltaiky a jaké benefity vám to přináší? Nejen, že jste soběstačnější a děláte něco pro sebe i pro planetu. Pokud vygenerujete víc energie než spotřebujete, můžete navíc i vydělávat a ještě pomoci dalším domácnostem. Mrkněte k nám na web do sekce Výkup. 💚\n\n#bezdodavatele #zelenaenergie #fotovoltaica"
+        ],
+        "ad_creative_link_captions": [
+            "www.bezdodavatele.cz"
+        ],
+        "ad_delivery_start_time": "2022-09-21",
+        "ad_delivery_stop_time": "2022-09-25",
+        "bylines": "bezDodavatele a.s.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000125",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.048226",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.214143",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.104323",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.061157",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.039418",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.033046",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.039605",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.047664",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.082084",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.043853",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.056472",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.109695",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.077086",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.043103",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000435",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001678",
+                "age": "13-17",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.005282",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000373",
+                "age": "13-17",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.018828",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.144908",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.073634",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.426397",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.174051",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.018828",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.055428",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.077239",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00174",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001181",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "20000",
+            "upper_bound": "24999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "2324431914442679",
+        "page_name": "bez Dodavatele",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "_id": "1683355658706272"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=375095308169360&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-09-07",
+        "ad_creative_bodies": [
+            "Češi jsou proslulí chalupáři. 🏡 Patříte mezi ně i vy? Pak máme pro vás tip, jak ušetřit na energiích. Pokud jinak bydlíte v bytě, kam si vlastní fotovoltaiku umístit nemůžete, chalupa je ideální řešení. Přebytky, které tam vyrobíte, si pak můžete poslat k sobě domů. Samozřejmě nebudeme mezi chalupou a bytem natahovat kabely, jde to snadněji - v penězích. Elektřinu vyrobenou na chalupě si od vás rádi odkoupíme za tržní cenu a vy tak ušetříte za tu spotřebovanou v bytě. 💚 \n\n#bezdodavatele #zelenaenergie #fotovoltaica"
+        ],
+        "ad_creative_link_captions": [
+            "bezdodavatele.cz"
+        ],
+        "ad_creative_link_descriptions": [
+            "Prodávat vyrobenou elektřinu za tržní cenu? Ano, jde to. Prodejte vyrobenou elektřinu komunitě spotřebitelů za tržní ceny."
+        ],
+        "ad_creative_link_titles": [
+            "Výkup zelené elektřiny za tržní cenu – bezDodavatele"
+        ],
+        "ad_delivery_start_time": "2022-09-11",
+        "ad_delivery_stop_time": "2022-09-12",
+        "bylines": "bezDodavatele a.s.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.100849",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.040823",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.191916",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.105157",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.050364",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.033214",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.026209",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.033133",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.048915",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.077861",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.039051",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.051089",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.098394",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.061114",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.04191",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001369",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000201",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.005958",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.01236",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.057168",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000765",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.058295",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.50473",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.179838",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.125609",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.039977",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001771",
+                "age": "13-17",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.011514",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000403",
+                "age": "13-17",
+                "gender": "female"
+            },
+            {
+                "percentage": "4.0E-5",
+                "age": "13-17",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "20000",
+            "upper_bound": "24999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "2324431914442679",
+        "page_name": "bez Dodavatele",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "_id": "375095308169360"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=394576696120369&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-08-23",
+        "ad_creative_bodies": [
+            "Pořídit si vlastní fotovoltaickou elektrárnu samozřejmě něco stojí. Dívat se do budoucnosti se ale vyplácí. Ze zkušeností našich klientů víme, že návratnost investice může být při správných podmínkách kratší než 6 let. Nechte sluníčko, aby splácelo a pak už jen vydělávalo za vás. ☀️ Rádi si pak od vás vaši čistou sluneční energii odkoupíme za tržní cenu. Nepotřebujete k tomu ani licenci, ani pevné nervy na nějakou zdlouhavou byrokracii. Že je to jednoduché, se můžete přesvědčit u nás na webu v sekci Výkup. 💚\n\n#bezdodavatele #zelenaenergie #fotovoltaica"
+        ],
+        "ad_creative_link_captions": [
+            "bezdodavatele.cz"
+        ],
+        "ad_creative_link_descriptions": [
+            "Prodávat vyrobenou elektřinu za tržní cenu? Ano, jde to. Prodejte vyrobenou elektřinu komunitě spotřebitelů za tržní ceny."
+        ],
+        "ad_creative_link_titles": [
+            "Výkup zelené elektřiny za tržní cenu – bezDodavatele"
+        ],
+        "ad_delivery_start_time": "2022-08-24",
+        "ad_delivery_stop_time": "2022-08-28",
+        "bylines": "bezDodavatele a.s.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.109199",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.041246",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.193709",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.098991",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.047656",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.031929",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.0273",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.034006",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.044451",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.075786",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.037864",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.049555",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.102552",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.062552",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.043205",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000353",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000118",
+                "age": "13-17",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000765",
+                "age": "13-17",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00106",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00371",
+                "age": "13-17",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.005005",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.077195",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.071601",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.188777",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001237",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.137137",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.42678",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.052994",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.018136",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.015133",
+                "age": "55-64",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "25000",
+            "upper_bound": "29999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "2324431914442679",
+        "page_name": "bez Dodavatele",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "300",
+            "upper_bound": "399"
+        },
+        "_id": "394576696120369"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=879791332996619&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-08-10",
+        "ad_creative_bodies": [
+            "V přírodě je normální, že když je hojnost, myslí se i na horší časy a dělají se zásoby. 🐹 Pokud vlastníte fotovoltaiku, která vám v létě generuje velké přebytky, můžete nám je prodat za tržní cenu a tím nejen ušetřit, ale i vydělat. Uděláte si tak polštář pro zimní měsíce, kdy sluníčka ubývá. Podpoříte tím navíc komunitu spotřebitelů, kterým není blaho přírody lhostejné a sázejí na zelenou energii. 💚 \n\n#bezdodavatele #zelenaenergie #fotovoltaica"
+        ],
+        "ad_delivery_start_time": "2022-08-11",
+        "ad_delivery_stop_time": "2022-08-14",
+        "bylines": "bezDodavatele a.s.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.00026",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.043883",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.222357",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.115246",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.055914",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.035833",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.031635",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.040204",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.046955",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.080798",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.042974",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.057385",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.115376",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.06643",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.044748",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000477",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000174",
+                "age": "13-17",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000651",
+                "age": "13-17",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002864",
+                "age": "13-17",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001519",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.442246",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.079189",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.151697",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.157771",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.052981",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.071032",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.01458",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.017009",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001996",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.005814",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "30000",
+            "upper_bound": "34999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "2324431914442679",
+        "page_name": "bez Dodavatele",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "_id": "879791332996619"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=445243194180792&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-08-10",
+        "ad_creative_bodies": [
+            "V přírodě je normální, že když je hojnost, myslí se i na horší časy a dělají se zásoby. 🐹 Pokud vlastníte fotovoltaiku, která vám v létě generuje velké přebytky, můžete nám je prodat za tržní cenu a tím nejen ušetřit, ale i vydělat. Uděláte si tak polštář pro zimní měsíce, kdy sluníčka ubývá. Podpoříte tím navíc komunitu spotřebitelů, kterým není blaho přírody lhostejné a sázejí na zelenou energii. 💚 \n\nJak se s nimi podělit o tu vaši se dozvíte na: https://bit.ly/slunicko_vydelava."
+        ],
+        "ad_delivery_start_time": "2022-08-10",
+        "ad_delivery_stop_time": "2022-08-11",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.039151",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.060385",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.11148",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.111812",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.063371",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.049436",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.050763",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.049104",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.088587",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.051758",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.073656",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.108494",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.100531",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.041473",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000664",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.052439",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001991",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001328",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000332",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.056422",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.20146",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.151012",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.09625",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.174909",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.131762",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.13143",
+                "age": "35-44",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "3000",
+            "upper_bound": "3999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "2324431914442679",
+        "page_name": "bez Dodavatele",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "_id": "445243194180792"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=573044970977201&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-08-04",
+        "ad_creative_bodies": [
+            "Máme radost, že se téma domácích fotovoltaik řeší i v jednom z nejposlouchanějších investičních podcastů “Ve vatě”. Hostem byl nadšenec do solárů Jan Staněk, neboli @electrodad_cz, který chce inspirovat milion lidí k přechodu na čistou energii. ⚡ Jsme hrdí, že patří mezi naše klienty! \n\nJan popisuje, jak po krachu předchozího dodavatele přešel na spotový nákup i prodej a rozhodně by tento způsob doporučil i ostatním. “Zatímco tady sedím, tak se mi vesele prodává přebytečná elektřina z fotovoltaiky za 5 Kč/kWh.” Pochvaluje si i možnost sledovat aktuální ceny přes náš online účet. Tvrdí, že při spotřebě jejich pětičlenné domácnosti, se jim investice do fotovoltaiky vrátí i s rezervou do 10 let. O tom stojí za to uvažovat, nemyslíte? 💚"
+        ],
+        "ad_delivery_start_time": "2022-08-05",
+        "ad_delivery_stop_time": "2022-08-07",
+        "bylines": "bezDodavatele a.s.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "9.1E-5",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.044474",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.218401",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.11919",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.052365",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.036218",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.028418",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.037905",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.049628",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.088309",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.039091",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.056197",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.112941",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.075902",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.04087",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000321",
+                "age": "13-17",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000689",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.004361",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.014829",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.01639",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002984",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.062024",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.43086",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.053944",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.131117",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.079837",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.189193",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.010146",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002755",
+                "age": "13-17",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000551",
+                "age": "13-17",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "25000",
+            "upper_bound": "29999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "2324431914442679",
+        "page_name": "bez Dodavatele",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "_id": "573044970977201"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=566792968249779&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-07-27",
+        "ad_creative_bodies": [
+            "Pokud bydlíte v bytovém domě nebo paneláku 🏬 a dosud jste měli pocit, že se vás téma domácích fotovoltaik netýká, máme pro vás dobrou zprávu! Od začátku příštího roku se přístup k solárním panelům pro bytová družstva a společenství vlastníků dosti zjednoduší. Nově bude stačit souhlas 70 % partají. Pro jeden vchod pak bude možné zřídit jedno odběrné místo, se zachováním individuálních elektroměrů. Chceme, aby zelená energie byla přístupná pro všechny. 💚 Tu přebytečnou nám navíc můžete prodat a nejen ušetřit, ale i vydělat. \n\n#bezdodavatele #zelenaenergie #fotovoltaica"
+        ],
+        "ad_delivery_start_time": "2022-07-28",
+        "ad_delivery_stop_time": "2022-07-31",
+        "bylines": "bezDodavatele a.s.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.04831",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.197154",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.115133",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.055402",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.03629",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.030303",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.039882",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.050566",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.0846",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.042645",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.05904",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.121074",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.073731",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.045823",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "4.6E-5",
+                "region": "Unknown"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000139",
+                "age": "13-17",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00079",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002092",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001999",
+                "age": "13-17",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.015715",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.061187",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.0179",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.079784",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.478148",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.045657",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.129208",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.164078",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00265",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000372",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000279",
+                "age": "13-17",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "30000",
+            "upper_bound": "34999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "2324431914442679",
+        "page_name": "bez Dodavatele",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "_id": "566792968249779"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1104103357200861&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-07-20",
+        "ad_creative_bodies": [
+            "Obnovitelné zdroje energie jsou zcela určitě cestou, jak jít naproti zelenější budoucnosti pro nás, naše děti a vnoučata. Proto nemáme radost, že v Česku stále vládnou uhelné (50 %) a jaderné (35 %) elektrárny. My ale víme, že to jde jinak. Naše elektřina je 100% z obnovitelných zdrojů a to navíc výhradně od českých dodavatelů. 🍃🇨🇿\nNa její výrobě se podílí voda (18 %), slunce (21 %), vítr (28 %), bioplyn (25 %) a biomasa (8 %). Věříme, že spolupráce s přírodou se vyplatí. 💦💨☀️ Více o zelené energii si můžete přečíst na webu."
+        ],
+        "ad_delivery_start_time": "2022-07-20",
+        "ad_delivery_stop_time": "2022-07-24",
+        "bylines": "bezDodavatele a.s.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.047683",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.20838",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.115059",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.052592",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.036522",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.028224",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.036697",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.050429",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.081809",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.04482",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.057675",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.122538",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.074271",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.0433",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000117",
+                "age": "13-17",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000292",
+                "age": "13-17",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001633",
+                "age": "13-17",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000233",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002917",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.014292",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.09468",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.067203",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.022868",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.123965",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.237487",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.373877",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002042",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.057636",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000758",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "20000",
+            "upper_bound": "24999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "2324431914442679",
+        "page_name": "bez Dodavatele",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "_id": "1104103357200861"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1209115226535755&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-07-20",
+        "ad_creative_bodies": [
+            "Obnovitelné zdroje energie jsou zcela určitě cestou, jak jít naproti zelenější budoucnosti pro nás, naše děti a vnoučata. Proto nemáme radost, že v Česku stále vládnou uhelné (50 %) a jaderné (35 %) elektrárny. My ale víme, že to jde jinak. Naše elektřina je 100% z obnovitelných zdrojů a to navíc výhradně od českých dodavatelů. 🍃🇨🇿\nNa její výrobě se podílí voda (18 %), slunce (21 %), vítr (28 %), bioplyn (25 %) a biomasa (8 %). Věříme, že spolupráce s přírodou se vyplatí. 💦💨☀️ \n\nVíce o zelené energii si můžete přečíst na webu: https://bit.ly/BezDodavatele_elektrina"
+        ],
+        "ad_delivery_start_time": "2022-07-20",
+        "ad_delivery_stop_time": "2022-07-21",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.041237",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.060383",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.038292",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.061856",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.057437",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.045655",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.082474",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.039764",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.10162",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.119293",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.142857",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.036819",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.100147",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.072165",
+                "region": "South Moravian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.103093",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.142857",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.182622",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.134021",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.072165",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001473",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.17673",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.141384",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.045655",
+                "age": "55-64",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "2324431914442679",
+        "page_name": "bez Dodavatele",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "_id": "1209115226535755"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=778380109857253&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-07-15",
+        "ad_creative_bodies": [
+            "To, že musíme o planetu pečovat, aby pečovala ona o nás, už není žádná novinka. 🌏 Odborníci se shodují, že současný stav je neudržitelný, a je nutné systematicky podnikat kroky k zelenějšímu lidskému počínání. Věříme, že každý z nás dělá, co umí. My například garantujeme, že veškerá námi dodaná elektřina pochází z českých obnovitelných zdrojů. 🍃 Více o tom, jak nechat energii zezelenat, najdete na našem webu."
+        ],
+        "ad_delivery_start_time": "2022-07-15",
+        "ad_delivery_stop_time": "2022-07-17",
+        "bylines": "bezDodavatele a.s.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000186",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.046164",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.219038",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.109389",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.054267",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.039251",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.02862",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.035422",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.04977",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.083445",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.041518",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.05791",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.114407",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.075751",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.044863",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000752",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000188",
+                "age": "13-17",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.016158",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.160373",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.076992",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.048623",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.455003",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.067411",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.151279",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.003269",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.015932",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001541",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002104",
+                "age": "13-17",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000263",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000113",
+                "age": "13-17",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "30000",
+            "upper_bound": "34999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "2324431914442679",
+        "page_name": "bez Dodavatele",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "_id": "778380109857253"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=440906504264206&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-07-01",
+        "ad_creative_bodies": [
+            "Zatímco jste v práci nebo venku, vaše fotovoltaika často produkuje více energie ☀️, než zrovna spotřebujete. Nemusíte ji však jen tak pouštět pánu bohu do oken. Radši nám ji prodejte za tržní cenu a my díky vám pustíme trochu zeleného tepla za okna jiných domácností. 💚 Více o tom, jak nechat střechu chytře pracovat, najdete na https://bit.ly/bD_vykup"
+        ],
+        "ad_delivery_start_time": "2022-07-01",
+        "ad_delivery_stop_time": "2022-07-03",
+        "bylines": "bezDodavatele a.s.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.051483",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.194641",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.118902",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.056345",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.041273",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.028145",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.035708",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.055967",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.084544",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.047485",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.058614",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.103398",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.077792",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.045703",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000864",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.015342",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.061963",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.181406",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.003511",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.137054",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.068176",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.46313",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.050781",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001621",
+                "age": "13-17",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.0141",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001567",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "5.4E-5",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000432",
+                "age": "13-17",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "20000",
+            "upper_bound": "24999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "2324431914442679",
+        "page_name": "bez Dodavatele",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "_id": "440906504264206"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1592314334458087&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-01-25",
+        "ad_creative_bodies": [
+            "Vítr je jedním z přírodních zdrojů, jejichž potenciál zatím bohužel nevyužíváme naplno 💨 Podle studie Akademie věd aktuálně vytváříme pouze jedno procento veškeré elektřiny ve větrných elektrárnách. Mohli bychom jím přitom pokrýt až 28 % naší spotřeby. Využijme zelenější alternativu a naší přírodu k jejímu prospěchu 🍃\n\nZdroj: https://bit.ly/3rtMAza"
+        ],
+        "ad_delivery_start_time": "2022-01-25",
+        "ad_delivery_stop_time": "2022-01-26",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.046723",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.112548",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.092272",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.073171",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.039965",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.057009",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.047605",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.051425",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.090802",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.05025",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.067587",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.10285",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.134293",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.0335",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.00177",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000295",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.098554",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.119799",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.208026",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.200354",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.054588",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.151372",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.107996",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.054883",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002361",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "3000",
+            "upper_bound": "3999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "2324431914442679",
+        "page_name": "bez Dodavatele",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "_id": "1592314334458087"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=152360600322732&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2021-07-14",
+        "ad_creative_bodies": [
+            "Klimatická změna není problémem budoucnosti, ale dneška. Stejně jako téměř dvě třetiny Čechů proto souhlasíme, že s jejím řešením není důvod otálet ☝️ Elektřinu tak odebíráme pouze z obnovitelných zdrojů a emise zemního plynu zase plně kompenzujeme ♻️ Přechodem k nám nejen snížíte svoji uhlíkovou stopu, ale získáte také energie za velkoobchodní ceny a bez závazků! 👉 www.bezdodavatele.cz\nZdroj: irozhlas.cz – Rozděleni klimatem\n\n#zelenaenergie #obnovitelnezdroje #udrzitelnost #ekologie #zivotniprostredi #ekodomacnost #priroda #recyklace #neplastuj #bezodpadu #bezobalu #plastjepast #czechzerowaste #bezplastu #zerowastecesko #bezdodavatele"
+        ],
+        "ad_delivery_start_time": "2021-07-14",
+        "ad_delivery_stop_time": "2021-07-15",
+        "currency": "CZK",
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "2324431914442679",
+        "page_name": "bez Dodavatele",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "_id": "152360600322732"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=855372435084064&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2021-07-14",
+        "ad_creative_bodies": [
+            "Klimatická změna není problémem budoucnosti, ale dneška. Stejně jako téměř dvě třetiny Čechů proto souhlasíme, že s jejím řešením není důvod otálet ☝️ Elektřinu tak odebíráme pouze z obnovitelných zdrojů a emise zemního plynu zase plně kompenzujeme ♻️ Přechodem k nám nejen snížíte svoji uhlíkovou stopu, ale získáte také energie za velkoobchodní ceny a bez závazků! 👉 www.bezdodavatele.cz\n\nZdroj: irozhlas.cz – Rozděleni klimatem"
+        ],
+        "ad_delivery_start_time": "2021-07-14",
+        "ad_delivery_stop_time": "2021-07-15",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.07377",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.192623",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.114754",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.016393",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.004098",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.045082",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.086066",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.032787",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.114754",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.036885",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.061475",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.106557",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.065574",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.04918",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.045082",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.102459",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.17623",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.204918",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.241803",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.122951",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.04918",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.057377",
+                "age": "55-64",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "500001",
+            "upper_bound": "1000000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "2324431914442679",
+        "page_name": "bez Dodavatele",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "_id": "855372435084064"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=3665573050222380&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2021-03-05",
+        "ad_creative_bodies": [
+            "V tomto ohledu jsme tak čtvrtou nejhorší zemí Evropy – například na Slovensku toto číslo činí pouze 7,6 tun a u Švédska, které na obnovitelné zdroje dlouhodobě vsází, dokonce jen 5,6 tun 🍀 I my proto obchodujeme výlučně se zelenou energií. Věříme totiž, že právě ta je klíčem k tomu, jak tuto nelichotivou statistiku změnit ☀️\n\n#zelenaenergie #obnovitelnezdroje #udrzitelnost #ekologie #zivotniprostredi #ekodomacnost #priroda #recyklace #neplastuj #bezodpadu #bezobalu #plastjepast #czechzerowaste #bezplastu #zerowastecesko #bezdodavatele"
+        ],
+        "ad_creative_link_captions": [
+            "bezdodavatele.cz"
+        ],
+        "ad_creative_link_descriptions": [
+            "PŘIDEJTE SE K NÁM Chcete s námi ušetřit a zároveň šetřit přírodu? Dejte nám na sebe kontakt a my Vám zašleme nezávaznou kalkulaci. SMLOUVA NA DOBU NEURČITOU ELEKTŘINA A PLYN ZA VELKOOBCHODNÍ CENY NULOVÉ EMISE CO2 S VAŠÍM STARÝM DODAVATELEM TO VYŘÍDÍME ZA VÁS ŽÁDNÉ SKRYT...."
+        ],
+        "ad_creative_link_titles": [
+            "Kalkulace – bezDodavatele"
+        ],
+        "ad_delivery_start_time": "2021-03-06",
+        "ad_delivery_stop_time": "2021-03-06",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.053945",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.224638",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.133655",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.023349",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.041868",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.105475",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.049919",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.05153",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.039452",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.037037",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.035427",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.091787",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.058776",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.05314",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.005641",
+                "age": "Unknown",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.022562",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.018533",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.076551",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.187752",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.452055",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.068493",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.096696",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.062047",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.006446",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001612",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001612",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "2324431914442679",
+        "page_name": "bez Dodavatele",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "_id": "3665573050222380"
+    }
+]

@@ -1,0 +1,183 @@
+[
+    {
+        "id": "1104068567440306",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1104068567440306&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-26",
+        "ad_creative_bodies": [
+            "DLE MÍRY SOLIDARITY S NEJSLABŠÍMI SE POZNÁ, JAK JE SILNÁ SPOLEČNOST 💛\n\nMinulý týden jsem se účastnil v Medlově otevření domova pro osoby se zdravotním postižením. 🏠 Věřím, že tento dům bude místem nejen péče, ale i společenství, kde každý obyvatel bude mít možnost rozvíjet své schopnosti a žít téměř plnohodnotný život jako my ostatní. \n\nOsm nových obyvatel tohoto domova se sem přestěhuje ze starého zámku, kde jeho obyvatelé neměli své soukromí a žili odděleně od dalších lidí. V Medlově bude mít každý nový obyvatel svůj vlastní pokoj. 🙂\n\nToto je od Olomoucký kraj  a Ivo Slavotínek, náměstek hejtmana OK  správný a bohulibý krok k vytvoření soudržného prostředí v našem regionu, je to projev naší společné snahy o podporu těch, kteří potřebují naši pomoc a porozumění. 👍"
+        ],
+        "ad_delivery_start_time": "2024-01-26",
+        "ad_delivery_stop_time": "2024-01-31",
+        "bylines": "Karel Smetana",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.93111",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.065698",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.003192",
+                "region": "Pardubice Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001705",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002036",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.0009",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.035141",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.042624",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.063273",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.153777",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.057731",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.1157",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.194175",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.127634",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.128108",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.076202",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000521",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000474",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "20000",
+            "upper_bound": "24999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "102500511866371",
+        "page_name": "Karel Smetana",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "600",
+            "upper_bound": "699"
+        },
+        "target_locations": [
+            {
+                "name": "Medlov (Brno-Country District), Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "30",
+            "65"
+        ],
+        "eu_total_reach": 20730,
+        "beneficiary_payers": [
+            {
+                "payer": "Karel Smetana",
+                "beneficiary": "Karel Smetana",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 2695,
+                        "female": 1609,
+                        "unknown": 19
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 4100,
+                        "female": 2705,
+                        "unknown": 43
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 3247,
+                        "female": 2443,
+                        "unknown": 36
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 1219,
+                        "female": 1336,
+                        "unknown": 10
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 742,
+                        "female": 900,
+                        "unknown": 11
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,132 @@
+[
+    {
+        "id": "1552458058933577",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1552458058933577&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-31",
+        "ad_creative_bodies": [
+            "Akci „Suchej únor” podporujeme všemi deseti, ale suchý březen a duben vidíme neradi. Teď mluvíme samozřejmě o deštích. Sucho je problém, který se nevyhýbá ani Česku. 🌏 Proto u našich bytových domů vysazujeme původní odrůdy stromů, které jsou odolnější vůči klimatickým výkyvům, a také se snažíme s dešťovou vodou dobře hospodařit. 🏡 V naší modrozelené čtvrti nepřijde ani kapka na zmar! 💧   \nNa nabídku bytů, kde uspoříte zhruba polovinu pitné vody za rok, se podívejte na bit.ly/Skanska_PredprodejModranskyCukrovar 🙏"
+        ],
+        "ad_delivery_start_time": "2024-02-01",
+        "ad_delivery_stop_time": "2024-02-02",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.837661",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.162339",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000382",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002905",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.010015",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.103738",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.348139",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.388732",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.114364",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.02905",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002676",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "303140679781157",
+        "page_name": "Skanska Residential",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "25",
+            "45"
+        ],
+        "eu_total_reach": 13086,
+        "beneficiary_payers": [
+            {
+                "payer": "Konektor Social s.r.o.",
+                "beneficiary": "Skanska Residential",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 5085,
+                        "female": 1357,
+                        "unknown": 35
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 4554,
+                        "female": 1496,
+                        "unknown": 38
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 380,
+                        "female": 131,
+                        "unknown": 5
+                    }
+                ]
+            }
+        ]
+    }
+]

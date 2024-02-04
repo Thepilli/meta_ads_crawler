@@ -1,0 +1,830 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1300424110647636&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-07",
+        "ad_creative_bodies": [
+            "Výjimečná příležitost popřát ke kulatým narozeninám.  Růžena Rősslerová byla přes 30 let členkou osadního výboru v Pardubičkách. Děkuji za vše a gratuluji k životnímu optimismu!"
+        ],
+        "ad_delivery_start_time": "2024-01-07",
+        "ad_delivery_stop_time": "2024-01-14",
+        "bylines": "Jan Procházka Starosta Městského obvodu IV Pardubice",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Pardubice Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000433",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.129606",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000433",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.034677",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.153446",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.069788",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.049415",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.105332",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.092328",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000433",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.144343",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.114434",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.045514",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.027308",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002601",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.028175",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001734",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "5001",
+            "upper_bound": "10000"
+        },
+        "impressions": {
+            "lower_bound": "4000",
+            "upper_bound": "4999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "113209521659039",
+        "page_name": "Jan Procházka Starosta Městského obvodu IV Pardubice",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "target_locations": [
+            {
+                "name": "Pardubice IV, Pardubice, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "NEIGHBORHOOD",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 2293,
+        "beneficiary_payers": [
+            {
+                "payer": "Jan Procházka Starosta Městského obvodu IV Pardubice",
+                "beneficiary": "Jan Procházka Starosta Městského obvodu IV Pardubice",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 264,
+                        "female": 213,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 299,
+                        "female": 354,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 80,
+                        "female": 114,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 105,
+                        "female": 161
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 243,
+                        "female": 333,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 63,
+                        "female": 65,
+                        "unknown": 1
+                    }
+                ]
+            }
+        ],
+        "_id": "1300424110647636"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=842761327238812&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-08-12",
+        "ad_creative_bodies": [
+            "Separační dvůr v Pardubičkách je plně využíván ve všední dny i o víkendu! V Pardubičkách musí zůstat i po výstavbě JHV obchvatu.\nSlužby města Pardubic a.s. a Statutární město Pardubice díky za pomoc."
+        ],
+        "ad_delivery_start_time": "2023-08-12",
+        "ad_delivery_stop_time": "2023-08-13",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.063218",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.022989",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.017241",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.011494",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.022989",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.017241",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.034483",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.022989",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.028736",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.643678",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.017241",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.051724",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.028736",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.017241",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.011494",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.143678",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.063218",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.224138",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.258621",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.08046",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.005747",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.022989",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.074713",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.034483",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.017241",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.022989",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.04023",
+                "age": "25-34",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "113209521659039",
+        "page_name": "Jan Procházka Starosta Městského obvodu IV Pardubice",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 174,
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 6,
+                        "female": 1
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 39,
+                        "female": 7
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 45,
+                        "female": 13
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 25,
+                        "female": 14,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 4,
+                        "female": 11
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 3,
+                        "female": 4
+                    }
+                ]
+            }
+        ],
+        "_id": "842761327238812"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=970495650797920&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-04-22",
+        "ad_creative_bodies": [
+            "1. ročník turnaje v palce o pohár Městský obvod Pardubice IV a otevření nového sportoviště je velmi úspěšně za námi!!! Parádní počasí, výborné výkony, nezapomenutelná atmosféra a hlavně fajn lidé z našeho obvodu! Děkuji všem za pomoc při organizaci a za podporu firmám Služby města Pardubic a.s., Pension Café JASOPA a Kaufland!"
+        ],
+        "ad_delivery_start_time": "2023-04-22",
+        "ad_delivery_stop_time": "2023-04-26",
+        "bylines": "Jan Porky Procházka",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.045102",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.011004",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.016894",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.012864",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.022629",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.006665",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.013019",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.019839",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.023714",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.7531",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.011934",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.030223",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.021079",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.011934",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.00156",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001092",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.023873",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.044313",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.117179",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.242784",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.146513",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.088469",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.05227",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.182712",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.021376",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.0401",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.025745",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.011858",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000156",
+                "age": "18-24",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "8000",
+            "upper_bound": "8999"
+        },
+        "page_id": "113209521659039",
+        "page_name": "Jan Procházka Starosta Městského obvodu IV Pardubice",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "_id": "970495650797920"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=601348485373689&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-04-17",
+        "ad_creative_bodies": [
+            "Akce Pardubický vinařský půlmaraton je super akce! Cíl doběhnout a přežít. Splněn!\nO 40 minut rychlejší a mohl jsem brát zlato!!😂🥇🏆🐢\nSpoustu kamarádů a známých(Jakub Rychtecký, Iva Milatová, Vojta Nekvinda, Petra Pachovská, Milan Bajer, Tomáš Vlasák, Adéla Teclová a další)"
+        ],
+        "ad_delivery_start_time": "2023-04-17",
+        "ad_delivery_stop_time": "2023-04-19",
+        "bylines": "Jan Porky Procházka",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Pardubice Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000208",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.094032",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001557",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.019097",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.213181",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.052724",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.196783",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.1096",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.130773",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000208",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.013181",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.068293",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.058433",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.031759",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.008511",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000104",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001557",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "113209521659039",
+        "page_name": "Jan Procházka Starosta Městského obvodu IV Pardubice",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "500",
+            "upper_bound": "599"
+        },
+        "_id": "601348485373689"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=603846114973422&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-04-04",
+        "ad_creative_bodies": [
+            "Jak si nejlépe vyčistit hlavu před zastupitelstvem Městský obvod Pardubice IV?  Doběhnout na Památník Zámeček Pardubice. Tady bude startovat Dobročinný běh a pochod po stopách Silver A."
+        ],
+        "ad_creative_link_captions": [
+            "Jan Procházka Starosta Městského obvodu IV Pardubice"
+        ],
+        "ad_creative_link_descriptions": [
+            "Městský obvod IV - Pardubičky, Nemošice, Drozdice, Černá za Bory, Žižín, Mnětice a Staročernsko"
+        ],
+        "ad_creative_link_titles": [
+            "Jan Procházka Starosta Městského obvodu IV Pardubice"
+        ],
+        "ad_delivery_start_time": "2023-04-04",
+        "ad_delivery_stop_time": "2023-04-07",
+        "bylines": "Jan Porky Procházka",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.04057",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.001449",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.950978",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.007003",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000242",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.088647",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.009179",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.024638",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.077778",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.073913",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.124879",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.138889",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.0657",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000483",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.131159",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.111111",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.145894",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.004589",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000242",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001208",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001449",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "4000",
+            "upper_bound": "4999"
+        },
+        "page_id": "113209521659039",
+        "page_name": "Jan Procházka Starosta Městského obvodu IV Pardubice",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "_id": "603846114973422"
+    }
+]

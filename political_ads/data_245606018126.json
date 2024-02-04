@@ -1,0 +1,150 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1540604383348197&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-12-22",
+        "ad_creative_bodies": [
+            "🎄🎁Vánoční dárek ze Zoo Plzeň\n \nZoologická a botanická zahrada města Plzně přichystala pro své malé i velké příznivce při příležitosti 60. výročí existence zoo na Lochotíně dárek na vánoční prázdniny 2023. Jedná se o speciální vstupné na období 22. prosince 2023 – 2. ledna 2024. Každý dospělý návštěvník zaplatí v tomto období vstupné 100 Kč, děti, senioři nebo držitelé průkazů ZTP vstupné 50 Kč.\nKromě stylově vyzdobené zoo s vánočními stromky na statku Lüftnerka a u Tropického pavilonu a programu 24. a 31.12. je největším lákadlem vánočně nasvícený model odrostlého slůněte z vrbového proutí (o hmotnosti 240 kg) u hlavní pokladny nebo rodina 9 lvů berberských. Z letošních mláďat poutají pozornost zejména trojčata rysa červeného, dále zmije pavoučí chované v Plzni jako v jediné zoo na světě či přivezená mladá samice irbise horského Mira.      \nPlzeňská zoo byla založena v roce 1926 a pomalu se chystá na oslavu 100. výročí. V roce 2023 chovala 8042 živočichů v 1150 druzích a k expozičnímu areálu o rozloze 21 ha byl pro rozvoj získán necelý další hektar bývalé kynologické základny PČR. V návštěvnosti se řadí dlouhodobě na 5. místo mezi tuzemskými zoo a mezi 15 prvních turistických cílů ČR. \n“Stále máme šanci zlomit návštěvnický rekord. Pevně věřím, že se nám to i díky vánoční nadílce v podobě zlevněného vstupného podaří a doufám, že tím Plzeňanům závěrem roku uděláme radost,”  říká primátor města Plzně Roman Zarzycký. \n\n🖊Martin Vobruba"
+        ],
+        "ad_creative_link_descriptions": [
+            "Aktuality, novinky, přírůstky a akce v Zoo Plzeň i Akva Teře."
+        ],
+        "ad_creative_link_titles": [
+            "Zoo Plzeň"
+        ],
+        "ad_delivery_start_time": "2023-12-22",
+        "ad_delivery_stop_time": "2023-12-25",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.047188",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.089468",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.797282",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.066063",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.11813",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.574427",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.298092",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.009351",
+                "age": "55-64",
+                "gender": "female"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "245606018126",
+        "page_name": "Zoo Plzeň",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "300",
+            "upper_bound": "399"
+        },
+        "target_locations": [
+            {
+                "name": "Písek, Jihočeský Kraj, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Plzeň Region, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "regions",
+                "excluded": false
+            },
+            {
+                "name": "Pribram, Středočeský Kraj, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Dobriv, Plzeňský Kraj, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Karlovy Vary, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Plzen, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "Women",
+        "target_ages": [
+            "25",
+            "55"
+        ],
+        "eu_total_reach": 5305,
+        "beneficiary_payers": [
+            {
+                "payer": "Zoo Plzeň",
+                "beneficiary": "Zoo Plzeň",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "female": 3010
+                    },
+                    {
+                        "age_range": "35-44",
+                        "female": 1562
+                    },
+                    {
+                        "age_range": "45-54",
+                        "female": 619
+                    },
+                    {
+                        "age_range": "55-64",
+                        "female": 49
+                    }
+                ]
+            }
+        ],
+        "_id": "1540604383348197"
+    }
+]

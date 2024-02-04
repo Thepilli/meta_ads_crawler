@@ -1,0 +1,957 @@
+[
+    {
+        "id": "1495820927649520",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1495820927649520&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-02-02",
+        "ad_creative_bodies": [
+            "Na rozdíl od ministra vnitra to říká SOCDEM na rovinu. Stát by měl vykoupit akcie společnosti ČEZ. Měl k tomu příležitost již minulý rok, kdy poskytl ČEZu půjčku ve výši 7️⃣4️⃣ miliard korun. ⚡️🏭"
+        ],
+        "ad_delivery_start_time": "2024-02-02",
+        "bylines": "Sociální demokracie",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Olomouc Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.002374",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002374",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.003561",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.064688",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.013056",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.026113",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.150742",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.218398",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.063501",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.138279",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.160237",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.135312",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.007122",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.013056",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001187",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "2000",
+            "upper_bound": "2999"
+        },
+        "page_id": "252673128998993",
+        "page_name": "Daniela Ostrá • Sociální demokracie",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "300",
+            "upper_bound": "399"
+        },
+        "target_locations": [
+            {
+                "name": "Prerov, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Prostejov, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Olomouc, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Mohelnice, Olomoucký Kraj, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Sumperk, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Jeseník, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 1668,
+        "beneficiary_payers": [
+            {
+                "payer": "Daniela Ostrá • Sociální demokracie",
+                "beneficiary": "Daniela Ostrá • Sociální demokracie",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 22,
+                        "female": 6
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 44,
+                        "female": 12
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 107,
+                        "female": 22,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 228,
+                        "female": 109
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 270,
+                        "female": 233,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 254,
+                        "female": 368,
+                        "unknown": 4
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "786546519951681",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=786546519951681&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-29",
+        "ad_creative_bodies": [
+            "Energošmejdi loni nejvíc zneužívali nejasností lidí kolem zastropování cen plynu a elektřiny. Od lidí mámili podpis nebo souhlas s tím, že bez uzavření dlouhodobé smlouvy budou platit částku nad cenový strop. To byl samozřejmě nesmysl. Cenové stropy na konci roku 2️⃣0️⃣2️⃣3️⃣ skončily, ale to nezabrání energošmejdům vymýšlet další pohádky. Jak se podvodníkům bránit? \n\nPozorně čtěte 📖\nKaždý dokument si pečlivě pročtěte a na nejasnosti se nebojte zeptat. Nepodepisujte nic, kde si nejste jistí na 100%. \n\nNenechte se „ukecat“ 🗣\nEnergošmejdi vás zaskočí nečekaně u dveří a chtějí, abyste podepsali smlouvu bez času na rozmyšlenou. To samo o sobě je podezřelé, a pokud je v obci zakázán podomní prodej, můžete volat policii. \n\nNedělejte změnu pro změnu 🗑\nPokud jste spokojení se stávajícím dodavatelem, není důvod se s jiným zprostředkovatelem bavit. \n\nPravidlo „jedna-jedna“ 📑\nPokud chcete dodavatele změnit, musíte ukončit smlouvu se stávajícím. Z toho mohou plynout sankce. \n\nKomunikujte písemně 🖋\nReklamace a stížnosti vůči dodavateli veďte písemně, ideálně prostřednictvím doporučeného dopisu nebo datové schránky, jejichž obsah můžete snadno prokázat."
+        ],
+        "ad_delivery_start_time": "2024-01-29",
+        "bylines": "Sociální demokracie",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Olomouc Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000539",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001977",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.035047",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.36862",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.168224",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.051222",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.149173",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.22376",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001438",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "252673128998993",
+        "page_name": "Daniela Ostrá • Sociální demokracie",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "1500",
+            "upper_bound": "1999"
+        },
+        "target_locations": [
+            {
+                "name": "Olomouc Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "50",
+            "65"
+        ],
+        "eu_total_reach": 5645,
+        "beneficiary_payers": [
+            {
+                "payer": "Daniela Ostrá • Sociální demokracie",
+                "beneficiary": "Daniela Ostrá • Sociální demokracie",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "male": 285,
+                        "female": 195,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 830,
+                        "female": 936,
+                        "unknown": 8
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 1245,
+                        "female": 2051,
+                        "unknown": 11
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1579203472890140",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1579203472890140&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-23",
+        "ad_creative_bodies": [
+            "Senioři v důchodovém věku nebudou od 1. července 2024 dostávat státní příspěvky na penzijní spoření. Týká se to i dříve sjednaných smluv. 🤝❌\n\nZatímco daň z mimořádných zisků bank a energetických firem za rok 2022 vláda kvůli retroaktivitě odmítla, u penzijního spoření to nevadí. 🤡💬\n\nSOCDEM se bohatých a mocných nebojí. Hájíme zájmy občanů, jsme pro lidskost místo sobectví. ❤"
+        ],
+        "ad_delivery_start_time": "2024-01-23",
+        "ad_delivery_stop_time": "2024-01-30",
+        "bylines": "Sociální demokracie",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000119",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.05265",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.088186",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.116116",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.048312",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.038329",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.040468",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.048372",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.062396",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.156584",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.050155",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.049441",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.086938",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.118552",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.04338",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000963",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.04105",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.179006",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.399181",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000241",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.220597",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.123029",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.034248",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001685",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "35000",
+            "upper_bound": "39999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "252673128998993",
+        "page_name": "Daniela Ostrá • Sociální demokracie",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "2000",
+            "upper_bound": "2499"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "50",
+            "65"
+        ],
+        "eu_total_reach": 16631,
+        "beneficiary_payers": [
+            {
+                "payer": "Daniela Ostrá • Sociální demokracie",
+                "beneficiary": "Daniela Ostrá • Sociální demokracie",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "male": 569,
+                        "female": 682,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 2974,
+                        "female": 6632,
+                        "unknown": 28
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 2044,
+                        "female": 3665,
+                        "unknown": 16
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1107864130564972",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1107864130564972&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-23",
+        "ad_creative_bodies": [
+            "Inflace, energetická chudoba, krize… Už před růstem cen se potýkalo s problémem vysokých cen energií skoro milion lidí. Uplynulé roky situaci nezlepšily. 😞🔌\n\nMinisterstvo práce a sociálních věcí v loňském roce zveřejnilo statistiku, která dokládá, že mezi roky 2021 a 2023 zasáhlo zdražování energií nejsilněji seniory. Inflace cen energií u nich dosáhla 7️⃣3️⃣ %, u domácností to bylo 6️⃣2️⃣ %. Nejtvrději dopadla na penzisty v nejmenších obcích. 🏡\n\nPro řadu lidí tím vznikl nárok na čerpání příspěvku na bydlení. Pobírá jej víc než čtvrt milionu domácností a další žadatelé přibývají. 📋\n\nA jak na tuto skutečnost reaguje ministr Jurečka❓ Chce zavést majetkové testování, které zatíží zaměstnance úřadů práce novou agendou. A řadě důchodců přinese další obtíže při vyřizování dávky. 👎\n\nJaké řešení už před lety navrhla SOCDEM❓ Jednoduchý systém, v němž sjednotíme příspěvek na živobytí, doplatek na bydlení a příspěvek na bydlení. Chceme, aby stát umožnil důstojný život všem, kteří na to mají nárok. To je lidskost místo sobectví. ❤️"
+        ],
+        "ad_delivery_start_time": "2024-01-23",
+        "ad_delivery_stop_time": "2024-01-30",
+        "bylines": "Sociální demokracie",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Olomouc Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000604",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.061594",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.012379",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.014795",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.142814",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.229167",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.114734",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.123188",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.021739",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000906",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.051027",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.177234",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.033816",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002114",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002114",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000604",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.011171",
+                "age": "18-24",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "8000",
+            "upper_bound": "8999"
+        },
+        "page_id": "252673128998993",
+        "page_name": "Daniela Ostrá • Sociální demokracie",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "900",
+            "upper_bound": "999"
+        },
+        "target_locations": [
+            {
+                "name": "Olomouc Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 3297,
+        "beneficiary_payers": [
+            {
+                "payer": "Daniela Ostrá • Sociální demokracie",
+                "beneficiary": "Daniela Ostrá • Sociální demokracie",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 72,
+                        "female": 37,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 380,
+                        "female": 169,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 587,
+                        "female": 759,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 473,
+                        "female": 408,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 204,
+                        "female": 49
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 112,
+                        "female": 41,
+                        "unknown": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "734945308577275",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=734945308577275&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-17",
+        "ad_creative_link_captions": [
+            "facebook.com"
+        ],
+        "ad_creative_link_titles": [
+            "Daniela Ostrá • Sociální demokracie"
+        ],
+        "ad_delivery_start_time": "2024-01-17",
+        "bylines": "Sociální demokracie",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.001149",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.054844",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.100657",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.097209",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.058292",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.038752",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.038752",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.051232",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.058949",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.136617",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.042365",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.056158",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.099672",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.127258",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.038095",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000164",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.092611",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000493",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000821",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002299",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001642",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.143186",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.062233",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.108539",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.007061",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.262069",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.139409",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.065189",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.013465",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.036782",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.023317",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.039409",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001314",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "page_id": "252673128998993",
+        "page_name": "Daniela Ostrá • Sociální demokracie",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "2500",
+            "upper_bound": "2999"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 5995,
+        "beneficiary_payers": [
+            {
+                "payer": "Daniela Ostrá • Sociální demokracie",
+                "beneficiary": "Daniela Ostrá • Sociální demokracie",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 82,
+                        "female": 43,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 564,
+                        "female": 397,
+                        "unknown": 8
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 872,
+                        "female": 1596,
+                        "unknown": 14
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 661,
+                        "female": 849,
+                        "unknown": 10
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 379,
+                        "female": 240,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 224,
+                        "female": 142,
+                        "unknown": 3
+                    }
+                ]
+            }
+        ]
+    }
+]

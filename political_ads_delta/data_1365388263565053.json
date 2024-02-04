@@ -1,0 +1,204 @@
+[
+    {
+        "id": "335005909200222",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=335005909200222&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-10-09",
+        "ad_creative_bodies": [
+            "✅ Vítejte v jedinečné prvorepublikové vile v srdci prestižní čtvrti Hanspaulka na Praze 6.\n\nTento historický skvost si nechal v roce 1928 postavit prvorepublikový senátor Dr. Krouský a vila je od té doby stále v držení jedné rodiny.\n\n⬇Pro více informací⬇\n\nhttps://nakvintusce.cz/"
+        ],
+        "ad_creative_link_captions": [
+            "fb.com"
+        ],
+        "ad_creative_link_titles": [
+            "Prvorepubliková vila na Hanspaulce"
+        ],
+        "ad_delivery_start_time": "2023-10-10",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000283",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.82424",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.175477",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000792",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.084241",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.030885",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.207385",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.044744",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.120372",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.05395",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.044645",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.150069",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000594",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.123639",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.021085",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000495",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.012275",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001287",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.003762",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001881",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.097901",
+                "age": "25-34",
+                "gender": "female"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "35000",
+            "upper_bound": "39999"
+        },
+        "page_id": "1365388263565053",
+        "page_name": "MORITZ BAKER",
+        "publisher_platforms": [
+            "facebook",
+            "instagram",
+            "audience_network",
+            "messenger"
+        ],
+        "spend": {
+            "lower_bound": "2000",
+            "upper_bound": "2499"
+        },
+        "target_locations": [
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 9822,
+        "beneficiary_payers": [
+            {
+                "payer": "Filip Veselý",
+                "beneficiary": "Filip Veselý",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "65+",
+                        "male": 312,
+                        "female": 451,
+                        "unknown": 8
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 1216,
+                        "female": 851,
+                        "unknown": 19
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 1516,
+                        "female": 989,
+                        "unknown": 13
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 213,
+                        "female": 124,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 452,
+                        "female": 545,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 2095,
+                        "female": 1249,
+                        "unknown": 38
+                    }
+                ]
+            }
+        ]
+    }
+]

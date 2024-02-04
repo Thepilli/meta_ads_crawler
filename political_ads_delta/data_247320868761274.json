@@ -1,0 +1,88 @@
+[
+    {
+        "id": "783520950279941",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=783520950279941&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-23",
+        "ad_creative_bodies": [
+            "Zima je hlavně čas plánování, a proto vám ukážeme, jak upravit terasu za domem, „opíšeme“ pár inspirativních nápadů z výstavy v anglickém Chelsea a zamyslíme se nad výběrem ovocných dřevin.",
+            "Čím voní předjarní zahrada? Kalinami, vilíny a jasmínem nahokvětým: stačí přijít k nim dost blízko. A jestli tahle slibná vůně zrovna na vaší zahradě chybí, je čas najít v ní místo pro některý z keřů, které ji vydávají."
+        ],
+        "ad_creative_link_captions": [
+            "burdastore.cz"
+        ],
+        "ad_creative_link_titles": [
+            "Lednová Naše krásná zahrada na vás čeká na stáncích!",
+            "Připravte se na sezonu s Naší krásnou zahradou!"
+        ],
+        "ad_delivery_start_time": "2024-01-23",
+        "ad_delivery_stop_time": "2024-01-24",
+        "currency": "CZK",
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "247320868761274",
+        "page_name": "Naše krásná zahrada",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "25",
+            "65"
+        ],
+        "eu_total_reach": 34,
+        "beneficiary_payers": [
+            {
+                "payer": "Burda International CZ",
+                "beneficiary": "Burda International CZ",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "female": 2
+                    },
+                    {
+                        "age_range": "35-44",
+                        "female": 5
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 1,
+                        "female": 7
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 5,
+                        "female": 8
+                    },
+                    {
+                        "age_range": "65+",
+                        "female": 6
+                    }
+                ]
+            }
+        ]
+    }
+]

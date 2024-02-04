@@ -1,0 +1,889 @@
+[
+    {
+        "id": "898426135142869",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=898426135142869&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-25",
+        "ad_creative_bodies": [
+            "Zahraniční cesty Petr Fiala se vyplácí! \n\nNašim firmám pomáhají pronikat na nové trhy! 👍"
+        ],
+        "ad_delivery_start_time": "2024-01-25",
+        "ad_delivery_stop_time": "2024-01-31",
+        "bylines": "Občanská demokratická strana",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000365",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.051812",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.20228",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.118167",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.060582",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.040047",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.028939",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.037708",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.049912",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.078047",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.043774",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.052543",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.098582",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.089009",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.048232",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000224",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001714",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001788",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001118",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.040533",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.020863",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.037106",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.045973",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.323076",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.235452",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.0456",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.126816",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.014977",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.104463",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000298",
+                "age": "18-24",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "35000",
+            "upper_bound": "39999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "100201752249169",
+        "page_name": "Spolu21",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "600",
+            "upper_bound": "699"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "60"
+        ],
+        "eu_total_reach": 13850,
+        "beneficiary_payers": [
+            {
+                "payer": "ODS - Občanská demokratická strana",
+                "beneficiary": "ODS - Občanská demokratická strana",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "55-64",
+                        "male": 498,
+                        "female": 280,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 1402,
+                        "female": 201,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 4336,
+                        "female": 612,
+                        "unknown": 23
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 3160,
+                        "female": 617,
+                        "unknown": 24
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 1702,
+                        "female": 544,
+                        "unknown": 15
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1567202547379472",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1567202547379472&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-25",
+        "ad_creative_bodies": [
+            "Zahraniční cesty Petr Fiala se vyplácí! \n\nNašim firmám pomáhají pronikat na nové trhy! 👍"
+        ],
+        "ad_delivery_start_time": "2024-01-25",
+        "ad_delivery_stop_time": "2024-01-31",
+        "bylines": "Občanská demokratická strana",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.051374",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.230735",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.133994",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.051525",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.037554",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.018927",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.035602",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.047919",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.084723",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.04161",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.047018",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.101998",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.072856",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.044164",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001493",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.07017",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.090773",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.182144",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.199164",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.210361",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.110481",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001045",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.047178",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.026724",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.048074",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002389",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.010003",
+                "age": "18-24",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "20000",
+            "upper_bound": "24999"
+        },
+        "page_id": "100201752249169",
+        "page_name": "Spolu21",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "2000",
+            "upper_bound": "2499"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "60"
+        ],
+        "eu_total_reach": 6565,
+        "beneficiary_payers": [
+            {
+                "payer": "ODS - Občanská demokratická strana",
+                "beneficiary": "ODS - Občanská demokratická strana",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 740,
+                        "female": 67
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 1409,
+                        "female": 179,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 1334,
+                        "female": 322,
+                        "unknown": 10
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 1220,
+                        "female": 470,
+                        "unknown": 16
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 608,
+                        "female": 316
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1829833764109794",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1829833764109794&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-25",
+        "ad_creative_bodies": [
+            "Skvělá zpráva! 👍\n\nBenzin je nejlevnější za poslední 2 roky! 📉"
+        ],
+        "ad_delivery_start_time": "2024-01-25",
+        "ad_delivery_stop_time": "2024-01-31",
+        "bylines": "Občanská demokratická strana",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.053837",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.183261",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.116677",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.062127",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.041715",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.031375",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.04323",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.053213",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.082806",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.048489",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.053035",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.100187",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.086193",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.043587",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.000267",
+                "region": "Unknown"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000451",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001353",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.008206",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001443",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.242402",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.063757",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.078366",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.034719",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.030481",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.177383",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.305708",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.029128",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.024348",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001804",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000451",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "35000",
+            "upper_bound": "39999"
+        },
+        "page_id": "100201752249169",
+        "page_name": "Spolu21",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "600",
+            "upper_bound": "699"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "60"
+        ],
+        "eu_total_reach": 11049,
+        "beneficiary_payers": [
+            {
+                "payer": "ODS - Občanská demokratická strana",
+                "beneficiary": "ODS - Občanská demokratická strana",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 869,
+                        "female": 91,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 3390,
+                        "female": 323,
+                        "unknown": 15
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 2688,
+                        "female": 338,
+                        "unknown": 20
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 1967,
+                        "female": 385,
+                        "unknown": 16
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 707,
+                        "female": 270,
+                        "unknown": 5
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "905700770871160",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=905700770871160&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-25",
+        "ad_creative_bodies": [
+            "Skvělá zpráva! 👍\n\nBenzin je nejlevnější za poslední 2 roky! 📉"
+        ],
+        "ad_delivery_start_time": "2024-01-25",
+        "ad_delivery_stop_time": "2024-02-01",
+        "bylines": "Občanská demokratická strana",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.053296",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.180813",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.132649",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.057837",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.040466",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.020134",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.040071",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.055073",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.093762",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.045401",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.047769",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.110541",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.073826",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.048362",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000198",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000396",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.01703",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.031683",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.211287",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.055644",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.055248",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.249307",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.155446",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.145149",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.005743",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.067525",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001584",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002772",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00099",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "15000",
+            "upper_bound": "19999"
+        },
+        "page_id": "100201752249169",
+        "page_name": "Spolu21",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "2000",
+            "upper_bound": "2499"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "60"
+        ],
+        "eu_total_reach": 5071,
+        "beneficiary_payers": [
+            {
+                "payer": "ODS - Občanská demokratická strana",
+                "beneficiary": "ODS - Občanská demokratická strana",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "55-64",
+                        "male": 733,
+                        "female": 279,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 281,
+                        "female": 29,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 785,
+                        "female": 86,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 1067,
+                        "female": 160,
+                        "unknown": 8
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 1259,
+                        "female": 341,
+                        "unknown": 14
+                    }
+                ]
+            }
+        ]
+    }
+]

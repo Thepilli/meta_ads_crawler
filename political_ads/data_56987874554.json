@@ -1,0 +1,1626 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=197988779996139&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-10-18",
+        "ad_creative_bodies": [
+            "Některé věci už nejde vrátit zpátky. Řeš své násilí včas a vyhledej pomoc. 💪🚫 Podívej se na mapu podpory na www.ZastavNasili.cz, na které najdeš všechny programy, které se prací s násilím zabývají. 🗺️ Pamatuj, že vyhledání pomoci je odvaha, ne slabost! 💪 Změna je možná! 🌟"
+        ],
+        "ad_creative_link_captions": [
+            "zastavnasili.cz"
+        ],
+        "ad_creative_link_titles": [
+            "Řeš své násilí včas!"
+        ],
+        "ad_delivery_start_time": "2023-11-14",
+        "ad_delivery_stop_time": "2023-11-29",
+        "bylines": "Liga otevřených mužů",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.528262",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.19756",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.047176",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.027576",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.133532",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.065402",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.000492",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001581",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.065741",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001792",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001728",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.039963",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.058954",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.040743",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.117802",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.159894",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001138",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.046476",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.08627",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.13146",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.097526",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.003246",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.110931",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.034398",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000358",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "70000",
+            "upper_bound": "79999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "56987874554",
+        "page_name": "Liga otevřených mužů",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "3000",
+            "upper_bound": "3499"
+        },
+        "target_locations": [
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            },
+            {
+                "name": "Plzeň Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            },
+            {
+                "name": "Brno, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Ceske Budejovice, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Jihlava, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Kladno, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "20",
+            "65"
+        ],
+        "eu_total_reach": 47453,
+        "beneficiary_payers": [
+            {
+                "payer": "DigitalAd",
+                "beneficiary": "Liga otevřených mužů",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 1933,
+                        "female": 2205,
+                        "unknown": 154
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 4093,
+                        "female": 5589,
+                        "unknown": 82
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 1632,
+                        "female": 2797,
+                        "unknown": 54
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 1896,
+                        "female": 3119,
+                        "unknown": 17
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 6237,
+                        "female": 7586,
+                        "unknown": 85
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 4627,
+                        "female": 5263,
+                        "unknown": 75
+                    }
+                ]
+            }
+        ],
+        "_id": "197988779996139"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=701330254889386&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-10-18",
+        "ad_creative_bodies": [
+            "Některé věci už nejde vrátit zpátky. Řeš své násilí včas a vyhledej pomoc. 💪🚫 Podívej se na mapu podpory na www.ZastavNasili.cz, na které najdeš všechny programy, které se prací s násilím zabývají. 🗺️ Pamatuj, že vyhledání pomoci je odvaha, ne slabost! 💪 Změna je možná! 🌟"
+        ],
+        "ad_creative_link_captions": [
+            "zastavnasili.cz"
+        ],
+        "ad_creative_link_titles": [
+            "Řeš své násilí včas!"
+        ],
+        "ad_delivery_start_time": "2023-11-01",
+        "bylines": "Liga otevřených mužů",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.533468",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.211779",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.045061",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.026047",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.122376",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.060729",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.00054",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001938",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.05301",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002729",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.03837",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.122617",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.071357",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.106227",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.048512",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.063905",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002277",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.047986",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.073653",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.136128",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.189741",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.035114",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001374",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.004479",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000583",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "80000",
+            "upper_bound": "89999"
+        },
+        "page_id": "56987874554",
+        "page_name": "Liga otevřených mužů",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "2500",
+            "upper_bound": "2999"
+        },
+        "target_locations": [
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            },
+            {
+                "name": "Plzeň Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            },
+            {
+                "name": "Brno, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Ceske Budejovice, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Jihlava, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Kladno, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "20",
+            "65"
+        ],
+        "eu_total_reach": 54181,
+        "beneficiary_payers": [
+            {
+                "payer": "DigitalAd",
+                "beneficiary": "Liga otevřených mužů",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 3396,
+                        "female": 2550,
+                        "unknown": 238
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 6516,
+                        "female": 3792,
+                        "unknown": 103
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 2578,
+                        "female": 1866,
+                        "unknown": 73
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 2817,
+                        "female": 2039,
+                        "unknown": 31
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 10083,
+                        "female": 5645,
+                        "unknown": 145
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 7234,
+                        "female": 3914,
+                        "unknown": 121
+                    }
+                ]
+            }
+        ],
+        "_id": "701330254889386"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=300798469527201&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-10-18",
+        "ad_creative_bodies": [
+            "Některé věci už nejde vrátit zpátky. Řeš své násilí včas a vyhledej pomoc. 💪🚫 Podívej se na mapu podpory na www.ZastavNasili.cz, na které najdeš všechny programy, které se prací s násilím zabývají. 🗺️ Pamatuj, že vyhledání pomoci je odvaha, ne slabost! 💪 Změna je možná! 🌟"
+        ],
+        "ad_creative_link_captions": [
+            "zastavnasili.cz"
+        ],
+        "ad_creative_link_titles": [
+            "Řeš své násilí včas!"
+        ],
+        "ad_delivery_start_time": "2023-10-18",
+        "ad_delivery_stop_time": "2023-11-01",
+        "bylines": "Liga otevřených mužů",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.526617",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.205311",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.049316",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.030278",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.126528",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.061526",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.000423",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000411",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.069823",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002432",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00152",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.120765",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.042412",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.005078",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.040463",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.076153",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001323",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.037942",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.127166",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.038139",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.123733",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.084503",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.138466",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.087167",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002503",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "70000",
+            "upper_bound": "79999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "56987874554",
+        "page_name": "Liga otevřených mužů",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "2500",
+            "upper_bound": "2999"
+        },
+        "target_locations": [
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            },
+            {
+                "name": "Plzeň Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            },
+            {
+                "name": "Brno, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Ceske Budejovice, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Jihlava, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Kladno, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "20",
+            "65"
+        ],
+        "eu_total_reach": 55285,
+        "beneficiary_payers": [
+            {
+                "payer": "DigitalAd",
+                "beneficiary": "Liga otevřených mužů",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 3905,
+                        "female": 4259,
+                        "unknown": 284
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 4726,
+                        "female": 4875,
+                        "unknown": 85
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 2122,
+                        "female": 2263,
+                        "unknown": 74
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 2133,
+                        "female": 2372,
+                        "unknown": 23
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 7112,
+                        "female": 7744,
+                        "unknown": 140
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 6920,
+                        "female": 6754,
+                        "unknown": 136
+                    }
+                ]
+            }
+        ],
+        "_id": "300798469527201"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1352334638745097&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-09-25",
+        "ad_creative_bodies": [
+            "Některé věci už nejde vrátit zpátky. Řeš své násilí včas a vyhledej pomoc. 💪🚫 Podívej se na mapu podpory na www.ZastavNasili.cz, na které najdeš všechny programy, které se prací s násilím zabývají. 🗺️ Pamatuj, že vyhledání pomoci je odvaha, ne slabost! 💪 Změna je možná! 🌟"
+        ],
+        "ad_delivery_start_time": "2023-09-25",
+        "ad_delivery_stop_time": "2023-10-09",
+        "bylines": "Liga otevřených mužů",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.496609",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.196385",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.050185",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.030365",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.15387",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.072066",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.000521",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.009013",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.097384",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.156428",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.02886",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.037663",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.020374",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.153321",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.070608",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.04548",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001271",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.180323",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.055749",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.028364",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.109429",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001693",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000316",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002769",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000955",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "150000",
+            "upper_bound": "174999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "56987874554",
+        "page_name": "Liga otevřených mužů",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "2500",
+            "upper_bound": "2999"
+        },
+        "target_locations": [
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            },
+            {
+                "name": "Plzeň Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            },
+            {
+                "name": "Brno, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Ceske Budejovice, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Jihlava, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Kladno, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "20",
+            "65"
+        ],
+        "eu_total_reach": 134117,
+        "beneficiary_payers": [
+            {
+                "payer": "DigitalAd",
+                "beneficiary": "Liga otevřených mužů",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 20792,
+                        "female": 14545,
+                        "unknown": 1198
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 12944,
+                        "female": 6045,
+                        "unknown": 169
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 3836,
+                        "female": 2708,
+                        "unknown": 127
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 5006,
+                        "female": 3770,
+                        "unknown": 42
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 20379,
+                        "female": 7410,
+                        "unknown": 225
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 23968,
+                        "female": 9385,
+                        "unknown": 368
+                    }
+                ]
+            }
+        ],
+        "_id": "1352334638745097"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1174254453965729&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-06-21",
+        "ad_creative_bodies": [
+            "🚫🤜 NIKDO SE NENARODÍ NÁSILNÝ! 🤛🚫\n\nNásilí není naší přirozenou součástí ❗ Nejde o běžnou emoci, jako je třeba vztek, ani o zdravý způsob uspokojování potřeb. 🤷 \n\n☝ Je to NAUČENÉ CHOVÁNÍ, které sice může k naplnění potřeb být dočasně efektivní, ale v konečném důsledku způsobuje spoušť v životech všech zúčastněných. 😔 \n\n⚡💡 Změna je možná! Jelikož je násilí vždy naučené, dá se mu také odnaučit. Můžeme ho zastavit terapeutickou prací s těmi, kteří se jej dopouští! 🌟💪\nwww.ZastavNasili.cz\n#zastavnasili #zmenajemozna #pracespuvodcinasili"
+        ],
+        "ad_delivery_start_time": "2023-06-21",
+        "ad_delivery_stop_time": "2023-07-01",
+        "bylines": "Liga otevřených mužů",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.517766",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.201974",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.039951",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.026353",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.134766",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.078482",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.000708",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000239",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.152748",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001915",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.027101",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.028321",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.096439",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.068984",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.116801",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.088463",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.049969",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000871",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.207701",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.01804",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.114656",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.003999",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.021631",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.0016",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000517",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "5.0E-6",
+                "age": "13-17",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "500000",
+            "upper_bound": "599999"
+        },
+        "page_id": "56987874554",
+        "page_name": "Liga otevřených mužů",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "_id": "1174254453965729"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=579420697664809&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-06-01",
+        "ad_creative_bodies": [
+            "👉 Násilí nejsou jen facky a kopance, ale také křik, ponižování, výhružky nebo omezování svobody. 💔 Bere na sebe mnoho podob a někdy zůstává skryto i před těmi, kteří se jej dopouští.\n\n⚡ Jak se jej můžeme zbavit? Trvalé změny lze docílit terapeutickou prací s jeho původci. \n✋ Zastavme násilí dříve, než se objeví a tedy i dříve, než někomu ublíží. \n👉 Více v článku na www.ZastavNasili.cz/nejen-rany-pesti/ #zastavnasili"
+        ],
+        "ad_delivery_start_time": "2023-06-01",
+        "ad_delivery_stop_time": "2023-06-22",
+        "bylines": "Liga otevřených mužů",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.457789",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.218899",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.055315",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.03535",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.161084",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.071032",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.00053",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001815",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.111101",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.0009",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000656",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.003559",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.031765",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.143162",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.108",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.024732",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.0234",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.059011",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.07261",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.194444",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.096835",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.092393",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000286",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.033503",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001828",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "500000",
+            "upper_bound": "599999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "56987874554",
+        "page_name": "Liga otevřených mužů",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "9000",
+            "upper_bound": "9999"
+        },
+        "_id": "579420697664809"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1284490515824941&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-05-23",
+        "ad_creative_bodies": [
+            "☝️ Násilí ve vztazích lze zastavit prací s jeho původci!\n👉 Lidé, kteří se dopouštějí násilí jej často sami zažívali jako děti💔. Tím vzniká nekonečný řetězec předávaný z generace na generaci.⛓\n⚡️ Změna je ale možná! Násilí začíná i končí u toho, kdo se jej dopouští. Právě v něm je síla, se ze začarovaného kruhu vymanit.💪 \nŘešme násilí včas👉👉👉www.ZastavNasili.cz #zastavnasili"
+        ],
+        "ad_delivery_start_time": "2023-05-23",
+        "ad_delivery_stop_time": "2023-05-30",
+        "bylines": "Liga otevřených mužů",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.48448",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.169459",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.190832",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.057269",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.034723",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.062999",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.000238",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000206",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.018882",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.042269",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.022386",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.007444",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.0586",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.103952",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.059791",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.160186",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000561",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.017988",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.114331",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.172671",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.192068",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.023981",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002452",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00148",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000754",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "250000",
+            "upper_bound": "299999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "56987874554",
+        "page_name": "Liga otevřených mužů",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "4500",
+            "upper_bound": "4999"
+        },
+        "_id": "1284490515824941"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1251762252109909&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-05-16",
+        "ad_creative_bodies": [
+            "☝️ Násilí ve vztazích lze zastavit prací s jeho původci!\n👉 Lidé, kteří se dopouštějí násilí jej často sami zažívali jako děti💔. Tím vzniká nekonečný řetězec předávaný z generace na generaci.⛓\n⚡️ Změna je ale možná! Násilí začíná i končí u toho, kdo se jej dopouští. Právě v něm je síla, se ze začarovaného kruhu vymanit.💪 \nŘešme násilí včas👉👉👉www.ZastavNasili.cz #zastavnasili"
+        ],
+        "ad_delivery_start_time": "2023-05-16",
+        "ad_delivery_stop_time": "2023-05-23",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.48766",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.190918",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.055594",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.033679",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.166203",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.065581",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.000366",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000626",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.098046",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000787",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001374",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.038767",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.0263",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.024335",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.10127",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.021938",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.007257",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.053089",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.173353",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.062809",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.182614",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.1861",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.018727",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002393",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000214",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "200000",
+            "upper_bound": "249999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "56987874554",
+        "page_name": "Liga otevřených mužů",
+        "publisher_platforms": [
+            "facebook",
+            "instagram",
+            "audience_network"
+        ],
+        "spend": {
+            "lower_bound": "4000",
+            "upper_bound": "4499"
+        },
+        "_id": "1251762252109909"
+    }
+]

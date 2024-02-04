@@ -1,0 +1,299 @@
+[
+    {
+        "id": "1052017162722101",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1052017162722101&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-02-01",
+        "ad_creative_bodies": [
+            "Hej ty tam! 🧐 Únor je tady a s ním i šance ukázat, jestli máš opravdu tak silnou vůli, jak si myslíš!🌝\n\nVíte, že průměrný Čech vypije ročně 173 litrů alkoholu? To je asi 24 piv, 8 sklenic vína, a 12 panáků každý měsíc! 🍷 A víte kolik na tom v průměru utratíme? Neuvěřitelných 7 600 Kč ročně! Naše peněženka už brečí.🙃\n\nA co jsou vůbec výhody \"suchého února\"?👀\n\n👉 Více peněz v peněžence (kdo by to nechtěl?) 💰\n👉 Možnost zhubnout bez náročné diety (zázrak!) 🏋️‍♂️\n👉 Lepší spánek a probuzení (řekni sbohem kocovinám) 😴\n👉 Víc energie (možná si najdeš konečně koníčka) 🔋\n\nA pokud tě láká pivo, nealko verze jsou taky super. Nebo snad ne?😁"
+        ],
+        "ad_delivery_start_time": "2024-02-01",
+        "ad_delivery_stop_time": "2024-02-03",
+        "bylines": "Česká pirátská strana",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000677",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.023689",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.018613",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.061591",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.63181",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.076819",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.004399",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.182403",
+                "age": "25-34",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "5000",
+            "upper_bound": "5999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1386439704902726",
+        "page_name": "Piráti Zlínský kraj",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "300",
+            "upper_bound": "399"
+        },
+        "target_locations": [
+            {
+                "name": "Zlín Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "24",
+            "35"
+        ],
+        "eu_total_reach": 2909,
+        "beneficiary_payers": [
+            {
+                "payer": "Piráti Zlínský kraj",
+                "beneficiary": "Piráti Zlínský kraj",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 227,
+                        "female": 70
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 1867,
+                        "female": 539,
+                        "unknown": 13
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 182,
+                        "female": 55,
+                        "unknown": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "362014160117504",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=362014160117504&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-02-01",
+        "ad_creative_bodies": [
+            "Jaký je váš názor?🤷"
+        ],
+        "ad_delivery_start_time": "2024-02-01",
+        "bylines": "Česká pirátská strana",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001444",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000433",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000144",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.025552",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.06785",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.231197",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.032554",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.153891",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.079616",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.227082",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.036091",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.067273",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.073986",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001805",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001083",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1386439704902726",
+        "page_name": "Piráti Zlínský kraj",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "target_locations": [
+            {
+                "name": "Zlín Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "59"
+        ],
+        "eu_total_reach": 13852,
+        "beneficiary_payers": [
+            {
+                "payer": "Piráti Zlínský kraj",
+                "beneficiary": "Piráti Zlínský kraj",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 932,
+                        "female": 451,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 3203,
+                        "female": 940,
+                        "unknown": 15
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 3146,
+                        "female": 1103,
+                        "unknown": 20
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 2132,
+                        "female": 1025,
+                        "unknown": 25
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 500,
+                        "female": 354,
+                        "unknown": 2
+                    }
+                ]
+            }
+        ]
+    }
+]

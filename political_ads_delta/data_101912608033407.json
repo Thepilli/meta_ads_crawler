@@ -1,0 +1,501 @@
+[
+    {
+        "id": "288120333922120",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=288120333922120&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-24",
+        "ad_creative_bodies": [
+            "🔴 \"Hustý dvojky\" jsou prý v kurzu 😁\n\nSpolu s místopředsedou KSČM Milan Krajča se na vás budu těšit na besedě 8. února od 16.00 v Jihlavě 🔥✊ Přijďte!"
+        ],
+        "ad_delivery_start_time": "2024-01-24",
+        "bylines": "Petra Prokšanová",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000909",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.044091",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.12",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.117727",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.051364",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.053182",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.03",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.040455",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.066364",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.130909",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.049091",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.060909",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.082727",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.101364",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.050909",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000923",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.283802",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.005538",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000923",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002307",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.014767",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.213659",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.180434",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.061837",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000461",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.104292",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.038302",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.064605",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001384",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.017074",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.005999",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001384",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002307",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "3000",
+            "upper_bound": "3999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "101912608033407",
+        "page_name": "Petra Prokšanová",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 2182,
+        "beneficiary_payers": [
+            {
+                "payer": "Petra Prokšanová",
+                "beneficiary": "Petra Prokšanová",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 83,
+                        "female": 12,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 134,
+                        "female": 13,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 615,
+                        "female": 463,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 391,
+                        "female": 140,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 226,
+                        "female": 32,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 37,
+                        "female": 5,
+                        "unknown": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "2075490146151567",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=2075490146151567&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-19",
+        "ad_creative_bodies": [
+            "🔴 Je to tady!\nNatočila jsem pro vás další díl podcastu BARIKÁDA🧱\n\nTentokrát s místopředsedou KSČM Milan Krajča na velmi aktuální téma ⬇⬇⬇ o kterém se nesmí mluvit, protože jinak vám dá FB ban. \n\n🍉 Pokud vás tohle téma zajímá, určitě si to povídání poslechněte, je zajímavé. A hlavně sdílejte, protože jen tak se nám podaří alespoň částečně prolomit informační blokádu.\n\n‼ Poslechněte si nejnovější díl na YouTube 👉 https://www.youtube.com/watch?v=BWvZLXf60nM"
+        ],
+        "ad_delivery_start_time": "2024-01-19",
+        "ad_delivery_stop_time": "2024-01-24",
+        "bylines": "Petra Prokšanová",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.001852",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.047222",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.168519",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.114815",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.049074",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.037963",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.025926",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.046296",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.059259",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.116667",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.059259",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.061111",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.072222",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.098148",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.041667",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000929",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.02974",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.007435",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001859",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.003717",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000929",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000929",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.013941",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.101301",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.175651",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.061338",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.143123",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.009294",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002788",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.197026",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.076208",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.171933",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001859",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "101912608033407",
+        "page_name": "Petra Prokšanová",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 1082,
+        "beneficiary_payers": [
+            {
+                "payer": "Petra Prokšanová",
+                "beneficiary": "Petra Prokšanová",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "55-64",
+                        "male": 189,
+                        "female": 82,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 154,
+                        "female": 15,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 212,
+                        "female": 185,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 109,
+                        "female": 10,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 32,
+                        "female": 3,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 66,
+                        "female": 8,
+                        "unknown": 1
+                    }
+                ]
+            }
+        ]
+    }
+]

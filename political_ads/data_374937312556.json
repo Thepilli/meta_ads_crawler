@@ -1,0 +1,4261 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1316904519030462&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-10-10",
+        "ad_creative_bodies": [
+            "Jak čeští politici reagují na Istanbulskou úmluvu? \n\nZnáte slušného muže z politiky či svého okolí? Nominujte ho na cenu genderman! \n\nNominace -> https://forms.gle/SbJv18iZWNJVpMAM6"
+        ],
+        "ad_creative_link_captions": [
+            "www.otevrenaspolecnost.cz"
+        ],
+        "ad_delivery_start_time": "2023-10-10",
+        "ad_delivery_stop_time": "2023-10-31",
+        "bylines": "Otevřená společnost, o.p.s.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000829",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.043514",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.255284",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.102777",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.049731",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.027352",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.026109",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.036469",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.044343",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.108164",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.036884",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.055947",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.10029",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.076668",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.03564",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.025502",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.080268",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000418",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000836",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.046823",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.204013",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.346572",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.026338",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.04097",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.004181",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.08194",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.007107",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.095736",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.026338",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.012124",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000418",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000418",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "5000",
+            "upper_bound": "5999"
+        },
+        "page_id": "374937312556",
+        "page_name": "Otevřená společnost",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 2375,
+        "beneficiary_payers": [
+            {
+                "payer": "Otevřená společnost",
+                "beneficiary": "Otevřená společnost",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 98,
+                        "female": 488,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 196,
+                        "female": 229,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 112,
+                        "female": 63,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 63,
+                        "female": 17,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 29,
+                        "female": 61
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 192,
+                        "female": 829,
+                        "unknown": 10
+                    }
+                ]
+            }
+        ],
+        "_id": "1316904519030462"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=339602158592775&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-10-10",
+        "ad_creative_bodies": [
+            "GENDERMAN 2023 JE TU! 🤩\n\nDnešním dnem otevíráme nominace v rámci šestého ročníku ocenění GENDERMAN. Letos lze nominovat v rámci dvou kategorií - Vysoce postavený politik a Veřejně známá osobnost.\n\nBližší informace a nominační formulář 👉 http://www.genderman.cz"
+        ],
+        "ad_delivery_start_time": "2023-10-10",
+        "ad_delivery_stop_time": "2023-10-31",
+        "bylines": "Otevřená společnost, o.p.s.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000343",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.041838",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.25823",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.117284",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.04321",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.032236",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.020233",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.039095",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.058299",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.097737",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.03738",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.048011",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.094993",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.073731",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.03738",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000697",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.103136",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.028571",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.132404",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.036934",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.027526",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.044948",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.098955",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.163415",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002091",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.054355",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.163415",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.029268",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.003136",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.005575",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.101742",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001045",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002787",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "5000",
+            "upper_bound": "5999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "374937312556",
+        "page_name": "Otevřená společnost",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "500",
+            "upper_bound": "599"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 2942,
+        "beneficiary_payers": [
+            {
+                "payer": "Otevřená společnost",
+                "beneficiary": "Otevřená společnost",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "65+",
+                        "male": 284,
+                        "female": 106,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 469,
+                        "female": 82,
+                        "unknown": 16
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 292,
+                        "female": 84,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 380,
+                        "female": 79,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 469,
+                        "female": 156,
+                        "unknown": 8
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 296,
+                        "female": 129,
+                        "unknown": 9
+                    }
+                ]
+            }
+        ],
+        "_id": "339602158592775"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=500770252193836&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-12-29",
+        "ad_creative_bodies": [
+            "Slam poetry Tukana a Konstantina Metoděje k rovnosti žen a mužů. 🎙🎙"
+        ],
+        "ad_delivery_start_time": "2022-12-29",
+        "ad_delivery_stop_time": "2023-01-17",
+        "bylines": "Otevřená společnost, o.p.s.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.049485",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.2182",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.105115",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.049485",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.038691",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.031136",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.044088",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.051395",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.084108",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.042428",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.058951",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.100963",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.085354",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.040601",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000414",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.074114",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001656",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.003064",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002236",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.10111",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.032792",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.113117",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.083885",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000331",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.107734",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.08579",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.056227",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.092498",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.063928",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.158993",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.021447",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000662",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "374937312556",
+        "page_name": "Otevřená společnost",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "1500",
+            "upper_bound": "1999"
+        },
+        "_id": "500770252193836"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1296696281263643&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-12-29",
+        "ad_creative_bodies": [
+            "Jak je to s nižším ohodnocením žen? \n\nDalší část feministického slamu. 👇😎"
+        ],
+        "ad_creative_link_titles": [
+            "Femi-Slam poetry"
+        ],
+        "ad_delivery_start_time": "2022-12-29",
+        "ad_delivery_stop_time": "2022-12-31",
+        "bylines": "Otevřená společnost, o.p.s.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.04922",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.170768",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.109094",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.053121",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.045918",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.032263",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.042167",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.052521",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.087635",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.04937",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.060924",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.105342",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.094838",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.046819",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.00061",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.090895",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.120634",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001678",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.124905",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.080067",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.165167",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.03828",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.08083",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00122",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00122",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.110416",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.105689",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.010218",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.013573",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.054293",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000305",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "6000",
+            "upper_bound": "6999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "374937312556",
+        "page_name": "Otevřená společnost",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "900",
+            "upper_bound": "999"
+        },
+        "_id": "1296696281263643"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1509376792896529&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-12-29",
+        "ad_creative_bodies": [
+            "Přinášíme poslední část slam poetry 🎤"
+        ],
+        "ad_delivery_start_time": "2022-12-29",
+        "ad_delivery_stop_time": "2022-12-31",
+        "bylines": "Otevřená společnost, o.p.s.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.05209",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.178876",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.110339",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.052221",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.041607",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.030206",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.045014",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.054121",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.097563",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.042852",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.063163",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.098087",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.092255",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.041607",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000327",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.033551",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.147613",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.056246",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.177632",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.128908",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.116547",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.048986",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.086854",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001046",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.049117",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.111903",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.02688",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001766",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000916",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000719",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001308",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00968",
+                "age": "18-24",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "15000",
+            "upper_bound": "19999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "374937312556",
+        "page_name": "Otevřená společnost",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "1500",
+            "upper_bound": "1999"
+        },
+        "_id": "1509376792896529"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1657660334636090&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-12-29",
+        "ad_creative_bodies": [
+            "Je na čase, aby se muži začali ptát po příčinách svého zvýhodnění. 🤔\n\nPřinášíme první část duoslamu Konstantina Metoděje a Tukana. 🎤🎤"
+        ],
+        "ad_delivery_start_time": "2022-12-30",
+        "ad_delivery_stop_time": "2022-12-31",
+        "bylines": "Otevřená společnost, o.p.s.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.044322",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.258505",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.101821",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.045041",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.037374",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.037374",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.040489",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.047916",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.07403",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.038812",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.069717",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.087686",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.080019",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.036895",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.00024",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.130132",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00096",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00048",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.010804",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00024",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.111164",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.108283",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.096279",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00096",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.063625",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.080432",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.081633",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.101321",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.10012",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.098199",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.014166",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00096",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "4000",
+            "upper_bound": "4999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "374937312556",
+        "page_name": "Otevřená společnost",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "800",
+            "upper_bound": "899"
+        },
+        "_id": "1657660334636090"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=691071012587558&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-12-29",
+        "ad_creative_bodies": [
+            "Je na čase, aby se muži začali ptát po příčinách svého zvýhodnění. 🤔\n\nPřinášíme první část duoslamu Konstantina Metoděje a Tukana. 🎤🎤"
+        ],
+        "ad_delivery_start_time": "2022-12-29",
+        "ad_delivery_stop_time": "2023-01-26",
+        "bylines": "Otevřená společnost, o.p.s.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.054696",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.125462",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.109235",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.061337",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.045235",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.035054",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.044233",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.057797",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.119197",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.048681",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.05833",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.104881",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.087714",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.048149",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000188",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.212306",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00536",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.023792",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.115949",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.034575",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.054667",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.13322",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.053131",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000251",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.203404",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.047113",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.094602",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.016927",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000658",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00047",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002037",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001348",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "30000",
+            "upper_bound": "34999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "374937312556",
+        "page_name": "Otevřená společnost",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "2000",
+            "upper_bound": "2499"
+        },
+        "_id": "691071012587558"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=891357361871968&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-12-29",
+        "ad_creative_bodies": [
+            "Přinášíme poslední část slam poetry 🎤"
+        ],
+        "ad_delivery_start_time": "2022-12-30",
+        "ad_delivery_stop_time": "2022-12-31",
+        "bylines": "Otevřená společnost, o.p.s.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.045179",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.152066",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.10854",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.049036",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.039118",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.046281",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.050138",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.050689",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.098623",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.043526",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.0573",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.109091",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.112948",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.037466",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.01486",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.018712",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.085856",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.154651",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.156302",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.051183",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.084205",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.10842",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.074298",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.094662",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.051183",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.103467",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00055",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001101",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00055",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "374937312556",
+        "page_name": "Otevřená společnost",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "300",
+            "upper_bound": "399"
+        },
+        "_id": "891357361871968"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=892466651892242&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-12-29",
+        "ad_creative_bodies": [
+            "Jak je to s nižším ohodnocením žen? \n\nDalší část feministického slamu. 👇😎"
+        ],
+        "ad_delivery_start_time": "2022-12-30",
+        "ad_delivery_stop_time": "2022-12-31",
+        "bylines": "Otevřená společnost, o.p.s.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.05291",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.166005",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.119378",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.054894",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.04332",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.025794",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.039021",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.066138",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.110119",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.046296",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.04795",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.098545",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.086971",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.042659",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000999",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.109854",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.076897",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.093542",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.076897",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.014647",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.051931",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.15779",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.080559",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001664",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.075566",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.131491",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.044274",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.07723",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001997",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000666",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001332",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002663",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "3000",
+            "upper_bound": "3999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "374937312556",
+        "page_name": "Otevřená společnost",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "_id": "892466651892242"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=2977487025888662&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-12-29",
+        "ad_creative_bodies": [
+            "Slam poetry Tukana a Konstantina Metoděje o genderové rovnosti. 🎙🎙"
+        ],
+        "ad_delivery_start_time": "2022-12-30",
+        "ad_delivery_stop_time": "2022-12-31",
+        "bylines": "Otevřená společnost, o.p.s.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.058333",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.213889",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.119444",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.044444",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.030556",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.013889",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.036111",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.052778",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.097222",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.052778",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.061111",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.1",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.097222",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.022222",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.038889",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.061111",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.094444",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.058333",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.122222",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.108333",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.141667",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.091667",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.127778",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.066667",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.022222",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.063889",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002778",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "374937312556",
+        "page_name": "Otevřená společnost",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "_id": "2977487025888662"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=695312665363535&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-12-27",
+        "ad_creative_bodies": [
+            "Je na čase, aby se muži začali ptát po příčinách svého zvýhodnění. 🤔\n\nPřinášíme první část duoslamu Konstantina Metoděje a Tukana. 🎤🎤"
+        ],
+        "ad_delivery_start_time": "2022-12-27",
+        "ad_delivery_stop_time": "2022-12-30",
+        "bylines": "Otevřená společnost, o.p.s.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.050609",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.078725",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.112933",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.051078",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.047798",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.036082",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.046392",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.05717",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.147142",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.049203",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.059513",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.09044",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.126054",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.04686",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.003742",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.014032",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000935",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000468",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.006548",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001871",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001403",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000935",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.105706",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.042095",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.03695",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.121141",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.197381",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.189897",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.143124",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.132834",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000935",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "2000",
+            "upper_bound": "2999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "374937312556",
+        "page_name": "Otevřená společnost",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "_id": "695312665363535"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=817706579942836&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-12-27",
+        "ad_creative_bodies": [
+            "Slam poetry Tukana a Konstantina Metoděje o genderové rovnosti. 🎙🎙"
+        ],
+        "ad_delivery_start_time": "2022-12-29",
+        "ad_delivery_stop_time": "2022-12-30",
+        "bylines": "Otevřená společnost, o.p.s.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.056484",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.126492",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.110581",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.042959",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.050119",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.040573",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.050119",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.054097",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.128083",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.041368",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.050119",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.100239",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.105012",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.043755",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.012719",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00318",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.04531",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.0469",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.034181",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.117647",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.209062",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.008744",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.230525",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.17806",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.085851",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.005564",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.015898",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000795",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00318",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002385",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "374937312556",
+        "page_name": "Otevřená společnost",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "_id": "817706579942836"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1101453340528681&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-12-27",
+        "ad_creative_bodies": [
+            "Je na čase, aby se muži začali ptát po příčinách svého zvýhodnění. 🤔\n\nPřinášíme první část duoslamu Konstantina Metoděje a Tukana. 🎤🎤"
+        ],
+        "ad_delivery_start_time": "2022-12-29",
+        "ad_delivery_stop_time": "2022-12-30",
+        "bylines": "Otevřená společnost, o.p.s.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.054541",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.160792",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.097247",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.053769",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.042192",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.033959",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.043221",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.050682",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.087728",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.052997",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.064831",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.105223",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.114741",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.038076",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000514",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.061649",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.010275",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.012073",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.149242",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.081428",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.111996",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.105574",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.114308",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000514",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.071153",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.036219",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.111482",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.130491",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000771",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000257",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001284",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000771",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "3000",
+            "upper_bound": "3999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "374937312556",
+        "page_name": "Otevřená společnost",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "600",
+            "upper_bound": "699"
+        },
+        "_id": "1101453340528681"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=823676505402055&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-12-27",
+        "ad_creative_bodies": [
+            "Slam poetry Tukana a Konstantina Metoděje k rovnosti žen a mužů. 🎙🎙"
+        ],
+        "ad_delivery_start_time": "2022-12-27",
+        "ad_delivery_stop_time": "2023-01-26",
+        "bylines": "Otevřená společnost, o.p.s.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.052985",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.16337",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.101201",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.053515",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.041328",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.032321",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.044331",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.05899",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.100141",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.054045",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.056341",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.101907",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.100848",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.038679",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001058",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.125683",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000881",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002115",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.076503",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.05817",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.055526",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.02221",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.144544",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000881",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.031729",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.094835",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.164111",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.109995",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.100828",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.009342",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001234",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000353",
+                "age": "18-24",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "5000",
+            "upper_bound": "5999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "374937312556",
+        "page_name": "Otevřená společnost",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "700",
+            "upper_bound": "799"
+        },
+        "_id": "823676505402055"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=475822981290409&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-12-22",
+        "ad_creative_bodies": [
+            "Genderman 2022 již zná svého laureáta!"
+        ],
+        "ad_creative_link_captions": [
+            "www.otevrenaspolecnost.cz"
+        ],
+        "ad_delivery_start_time": "2022-12-23",
+        "ad_delivery_stop_time": "2022-12-23",
+        "bylines": "Otevřená společnost, o.p.s.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.048761",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.156675",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.088729",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.064748",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.038369",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.046363",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.040767",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.065548",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.107114",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.053557",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.057554",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.085532",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.113509",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.032774",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000799",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.079137",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001599",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.047962",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.084732",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.023981",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.064748",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.11191",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.061551",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002398",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.043165",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.080735",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.063949",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.159872",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.171063",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001599",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000799",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "374937312556",
+        "page_name": "Otevřená společnost",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "_id": "475822981290409"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=696561588566060&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-12-22",
+        "ad_creative_bodies": [
+            "3. MÍSTO v ceně GENDERMAN - senátor Senátor Ondřej Šimetka\n\nOndřej Šimetka je oceněn za úsilí o zlepšení českého porodnictví a odstraňování porodnického násilí. \nJako spoluorganizátor konference Porod 2022 multioborově propojil odborníky na téma podpory a významu normálního porodu, o reálných či nereálných očekáváních žen a o moderním porodnictví."
+        ],
+        "ad_delivery_start_time": "2022-12-22",
+        "ad_delivery_stop_time": "2022-12-23",
+        "bylines": "Otevřená společnost, o.p.s.",
+        "currency": "CZK",
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "374937312556",
+        "page_name": "Otevřená společnost",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "_id": "696561588566060"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=854725939190188&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-12-22",
+        "ad_creative_bodies": [
+            "2. MÍSTO v ceně GENDERMAN - ministr Ivan Bartoš\n\nIvan Bartoš je oceněn za názor, že je nutné do praxe zavést hodnoty, které zahrnuje Istanbulská úmluva. Jako politik - otec upozorňuje na potřebu slaďovat pracovní a rodinný život. Podporuje uplatnění žen v IT sektoru. \nIvan Bartoš opakovaně hovoří o tom, proč je důležité zabývat se tématem genderové nerovnosti. Tuto problematiku chápe velmi komplexně."
+        ],
+        "ad_delivery_start_time": "2022-12-22",
+        "ad_delivery_stop_time": "2023-01-11",
+        "bylines": "Otevřená společnost, o.p.s.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.046047",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.153161",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.119987",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.050008",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.035649",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.028057",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.049348",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.055125",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.122627",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.042086",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.055125",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.101502",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.102162",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.039115",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000503",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.017788",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001343",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.029535",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.154388",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.117805",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.063266",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.018292",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.107401",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001007",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.158584",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.018292",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.087934",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.063433",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.157073",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001343",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001343",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000671",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "7000",
+            "upper_bound": "7999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "374937312556",
+        "page_name": "Otevřená společnost",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "700",
+            "upper_bound": "799"
+        },
+        "_id": "854725939190188"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=5959512394115213&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-12-22",
+        "ad_creative_bodies": [
+            "1. MÍSTO v ceně GENDERMAN - senátor Václav Láska - Právo s Láskou\n\nOceňujeme Václava Lásku za aktivní prosazování ratifikace Istanbulské úmluvy. Václav Láska na půdě Senátu ČR systematicky vysvětluje problematiku genderově podmíněného násilí. V tomto duchu se věnuje i osvětě veřejnosti. Prosazuje větší zastoupení žen v politice a podporuje ženy v rámci jejich politických kampaní. \n\nK Istanbulské úmluvě senátor Václav Láska doporučuje: \n“Přečtěte si ji. Není dlouhá a je poměrně srozumitelná. Istanbulská úmluva je zcela běžný a nekonfliktní dokument, který má přispět k ochraně obětí násilí.”"
+        ],
+        "ad_delivery_start_time": "2022-12-22",
+        "ad_delivery_stop_time": "2022-12-24",
+        "bylines": "Otevřená společnost, o.p.s.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000489",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.052348",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.195695",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.114971",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.048924",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.032779",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.028865",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.042074",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.047456",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.094912",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.043053",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.060665",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.114971",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.084149",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.03865",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000982",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.053019",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000982",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000491",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.05891",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.078056",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.022091",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.097202",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.119784",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000491",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.246441",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.105056",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.104075",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.017673",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.0054",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.050074",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.038783",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000491",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "2000",
+            "upper_bound": "2999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "374937312556",
+        "page_name": "Otevřená společnost",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "_id": "5959512394115213"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=681322940247479&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-12-22",
+        "ad_creative_bodies": [
+            "Genderman roku 2022 senátor Václav Láska a superhrdinka senátorka Adéla Šípová, která nám se svými spolupracovnicemi pomohla uspořádat předávání letošních ocenění v důstojném prostředí Senátu Parlamentu ČR. Díky. \n\nVáclav Láska aktivně prosazuje ratifikaci Istanbulské úmluvy a na půdě Senátu ČR systematicky vysvětluje problematiku genderově podmíněného násilí, viz stenozáznam a videozáznam\nhttps://www.senat.cz/xqw/xervlet/pssenat/hlasovani?action=steno&O=13&IS=6949&D=11.05.2022 a https://www.senat.cz/cinnost/webtv/archiv.php?video=true&id_schuze=&zacatek=20220511014339&konec=20220511015323"
+        ],
+        "ad_delivery_start_time": "2022-12-22",
+        "ad_delivery_stop_time": "2022-12-24",
+        "bylines": "Otevřená společnost, o.p.s.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000186",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.046838",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.258107",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.113865",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.049012",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.030749",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.027954",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.035222",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.050255",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.088831",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.041061",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.04895",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.097714",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.072556",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.0387",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.00074",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.08246",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000555",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.004317",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001295",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.071358",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.044899",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001048",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.244727",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.059763",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.035093",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.075305",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.074133",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.080856",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.133033",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.055693",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.033551",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001172",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "20000",
+            "upper_bound": "24999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "374937312556",
+        "page_name": "Otevřená společnost",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "1500",
+            "upper_bound": "1999"
+        },
+        "_id": "681322940247479"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1267293997169360&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-12-22",
+        "ad_creative_bodies": [
+            "1. MÍSTO v ceně GENDERMAN - senátor Václav Láska - Právo s Láskou\n\nOceňujeme Václava Lásku za aktivní prosazování ratifikace Istanbulské úmluvy. Václav Láska na půdě Senátu ČR systematicky vysvětluje problematiku genderově podmíněného násilí. V tomto duchu se věnuje i osvětě veřejnosti. Prosazuje větší zastoupení žen v politice a podporuje ženy v rámci jejich politických kampaní. \n\nK Istanbulské úmluvě senátor Václav Láska doporučuje: \n“Přečtěte si ji. Není dlouhá a je poměrně srozumitelná. Istanbulská úmluva je zcela běžný a nekonfliktní dokument, který má přispět k ochraně obětí násilí.”"
+        ],
+        "ad_delivery_start_time": "2022-12-22",
+        "ad_delivery_stop_time": "2022-12-23",
+        "bylines": "Otevřená společnost, o.p.s.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.036797",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.207792",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.108225",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.069264",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.04329",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.025974",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.049784",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.071429",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.080087",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.056277",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.041126",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.088745",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.082251",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.038961",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.004329",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002165",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.054113",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.025974",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.034632",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.02381",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.082251",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.056277",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.054113",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.006494",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.054113",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.04329",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.151515",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.28355",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.121212",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002165",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "374937312556",
+        "page_name": "Otevřená společnost",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "_id": "1267293997169360"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1308040866715696&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-12-22",
+        "ad_creative_bodies": [
+            "2. MÍSTO v ceně GENDERMAN - ministr Ivan Bartoš\n\nIvan Bartoš je oceněn za názor, že je nutné do praxe zavést hodnoty, které zahrnuje Istanbulská úmluva. Jako politik - otec upozorňuje na potřebu slaďovat pracovní a rodinný život. Podporuje uplatnění žen v IT sektoru. \nIvan Bartoš opakovaně hovoří o tom, proč je důležité zabývat se tématem genderové nerovnosti. Tuto problematiku chápe velmi komplexně."
+        ],
+        "ad_delivery_start_time": "2022-12-22",
+        "ad_delivery_stop_time": "2023-01-17",
+        "bylines": "Otevřená společnost, o.p.s.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.043646",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.209243",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.132221",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.062901",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.020539",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.026958",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.044929",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.066752",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.073171",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.037227",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.051348",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.098845",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.08344",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.04878",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001284",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001284",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.068036",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.082157",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.03466",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.119384",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.12837",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.060334",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.112965",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.089859",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.006418",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.111682",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.051348",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.087291",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.042362",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002567",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "374937312556",
+        "page_name": "Otevřená společnost",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "_id": "1308040866715696"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1170594903558818&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-12-22",
+        "ad_creative_bodies": [
+            "3. MÍSTO v ceně GENDERMAN - senátor Senátor Ondřej Šimetka\n\nOndřej Šimetka je oceněn za úsilí o zlepšení českého porodnictví a odstraňování porodnického násilí. \nJako spoluorganizátor konference Porod 2022 multioborově propojil odborníky na téma podpory a významu normálního porodu, o reálných či nereálných očekáváních žen a o moderním porodnictví."
+        ],
+        "ad_delivery_start_time": "2022-12-22",
+        "ad_delivery_stop_time": "2022-12-22",
+        "bylines": "Otevřená společnost, o.p.s.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.045213",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.271277",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.143617",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.053191",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.013298",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.037234",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.037234",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.039894",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.079787",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.047872",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.047872",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.074468",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.066489",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.042553",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.008",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.16",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.066667",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.272",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.112",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.048",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.04",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.042667",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.037333",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.072",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.034667",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.066667",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.037333",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002667",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "374937312556",
+        "page_name": "Otevřená společnost",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "_id": "1170594903558818"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1378146572990543&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-12-22",
+        "ad_creative_bodies": [
+            "Genderman roku 2022 senátor Václav Láska a superhrdinka senátorka Adéla Šípová, která nám se svými spolupracovnicemi pomohla uspořádat předávání letošních ocenění v důstojném prostředí Senátu Parlamentu ČR. Díky. \n\nVáclav Láska aktivně prosazuje ratifikaci Istanbulské úmluvy a na půdě Senátu ČR systematicky vysvětluje problematiku genderově podmíněného násilí, viz stenozáznam a videozáznam\nhttps://www.senat.cz/xqw/xervlet/pssenat/hlasovani?action=steno&O=13&IS=6949&D=11.05.2022 a https://www.senat.cz/cinnost/webtv/archiv.php?video=true&id_schuze=&zacatek=20220511014339&konec=20220511015323"
+        ],
+        "ad_delivery_start_time": "2022-12-22",
+        "ad_delivery_stop_time": "2022-12-23",
+        "bylines": "Otevřená společnost, o.p.s.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000296",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.053223",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.232998",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.115316",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.048492",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.033412",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.029273",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.039622",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.055588",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.092253",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.042283",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.052632",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.083678",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.076286",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.044648",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000585",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.06614",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.095405",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.088089",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.064677",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.177641",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.038923",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.086626",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.068188",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001463",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.03307",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001171",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.068481",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.065262",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.004682",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000878",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.138718",
+                "age": "65+",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "3000",
+            "upper_bound": "3999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "374937312556",
+        "page_name": "Otevřená společnost",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "_id": "1378146572990543"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1158978721413181&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-12-19",
+        "ad_creative_bodies": [
+            "Genderman 2022 již zná svého laureáta!"
+        ],
+        "ad_creative_link_captions": [
+            "www.otevrenaspolecnost.cz"
+        ],
+        "ad_delivery_start_time": "2022-12-19",
+        "ad_delivery_stop_time": "2022-12-22",
+        "bylines": "Otevřená společnost, o.p.s.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.056069",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.155268",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.085952",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.057301",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.042206",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.040049",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.046519",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.052372",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.095502",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.048983",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.062539",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.109982",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.108441",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.038817",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001223",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.114032",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001223",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.167227",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.072149",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.056558",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.030877",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.092632",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.039743",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001834",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.184653",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00214",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.04494",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.029655",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.04922",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.10853",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000306",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.003057",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "3000",
+            "upper_bound": "3999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "374937312556",
+        "page_name": "Otevřená společnost",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "500",
+            "upper_bound": "599"
+        },
+        "_id": "1158978721413181"
+    }
+]

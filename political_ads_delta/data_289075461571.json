@@ -1,0 +1,189 @@
+[
+    {
+        "id": "410406388099996",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=410406388099996&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2024-01-30",
+        "ad_creative_bodies": [
+            "Do krajských voleb kandidujeme SPOLU. Máme potenciál být znovu nejúspěšnějším krajem Česka.\n\nLídrem za TOP 09 je krajský radní Václav Švenda, má bohaté zkušenosti s řízením okresního města i střední školy, což je pro krajské volby ta nejlepší možná průprava.\n\n👉🏻 „Uzavření koaliční smlouvy je přirozeným vyústěním naší fungující čtyřleté spolupráce ve Středočeském kraji. Z kraje zmítaného skandály jsme se posunuli k tomu být krajem s nejnižším rizikem korupce a nejvyšší mírou transparentnosti. Seriózní, odpovědná a akční politika je i jádrem našeho programu pro nadcházející období.\""
+        ],
+        "ad_delivery_start_time": "2024-01-31",
+        "bylines": "TOP 09",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Central Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000539",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000539",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002693",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.195477",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.140011",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.219171",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.152935",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.042003",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.081314",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.103393",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.011309",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.035541",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.010232",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001616",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002693",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000539",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "3000",
+            "upper_bound": "3999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "289075461571",
+        "page_name": "TOP 09 - Středočeský kraj",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "300",
+            "upper_bound": "399"
+        },
+        "target_locations": [
+            {
+                "name": "Central Bohemian Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            },
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": true
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 1863,
+        "beneficiary_payers": [
+            {
+                "payer": "TOP 09 - Středočeský kraj",
+                "beneficiary": "TOP 09 - Středočeský kraj",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "35-44",
+                        "male": 192,
+                        "female": 19,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 78,
+                        "female": 5
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 363,
+                        "female": 66,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 284,
+                        "female": 260,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 21,
+                        "female": 5
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 407,
+                        "female": 151,
+                        "unknown": 1
+                    }
+                ]
+            }
+        ]
+    }
+]

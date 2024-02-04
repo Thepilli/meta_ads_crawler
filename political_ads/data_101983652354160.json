@@ -1,0 +1,1323 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=871142061377254&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-11-25",
+        "ad_creative_bodies": [
+            "Abych řekl pravdu, není jednoduché napravovat to, co nám tady trio Babiš-Havlíček-Schillerová nechalo. Vím také, že ne všechny kroky, které je nutné dělat, jsou na první pohled tak populární jako populistické rozhazování minulé vlády. Její představitelé navíc naši veřejnost neustále straší, aby vše ještě více znesnadnili.\n\nSprávnost našich kroků ale potvrzuje mimo jiné nezávislá agentura Moody's. Zlepšení výhledu české ekonomiky z negativního na stabilní takovým úspěchem je a představuje jasné potvrzení správnosti našich kroků."
+        ],
+        "ad_delivery_start_time": "2023-11-25",
+        "ad_delivery_stop_time": "2023-11-30",
+        "bylines": "Starostové a nezávislí",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.050406",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.258401",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.1292",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.060834",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.043453",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.017961",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.038239",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.038239",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.072422",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.037659",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.042294",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.12051",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.04635",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.044032",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000573",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000573",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.005161",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.087156",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.021216",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.052752",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.227638",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.361239",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.068807",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.168578",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001147",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.005161",
+                "age": "18-24",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "3000",
+            "upper_bound": "3999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "101983652354160",
+        "page_name": "Jozef Síkela",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "600",
+            "upper_bound": "699"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "50"
+        ],
+        "eu_total_reach": 1708,
+        "beneficiary_payers": [
+            {
+                "payer": "Starostové a nezávislí • STAN",
+                "beneficiary": "Starostové a nezávislí • STAN",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 294,
+                        "female": 37,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 120,
+                        "female": 9,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 630,
+                        "female": 92,
+                        "unknown": 9
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 397,
+                        "female": 152,
+                        "unknown": 2
+                    }
+                ]
+            }
+        ],
+        "_id": "871142061377254"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=7091029020913876&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-07-05",
+        "ad_creative_bodies": [
+            "Té největší slabiny, kterou jsme oproti Rusko v energetické oblasti měli, jsme se dokázali zbavit. Už nejsme závislí na dovozu 🇷🇺 plynu a nemusíme se bát jeho vydírání a výhrůžek.\n\nEnergetická nezávislost je však základem naší bezpečnosti a tak v jejím posilování dál pokračujeme.\n\nTo přinese novela energetického zákona, kterou tento týden schválila vláda. Umožní sdílení vlastní vyrobené energie v rámci energetických komunit.\n\nKomunitní energetika posílí naši nezávislost, budeme díky ní také moci snížit výdaje za energie či lépe ochránit životní prostředí.\n\nKaždý bude moci být aktivním zákazníkem a elektřinu vyrobenou v jednom místě na 🇨🇿 území využívat i někde jinde. Typicky z chaty si ji posílat do bytu. Nebo ji posílat třeba svým známým a příbuzným. Míst, na která bude aktivní zákazník moci elektřinu poslat, bude moci být až 10.\n\nAž 1000 členů budou moci mít energetická společenství. Ta budou elektřinu sdílet na území až tří sousedících obcí s rozšířenou působností.\n\nOčekáváme, že se jejich členové budou společně podílet na větších projektech na výrobu energie a následně si vyrobenou elektřinu rozdělí."
+        ],
+        "ad_delivery_start_time": "2023-07-05",
+        "ad_delivery_stop_time": "2023-07-09",
+        "bylines": "Starostové a nezávislí",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.047595",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.146504",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.125351",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.056202",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.055509",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.02666",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.039753",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.058171",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.101681",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.052591",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.065247",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.106897",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.06656",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.051278",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000433",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000938",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000397",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.003176",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.01664",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.021982",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.062013",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.056959",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.44712",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.213002",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.047791",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.129548",
+                "age": "35-44",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "40000",
+            "upper_bound": "44999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "101983652354160",
+        "page_name": "Jozef Síkela",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "2500",
+            "upper_bound": "2999"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "21",
+            "45"
+        ],
+        "eu_total_reach": 27476,
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 1324,
+                        "female": 609,
+                        "unknown": 12
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 5901,
+                        "female": 1718,
+                        "unknown": 26
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 12387,
+                        "female": 3589,
+                        "unknown": 88
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 1578,
+                        "female": 461,
+                        "unknown": 11
+                    }
+                ]
+            }
+        ],
+        "_id": "7091029020913876"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1024652325190498&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-06-26",
+        "ad_creative_bodies": [
+            "Té největší slabiny, kterou jsme oproti Rusko v energetické oblasti měli, jsme se dokázali zbavit. Už nejsme závislí na dovozu 🇷🇺 plynu a nemusíme se bát jeho vydírání a výhrůžek.\n\nEnergetická nezávislost je však základem naší bezpečnosti a tak v jejím posilování dál pokračujeme.\n\nTo přinese novela energetického zákona, kterou tento týden schválila vláda. Umožní sdílení vlastní vyrobené energie v rámci energetických komunit.\n\nKomunitní energetika posílí naši nezávislost, budeme díky ní také moci snížit výdaje za energie či lépe ochránit životní prostředí.\n\nKaždý bude moci být aktivním zákazníkem a elektřinu vyrobenou v jednom místě na 🇨🇿 území využívat i někde jinde. Typicky z chaty si ji posílat do bytu. Nebo ji posílat třeba svým známým a příbuzným. Míst, na která bude aktivní zákazník moci elektřinu poslat, bude moci být až 10.\n\nAž 1000 členů budou moci mít energetická společenství. Ta budou elektřinu sdílet na území až tří sousedících obcí s rozšířenou působností.\n\nOčekáváme, že se jejich členové budou společně podílet na větších projektech na výrobu energie a následně si vyrobenou elektřinu rozdělí."
+        ],
+        "ad_delivery_start_time": "2023-06-26",
+        "ad_delivery_stop_time": "2023-07-05",
+        "bylines": "Starostové a nezávislí",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.040209",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.290332",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.101207",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.054297",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.032365",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.021323",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.035144",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.037201",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.056772",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.041161",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.058676",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.134524",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.063359",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.033431",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000115",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000306",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.009228",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.014971",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.003025",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.003484",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.054677",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.045794",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.189953",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.203814",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.2377",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.12153",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.106406",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00111",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.007888",
+                "age": "18-24",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "70000",
+            "upper_bound": "79999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "101983652354160",
+        "page_name": "Jozef Síkela",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "7000",
+            "upper_bound": "7999"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "21",
+            "55"
+        ],
+        "eu_total_reach": 25887,
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 1196,
+                        "female": 206,
+                        "unknown": 8
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 4961,
+                        "female": 1428,
+                        "unknown": 29
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 6208,
+                        "female": 2779,
+                        "unknown": 91
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 5323,
+                        "female": 3174,
+                        "unknown": 79
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 391,
+                        "female": 241,
+                        "unknown": 3
+                    }
+                ]
+            }
+        ],
+        "_id": "1024652325190498"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=957977352076968&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-06-22",
+        "ad_creative_bodies": [
+            "Ruské zneužívání energetiky jako zbraně nám v uplynulém roce ukázalo, jak důležitá je energetická nezávislost.\n\nA komunitní energetika nám zajistí právě to - každý z nás díky ní bude moci převzít svou energetickou budoucnost do svých rukou.\n\nPři správném přístupu nám umožní snižovat výdaje na energie a pomůže také našemu životnímu prostředí. Více se o jejím fungování dozvíte na našem webu - https://energiezamene.cz/komunitni-energetika"
+        ],
+        "ad_creative_link_captions": [
+            "www.energiezamene.cz"
+        ],
+        "ad_creative_link_titles": [
+            "Pomáháme vám ušetřit"
+        ],
+        "ad_delivery_start_time": "2023-06-22",
+        "ad_delivery_stop_time": "2023-07-02",
+        "bylines": "Starostové a nezávislí",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.053128",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.123728",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.118388",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.053385",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.049621",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.029837",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.041131",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.05982",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.116813",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.052413",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.060132",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.109519",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.07948",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.052603",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001664",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.019705",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.024426",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.08291",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.076435",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.360191",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.164235",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.235916",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.031035",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002799",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000551",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000135",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "150000",
+            "upper_bound": "174999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "101983652354160",
+        "page_name": "Jozef Síkela",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "9000",
+            "upper_bound": "9999"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "26",
+            "55"
+        ],
+        "eu_total_reach": 89905,
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 7376,
+                        "female": 2173,
+                        "unknown": 49
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 20988,
+                        "female": 6800,
+                        "unknown": 148
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 32044,
+                        "female": 14611,
+                        "unknown": 249
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 2761,
+                        "female": 1753,
+                        "unknown": 12
+                    }
+                ]
+            }
+        ],
+        "_id": "957977352076968"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1361357301290733&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-02-24",
+        "ad_creative_bodies": [
+            "24.2.2022 se změnil svět. Rusko vpadlo na Ukrajinu. A následovala energetická válka proti Evropě.\n\nMě od té doby provází jedno. Každý den zjišťuji, jak jsou na tom zásobníky s plynem. Loni mě velice podprůměrně naplněné zásobníky, jak nám je zanechala minulá vláda, naplňovalo nejistotou. Během jara a léta přišla s jejich rychlým plněním i naděje a na podzim hrdost, že se je podařilo na nejvyšší úroveň v historii. Dnes jsou naplněny více než ze 60 %. Skoro třikrát víc než loni.\n\nJe to skvělá zpráva. Bez vás by to nešlo. Děkuji."
+        ],
+        "ad_delivery_start_time": "2023-02-24",
+        "ad_delivery_stop_time": "2023-02-28",
+        "bylines": "Starostové a nezávislí",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.045714",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.269722",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.119813",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.04161",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.037506",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.017442",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.049704",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.040584",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.067487",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.038874",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.03876",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.141701",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.05073",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.040356",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001363",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00159",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.011813",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.143912",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.068151",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.07701",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.122558",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.26045",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.268174",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.041118",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.003748",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000114",
+                "age": "18-24",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "20000",
+            "upper_bound": "24999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "101983652354160",
+        "page_name": "Jozef Síkela",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "2000",
+            "upper_bound": "2499"
+        },
+        "_id": "1361357301290733"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=3346061218968027&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-12-19",
+        "ad_creative_bodies": [
+            "Česká republika během svého předsednictví dokázala sjednotit celou Evropu, abychom dokázali ochránit jak občany Evropské unie, tak firmy. Dnešní dohoda je posledním dílkem do skládačky, kterou jsme v posledním půlroce vytvořili. A můžeme na ni být opravdu hrdí.\n\nPomohli jsme schválit dohodu, která nás připravila na tuto zimu. Dojednali jsme opatření, která omezují dopady ruského zneužívání energetiky jako zbraně. Našli jsme shodu také balíčku veledůležitých opatření, který pomůže Evropě připravit se i na příští zimu.\n\nDohoda přinese cenový strop, který se během vyjednávání podařilo srazit z částky 275 euro na 180 euro. Zajistí strategii společných nákupů plynu, která zamezí vzájemnému přeplácení mezi jednotlivými státy Evropské unie. A umožní také rychlejší výstavbu obnovitelných zdrojů.\n\nVyjednávání byla obtížná, velmi intenzivní, ale všichni ministři zodpovědní za energetiku během nich ukázali evropskou jednotu v tom nejlepším světle a já jim za to moc děkuji. Ukazuje to i fakt, že proti dohodě nakonec hlasoval jen jeden stát."
+        ],
+        "ad_delivery_start_time": "2022-12-20",
+        "ad_delivery_stop_time": "2022-12-23",
+        "bylines": "Starostové a nezávislí",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.04857",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.260479",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.11344",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.042249",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.037924",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.022289",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.055556",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.038257",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.065868",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.040585",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.043247",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.131404",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.060546",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.039587",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000333",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001334",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002668",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.075358",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.060687",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.127709",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.034011",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.114038",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.153051",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.118039",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.005002",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.094698",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.089697",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.107036",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.014338",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002001",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "6000",
+            "upper_bound": "6999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "101983652354160",
+        "page_name": "Jozef Síkela",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "_id": "3346061218968027"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=847162426559976&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2022-12-11",
+        "ad_creative_bodies": [
+            "Ve čtvrtek jsem si k sobě pozval vedoucí představitele firem, které mají v Česku na starosti přenosovou soustavu elektřiny a přepravní soustavu plynu. Ujistili mě, že na zimu je česká energetika dobře připravena, a že nám vládní opatření a individuální úspory zajistí klidnou zimu.\nZ denních hlášení ohledně stavu zásob plynu, které dostávám, vyplývá, že tuzemské zásoby začaly v posledních dnech klesat rychleji. Za týden klesly skoro o 130 milionů kubíků. V porovnání s předešlými dvěma lety je to méně, oproti roku 2019 naopak víc.\nAčkoliv jsou naše vyhlídky optimistické, je třeba myslet na to, že každý ušetřený kubík plynu během této zimy nám pomůže v přípravě na tu další. A co je důležité - čím víc plynu bude v zásobnících na konci zimy, tím menší tlak bude na růst jeho ceny.\nChceme, aby každý mohl mít průběžný přehled o stavu zásob plynu v Česku i o vývoji spotřeby. Aktuální data proto zveřejňujeme na našem webu www.energiezamene.cz."
+        ],
+        "ad_delivery_start_time": "2022-12-11",
+        "ad_delivery_stop_time": "2022-12-17",
+        "bylines": "Starostové a nezávislí",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.025323",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.050158",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.257852",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.107865",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.042367",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.03628",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.056245",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.040906",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.071342",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.037984",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.044802",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.130022",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.059654",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.039201",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.00194",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.076158",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000485",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001455",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.005093",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.037837",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.102353",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00194",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.0878",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.047781",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.167839",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.117875",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.113024",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.142615",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.014553",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.080766",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000485",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "101983652354160",
+        "page_name": "Jozef Síkela",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "2000",
+            "upper_bound": "2499"
+        },
+        "_id": "847162426559976"
+    }
+]

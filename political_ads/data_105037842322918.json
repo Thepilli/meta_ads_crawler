@@ -1,0 +1,204 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=2335002003376230&access_token=EAALnc8im5MUBO4AZCJJdrzfR2igTbni8Kqo6mwmPiOWI3jlcpP6pnL3S5vGGfKIUpLYL3SSC4myHukWasLPHTALU4psJfwUPheUpSkIM2XJ9umXZA7ZClpYOVYOr2ot8rFE5Y0WYHhzBEBRIzA1LZCElmb1jPqzm2pewYNDj3oMmMXCNii2xIFNuZAK0hJ50NZB3ZCb2ZAI6",
+        "ad_creation_time": "2023-10-16",
+        "ad_creative_link_captions": [
+            "hbmbite.top"
+        ],
+        "ad_creative_link_descriptions": [
+            "Vítejte na našem webináři! Jsme rádi, že vám můžeme pomoci nastartovat vaši cestu k finančnímu úspěchu.Během tohoto webináře vás provedeme základy finančního plánování a poskytneme vám tipy, jak začít."
+        ],
+        "ad_creative_link_titles": [
+            "Home"
+        ],
+        "ad_delivery_start_time": "2023-10-17",
+        "ad_delivery_stop_time": "2023-10-17",
+        "currency": "VND",
+        "delivery_by_region": [
+            {
+                "percentage": "0.057245",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.10644",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.112701",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.064401",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.045617",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.042934",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.037567",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.059928",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.128801",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.050089",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.055456",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.077818",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.10644",
+                "region": "Ústí nad Labem Region"
+            },
+            {
+                "percentage": "0.054562",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.002683",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002683",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.065295",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.203936",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.218247",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.182469",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.103757",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.018784",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.072451",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.127013",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002683",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "105037842322918",
+        "page_name": "Breaking News DAVAO Region",
+        "publisher_platforms": [
+            "facebook",
+            "instagram",
+            "audience_network",
+            "messenger"
+        ],
+        "spend": {
+            "lower_bound": "350000",
+            "upper_bound": "399999"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "32",
+            "63"
+        ],
+        "eu_total_reach": 1107,
+        "beneficiary_payers": [
+            {
+                "payer": "Garant Quantum Assistant",
+                "beneficiary": "Garant Quantum Assistant",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 73,
+                        "female": 21
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 204,
+                        "female": 81,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 244,
+                        "female": 116,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 228,
+                        "female": 142,
+                        "unknown": 3
+                    }
+                ]
+            }
+        ],
+        "_id": "2335002003376230"
+    }
+]
